@@ -1,0 +1,98 @@
+;04746896523;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04746897114;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04746915426;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04746915570;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04747900310;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04748078391;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04748229482;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04748279597;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790046502;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790104757;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790132401;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790270640;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790504637;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790548017;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790577009;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790607897;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790717575;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790767610;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790864698;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04790945744;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791332658;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791349228;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791369846;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791566306;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791611522;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791643117;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791718418;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04791851498;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04794875258;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795027200;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795170462;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795194130;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795258018;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795271800;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795406966;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795484093;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795847796;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795847799;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04795973366;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04797133835;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04797171301;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04797577917;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04799113860;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04799114992;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04799404591;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04799539453;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-04-23;1;LED
+;04740411890;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;0.45;;;;;2008-04-24;1;CSK
+;04746431264;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;0.62;;;;;2008-04-24;1;CSK
+;04790607068;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;0.71;;;;;2008-04-24;1;CSK
+;04748007944;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;0.72;;;;;2008-04-24;1;CSK
+;04792870017;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;0.99;;;;;2008-04-24;1;CSK
+;04747463452;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;1.70;;;;;2008-04-24;1;CSK
+;04791570181;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;2.12;;;;;2008-04-24;1;CSK
+;04795700441;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;3.78;;;;;2008-04-24;1;CSK
+;04797582727;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;4.56;;;;;2008-04-24;1;CSK
+;04790996148;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;4.87;;;;;2008-04-24;1;CSK
+;04793448093;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;4.97;;;;;2008-04-24;1;CSK
+;04791196631;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;5.78;;;;;2008-04-24;1;CSK
+;04741631741;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;6.68;;;;;2008-04-24;1;CSK
+;04795225588;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;6.81;;;;;2008-04-24;1;CSK
+;04790096495;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;7.22;;;;;2008-04-24;1;CSK
+;04793222889;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;7.74;;;;;2008-04-24;1;CSK
+;04746431260;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;7.76;;;;;2008-04-24;1;CSK
+;04745278688;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;9.20;;;;;2008-04-24;1;CSK
+;04790890658;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;9.56;;;;;2008-04-24;1;CSK
+;04746431262;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;9.92;;;;;2008-04-24;1;CSK
+;04792878081;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;11.15;;;;;2008-04-24;1;CSK
+;04790953519;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;11.76;;;;;2008-04-24;1;CSK
+;04790106864;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;14.20;;;;;2008-04-24;1;CSK
+;04746431263;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;17.48;;;;;2008-04-24;1;CSK
+;04790142955;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;18.48;;;;;2008-04-24;1;CSK
+;04797714233;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;19.85;;;;;2008-04-24;1;CSK
+;04791176052;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;20.79;;;;;2008-04-24;1;CSK
+;04791121490;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;21.90;;;;;2008-04-24;1;CSK
+;04790690283;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;21.91;;;;;2008-04-24;1;CSK
+;04790621299;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;22.55;;;;;2008-04-24;1;CSK
+;04797030721;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;22.62;;;;;2008-04-24;1;CSK
+;04793467750;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;28.11;;;;;2008-04-24;1;CSK
+;04746628128;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;28.51;;;;;2008-04-24;1;CSK
+;04741635235;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;29.90;;;;;2008-04-24;1;CSK
+;04795195255;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;30.95;;;;;2008-04-24;1;CSK
+;04795730067;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;31.55;;;;;2008-04-24;1;CSK
+;04792670399;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;31.85;;;;;2008-04-24;1;CSK
+;04795272152;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;32.07;;;;;2008-04-24;1;CSK
+;04791176270;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;37.14;;;;;2008-04-24;1;CSK
+;04797484839;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;46.08;;;;;2008-04-24;1;CSK
+;04795118211;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;46.22;;;;;2008-04-24;1;CSK
+;04748003849;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;58.22;;;;;2008-04-24;1;CSK
+;04746431266;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;64.19;;;;;2008-04-24;1;CSK
+;04748991114;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;69.40;;;;;2008-04-24;1;CSK
+;04791120244;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;83.96;;;;;2008-04-24;1;CSK
+;04790121898;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;88.45;;;;;2008-04-24;1;CSK
+;04795936655;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;111.09;;;;;2008-04-24;1;CSK
+;04791389161;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;125.35;;;;;2008-04-24;1;CSK
+;04746431265;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;149.66;;;;;2008-04-24;1;CSK
+;04792079734;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;186.26;;;;;2008-04-24;1;CSK
+;04799091173;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;196.38;;;;;2008-04-24;1;CSK
+;04746431261;KORFAK;CSK, Justering av multi VPN, ref Erland Pettersen;Justering ihht avtale;398.00;;;;;2008-04-24;1;CSK

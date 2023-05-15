@@ -1,0 +1,3 @@
+847952900;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.06.11.03;1;beon8892
+939586319;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.06.11.03;1;beon8892
+645559212;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.06.11.03;1;beon8892

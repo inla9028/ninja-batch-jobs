@@ -1,0 +1,57 @@
+U;;04794504208;Meum;Merete;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504209;Eurofins avd. Bergen;Eurofins avd. Bergen;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504222;Arnold;Jochem;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504228;Konferansetelefon DCWH;Konferansetelefon DCWH;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504230;Urdal;Håkon;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504232;Gjorven;Synnove;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-062
+U;;04794504233;Pellerud;Paul Ricard;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504234;Brannvern;Stedfortreder;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504235;A. Kubberod;Anna;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504236;Nowicka;Joanna;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504238;Nordskog;Ellen;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-069
+U;;04794504240;Fremmesvik;Gro;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504241;Eurofins avd. Bergen;Eurofins avd. Bergen;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504242;Eurofins avd. Bergen;Eurofins avd. Bergen;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504246;Kvalvik;Rannveig;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504251;Isebakke;Marianne;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504252;Avdelingstelefon kundesenter Stavanger;Avdelingstelefon kundesenter Stavanger;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-044
+U;;04794504254;Trnka;Nermina;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504256;Aas;Eirik;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504257;Abildgaard;Hanne;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504258;Hoy;Veronica;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504259;Arnestad;Grethe;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504263;Kjellingland;Merete;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504264;Andersson;Mai Britt;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504268;Konferansetelefon Food;Konferansetelefon Food;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504270;Kristoffersen;Ada;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504274;lillethun Botnevik;Helene;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504277;Avdelingstelefon Kristiansand;Avdelingstelefon Kristiansand;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504278;Avdelingstelefon  Grovfor;Avdelingstelefon  Grovfor;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-069
+U;;04794504279;Avdelingstelefon  Agro Jord;Avdelingstelefon  Agro Jord;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-069
+U;;04794504280;Organisk;Avdelingstelefon;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-062
+U;;04794504281;Avdelingstelefon micro vann;Avdelingstelefon micro vann;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-044
+U;;04794504282;eLims support NO;eLims support NO;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504283;Rapport Miljø;Rapport Miljø;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504284;Avdelingstelefon Vann;Avdelingstelefon Vann;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504285;Avdelingstelefon veiestasjon Moss;Avdelingstelefon veiestasjon Moss;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-062
+U;;04794504286;Avdelingstelefon Mottak miljo Moss;Avdelingstelefon Mottak miljo Moss;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504287;Avdelingstelefon logistikk;Avdelingstelefon logistikk;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504288;Avdelingstelefon logistikk;Avdelingstelefon logistikk;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504289;Konferanse Food Moss;Konferanse Food Moss;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-045
+U;;04794504290;Hageengen Ringdal;Martine;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504291;Urkedal;Kristin;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504292;Willassen Schmelck;Veronica;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504293;Berger;Lisbet;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-001
+U;;04794504294;Frohaug;Berit;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504296;Avdelingstelefon metall;Avdelingstelefon metall;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-062
+U;;04794504297;Danielsen;Karin;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504298;Kleive;Ingeborg;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504299;Ellingsen;Anne Lise;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794510121;Tokerud;Jorn;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-069
+U;;04795868705;Roraas;Anne Britt;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-001
+U;;04797101125;Hauger;Lars Christen;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04797186420;Kvernstad Hansen;Kine;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04797710037;Rosen;Anita;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-045
+U;;04799021554;Skurtveit;Tonje Birgitte;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04799159288;Meidell Andenæs;Erlend;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04799412236;Sjoberg;Beate;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061

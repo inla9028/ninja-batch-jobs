@@ -1,0 +1,56 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Fri Jun 24 12:02:59 2016
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   hgu_tmp_trans.ctl
+Data File:      Batch_Add_Delete_SOC_No_Features.LCE.24.06.2016.02.txt
+  Bad File:     Batch_Add_Delete_SOC_No_Features.LCE.24.06.2016.02.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table HGU_TMP_TRANS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+SOC                                  NEXT     *   ;  O(") CHARACTER            
+ACTION                               NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+PRIORITY                             NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+
+
+Table HGU_TMP_TRANS:
+  3559 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 148608 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          3559
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Jun 24 12:02:59 2016
+Run ended on Fri Jun 24 12:03:20 2016
+
+Elapsed time was:     00:00:20.12
+CPU time was:         00:00:00.22

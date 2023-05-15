@@ -1,0 +1,10 @@
+GSM04741223430;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04741231150;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745247425;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745257213;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745262030;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745266267;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745269493;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745270824;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745274775;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk
+GSM04745279993;MPOD07;ADD;;;;HFA 17.03.2010;Endrer til ny datasoc for supertalk

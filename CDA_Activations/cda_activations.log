@@ -1,0 +1,79 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Fri Apr 1 11:16:28 2011
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   cda_activations.ctl
+Data File:      cda.tfs.2011-04-01.test.txt
+  Bad File:     cda.tfs.2011-04-01.test.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table CDA_BATCH_ACTIVATIONS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+BAN                                 FIRST     *   ;  O(") CHARACTER            
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER            
+PRICE_PLAN                           NEXT     *   ;  O(") CHARACTER            
+TB_CUG_CODE                          NEXT     *   ;  O(") CHARACTER            
+VPN_CODE                             NEXT     *   ;  O(") CHARACTER            
+CUG_CODE                             NEXT     *   ;  O(") CHARACTER            
+ADT_SOC_1                            NEXT     *   ;  O(") CHARACTER            
+ADT_SOC_2                            NEXT     *   ;  O(") CHARACTER            
+ADT_SOC_3                            NEXT     *   ;  O(") CHARACTER            
+ADT_SOC_4                            NEXT     *   ;  O(") CHARACTER            
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+PUBLISH_LEVEL                        NEXT     *   ;  O(") CHARACTER            
+USER_FIRST                           NEXT     *   ;  O(") CHARACTER            
+SURNAME                              NEXT     *   ;  O(") CHARACTER            
+BILL_INFO                            NEXT     *   ;  O(") CHARACTER            
+ROLE_IND                             NEXT     *   ;  O(") CHARACTER            
+BIRTH_DATE                           NEXT     *   ;  O(") CHARACTER            
+ADR_TYPE                             NEXT     *   ;  O(") CHARACTER            
+CITY                                 NEXT     *   ;  O(") CHARACTER            
+ZIP_CODE                             NEXT     *   ;  O(") CHARACTER            
+COUNTRY                              NEXT     *   ;  O(") CHARACTER            
+STREET_NAME                          NEXT     *   ;  O(") CHARACTER            
+HOUSE_NO                             NEXT     *   ;  O(") CHARACTER            
+HOUSE_LETTER                         NEXT     *   ;  O(") CHARACTER            
+FLOOR                                NEXT     *   ;  O(") CHARACTER            
+DOOR_NO                              NEXT     *   ;  O(") CHARACTER            
+P_O_BOX                              NEXT     *   ;  O(") CHARACTER            
+AREA_POB_NAME                        NEXT     *   ;  O(") CHARACTER            
+EMAIL                                NEXT     *   ;  O(") CHARACTER            
+CO_NAME                              NEXT     *   ;  O(") CHARACTER            
+REQUESTOR_ID                         NEXT     *   ;  O(") CHARACTER            
+
+
+Table CDA_BATCH_ACTIVATIONS:
+  3 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 255936 bytes(31 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:             3
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Apr 01 11:16:28 2011
+Run ended on Fri Apr 01 11:16:28 2011
+
+Elapsed time was:     00:00:00.21
+CPU time was:         00:00:00.02

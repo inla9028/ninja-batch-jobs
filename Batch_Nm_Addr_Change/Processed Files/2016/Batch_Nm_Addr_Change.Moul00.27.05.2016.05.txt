@@ -1,0 +1,78 @@
+L;814869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 182 Lødingen
+L;914869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 185 Doremi Elstangen
+L;124869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 187 Bergeheim
+L;224869214;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 180 Randineborg
+L;324869213;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 181 Fagertun
+L;424869212;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 176 Mortensrud
+L;524869211;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 174 Konfektfabrikken
+L;624869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 183 Hauketo
+L;724869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 172 Bekkeberget
+L;824869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 221 Søndagsbakken
+L;924869217;;Læringsverkstedet AS Avd.219 Rom;Læringsverkstedet AS Avd.219 Rom;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 219 Rom
+L;134869213;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 211 Tveit
+L;234869212;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 210 Søgne
+L;334869211;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 209 Skomagergada
+L;434869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 208 Kuholmen
+L;534869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 207 Gonveien
+L;634869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 206 Furukollen
+L;734869217;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 204 Erkleiv
+L;834869216;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 203 Vennesla
+L;934869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 202 Grim
+L;144869211;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 201 Lund
+L;244869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 200 Gimlekollen
+L;344869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 170 Ekrene gårdsbarnehage
+L;444869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 168 Bamsebo
+L;544869217;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 167 Fjeldebakkane
+L;644869216;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 166 Ullerøy
+L;744869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 131 Knøttene
+L;844869214;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 164 Margaretalia
+L;944869213;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Avd. 163 Bjerke Panorama
+L;154869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Avd. 162 Tvildemoen
+L;254869217;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Avd. 161 Valen
+L;354869216;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Avd. 160 Straume
+L;454869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 159 Haugenstykket
+L;554869214;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 158 Buenget
+L;654869213;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Avd. 156 Løvåsen
+L;754869212;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 155 Kløvningsten
+L;854869211;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 153 Kaldvell
+L;954869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 149 Borgen
+L;164869216;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 148 ÅkrAS
+L;264869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 147 Ervika
+L;364869214;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 146 Lersbrygga, Sande
+L;464869213;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 144 Julebygda
+L;564869212;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 142 Flatøy
+L;664869211;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 141 Skoger
+L;764869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 139 DoReMi Humlehaugen
+L;864869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 137 Hammersborg
+L;964869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 136 Hinkenhopp
+L;174869214;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 135 DoReMi Trosvik
+L;274869213;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 134 DoReMi Halden
+L;374869212;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 133 DoReMi Greåker
+L;474869211;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 132 DoReMi Begby
+L;574869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 130 DoReMi Gystadmarka
+L;674869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 129 Bjørndal
+L;774869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Avd. 128 Grefsen Terrasse
+L;874869217;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Avd. 126 DoReMi Våler
+L;974869216;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 125 Sande
+L;184869212;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 124 Haugeråsen
+L;284869211;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 122 Råholt
+L;384869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 121 Skytta
+L;484869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 120 Haga
+L;584869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 119 Nerby
+L;684869217;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 118 Billingstad
+L;784869216;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 117 Folkeparken
+L;884869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 116 Vestadbakken
+L;984869214;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 114 Hurdal
+L;194869210;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 113 Olaløkka
+L;294869219;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 112 Slattum
+L;394869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 111 Dal
+L;494869217;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 110 Maura
+L;594869216;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 108 Solhellinga
+L;694869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 107 Bjørnsrudskog
+L;794869214;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 106 Nordbymoen
+L;894869213;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 105 Mork
+L;994869212;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 104 Ekornrud
+L;105869218;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 102 Skogmo
+L;205869217;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 101 Verkensveien
+L;305869216;;Læringsverkstedet Gruppen AS;Læringsverkstedet Gruppen AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;;Læringsverkstedet Gruppen AS
+L;405869215;;Læringsverkstedet AS;Læringsverkstedet AS;;Mo i Rana;8608;;;4468;SENTRUM;NOR;;;;;;;;;;;;;;Moul00.27.05.2016.05;Moul00 27.05.2016;;;; Avd. 173 Jåsund

@@ -1,0 +1,2 @@
+U;815357215;GSM04793299312;Steinsvik;Morten;1975-03-11;Oslo;485;90;Hans Nordahls;;;NOR;;;;;;;;;;;;;;mdl;MDL 27.01.2016;;;;
+U;815357215;GSM04740203040;Iversen;Monica;1976-09-28;Oslo;0161;2;Haakon Vii's;;;NOR;;;;;;;;;;;;;;mdl;MDL 27.01.2016;;;;

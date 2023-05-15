@@ -1,0 +1,10 @@
+runloader_ninjadata_st.cmd iplchess01.txt
+runloader_ninjadata_st.cmd iplchess02.txt
+runloader_ninjadata_st.cmd ninjaprod01z-ds1.txt
+runloader_ninjadata_st.cmd ninjaprod01z-sh1.txt
+runloader_ninjadata_st.cmd ninjaprod01z-sh2.txt
+runloader_ninjadata_st.cmd ninjaprod02z-ds1.txt
+runloader_ninjadata_st.cmd ninjaprod02z-sh1.txt
+runloader_ninjadata_st.cmd ninjaprod02z-sh2.txt
+runloader_ninjadata_st.cmd no-neo-prod-01.txt
+runloader_ninjadata_st.cmd no-neo-prod-02.txt

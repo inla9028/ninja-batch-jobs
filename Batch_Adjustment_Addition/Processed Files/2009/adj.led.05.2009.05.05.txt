@@ -1,0 +1,954 @@
+;04745503508;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.01;;;;;LED 05.05.09;1;LED
+;04745503690;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.01;;;;;LED 05.05.09;1;LED
+;04745507753;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.01;;;;;LED 05.05.09;1;LED
+;04740628035;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.02;;;;;LED 05.05.09;1;LED
+;04746627446;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.02;;;;;LED 05.05.09;1;LED
+;04745474221;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.04;;;;;LED 05.05.09;1;LED
+;04792633521;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.04;;;;;LED 05.05.09;1;LED
+;04740470957;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.13;;;;;LED 05.05.09;1;LED
+;04792871061;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.14;;;;;LED 05.05.09;1;LED
+;04745512693;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.63;;;;;LED 05.05.09;1;LED
+;04793439725;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;0.92;;;;;LED 05.05.09;1;LED
+;04792609842;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;1.04;;;;;LED 05.05.09;1;LED
+;04792620238;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;1.23;;;;;LED 05.05.09;1;LED
+;04793443487;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;1.39;;;;;LED 05.05.09;1;LED
+;04740482143;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;2.2;;;;;LED 05.05.09;1;LED
+;04792651784;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;2.25;;;;;LED 05.05.09;1;LED
+;04740455871;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;2.29;;;;;LED 05.05.09;1;LED
+;04745507293;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;2.44;;;;;LED 05.05.09;1;LED
+;04792604571;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;2.84;;;;;LED 05.05.09;1;LED
+;04792879117;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;3.39;;;;;LED 05.05.09;1;LED
+;04793443179;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;3.63;;;;;LED 05.05.09;1;LED
+;04745502245;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;4.07;;;;;LED 05.05.09;1;LED
+;04745471434;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;4.12;;;;;LED 05.05.09;1;LED
+;04792884703;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;4.15;;;;;LED 05.05.09;1;LED
+;04740456012;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;4.63;;;;;LED 05.05.09;1;LED
+;04792065860;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;4.92;;;;;LED 05.05.09;1;LED
+;04745484349;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;5.16;;;;;LED 05.05.09;1;LED
+;04745414037;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;5.23;;;;;LED 05.05.09;1;LED
+;04792291247;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;5.41;;;;;LED 05.05.09;1;LED
+;04792271618;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;6.14;;;;;LED 05.05.09;1;LED
+;04745507744;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;6.8;;;;;LED 05.05.09;1;LED
+;04792402883;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;6.81;;;;;LED 05.05.09;1;LED
+;04745256741;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;7.32;;;;;LED 05.05.09;1;LED
+;04745298682;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;7.61;;;;;LED 05.05.09;1;LED
+;04745502328;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;8.17;;;;;LED 05.05.09;1;LED
+;04792879123;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;9.31;;;;;LED 05.05.09;1;LED
+;04792642052;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;9.73;;;;;LED 05.05.09;1;LED
+;04745502748;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;9.85;;;;;LED 05.05.09;1;LED
+;04792816343;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;9.86;;;;;LED 05.05.09;1;LED
+;04745502218;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;9.87;;;;;LED 05.05.09;1;LED
+;04745514898;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;9.87;;;;;LED 05.05.09;1;LED
+;04745253168;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;11.05;;;;;LED 05.05.09;1;LED
+;04745502774;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;11.07;;;;;LED 05.05.09;1;LED
+;04740468917;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;11.58;;;;;LED 05.05.09;1;LED
+;04745503298;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;11.95;;;;;LED 05.05.09;1;LED
+;04745410897;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;12.19;;;;;LED 05.05.09;1;LED
+;04745503623;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;12.32;;;;;LED 05.05.09;1;LED
+;04746629137;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;12.6;;;;;LED 05.05.09;1;LED
+;04740457182;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;13.21;;;;;LED 05.05.09;1;LED
+;04745507328;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;14.05;;;;;LED 05.05.09;1;LED
+;04792650899;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;14.34;;;;;LED 05.05.09;1;LED
+;04792825637;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;14.4;;;;;LED 05.05.09;1;LED
+;04740456469;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;14.55;;;;;LED 05.05.09;1;LED
+;04745507318;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;14.77;;;;;LED 05.05.09;1;LED
+;04745490883;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;14.82;;;;;LED 05.05.09;1;LED
+;04745512703;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;16.31;;;;;LED 05.05.09;1;LED
+;04793443083;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;16.34;;;;;LED 05.05.09;1;LED
+;04745504025;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;16.39;;;;;LED 05.05.09;1;LED
+;04745474454;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;16.89;;;;;LED 05.05.09;1;LED
+;04793435975;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;17.81;;;;;LED 05.05.09;1;LED
+;04792069047;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;18.07;;;;;LED 05.05.09;1;LED
+;04793094438;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;18.73;;;;;LED 05.05.09;1;LED
+;04745507816;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;19.75;;;;;LED 05.05.09;1;LED
+;04745507743;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;19.97;;;;;LED 05.05.09;1;LED
+;04745244069;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;20.08;;;;;LED 05.05.09;1;LED
+;04745271524;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;20.53;;;;;LED 05.05.09;1;LED
+;04746624034;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;21.86;;;;;LED 05.05.09;1;LED
+;04745252674;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;22.96;;;;;LED 05.05.09;1;LED
+;04745866132;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;23.44;;;;;LED 05.05.09;1;LED
+;04745502797;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;25.62;;;;;LED 05.05.09;1;LED
+;04745418053;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;25.83;;;;;LED 05.05.09;1;LED
+;04745501923;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;29.08;;;;;LED 05.05.09;1;LED
+;04745265609;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;29.21;;;;;LED 05.05.09;1;LED
+;04745411189;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;29.58;;;;;LED 05.05.09;1;LED
+;04745515943;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;29.78;;;;;LED 05.05.09;1;LED
+;04745494751;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;30.75;;;;;LED 05.05.09;1;LED
+;04792845710;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;31.66;;;;;LED 05.05.09;1;LED
+;04745501772;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;32.09;;;;;LED 05.05.09;1;LED
+;04745255678;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;32.26;;;;;LED 05.05.09;1;LED
+;04740467638;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;33.21;;;;;LED 05.05.09;1;LED
+;04740464781;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;33.93;;;;;LED 05.05.09;1;LED
+;04740457358;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04740465623;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04740468151;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04740468647;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04740623082;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04740628606;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04740643923;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745275509;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745295996;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745501870;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745502743;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745507881;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745513062;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745513087;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35;;;;;LED 05.05.09;1;LED
+;04745249825;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04745271942;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04745507301;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04745507735;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04746633245;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04792024580;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04793059261;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04793443177;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.01;;;;;LED 05.05.09;1;LED
+;04745502815;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.02;;;;;LED 05.05.09;1;LED
+;04746622812;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.02;;;;;LED 05.05.09;1;LED
+;04792058528;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.02;;;;;LED 05.05.09;1;LED
+;04792653129;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.02;;;;;LED 05.05.09;1;LED
+;04745863323;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.03;;;;;LED 05.05.09;1;LED
+;04745275125;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.09;;;;;LED 05.05.09;1;LED
+;04792066568;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;35.74;;;;;LED 05.05.09;1;LED
+;04745514967;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;36.98;;;;;LED 05.05.09;1;LED
+;04740455124;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;37.87;;;;;LED 05.05.09;1;LED
+;04745269414;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;38;;;;;LED 05.05.09;1;LED
+;04745267938;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;38.59;;;;;LED 05.05.09;1;LED
+;04792278989;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;38.9;;;;;LED 05.05.09;1;LED
+;04745489844;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;38.99;;;;;LED 05.05.09;1;LED
+;04740468516;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;39.43;;;;;LED 05.05.09;1;LED
+;04792647719;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;39.43;;;;;LED 05.05.09;1;LED
+;04792865502;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;39.58;;;;;LED 05.05.09;1;LED
+;04745503230;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;41.04;;;;;LED 05.05.09;1;LED
+;04745505056;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;42.54;;;;;LED 05.05.09;1;LED
+;04745253424;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;43.02;;;;;LED 05.05.09;1;LED
+;04745503713;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;44.08;;;;;LED 05.05.09;1;LED
+;04745471810;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;44.35;;;;;LED 05.05.09;1;LED
+;04745507921;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;46.5;;;;;LED 05.05.09;1;LED
+;04745274112;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;49.36;;;;;LED 05.05.09;1;LED
+;04745491413;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;52.58;;;;;LED 05.05.09;1;LED
+;04745272098;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;53.45;;;;;LED 05.05.09;1;LED
+;04740467314;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;53.59;;;;;LED 05.05.09;1;LED
+;04745513082;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;53.95;;;;;LED 05.05.09;1;LED
+;04792839245;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;55.8;;;;;LED 05.05.09;1;LED
+;04793436785;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;59.99;;;;;LED 05.05.09;1;LED
+;04745249819;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;62.4;;;;;LED 05.05.09;1;LED
+;04746627106;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;66.3;;;;;LED 05.05.09;1;LED
+;04745411102;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;66.55;;;;;LED 05.05.09;1;LED
+;04745507720;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;67.94;;;;;LED 05.05.09;1;LED
+;04745259295;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;69.87;;;;;LED 05.05.09;1;LED
+;04740625232;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70;;;;;LED 05.05.09;1;LED
+;04792622947;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70;;;;;LED 05.05.09;1;LED
+;04740602740;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70.01;;;;;LED 05.05.09;1;LED
+;04745249799;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70.01;;;;;LED 05.05.09;1;LED
+;04745502357;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70.01;;;;;LED 05.05.09;1;LED
+;04746622797;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70.01;;;;;LED 05.05.09;1;LED
+;04792870921;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70.03;;;;;LED 05.05.09;1;LED
+;04792620745;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;70.57;;;;;LED 05.05.09;1;LED
+;04792846569;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;72.76;;;;;LED 05.05.09;1;LED
+;04792414958;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;76.58;;;;;LED 05.05.09;1;LED
+;04793436154;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;77.29;;;;;LED 05.05.09;1;LED
+;04745489447;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;79.26;;;;;LED 05.05.09;1;LED
+;04745257937;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;81.42;;;;;LED 05.05.09;1;LED
+;04792057283;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;84.56;;;;;LED 05.05.09;1;LED
+;04793094669;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;86.56;;;;;LED 05.05.09;1;LED
+;04745502207;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;87.03;;;;;LED 05.05.09;1;LED
+;04745501038;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;87.69;;;;;LED 05.05.09;1;LED
+;04792871801;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;89.22;;;;;LED 05.05.09;1;LED
+;04745512717;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;91.57;;;;;LED 05.05.09;1;LED
+;04793054569;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;92.62;;;;;LED 05.05.09;1;LED
+;04740468786;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;92.8;;;;;LED 05.05.09;1;LED
+;04793442582;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;95.96;;;;;LED 05.05.09;1;LED
+;04740454235;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;96.47;;;;;LED 05.05.09;1;LED
+;04746443943;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;97.93;;;;;LED 05.05.09;1;LED
+;04745209328;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;101.11;;;;;LED 05.05.09;1;LED
+;04745417863;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;102.29;;;;;LED 05.05.09;1;LED
+;04745507370;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;103.08;;;;;LED 05.05.09;1;LED
+;04745507286;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;104.64;;;;;LED 05.05.09;1;LED
+;04745270277;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;105;;;;;LED 05.05.09;1;LED
+;04745503650;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;105.01;;;;;LED 05.05.09;1;LED
+;04745512686;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;107.25;;;;;LED 05.05.09;1;LED
+;04745472437;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;107.65;;;;;LED 05.05.09;1;LED
+;04745503297;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;109.6;;;;;LED 05.05.09;1;LED
+;04792442699;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;111.85;;;;;LED 05.05.09;1;LED
+;04745502171;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;119.79;;;;;LED 05.05.09;1;LED
+;04792815688;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;120.31;;;;;LED 05.05.09;1;LED
+;04745501883;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;120.73;;;;;LED 05.05.09;1;LED
+;04740468291;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;121.68;;;;;LED 05.05.09;1;LED
+;04793061254;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;124.32;;;;;LED 05.05.09;1;LED
+;04740613805;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;124.48;;;;;LED 05.05.09;1;LED
+;04745507903;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;125.82;;;;;LED 05.05.09;1;LED
+;04745488108;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;127.23;;;;;LED 05.05.09;1;LED
+;04793023982;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;127.48;;;;;LED 05.05.09;1;LED
+;04793443094;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;131.42;;;;;LED 05.05.09;1;LED
+;04745503235;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;132.26;;;;;LED 05.05.09;1;LED
+;04792873401;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;132.27;;;;;LED 05.05.09;1;LED
+;04792873335;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;136.22;;;;;LED 05.05.09;1;LED
+;04745503244;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;137.29;;;;;LED 05.05.09;1;LED
+;04745411480;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;137.92;;;;;LED 05.05.09;1;LED
+;04793058217;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;138.77;;;;;LED 05.05.09;1;LED
+;04745411358;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;140;;;;;LED 05.05.09;1;LED
+;04745490879;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;140;;;;;LED 05.05.09;1;LED
+;04792879567;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;140;;;;;LED 05.05.09;1;LED
+;04745502250;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;140.01;;;;;LED 05.05.09;1;LED
+;04745515956;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;140.31;;;;;LED 05.05.09;1;LED
+;04792869325;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;142.45;;;;;LED 05.05.09;1;LED
+;04745270345;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;145.71;;;;;LED 05.05.09;1;LED
+;04745860792;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;147.3;;;;;LED 05.05.09;1;LED
+;04745507914;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;149.08;;;;;LED 05.05.09;1;LED
+;04792831382;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;150.2;;;;;LED 05.05.09;1;LED
+;04745512760;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;152.78;;;;;LED 05.05.09;1;LED
+;04745479957;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;158.13;;;;;LED 05.05.09;1;LED
+;04745502056;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;158.77;;;;;LED 05.05.09;1;LED
+;04792842150;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;159.08;;;;;LED 05.05.09;1;LED
+;04745251252;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;160.85;;;;;LED 05.05.09;1;LED
+;04745503094;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;161.04;;;;;LED 05.05.09;1;LED
+;04745513086;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;163.96;;;;;LED 05.05.09;1;LED
+;04792817138;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;164.18;;;;;LED 05.05.09;1;LED
+;04745267230;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;168.13;;;;;LED 05.05.09;1;LED
+;04740467630;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;168.36;;;;;LED 05.05.09;1;LED
+;04792611953;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;169.96;;;;;LED 05.05.09;1;LED
+;04745233214;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;171.57;;;;;LED 05.05.09;1;LED
+;04740454334;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;171.67;;;;;LED 05.05.09;1;LED
+;04745411618;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;173.47;;;;;LED 05.05.09;1;LED
+;04792873415;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;174.96;;;;;LED 05.05.09;1;LED
+;04745265647;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;175.01;;;;;LED 05.05.09;1;LED
+;04745259216;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;175.02;;;;;LED 05.05.09;1;LED
+;04745503237;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;175.02;;;;;LED 05.05.09;1;LED
+;04792415024;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;175.02;;;;;LED 05.05.09;1;LED
+;04745503628;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;175.03;;;;;LED 05.05.09;1;LED
+;04745423201;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;178.25;;;;;LED 05.05.09;1;LED
+;04745505071;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;178.93;;;;;LED 05.05.09;1;LED
+;04740454439;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;179.65;;;;;LED 05.05.09;1;LED
+;04745515948;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;180.26;;;;;LED 05.05.09;1;LED
+;04745507913;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;182.06;;;;;LED 05.05.09;1;LED
+;04793058697;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;185.96;;;;;LED 05.05.09;1;LED
+;04792604463;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;188.55;;;;;LED 05.05.09;1;LED
+;04745474058;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;190.54;;;;;LED 05.05.09;1;LED
+;04745504032;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;195.68;;;;;LED 05.05.09;1;LED
+;04793439827;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;196;;;;;LED 05.05.09;1;LED
+;04746443738;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;197.8;;;;;LED 05.05.09;1;LED
+;04793096215;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;203.61;;;;;LED 05.05.09;1;LED
+;04745276513;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;207.11;;;;;LED 05.05.09;1;LED
+;04745514951;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;210.11;;;;;LED 05.05.09;1;LED
+;04745505084;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;210.7;;;;;LED 05.05.09;1;LED
+;04793060682;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;213.17;;;;;LED 05.05.09;1;LED
+;04745514956;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;214.93;;;;;LED 05.05.09;1;LED
+;04745411138;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;215.18;;;;;LED 05.05.09;1;LED
+;04746425620;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;215.76;;;;;LED 05.05.09;1;LED
+;04793059872;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;217.95;;;;;LED 05.05.09;1;LED
+;04792844547;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;218.21;;;;;LED 05.05.09;1;LED
+;04745265446;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;225.71;;;;;LED 05.05.09;1;LED
+;04745517189;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;226.63;;;;;LED 05.05.09;1;LED
+;04793050732;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;230.59;;;;;LED 05.05.09;1;LED
+;04793096765;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;235.63;;;;;LED 05.05.09;1;LED
+;04792497784;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;236.59;;;;;LED 05.05.09;1;LED
+;04740462945;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;237.57;;;;;LED 05.05.09;1;LED
+;04745501681;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;239.37;;;;;LED 05.05.09;1;LED
+;04792607753;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;244.22;;;;;LED 05.05.09;1;LED
+;04745507214;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;247.6;;;;;LED 05.05.09;1;LED
+;04792871271;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;249.62;;;;;LED 05.05.09;1;LED
+;04745501879;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;249.99;;;;;LED 05.05.09;1;LED
+;04792817746;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;251.05;;;;;LED 05.05.09;1;LED
+;04745505121;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;253.38;;;;;LED 05.05.09;1;LED
+;04745250023;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;254.09;;;;;LED 05.05.09;1;LED
+;04792071808;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;263.32;;;;;LED 05.05.09;1;LED
+;04792608194;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;264.11;;;;;LED 05.05.09;1;LED
+;04792456936;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;264.98;;;;;LED 05.05.09;1;LED
+;04745504061;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;283.95;;;;;LED 05.05.09;1;LED
+;04745252455;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;286.37;;;;;LED 05.05.09;1;LED
+;04792030665;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;288.81;;;;;LED 05.05.09;1;LED
+;04745867316;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;294.05;;;;;LED 05.05.09;1;LED
+;04745512699;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;295.07;;;;;LED 05.05.09;1;LED
+;04740640285;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;302.98;;;;;LED 05.05.09;1;LED
+;04746634729;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;304.77;;;;;LED 05.05.09;1;LED
+;04792083173;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;310.07;;;;;LED 05.05.09;1;LED
+;04745480264;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;312.55;;;;;LED 05.05.09;1;LED
+;04745268778;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;315.38;;;;;LED 05.05.09;1;LED
+;04792483474;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;316.9;;;;;LED 05.05.09;1;LED
+;04745411195;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;324.64;;;;;LED 05.05.09;1;LED
+;04792873221;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;327.03;;;;;LED 05.05.09;1;LED
+;04745474316;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;328.77;;;;;LED 05.05.09;1;LED
+;04745502190;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;331.43;;;;;LED 05.05.09;1;LED
+;04745256524;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;342.25;;;;;LED 05.05.09;1;LED
+;04792871645;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;343.97;;;;;LED 05.05.09;1;LED
+;04745275772;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;350.02;;;;;LED 05.05.09;1;LED
+;04745510863;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;351.49;;;;;LED 05.05.09;1;LED
+;04792830912;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;353.85;;;;;LED 05.05.09;1;LED
+;04792465527;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;368.6;;;;;LED 05.05.09;1;LED
+;04745501044;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;372.95;;;;;LED 05.05.09;1;LED
+;04745503415;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;377.11;;;;;LED 05.05.09;1;LED
+;04793078041;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;381.22;;;;;LED 05.05.09;1;LED
+;04745502119;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;382.66;;;;;LED 05.05.09;1;LED
+;04745422101;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;382.77;;;;;LED 05.05.09;1;LED
+;04745412340;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;384.05;;;;;LED 05.05.09;1;LED
+;04746622795;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;384.42;;;;;LED 05.05.09;1;LED
+;04745514905;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;385.41;;;;;LED 05.05.09;1;LED
+;04793054390;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;386.7;;;;;LED 05.05.09;1;LED
+;04793442896;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;398.62;;;;;LED 05.05.09;1;LED
+;04745489896;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;411.16;;;;;LED 05.05.09;1;LED
+;04740455955;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;414.71;;;;;LED 05.05.09;1;LED
+;04745232493;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;420.03;;;;;LED 05.05.09;1;LED
+;04793094616;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;434.28;;;;;LED 05.05.09;1;LED
+;04793058240;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;436.59;;;;;LED 05.05.09;1;LED
+;04745515968;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;437.23;;;;;LED 05.05.09;1;LED
+;04745407877;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;440.24;;;;;LED 05.05.09;1;LED
+;04740468976;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;445.97;;;;;LED 05.05.09;1;LED
+;04745513059;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;448.28;;;;;LED 05.05.09;1;LED
+;04745507747;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;451.67;;;;;LED 05.05.09;1;LED
+;04745234334;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;455.02;;;;;LED 05.05.09;1;LED
+;04745501876;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;459.13;;;;;LED 05.05.09;1;LED
+;04793018695;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;482.87;;;;;LED 05.05.09;1;LED
+;04745503233;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;483.01;;;;;LED 05.05.09;1;LED
+;04740494608;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;487.99;;;;;LED 05.05.09;1;LED
+;04745217435;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;498.1;;;;;LED 05.05.09;1;LED
+;04740457310;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;502.63;;;;;LED 05.05.09;1;LED
+;04792829412;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;504.26;;;;;LED 05.05.09;1;LED
+;04745419540;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;509.36;;;;;LED 05.05.09;1;LED
+;04745411086;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;511.57;;;;;LED 05.05.09;1;LED
+;04745502081;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;516.06;;;;;LED 05.05.09;1;LED
+;04792623133;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;519.22;;;;;LED 05.05.09;1;LED
+;04793057109;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;520.15;;;;;LED 05.05.09;1;LED
+;04745512692;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;524.07;;;;;LED 05.05.09;1;LED
+;04745513061;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;535.18;;;;;LED 05.05.09;1;LED
+;04740620658;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;563.73;;;;;LED 05.05.09;1;LED
+;04745507965;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;572.11;;;;;LED 05.05.09;1;LED
+;04745501867;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;575.09;;;;;LED 05.05.09;1;LED
+;04745507338;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;575.49;;;;;LED 05.05.09;1;LED
+;04745514901;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;578.33;;;;;LED 05.05.09;1;LED
+;04792802159;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;579.96;;;;;LED 05.05.09;1;LED
+;04745513094;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;580.54;;;;;LED 05.05.09;1;LED
+;04745505064;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;612.31;;;;;LED 05.05.09;1;LED
+;04792841611;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;630.8;;;;;LED 05.05.09;1;LED
+;04740455742;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;646.47;;;;;LED 05.05.09;1;LED
+;04745490881;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;658.56;;;;;LED 05.05.09;1;LED
+;04793058846;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;663.88;;;;;LED 05.05.09;1;LED
+;04745411949;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;665.03;;;;;LED 05.05.09;1;LED
+;04745275406;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;665.05;;;;;LED 05.05.09;1;LED
+;04792417360;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;665.09;;;;;LED 05.05.09;1;LED
+;04745489927;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;676.68;;;;;LED 05.05.09;1;LED
+;04745507155;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;688.02;;;;;LED 05.05.09;1;LED
+;04740626813;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;691.84;;;;;LED 05.05.09;1;LED
+;04740611901;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;700;;;;;LED 05.05.09;1;LED
+;04745411385;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;700.07;;;;;LED 05.05.09;1;LED
+;04792033142;KORFAK;Connect fritid usage, ref avtale Tannaz Parnian;Connect fritid usage;700.07;;;;;LED 05.05.09;1;LED
+;04740454235;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740454334;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740454439;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740454945;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740455124;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740455278;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740455742;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740455871;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740455955;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740456012;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;36.29;;;;;LED 05.05.09;1;LED
+;04740456012;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740456106;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740456469;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740456985;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740457182;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740457310;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740457358;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740457413;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740457487;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740457543;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740462495;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740462495;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740462945;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740462945;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740464242;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740464242;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740464781;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740464781;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740465623;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467314;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467314;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467341;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467341;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467361;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467361;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467392;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467392;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467456;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467456;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467496;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467496;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467630;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467630;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467638;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467638;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740467691;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740467691;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468151;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468151;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468291;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468291;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468367;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468367;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468494;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468494;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468516;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468516;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468524;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468524;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468647;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468647;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468751;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468751;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468753;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468753;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468786;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468786;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468798;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468798;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468917;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468917;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468930;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468930;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740468976;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;53.23;;;;;LED 05.05.09;1;LED
+;04740468976;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740470957;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;58.07;;;;;LED 05.05.09;1;LED
+;04740470957;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740471056;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;58.07;;;;;LED 05.05.09;1;LED
+;04740471056;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740472611;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;58.07;;;;;LED 05.05.09;1;LED
+;04740472611;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740482143;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740494608;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740499894;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740602740;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740605705;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740609759;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740611901;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740613583;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740613805;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740620658;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740623082;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740623084;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740624424;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740625232;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740625725;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740626455;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740626813;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740628035;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740628466;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740628606;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740629529;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740631931;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740640285;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04740643923;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745202837;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745205473;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745209328;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745210925;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745217435;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745227139;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745232493;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745233214;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745233410;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745234334;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745244069;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745249799;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745249819;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745249825;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745249858;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745250023;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745250956;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745251252;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745251342;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745251810;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745252455;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745252674;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745252791;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745253168;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745253265;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745253424;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745253499;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745253605;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745253876;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745255374;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745255678;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745256524;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745256741;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745257103;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745257937;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745259216;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745259295;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745259453;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745265446;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745265609;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745265647;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745266091;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745267230;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745267938;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745268017;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745268778;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745269414;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745270277;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745270345;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745271524;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745271942;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745272098;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745274112;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745275125;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745275232;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745275406;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745275509;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745275772;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745276513;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745284903;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745295996;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745298301;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745298682;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745298769;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745407877;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745407962;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745410542;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745410897;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411064;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411086;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411102;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411138;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411153;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411154;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411189;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411195;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411358;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411385;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411480;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411524;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411546;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411618;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411814;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411949;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745411969;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745412340;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745414037;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745417863;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745418053;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745418863;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745419204;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745419540;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745422101;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745423201;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745470841;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745471434;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745471810;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745471812;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745472437;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745473060;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745474013;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745474058;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745474221;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745474316;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745474454;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745479869;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745479957;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745480219;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745480264;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745480309;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745480727;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745483256;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745484349;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745488108;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745489447;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745489479;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745489791;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745489844;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745489896;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745489927;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745489978;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745490189;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745490269;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745490879;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745490881;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745490883;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745491166;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745491237;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745491413;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745491414;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745491597;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745492956;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745494751;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501031;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501038;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501042;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501044;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501047;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501655;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501681;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501772;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501867;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501870;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501876;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501879;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501883;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501909;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745501923;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502056;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502081;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502106;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502116;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502119;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502146;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502150;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502171;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502172;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502177;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502190;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502207;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502218;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502229;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502245;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502250;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502326;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502328;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502337;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502347;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502357;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502361;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502362;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502372;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502743;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502748;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502774;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502795;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502797;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502806;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745502815;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503094;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503230;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503233;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503235;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503237;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503244;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503297;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503298;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503319;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503415;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503462;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503508;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503537;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503623;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503628;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503650;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503690;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503713;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503858;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745503987;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745504008;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745504025;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745504032;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745504043;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745504047;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745504061;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505056;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505064;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505071;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505083;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505084;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505116;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505119;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745505121;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507154;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507155;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507167;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507172;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507176;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507214;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507281;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507286;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507287;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507293;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507301;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507306;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507315;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507318;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507324;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507328;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507334;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507338;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507348;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507361;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507368;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507370;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507373;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507720;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507723;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507735;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507743;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507744;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507747;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507753;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507789;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507798;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507806;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507808;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507816;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507881;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507885;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507887;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507903;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507905;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507913;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507914;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507921;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507927;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507965;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507982;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745507983;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745510863;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745511509;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512686;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512692;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512693;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512699;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512703;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512706;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512712;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512717;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512731;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512736;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745512760;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513046;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513058;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513059;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513061;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513062;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513076;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513082;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513083;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513086;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513087;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745513094;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514898;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514901;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514902;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514905;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514948;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514951;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514953;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514956;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514967;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745514969;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745515942;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745515943;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745515948;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745515953;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745515956;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745515965;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745515968;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745517189;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745860164;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745860231;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745860792;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745860926;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745863247;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745863323;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745864363;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745865418;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745866132;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04745867316;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746425620;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746443738;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746443943;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746471636;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746622731;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746622795;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746622797;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746622812;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746624034;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746627106;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746627446;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746629137;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;58.07;;;;;LED 05.05.09;1;LED
+;04746629137;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746630184;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746631726;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746632332;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746632573;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746633245;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746633249;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746633848;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746634729;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04746638563;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792024580;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792030665;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792033142;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792042085;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792057123;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792057283;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792058528;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792059775;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792065360;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792065860;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792066568;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792069047;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792069893;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792071808;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792083173;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792088904;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792271618;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792278989;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792289672;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792291247;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792297824;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792402883;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792414956;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792414958;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792415024;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792417360;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792417593;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792442699;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792456936;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792465527;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792483474;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792497784;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792604463;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792604571;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792605839;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792607753;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792608194;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792608935;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792609842;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792611492;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792611953;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792620238;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792620745;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792622947;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792623133;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792623641;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792626399;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792630422;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792632977;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792633422;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792633521;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792637345;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792641127;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792642052;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792642289;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792647719;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792650899;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792651784;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792653129;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792654750;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792800247;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792802159;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792815688;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792816343;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792817138;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792817746;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792818531;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792818985;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792825637;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792827893;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792828411;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792829412;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792830912;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792831382;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792839245;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792841611;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792842150;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792844547;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792845710;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792846527;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792846569;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792864759;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792864917;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792865502;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792869325;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792870921;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792871061;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792871271;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792871645;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792871801;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792873217;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792873221;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792873282;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792873335;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792873401;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792873415;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792873485;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792876507;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792879117;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792879123;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792879567;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792882597;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792883722;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792884703;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792884956;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04792885853;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793018695;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793023982;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793050732;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793053029;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793053804;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793054390;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793054569;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793057109;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793057607;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793058217;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793058240;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793058337;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793058697;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793058846;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793059261;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793059872;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793060370;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793060682;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793061254;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793062418;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793078041;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793094438;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793094616;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793094669;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793094759;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793096215;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793096718;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793096765;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793244686;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793431439;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;58.07;;;;;LED 05.05.09;1;LED
+;04793431439;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793435975;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793435975;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793436154;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793436154;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793436682;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793436682;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793436785;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793436785;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793438934;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793438934;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793439725;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793439725;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793439827;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793439827;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793440636;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793440636;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793440823;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793440823;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793442582;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793442582;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793442896;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793442896;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443083;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443083;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443094;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443094;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443175;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443175;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443177;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443177;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443179;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443179;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443188;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443188;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443414;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443414;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443417;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443417;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443453;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443453;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443472;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443472;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793443487;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED
+;04793443487;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;65.84;;;;;LED 05.05.09;1;LED
+;04793457669;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;58.07;;;;;LED 05.05.09;1;LED
+;04793457669;KORFAK;Connect fritid avgift, ref avtale med Tannaz Parnian;Connect fritid avgift;75;;;;;LED 05.05.09;1;LED

@@ -1,0 +1,1376 @@
+GSM04746546867;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798241763;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266198;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740103170;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740452302;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740453942;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740552477;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740553722;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740553829;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740553853;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740553952;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740553987;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554028;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554131;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554178;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554293;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554362;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554383;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554629;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740554807;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740553684;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707811;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707820;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707831;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707832;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707833;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707834;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707835;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707836;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707837;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707838;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707839;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707840;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707841;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740768927;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04741559514;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04741569788;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04741603271;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745202175;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745207710;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745259640;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745297266;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745489128;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745519889;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745860357;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04746543228;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04746657177;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04746772661;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04747469904;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04747469911;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04747643540;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04747663565;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04748002238;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04748033805;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04748062238;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04748153504;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04748274606;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04748286404;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790071970;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790133349;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790151854;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790217905;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790780905;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790792560;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790847992;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790868877;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790968931;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790996589;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04791314959;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04791390306;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04791517471;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04791535125;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04791694740;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04791763454;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04791887031;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04792017316;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04792019239;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04792886841;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04793015516;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04793015527;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04793095966;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04793259338;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04793468281;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04793892233;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04794185195;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795103055;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197003;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197004;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197005;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197006;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197007;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197009;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197013;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197014;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197015;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197016;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197019;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197020;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197021;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197022;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197023;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197024;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197028;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197029;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197030;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197031;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197032;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197033;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197034;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197035;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197037;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197038;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197040;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197041;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197042;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197044;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197045;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197046;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197049;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197050;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795242127;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795242780;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795483441;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795758657;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797058200;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797488108;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552803;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552804;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552805;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552806;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552807;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552809;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552810;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552811;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552812;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552813;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552814;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552815;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552816;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552817;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552820;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552821;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552823;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552829;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552830;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552831;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552832;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552833;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552834;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552835;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552836;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552837;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552838;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552839;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552840;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552842;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552843;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552844;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552846;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552847;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552848;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552849;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552850;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552852;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552853;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552854;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552855;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552856;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552857;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552858;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552859;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552860;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552861;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552862;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552865;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552866;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552867;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552868;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552869;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552870;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552871;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552872;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552873;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552875;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552879;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552880;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552881;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552882;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552883;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552884;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552885;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552886;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552887;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552888;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552891;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552892;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552894;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552895;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552896;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552897;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553300;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553302;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553304;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553305;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553306;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553307;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553308;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553309;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553311;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553312;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553313;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553315;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553316;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553317;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553318;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553319;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553321;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553322;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553323;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553324;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553325;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553326;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553327;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553328;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553329;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553330;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553332;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553333;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553334;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797657825;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797699651;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798020463;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798060139;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798241764;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798241765;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266184;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266185;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266188;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266189;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266190;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266194;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266195;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266197;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798845175;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207425;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207426;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207427;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207428;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207432;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207433;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207434;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207435;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207436;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207437;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207438;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207441;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207442;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207443;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207444;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207446;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207447;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207449;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207450;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207451;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207452;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207453;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207454;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207455;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207456;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207457;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207459;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207460;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207461;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207463;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207464;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207465;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207466;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207467;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207468;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207469;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207470;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207471;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207472;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207473;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207474;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207475;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207476;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207477;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207478;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207479;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207480;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207482;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207483;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207484;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207485;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207486;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207487;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207489;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207490;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207491;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207493;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207494;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207498;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207499;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799414433;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799454466;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04747469907;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04790751044;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197017;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197036;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197043;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197047;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04795197048;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552801;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552808;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552818;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552819;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552824;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552825;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552826;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552841;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552889;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552893;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797552898;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553301;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553303;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553310;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04797553314;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266192;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266196;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207429;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207430;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207431;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207458;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207462;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207488;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04799207492;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04740707812;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745207748;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04747469903;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04747469906;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266187;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04798266193;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04745392895;ODBCPA;ADD;;;VFA.18.04.2016.01;Sperre mot mottak av innholdstjenester
+GSM04746546867;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798241763;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266198;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740103170;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740452302;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740453942;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740552477;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740553722;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740553829;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740553853;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740553952;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740553987;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554028;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554131;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554178;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554293;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554362;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554383;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554629;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740554807;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740553684;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707811;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707820;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707831;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707832;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707833;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707834;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707835;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707836;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707837;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707838;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707839;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707840;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707841;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740768927;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04741559514;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04741569788;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04741603271;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745202175;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745207710;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745259640;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745297266;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745489128;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745519889;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745860357;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04746543228;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04746657177;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04746772661;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04747469904;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04747469911;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04747643540;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04747663565;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04748002238;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04748033805;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04748062238;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04748153504;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04748274606;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04748286404;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790071970;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790133349;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790151854;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790217905;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790780905;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790792560;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790847992;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790868877;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790968931;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790996589;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04791314959;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04791390306;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04791517471;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04791535125;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04791694740;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04791763454;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04791887031;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04792017316;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04792019239;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04792886841;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04793015516;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04793015527;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04793095966;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04793259338;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04793468281;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04793892233;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04794185195;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795103055;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197003;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197004;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197005;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197006;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197007;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197009;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197013;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197014;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197015;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197016;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197019;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197020;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197021;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197022;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197023;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197024;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197028;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197029;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197030;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197031;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197032;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197033;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197034;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197035;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197037;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197038;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197040;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197041;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197042;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197044;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197045;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197046;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197049;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197050;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795242127;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795242780;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795483441;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795758657;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797058200;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797488108;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552803;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552804;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552805;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552806;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552807;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552809;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552810;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552811;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552812;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552813;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552814;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552815;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552816;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552817;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552820;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552821;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552823;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552829;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552830;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552831;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552832;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552833;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552834;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552835;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552836;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552837;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552838;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552839;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552840;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552842;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552843;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552844;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552846;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552847;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552848;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552849;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552850;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552852;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552853;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552854;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552855;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552856;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552857;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552858;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552859;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552860;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552861;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552862;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552865;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552866;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552867;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552868;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552869;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552870;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552871;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552872;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552873;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552875;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552879;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552880;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552881;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552882;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552883;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552884;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552885;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552886;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552887;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552888;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552891;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552892;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552894;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552895;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552896;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552897;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553300;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553302;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553304;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553305;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553306;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553307;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553308;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553309;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553311;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553312;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553313;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553315;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553316;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553317;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553318;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553319;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553321;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553322;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553323;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553324;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553325;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553326;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553327;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553328;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553329;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553330;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553332;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553333;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553334;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797657825;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797699651;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798020463;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798060139;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798241764;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798241765;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266184;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266185;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266188;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266189;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266190;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266194;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266195;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266197;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798845175;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207425;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207426;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207427;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207428;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207432;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207433;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207434;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207435;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207436;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207437;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207438;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207441;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207442;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207443;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207444;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207446;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207447;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207449;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207450;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207451;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207452;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207453;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207454;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207455;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207456;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207457;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207459;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207460;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207461;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207463;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207464;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207465;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207466;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207467;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207468;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207469;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207470;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207471;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207472;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207473;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207474;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207475;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207476;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207477;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207478;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207479;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207480;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207482;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207483;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207484;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207485;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207486;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207487;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207489;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207490;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207491;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207493;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207494;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207498;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207499;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799414433;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799454466;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04747469907;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04790751044;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197017;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197036;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197043;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197047;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04795197048;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552801;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552808;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552818;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552819;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552824;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552825;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552826;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552841;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552889;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552893;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797552898;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553301;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553303;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553310;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04797553314;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266192;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266196;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207429;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207430;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207431;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207458;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207462;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207488;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04799207492;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04740707812;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745207748;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04747469903;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04747469906;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266187;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04798266193;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04745392895;ODBP1;ADD;;;VFA.18.04.2016.01;Sperre for opplysningstjenester
+GSM04746546867;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798241763;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266198;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740103170;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740452302;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740453942;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740552477;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740553722;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740553829;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740553853;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740553952;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740553987;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554028;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554131;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554178;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554293;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554362;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554383;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554629;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740554807;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740553684;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707811;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707820;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707831;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707832;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707833;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707834;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707835;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707836;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707837;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707838;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707839;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707840;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707841;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740768927;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04741559514;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04741569788;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04741603271;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745202175;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745207710;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745259640;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745297266;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745489128;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745519889;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745860357;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04746543228;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04746657177;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04746772661;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04747469904;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04747469911;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04747643540;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04747663565;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04748002238;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04748033805;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04748062238;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04748153504;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04748274606;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04748286404;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790071970;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790133349;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790151854;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790217905;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790780905;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790792560;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790847992;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790868877;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790968931;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790996589;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04791314959;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04791390306;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04791517471;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04791535125;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04791694740;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04791763454;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04791887031;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04792017316;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04792019239;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04792886841;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04793015516;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04793015527;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04793095966;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04793259338;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04793468281;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04793892233;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04794185195;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795103055;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197003;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197004;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197005;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197006;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197007;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197009;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197013;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197014;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197015;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197016;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197019;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197020;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197021;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197022;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197023;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197024;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197028;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197029;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197030;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197031;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197032;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197033;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197034;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197035;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197037;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197038;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197040;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197041;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197042;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197044;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197045;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197046;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197049;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197050;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795242127;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795242780;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795483441;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795758657;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797058200;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797488108;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552803;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552804;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552805;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552806;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552807;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552809;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552810;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552811;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552812;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552813;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552814;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552815;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552816;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552817;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552820;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552821;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552823;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552829;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552830;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552831;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552832;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552833;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552834;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552835;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552836;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552837;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552838;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552839;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552840;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552842;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552843;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552844;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552846;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552847;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552848;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552849;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552850;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552852;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552853;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552854;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552855;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552856;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552857;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552858;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552859;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552860;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552861;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552862;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552865;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552866;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552867;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552868;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552869;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552870;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552871;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552872;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552873;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552875;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552879;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552880;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552881;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552882;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552883;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552884;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552885;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552886;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552887;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552888;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552891;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552892;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552894;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552895;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552896;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552897;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553300;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553302;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553304;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553305;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553306;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553307;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553308;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553309;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553311;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553312;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553313;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553315;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553316;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553317;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553318;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553319;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553321;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553322;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553323;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553324;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553325;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553326;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553327;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553328;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553329;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553330;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553332;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553333;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553334;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797657825;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797699651;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798020463;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798060139;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798241764;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798241765;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266184;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266185;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266188;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266189;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266190;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266194;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266195;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266197;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798845175;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207425;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207426;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207427;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207428;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207432;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207433;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207434;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207435;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207436;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207437;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207438;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207441;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207442;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207443;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207444;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207446;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207447;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207449;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207450;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207451;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207452;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207453;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207454;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207455;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207456;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207457;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207459;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207460;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207461;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207463;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207464;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207465;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207466;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207467;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207468;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207469;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207470;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207471;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207472;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207473;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207474;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207475;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207476;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207477;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207478;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207479;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207480;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207482;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207483;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207484;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207485;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207486;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207487;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207489;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207490;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207491;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207493;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207494;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207498;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207499;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799414433;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799454466;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04747469907;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04790751044;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197017;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197036;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197043;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197047;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04795197048;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552801;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552808;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552818;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552819;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552824;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552825;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552826;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552841;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552889;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552893;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797552898;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553301;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553303;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553310;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04797553314;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266192;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266196;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207429;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207430;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207431;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207458;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207462;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207488;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04799207492;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04740707812;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745207748;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04747469903;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04747469906;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266187;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04798266193;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04745392895;ODBP2;ADD;;;VFA.18.04.2016.01;Sperre for infonummer 
+GSM04746546867;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798241763;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266198;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740103170;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740452302;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740453942;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740552477;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740553722;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740553829;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740553853;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740553952;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740553987;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554028;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554131;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554178;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554293;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554362;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554383;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554629;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740554807;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740553684;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707811;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707820;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707831;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707832;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707833;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707834;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707835;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707836;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707837;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707838;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707839;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707840;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707841;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740768927;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04741559514;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04741569788;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04741603271;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745202175;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745207710;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745259640;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745297266;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745489128;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745519889;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745860357;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04746543228;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04746657177;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04746772661;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04747469904;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04747469911;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04747643540;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04747663565;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04748002238;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04748033805;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04748062238;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04748153504;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04748274606;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04748286404;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790071970;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790133349;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790151854;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790217905;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790780905;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790792560;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790847992;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790868877;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790968931;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790996589;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04791314959;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04791390306;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04791517471;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04791535125;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04791694740;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04791763454;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04791887031;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04792017316;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04792019239;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04792886841;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04793015516;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04793015527;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04793095966;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04793259338;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04793468281;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04793892233;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04794185195;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795103055;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197003;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197004;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197005;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197006;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197007;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197009;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197013;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197014;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197015;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197016;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197019;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197020;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197021;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197022;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197023;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197024;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197028;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197029;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197030;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197031;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197032;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197033;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197034;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197035;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197037;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197038;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197040;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197041;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197042;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197044;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197045;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197046;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197049;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197050;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795242127;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795242780;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795483441;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795758657;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797058200;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797488108;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552803;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552804;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552805;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552806;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552807;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552809;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552810;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552811;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552812;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552813;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552814;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552815;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552816;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552817;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552820;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552821;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552823;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552829;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552830;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552831;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552832;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552833;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552834;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552835;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552836;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552837;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552838;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552839;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552840;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552842;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552843;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552844;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552846;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552847;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552848;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552849;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552850;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552852;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552853;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552854;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552855;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552856;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552857;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552858;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552859;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552860;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552861;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552862;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552865;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552866;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552867;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552868;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552869;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552870;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552871;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552872;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552873;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552875;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552879;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552880;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552881;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552882;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552883;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552884;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552885;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552886;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552887;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552888;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552891;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552892;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552894;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552895;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552896;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552897;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553300;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553302;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553304;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553305;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553306;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553307;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553308;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553309;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553311;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553312;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553313;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553315;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553316;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553317;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553318;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553319;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553321;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553322;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553323;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553324;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553325;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553326;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553327;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553328;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553329;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553330;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553332;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553333;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553334;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797657825;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797699651;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798020463;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798060139;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798241764;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798241765;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266184;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266185;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266188;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266189;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266190;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266194;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266195;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266197;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798845175;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207425;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207426;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207427;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207428;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207432;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207433;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207434;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207435;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207436;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207437;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207438;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207441;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207442;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207443;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207444;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207446;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207447;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207449;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207450;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207451;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207452;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207453;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207454;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207455;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207456;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207457;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207459;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207460;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207461;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207463;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207464;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207465;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207466;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207467;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207468;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207469;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207470;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207471;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207472;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207473;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207474;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207475;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207476;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207477;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207478;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207479;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207480;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207482;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207483;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207484;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207485;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207486;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207487;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207489;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207490;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207491;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207493;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207494;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207498;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207499;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799414433;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799454466;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04747469907;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04790751044;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197017;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197036;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197043;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197047;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04795197048;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552801;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552808;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552818;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552819;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552824;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552825;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552826;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552841;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552889;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552893;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797552898;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553301;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553303;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553310;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04797553314;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266192;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266196;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207429;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207430;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207431;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207458;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207462;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207488;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04799207492;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04740707812;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745207748;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04747469903;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04747469906;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266187;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04798266193;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester
+GSM04745392895;ODBP3;ADD;;;VFA.18.04.2016.01;Sperre for givertjenester

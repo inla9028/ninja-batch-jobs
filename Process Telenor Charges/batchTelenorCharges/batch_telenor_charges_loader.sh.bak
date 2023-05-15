@@ -1,0 +1,5 @@
+sqlplus ninjadata/ninjadata@NINJAP @delete_batch_telenor_load_temp.sql
+sqlldr userid=ninjadata/ninjadata@NINJAP control=tnor_charges.ctl data=tnor_charges.txt errors=0
+sqlplus ninjadata/ninjadata@NINJAP @delete_existing.sql
+sqlplus ninjadata/ninjadata@NINJAP @populate_into_batch_telenor_chgs_processing.sql
+

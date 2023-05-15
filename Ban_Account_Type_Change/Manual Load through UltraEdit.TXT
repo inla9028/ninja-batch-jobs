@@ -1,0 +1,5 @@
+Use Ultraedit to create the following......
+
+insert into ban_acct_type_change (trans_number, ban, account_type, account_sub_type, process_status, request_id) values (null, banNum, 'B', 'V', 'WAITING', 'JAL 13.12.2005'); 
+
+

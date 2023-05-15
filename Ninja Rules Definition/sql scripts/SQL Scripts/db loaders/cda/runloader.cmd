@@ -1,0 +1,1 @@
+sqlldr ninja/ninja@P01OL1.world -data=%1 -control=mw_tmp_table_load.ctl -errors=0

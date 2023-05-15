@@ -1,0 +1,8 @@
+758054019;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576
+886702117;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576
+467200606;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576
+790256408;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576
+176036317;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576
+430032219;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576
+127738706;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576
+433557212;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.05.22.03;1;mofa2576

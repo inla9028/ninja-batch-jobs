@@ -1,0 +1,13 @@
+load data
+into table batch_sim_replacement
+append
+fields terminated by ";" optionally enclosed by '"'
+trailing nullcols
+(
+ SUBSCRIBER_NO,
+ NEW_SIM_NO,
+ OLD_SIM_NO,
+ MEMO_TEXT,
+ REQUEST_PROCESS_DATE "TO_DATE(:REQUEST_PROCESS_DATE,'YYYYMMDDHH24MISS')",
+ REQUEST_ID
+)

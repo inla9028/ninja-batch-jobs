@@ -1,0 +1,151 @@
+U;;GSM04795940030;AARDAL;SVEIN;;MO I RANA;8608;;;;;NOR;;;;;;;svein.aardal@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;43
+U;;GSM04795940037;LØLAND AARSKOG;ELINE;;MO I RANA;8608;;;;;NOR;;;;;;;Eline.Loland.Aarskog@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;376
+U;;GSM04799534560;AASEN;TROND;;MO I RANA;8608;;;;;NOR;;;;;;;Trond.Aasen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;340
+U;;GSM04793240192;ANDERSON;JOHNNY;;MO I RANA;8608;;;;;NOR;;;;;;;johnny.anderson@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;276
+U;;GSM04799216793;ANGELSHAUG;MAGNE;;MO I RANA;8608;;;;;NOR;;;;;;;magne.angelshaug@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;487
+U;;GSM04790952587;BAKKE;EIRIK;;MO I RANA;8608;;;;;NOR;;;;;;;Eirik.Bakke@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;597
+U;;GSM04795940057;BAKKETEIG;CHRISTIAN;;MO I RANA;8608;;;;;NOR;;;;;;;christian.bakketeig@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;393
+U;;GSM04792048916;MEYER BARNES;LENE;;MO I RANA;8608;;;;;NOR;;;;;;;Lene.Meyer.Barnes@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;311
+U;;GSM04791713243;BEKKENES;SVEIN;;MO I RANA;8608;;;;;NOR;;;;;;;Svein.Norvald.Bekkenes@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;475
+U;;GSM04740247035;BERG-LARSEN;TOMMY;;MO I RANA;8608;;;;;NOR;;;;;;;tommy.berg-larsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;433
+U;;GSM04795940052;BERSTAD;SIGRUNN;;MO I RANA;8608;;;;;NOR;;;;;;;sigrunn.h.berstad@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;302
+U;;GSM04790041162;BJØRSVIK;LEIF-KJARTAN;;MO I RANA;8608;;;;;NOR;;;;;;;Leif-Kjartan.Bjorsvik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;541
+U;;GSM04797070926;GJÆRDER BRUVIK;ØYSTEIN;;MO I RANA;8608;;;;;NOR;;;;;;;Oystein.Gjarder.Bruvik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;547
+U;;GSM04747365105;BRYNIE;KAREN;;MO I RANA;8608;;;;;NOR;;;;;;;karen.brynie@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;40
+U;;GSM04798652314;CARLSON;CHRISTOPH;;MO I RANA;8608;;;;;NOR;;;;;;;christoph.carlson@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;471
+U;;GSM04799521978;CHRISTENSEN;EIRIK NORVALD;;MO I RANA;8608;;;;;NOR;;;;;;;Eirik.Christensen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;636
+U;;GSM04791619767;CYPEK;SEBASTIAN;;MO I RANA;8608;;;;;NOR;;;;;;;Sebastian.Cypek@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;492
+U;;GSM04791309142;KOLSTAD DIMMEN;INGVILD;;MO I RANA;8608;;;;;NOR;;;;;;;ingvild.dimmen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;500
+U;;GSM04741270320;DIZDAR;BAJAZID;;MO I RANA;8608;;;;;NOR;;;;;;;Bajazid.Dizdar@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;486
+U;;GSM04798637254;DRAGEIDE;VIDAR;;MO I RANA;8608;;;;;NOR;;;;;;;Vidar.Drageide@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;621
+U;;GSM04795940020;DYRØY;NINA;;MO I RANA;8608;;;;;NOR;;;;;;;Nina.Dyroy@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;428
+U;;GSM04792609269;STORRØ EDVINSEN;MONICA;;MO I RANA;8608;;;;;NOR;;;;;;;monica.storro.edvinsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;576
+U;;GSM04793851575;EGGE;CELINE;;MO I RANA;8608;;;;;NOR;;;;;;;Celine.Egge@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;473
+U;;GSM04741527523;EIDET;TORJUS;;MO I RANA;8608;;;;;NOR;;;;;;;Torjus.Eidet@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;
+U;;GSM04797660481;EKESETH;HELGE;;MO I RANA;8608;;;;;NOR;;;;;;;Helge.Ekeseth@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;588
+U;;GSM04741122221;ELIASSEN;THOMAS;;MO I RANA;8608;;;;;NOR;;;;;;;thomas.eliassen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;512
+U;;GSM04797190515;ERIKSEN;CHRIS HENRIK;;MO I RANA;8608;;;;;NOR;;;;;;;chris-henrik.eriksen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;305
+U;;GSM04795940022;ERIKSEN;SILJE;;MO I RANA;8608;;;;;NOR;;;;;;;Silje.Eriksen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;312
+U;;GSM04795962583;ESBENSEN;CATHRINE;;MO I RANA;8608;;;;;NOR;;;;;;;Cathrine.Esbensen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;400
+U;;GSM04795832618;ESPELID;MARIT;;MO I RANA;8608;;;;;NOR;;;;;;;marit.espelid@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;207
+U;;GSM04747895981;FAGERLI;JOHN - ARNE;;MO I RANA;8608;;;;;NOR;;;;;;;John-Arne.Fagerli@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;620
+U;;GSM04792022737;FIKSDAL;ANNE-CHRISTINE;;MO I RANA;8608;;;;;NOR;;;;;;;Stine.Fiksdal@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;638
+U;;GSM04741144144;FIMLAND;OLA RICHARD;;MO I RANA;8608;;;;;NOR;;;;;;;Ola.Fimland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;627
+U;;GSM04793218617;FREDRIKSEN;ANNE SOPHIE;;MO I RANA;8608;;;;;NOR;;;;;;;Anne.Fredriksen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;651
+U;;GSM04792018249;FRØYSTAD;SVEIN;;MO I RANA;8608;;;;;NOR;;;;;;;Svein.Froystad@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;365
+U;;GSM04793878267;FØLEIDE;STIG;;MO I RANA;8608;;;;;NOR;;;;;;;Stig.Foleide@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;550
+U;;GSM04799521545;GARSHOL;SIGURD;;MO I RANA;8608;;;;;NOR;;;;;;;sigurd.garshol@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;525
+U;;GSM04797775629;GJERLAND;ANNE SOFIE;;MO I RANA;8608;;;;;NOR;;;;;;;Anne.Sofie.Gjerland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;529
+U;;GSM04797503242;GUNDERSEN;HENNING;;MO I RANA;8608;;;;;NOR;;;;;;;Henning.Gundersen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;532
+U;;GSM04794819481;ASKVIK-HANSEN;CHRISTIAN;;MO I RANA;8608;;;;;NOR;;;;;;;Christian.Askvik.Hansen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;662
+U;;GSM04795940065;BERGE HANSEN;GEIR;;MO I RANA;8608;;;;;NOR;;;;;;;Geir.Berge.Hansen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;256
+U;;GSM04795940015;HATLAND;ØRJAN;;MO I RANA;8608;;;;;NOR;;;;;;;Orjan.Hatland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;484
+U;;GSM04797181197;HEGGHOLMEN;MARIUS;;MO I RANA;8608;;;;;NOR;;;;;;;Marius.Heggholmen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;476
+U;;GSM04795784836;HELVIK;MARIANNE;;MO I RANA;8608;;;;;NOR;;;;;;;Marianne.Helvik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;389
+U;;GSM04791692852;HERNÆS;CHRISTOFFER;;MO I RANA;8608;;;;;NOR;;;;;;;Christoffer.Hernaes@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;669
+U;;GSM04792601109;HISDAL;PER AXEL;;MO I RANA;8608;;;;;NOR;;;;;;;Per.Axel.Hisdal@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;664
+U;;GSM04747300411;HOLMSTRØM;TOM;;MO I RANA;8608;;;;;NOR;;;;;;;Tom.Holmstrom@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;436
+U;;GSM04799500379;HOVDEVIK;HARALD;;MO I RANA;8608;;;;;NOR;;;;;;;Harald.Hovdevik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;508
+U;;GSM04795940071;HOWELL;DANIELE MARY;;MO I RANA;8608;;;;;NOR;;;;;;;daniele.howell@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;435
+U;;GSM04790162046;HUANG;ZHENG;;MO I RANA;8608;;;;;NOR;;;;;;;Zheng.Huang@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;575
+U;;GSM04745504970;HUSEBØ;ØYSTEIN;;MO I RANA;8608;;;;;NOR;;;;;;;Oystein.Husebo@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;639
+U;;GSM04747895938;HYLLAND;ANNE BETH;;MO I RANA;8608;;;;;NOR;;;;;;;Anne.Beth.Hylland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;322
+U;;GSM04795912960;HØGH;KRISTIN;;MO I RANA;8608;;;;;NOR;;;;;;;Kristin.Hogh@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;445
+U;;GSM04795940041;HØGHEIM;KARI;;MO I RANA;8608;;;;;NOR;;;;;;;kari.hogheim@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;54
+U;;GSM04746409660;IGLAND;KENT A;;MO I RANA;8608;;;;;NOR;;;;;;;Kent.Andre.Igland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;280
+U;;GSM04797414331;ISLAND;MARCUS;;MO I RANA;8608;;;;;NOR;;;;;;;marcus.island@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;446
+U;;GSM04741619821;SUNDE JOHNSEN;ANNE;;MO I RANA;8608;;;;;NOR;;;;;;;Anne.SundeJohnsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;511
+U;;GSM04799472940;STEGELVIK JOHNSEN;LINDA;;MO I RANA;8608;;;;;NOR;;;;;;;Linda.Stegelvik.Johnsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;574
+U;;GSM04748605320;KALLESTAD;HELENE;;MO I RANA;8608;;;;;NOR;;;;;;;helene.kallestad@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;472
+U;;GSM04799560703;KANESTRØM;ERIK;;MO I RANA;8608;;;;;NOR;;;;;;;erik.kanestrom@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;594
+U;;GSM04795940054;KARLSEN;FRANK;;MO I RANA;8608;;;;;NOR;;;;;;;frank.karlsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;468
+U;;GSM04795940050;KASPERSEN;JOHN;;MO I RANA;8608;;;;;NOR;;;;;;;john.kaspersen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;624
+U;;GSM04795940021;CLEMENTSEN KAYER;KAREN-MARIE;;MO I RANA;8608;;;;;NOR;;;;;;;karen.kayser@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;258
+U;;GSM04793218751;KIM;SNORRE;;MO I RANA;8608;;;;;NOR;;;;;;;snorre.kim@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;542
+U;;GSM04747015824;SANDTORV KINDT;TRINE;;MO I RANA;8608;;;;;NOR;;;;;;;trine.sandtorv.kindt@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;477
+U;;GSM04795940033;KJÆRVIK;TORBJØRN;;MO I RANA;8608;;;;;NOR;;;;;;;Torbjorn.Kjaervik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;331
+U;;GSM04798854230;KNUDSEN;CHRISTIN;;MO I RANA;8608;;;;;NOR;;;;;;;christin.knudsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;228
+U;;GSM04792434622;SKARTVEIT KNUTSEN;ANNE BJØRG;;MO I RANA;8608;;;;;NOR;;;;;;;anne.bjorg.skartveit.knutsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;288
+U;;GSM04792417571;KROKVIK;MAGNE;;MO I RANA;8608;;;;;NOR;;;;;;;magne.krokvik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;527
+U;;GSM04793011980;KVÅLE;INGUNN;;MO I RANA;8608;;;;;NOR;;;;;;;ingunn.kvale@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;60
+U;;GSM04792428289;LANGEDAL;ISELIN;;MO I RANA;8608;;;;;NOR;;;;;;;iselin.langedal@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;515
+U;;GSM04795940045;LARSEN;OLE B;;MO I RANA;8608;;;;;NOR;;;;;;;ole.b.larsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;96
+U;;GSM04792056235;LEINAN;HÅKON;;MO I RANA;8608;;;;;NOR;;;;;;;Hakon.Leinan@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;570
+U;;GSM04747604629;LERSTAD;ANN CATHRINE;;MO I RANA;8608;;;;;NOR;;;;;;;Ann.Cathrine.Lerstad@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;666
+U;;GSM04795940043;LIABØ BLINDHEIM;BENTE;;MO I RANA;8608;;;;;NOR;;;;;;;bente.blindheim.liabo@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;51
+U;;GSM04799717908;LIBY;EIRIN;;MO I RANA;8608;;;;;NOR;;;;;;;eirin.liby@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;396
+U;;GSM04797689851;LILLEJORD;JARLE;;MO I RANA;8608;;;;;NOR;;;;;;;Jarle.Lillejord@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;329
+U;;GSM04792029579;ØSTGAARD LJØEN;SILJE;;MO I RANA;8608;;;;;NOR;;;;;;;silje.ostgaard.ljoen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;379
+U;;GSM04746409630;MEYER LUND;EVA THERESE;;MO I RANA;8608;;;;;NOR;;;;;;;Eva.Therese.Meyer.Lund@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;315
+U;;GSM04740455233;GJELLESTAD LØTVEIT;JØRGEN;;MO I RANA;8608;;;;;NOR;;;;;;;joergen.loetveit@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;313
+U;;GSM04747409381;MALDONADO;ISABEL;;MO I RANA;8608;;;;;NOR;;;;;;;Isabel.Maldonado@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;390
+U;;GSM04793226245;MARTINSEN;HALVARD;;MO I RANA;8608;;;;;NOR;;;;;;;Halvard.Martinsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;543
+U;;GSM04797011991;MELSET;MARTHE;;MO I RANA;8608;;;;;NOR;;;;;;;Marthe.Melset@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;663
+U;;GSM04746409637;MJELDE;BERIT;;MO I RANA;8608;;;;;NOR;;;;;;;berit.mjelde@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;58
+U;;GSM04747335703;MÆLAND;ARLIN OPSAHL;;MO I RANA;8608;;;;;NOR;;;;;;;Arlin.Maland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;623
+U;;GSM04793226220;NERHEIM;LEIF;;MO I RANA;8608;;;;;NOR;;;;;;;leif.nerheim@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;295
+U;;GSM04740221933;NESTÅS;LARS;;MO I RANA;8608;;;;;NOR;;;;;;;Lars.Nestas@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;563
+U;;GSM04795940061;NILSEN;HENNING COUILL;;MO I RANA;8608;;;;;NOR;;;;;;;henning.nilsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;199
+U;;GSM04795940076;NORDEIDE;KAREN ANITA;;MO I RANA;8608;;;;;NOR;;;;;;;karen.anita.nordeide@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;42
+U;;GSM04795265990;NORDGULEN;HENNING;;MO I RANA;8608;;;;;NOR;;;;;;;henning.nordgulen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;622
+U;;GSM04741616566;NORDNES;CHRISTER;;MO I RANA;8608;;;;;NOR;;;;;;;Christer.Nordnes@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;424
+U;;GSM04791578748;OLSEN;RUBEN;;MO I RANA;8608;;;;;NOR;;;;;;;ruben.olsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;679
+U;;GSM04795406886;ORDERUD;FRØYDIS;;MO I RANA;8608;;;;;NOR;;;;;;;Froydis.Orderud@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;596
+U;;GSM04798264838;OTTERBU;TRINE;;MO I RANA;8608;;;;;NOR;;;;;;;trine.arhus@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;76
+U;;GSM04792833825;PERSSON;KENT;;MO I RANA;8608;;;;;NOR;;;;;;;kent.persson@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;491
+U;;GSM04791323461;REBNOR;BENTE;;MO I RANA;8608;;;;;NOR;;;;;;;bente.rebnor@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;24
+U;;GSM04795940013;REFSLAND;THOMAS;;MO I RANA;8608;;;;;NOR;;;;;;;thomas.refsland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;413
+U;;GSM04795770795;REIGSTAD;VIBEKE;;MO I RANA;8608;;;;;NOR;;;;;;;vibeke.reigstad@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;249
+U;;GSM04795940026;REKDALSBAKKEN;MARTHE;;MO I RANA;8608;;;;;NOR;;;;;;;marthe.rekdalsbakken@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;328
+U;;GSM04792046590;ROGNALDSEN;LARS TORKEL;;MO I RANA;8608;;;;;NOR;;;;;;;lars.rognaldsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;178
+U;;GSM04799277256;GIIL ROLLAND;SIRI;;MO I RANA;8608;;;;;NOR;;;;;;;Siri.Giil.Rolland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;455
+U;;GSM04741638642;SALOMONSEN;KJETIL;;MO I RANA;8608;;;;;NOR;;;;;;;kjetil.salomomsem@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;438
+U;;GSM04791845416;SAMUELSEN;KRISTIAN;;MO I RANA;8608;;;;;NOR;;;;;;;kristian.samuelsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;485
+U;;GSM04798488912;SANDØY;SVENN-ARE NORD;;MO I RANA;8608;;;;;NOR;;;;;;;Svenn-Are.SandoyNordvik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;671
+U;;GSM04795940072;SCHEIE;JARLE;;MO I RANA;8608;;;;;NOR;;;;;;;jarle.scheie@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;197
+U;;GSM04797162171;SELSENG;BREDE HOVLAND;;MO I RANA;8608;;;;;NOR;;;;;;;Brede.Selseng@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;653
+U;;GSM04798618036;SELVEN;MAGNUS;;MO I RANA;8608;;;;;NOR;;;;;;;magnus.selven@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;488
+U;;GSM04795940014;SENUM;GUNNAR;;MO I RANA;8608;;;;;NOR;;;;;;;gunnar.senum@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;25
+U;;GSM04795940049;SIVERTSEN;METTE;;MO I RANA;8608;;;;;NOR;;;;;;;mette.sivertsen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;480
+U;;GSM04799100300;SKJELVIK;DAG;;MO I RANA;8608;;;;;NOR;;;;;;;Dag.Skjelvik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;451
+U;;GSM04795940024;SKOGEN;EIRUNN;;MO I RANA;8608;;;;;NOR;;;;;;;eirunn.skogen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;101
+U;;GSM04795940062;SKORVE;GRETHE;;MO I RANA;8608;;;;;NOR;;;;;;;grethe.skorve@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;26
+U;;GSM04741567697;SKÅLNES;LIV SUNNIVA;;MO I RANA;8608;;;;;NOR;;;;;;;Liv.Sunniva.Skalnes@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;97
+U;;GSM04740887545;SMESTAD;GEIR;;MO I RANA;8608;;;;;NOR;;;;;;;geir.smedstad@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;598
+U;;GSM04797567126;SMITH;SIREN;;MO I RANA;8608;;;;;NOR;;;;;;;siren.smith@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;332
+U;;GSM04792622783;SNIBSØER;ØYVIND;;MO I RANA;8608;;;;;NOR;;;;;;;Oyvind.Snibsoer@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;408
+U;;GSM04790726447;SOLHEIM;KJETIL;;MO I RANA;8608;;;;;NOR;;;;;;;kjetil.solheim@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;415
+U;;GSM04795940067;DAHL SOMMERRO;CECILIE;;MO I RANA;8608;;;;;NOR;;;;;;;Cecilie.Dahl.Sommerro@Skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;175
+U;;GSM04795940029;STAKSENG;SVEN IVAR;;MO I RANA;8608;;;;;NOR;;;;;;;Sven.Ivar.Stakseng@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;416
+U;;GSM04790535848;STENSETH;KARI;;MO I RANA;8608;;;;;NOR;;;;;;;Kari.Stenseth@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;457
+U;;GSM04790010903;STJERNBERG;JOHN-HENRY;;MO I RANA;8608;;;;;NOR;;;;;;;john-henry.stjernberg@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;214
+U;;GSM04747249027;STOREBØ;GUNNAR;;MO I RANA;8608;;;;;NOR;;;;;;;gunnar.storebo@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;395
+U;;GSM04795241624;STRAND;JOHN FRODE;;MO I RANA;8608;;;;;NOR;;;;;;;john.frode.strand@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;498
+U;;GSM04792460282;STRØM;TERJE;;MO I RANA;8608;;;;;NOR;;;;;;;terje.strom@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;513
+U;;GSM04791688704;TELLE;ØYVIND;;MO I RANA;8608;;;;;NOR;;;;;;;Oyvind.Telle@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;628
+U;;GSM04790989675;TELLNES;JØRGEN;;MO I RANA;8608;;;;;NOR;;;;;;;Jorgen.Tellnes@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;549
+U;;GSM04741393229;TERFORT;PHILIP;;MO I RANA;8608;;;;;NOR;;;;;;;philipp.terfort@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;454
+U;;GSM04795940075;TERWINDT;MARIANN;;MO I RANA;8608;;;;;NOR;;;;;;;mariann.terwindt@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;381
+U;;GSM04790881390;TJERVAAG;TERJE;;MO I RANA;8608;;;;;NOR;;;;;;;terje.tjervaag@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;654
+U;;GSM04798227646;TJERVAAG;ØYVIND;;MO I RANA;8608;;;;;NOR;;;;;;;Oyvind.Tjervaag@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;
+U;;GSM04741431207;TJØSTHEIM;THOMAS;;MO I RANA;8608;;;;;NOR;;;;;;;Thomas.Tjostheim@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;482
+U;;GSM04747623593;TONNING;JENS-PETTER;;MO I RANA;8608;;;;;NOR;;;;;;;Jens-Petter.Valaker.Tonning@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;501
+U;;GSM04740404085;TVEDT;VERONICA;;MO I RANA;8608;;;;;NOR;;;;;;;veronica.tvedt@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;399
+U;;GSM04798264835;TÖRRISPLASS;MAJ-NAN;;MO I RANA;8608;;;;;NOR;;;;;;;maj-nan.torrisplass@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;59
+U;;GSM04795940066;UNNELAND;ANITA;;MO I RANA;8608;;;;;NOR;;;;;;;anita.unneland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;89
+U;;GSM04795940035;URDAL;HARALD;;MO I RANA;8608;;;;;NOR;;;;;;;harald.urdal@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;392
+U;;GSM04795940078;URÅS;EVY;;MO I RANA;8608;;;;;NOR;;;;;;;evy.uras@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;231
+U;;GSM04795940012;VACARISAS;HELENE;;MO I RANA;8608;;;;;NOR;;;;;;;Helene.Vacarisas@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;281
+U;;GSM04795940039;VALEVATN;JOAR;;MO I RANA;8608;;;;;NOR;;;;;;;joar.valevatn@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;33
+U;;GSM04793084080;VALLAND;ANNA GUDRUN;;MO I RANA;8608;;;;;NOR;;;;;;;anna.gudrun.valland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;193
+U;;GSM04741269025;VELAND;ELIN;;MO I RANA;8608;;;;;NOR;;;;;;;elin.veland@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;49
+U;;GSM04748173612;VONHEIM;BEATE;;MO I RANA;8608;;;;;NOR;;;;;;;beate.vonheim@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;403
+U;;GSM04795260833;VÅGSHOLM;INGEBORG FAYE;;MO I RANA;8608;;;;;NOR;;;;;;;Ingeborg.Vagsholm@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;667
+U;;GSM04791395548;WAKEFIELD;ANDREW;;MO I RANA;8608;;;;;NOR;;;;;;;andrew.wakefield@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;353
+U;;GSM04795940036;WALDROP;METTE;;MO I RANA;8608;;;;;NOR;;;;;;;mette.waldrop@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;278
+U;;GSM04797591872;ZAHL-PETTERSEN;STEIN;;MO I RANA;8608;;;;;NOR;;;;;;;Stein.Zahl-Pettersen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;388
+U;;GSM04793059641;ØGREID;LARS;;MO I RANA;8608;;;;;NOR;;;;;;;Lars.Ogreid@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;564
+U;;GSM04799235787;ØSTVIK;TOR ERIK;;MO I RANA;8608;;;;;NOR;;;;;;;Tor.Ostvik@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;650
+U;;GSM04792220727;ØYE;ANDREAS;;MO I RANA;8608;;;;;NOR;;;;;;;Andreas.Oye@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;453
+U;;GSM04792203358;ØYEN;JANNICHE;;MO I RANA;8608;;;;;NOR;;;;;;;Janniche.Oyen@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;546
+U;;GSM04795940038;ØYHOVDEN;MAGNAR;;MO I RANA;8608;;;;;NOR;;;;;;;magnar.oyhovden@skandiabanken.no;;;;;;;2017.03.28.01;AFL.28.03.2017;;;;279

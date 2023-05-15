@@ -1,0 +1,14 @@
+U;;04794504287;Avdelingstelefon logistikk;Avdelingstelefon logistikk;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504288;Avdelingstelefon logistikk;Avdelingstelefon logistikk;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504289;Konferanse Food Moss;Konferanse Food Moss;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-045
+U;;04794504290;Hageengen Ringdal;Martine;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504291;Urkedal;Kristin;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04794504292;Willassen Schmelck;Veronica;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794504293;Berger;Lisbet;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-001
+U;;04794504294;Frohaug;Berit;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504296;Avdelingstelefon metall;Avdelingstelefon metall;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-062
+U;;04794504297;Danielsen;Karin;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504298;Kleive;Ingeborg;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-098
+U;;04794504299;Ellingsen;Anne Lise;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04794510121;Tokerud;Jorn;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-069
+U;;04795868705;Roraas;Anne Britt;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-001

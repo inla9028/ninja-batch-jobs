@@ -1,0 +1,8 @@
+398221218;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892
+233601210;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892
+233601210;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892
+352952410;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892
+996568606;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892
+119653210;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892
+721203909;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892
+631252418;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2018.11.12.01;1;beon8892

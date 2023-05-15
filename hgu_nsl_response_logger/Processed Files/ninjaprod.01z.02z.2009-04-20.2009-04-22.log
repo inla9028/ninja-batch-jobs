@@ -1,0 +1,51 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Thu Apr 23 13:45:02 2009
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   hgu_response.ctl
+Data File:      ninjaprod.01z.02z.2009-04-20.2009-04-22.txt
+  Bad File:     ninjaprod.01z.02z.2009-04-20.2009-04-22.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table HGU_NSL_RESPONSE_LOGGER, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SERVER_NAME                         FIRST     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") DATETIME YYYY-MM-DD HH24:MI:SS,FF3
+PROCESS_NAME                         NEXT     *   ;  O(") CHARACTER            
+DURATION                             NEXT     *   ;  O(") CHARACTER            
+
+
+Table HGU_NSL_RESPONSE_LOGGER:
+  210316 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  66048 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:        210316
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Thu Apr 23 13:45:02 2009
+Run ended on Thu Apr 23 13:46:28 2009
+
+Elapsed time was:     00:01:25.99
+CPU time was:         00:00:02.28

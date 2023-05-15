@@ -1,0 +1,295 @@
+U;487103905;GSM04790033930;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04741428800;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;KMMA004183
+U;487103905;GSM04741432305;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MYNN110582/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04741554426;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MSUA110383/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04741670392;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04741670393;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04741670427;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04741670511;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TTDS000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04741859632;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MPUD509973
+U;487103905;GSM04746865457;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04746941114;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04747302586;Roalsø;Martin;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;20450/XXXXXXXXXX/ROALSØ, MARTIN
+U;487103905;GSM04747325993;Vassvik;Ingunn;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;17929/XXXXXXXXXX/VASSVIK, INGUNN
+U;487103905;GSM04747326445;Bølviken;Jon Iver;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;20397/XXXXXXXXXX/BØLVIKEN, JON IVER
+U;487103905;GSM04747396557;Bjercke;Hege;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;17612
+U;487103905;GSM04748004351;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MYNN110582
+U;487103905;GSM04748036413;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;TDIR050585
+U;487103905;GSM04748036426;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TDIR050585/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748162754;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MUHA111283/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748162757;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/KMNU000109/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748162765;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MDOL110183
+U;487103905;GSM04748162768;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748162783;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/ASKA520063/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748300351;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/KUTV100083/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748300352;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/KUTV100083/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748300362;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;KKDI000183
+U;487103905;GSM04748300462;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MDOL110183
+U;487103905;GSM04748300496;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04748300520;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790038400;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TDBK000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790079207;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790082713;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790084989;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TDBK000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790128013;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TDIR000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790141544;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790195339;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/ASDB000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790198457;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TPSI000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790208853;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MDOL110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790276347;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/KMNU000109/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790279310;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MNBE971563
+U;487103905;GSM04790280948;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNBE971563/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790289797;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/ASDV000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790504406;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;KMNY003183
+U;487103905;GSM04790505614;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TBLM000285/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790528890;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;TDBK000085
+U;487103905;GSM04790555123;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790561328;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790611895;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/KMNU000109/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790643620;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MATY111083/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790845894;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790869669;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TPSV000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790981008;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04790984402;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TDBK000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791142371;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/ASLT764663/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791142377;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;19480/XXXXXXXXXX/MEHL SVEIN
+U;487103905;GSM04791391155;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MPUD509973
+U;487103905;GSM04791513636;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TPSV000063/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791558413;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791576316;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791646179;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPAR110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791687106;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791753834;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791757324;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791839236;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/ASDV000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791853082;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04791917452;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;KSSR003583
+U;487103905;GSM04792673873;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MYNF110682/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04792698900;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794139557;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MSUA110383/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794792537;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD999973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794806038;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY113583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794810829;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794810831;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794810834;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794810852;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794811362;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY113583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04794882931;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795039613;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MDOL110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795039616;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MDOL110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795039725;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795100274;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795103053;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MYNF110682/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795265007;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795265008;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795292758;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MUHA111183
+U;487103905;GSM04795428617;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795486875;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;KMNY003583
+U;487103905;GSM04795702496;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TTDO000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795725544;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;14931/XXXXXXXXXX/HANSEN ERIK
+U;487103905;GSM04795776329;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795776397;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795776427;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795776436;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795776447;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795776481;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795793224;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TPSS000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04795879704;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/KMRA002183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237243;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TTDD000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237255;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TTDD000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237263;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237265;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237266;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TPSI000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237269;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237283;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MDOL110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04796237290;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797467536;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TTDI000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797473740;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TTDI000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797564664;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797646935;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797702818;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TDBK000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797702845;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797702912;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/ASKA520082/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797722554;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MDOL110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797747342;Ramberg;Nina;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;17692/XXXXXXXXXX/RAMBERG, NINA
+U;487103905;GSM04797953920;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04797963828;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MDOL110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799231070;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TDBK000085/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799248712;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING HF5
+U;487103905;GSM04799254685;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MABI111073/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799260236;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/TR 27
+U;487103905;GSM04799349000;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MDOL110183/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799514684;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD209973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799542011;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799542012;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MNNY115583/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799555560;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799555665;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/MPUD509973/NORSK RIKSKRINGKASTING AS, .
+U;487103905;GSM04799557130;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;MNNY115583
+U;487103905;GSM04799558794;Norsk rikskringkasting AS;.;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/TPSS000085/NORSK RIKSKRINGKASTING AS, .
+U;687103903;GSM04747318671;Bagge;Hilde;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;18258/XXXXXXXXXX/BAGGE, HILDE
+U;687103903;GSM04747334084;Hagen;Jørgen Aune;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;14487/XXXXXXXXXX/HAGEN, JØRGEN AUNE
+U;687103903;GSM04791104473;Rosendal;Marit;;Oslo;0340;;Bjørnstjerne Bjørnsons plass 1;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;11416/XXXXXXXXXX/ROSENDAL, MARIT
+U;877191908;GSM04741478111;Norsk rikskringkasting AS;.;;Tromsø;9006;;Krognessvegen 29;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DNYF235583/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04741506815;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04741534001;Norsk rikskringkasting AS;.;;Tromsø;9006;;Krognessvegen 29;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DNTF100010/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04741534002;Norsk rikskringkasting AS;.;;Tromsø;9006;;Krognessvegen 29;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DNTF100010/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04741534013;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04741534014;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKTT830083
+U;877191908;GSM04741534015;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKOP600083
+U;877191908;GSM04741534016;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04741534018;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS820083/ØSTFOLD, NRK
+U;877191908;GSM04741539902;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DMND521183
+U;877191908;GSM04741539904;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND523285/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04741539905;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND523285/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04741539909;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521183/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04741553429;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04741645614;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04747309719;Andresen;Nils Gelting;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;17401/XXXXXXXXXX/ANDRESEN, NILS GELTING
+U;877191908;GSM04747603203;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND523285/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04747674780;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPM641083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04747674850;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMNH551083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04747704193;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04747869088;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMAF252585/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04747883262;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04747891226;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04748033350;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMTE301083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04748033470;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMTE301083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04748041210;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND523285/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04748047336;Baggerånås;Elin M.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;18080/XXXXXXXXXX/BAGGERÅNÅS, ELIN M.
+U;877191908;GSM04748119265;NRK Rogaland;.;;Stavanger;4021;;Kringkasterveien 11;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKRO870085/ROGALAND, NRK
+U;877191908;GSM04748159950;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04748162777;Norsk rikskringkasting AS;.;;Tromsø;9006;;Krognessvegen 29;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DNYF235583/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04748200169;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521183/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04748219911;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04748219912;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04748219913;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKOA830083
+U;877191908;GSM04748219914;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04748219915;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04748219916;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04748219917;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04748219918;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKOA830083
+U;877191908;GSM04748222581;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04748272511;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DMND523285
+U;877191908;GSM04790056497;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04790104864;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04790159468;NRK Rogaland;.;;Stavanger;4021;;Kringkasterveien 11;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKRO870085/ROGALAND, NRK
+U;877191908;GSM04790162170;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04790272856;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790279219;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKSL830083
+U;877191908;GSM04790279513;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04790289486;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790518706;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790554735;Engen;Erik;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;21505
+U;877191908;GSM04790630365;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKSL830083
+U;877191908;GSM04790630398;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04790630402;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04790675418;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04790703913;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04790739507;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMTE301083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790742391;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND523285/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790749412;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DMND523285
+U;877191908;GSM04790892757;Norsk rikskringkasting AS;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA
+U;877191908;GSM04790898377;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMTE301083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790947238;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DVNY750083
+U;877191908;GSM04790981002;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790981003;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790981004;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DMND521083
+U;877191908;GSM04790981005;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04790981006;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791102648;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04791102674;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04791104533;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04791104534;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04791126240;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPA661083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791126399;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04791178685;NRK Rogaland;.;;Stavanger;4021;;Kringkasterveien 11;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKRO870085/ROGALAND, NRK
+U;877191908;GSM04791186393;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04791186685;NRK Mo i Rana;.;;Mo i Rana;8607;;Postboks 600;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/AFLI001085/MO I RANA, NRK
+U;877191908;GSM04791314072;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04791314082;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA
+U;877191908;GSM04791314092;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04791314148;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04791510637;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPF701083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791569422;NRK Rogaland;.;;Stavanger;4021;;Kringkasterveien 11;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKRO870085/ROGALAND, NRK
+U;877191908;GSM04791633754;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04791646171;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04791646182;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04791646183;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04791654101;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791654102;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791654103;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791654104;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791654105;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791683820;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04791684222;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04791687929;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04791692039;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04791699678;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791713515;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKSL830083
+U;877191908;GSM04791721463;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04791721486;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04791721487;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04791722415;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DVNY750083
+U;877191908;GSM04791725981;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791741759;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPA661083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791741769;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPA661083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791742554;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791794117;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04791826490;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPF701083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791839878;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPT621083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791849528;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMTE301083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791869601;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMTE301083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791874101;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874102;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874103;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874104;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874106;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874107;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874108;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874120;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874123;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874124;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874125;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04791874127;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVAD880083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04791874140;NRK Møre og Romsdal;.;;Ålesund;6025;;Parkgata 6;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKMR820083/MØRE OG ROMSDAL, NRK
+U;877191908;GSM04792438473;Folgerø;Halvor;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;15352/XXXXXXXXXX/FOLGERØ, HALVOR
+U;877191908;GSM04795040061;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMNH551083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04795104729;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04795116281;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521183/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04795169572;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DKOA830083
+U;877191908;GSM04795173504;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04795216120;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04795234200;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMND521183/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04795251952;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04795454417;NRK Østafjells;.;;Tønsberg;3110;;Øvre Langgate 50;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/ØSTAFJELLS, NRK
+U;877191908;GSM04795770754;NRK Sørlandet;.;;Kristiansand S;4608;;Julius Hougens pl. 2;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKSL830083/NRK SØRLANDET, .
+U;877191908;GSM04795820841;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04795921621;Norsk rikskringkasting AS;.;;Tromsø;9006;;Krognessvegen 29;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DNYF235583/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04797037025;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04797093304;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DMND523285
+U;877191908;GSM04797122966;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;C;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPM641083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04797630548;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04797659014;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04797671855;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04797673037;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04797700678;NRK Hedmark og Oppland;.;;Lillehammer;2626;;Storhove;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOP600083/NRK HEDMARK OG OPPLAND, .
+U;877191908;GSM04797717831;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04797719281;NRK Østfold;.;;Gamle Fredrikstad;1631;;Tøihusgt. 43/44;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOS830083/ØSTFOLD, NRK
+U;877191908;GSM04797747668;NRK Østlandssendingen;.;;Oslo;0473;;Sandakerveien 24 C;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKOA830083/ØSTLANDSSENDINGEN, NRK
+U;877191908;GSM04798473357;Tonning;Ståle;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;19310
+U;877191908;GSM04799257334;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04799260964;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04799261439;NRK Østafjells;.;;Drammen;3045;;Grønland 32 B;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKTT830083/NRK ØSTAFJELLS, .
+U;877191908;GSM04799408415;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DMPM641083
+U;877191908;GSM04799485690;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPA661083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799488590;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMPA661083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799533735;Norsk rikskringkasting AS;.;;Trondheim;7052;;Otto Nielsens veg 2;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DMTE301083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799539445;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799539446;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799539447;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799539448;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVNY750083/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799539449;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;DVNY750083
+U;877191908;GSM04799539505;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVTE310183/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799539513;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVTE310183/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799539516;Norsk rikskringkasting AS;.;;Bergen;5068;;Kanalveien 90;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DVTE330183/NORSK RIKSKRINGKASTING AS, .
+U;877191908;GSM04799564102;NRK Rogaland;.;;Stavanger;4021;;Kringkasterveien 11;;;NOR;;;;;;;;;X;;;;;ORA 24.08.2011;ORA;;;;;99999/DKRO870085/ROGALAND, NRK

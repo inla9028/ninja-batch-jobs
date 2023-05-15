@@ -1,0 +1,6 @@
+U;;04797101125;Hauger;Lars Christen;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04797186420;Kvernstad Hansen;Kine;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04797710037;Rosen;Anita;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-045
+U;;04799021554;Skurtveit;Tonje Birgitte;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-031
+U;;04799159288;Meidell Andenæs;Erlend;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061
+U;;04799412236;Sjoberg;Beate;;MOSS;1538;;;;;NOR;;;;;;;;;;;;;;hebi8263;hebi8263 24.11.2015;;;;3-061

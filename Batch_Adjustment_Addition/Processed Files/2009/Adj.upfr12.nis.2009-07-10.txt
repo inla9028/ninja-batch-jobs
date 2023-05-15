@@ -1,0 +1,132 @@
+;04741323207;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04792436095;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04790769583;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04792421898;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04792451204;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04791564720;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04793463332;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04745287939;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04795778838;UPFR12;Ringetid kampanje 600;Ringetid kampanje;600;;;;;NIS 10.07.09;1;NIS
+;04748181216;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04741224826;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04791778488;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04795968667;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04745428969;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04791162807;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04795270682;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792484470;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792618044;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04740557465;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04746445587;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04793800121;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792298225;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04748204113;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792848651;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792443481;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792627310;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04795033095;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792426542;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792611806;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792227411;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04790065103;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04798616756;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792643101;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04741504764;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04792041602;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04793680870;UPFR12;Ringetid kampanje 900;Ringetid kampanje;900;;;;;NIS 10.07.09;1;NIS
+;04797547556;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04793099224;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04740551416;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04792242880;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04793878987;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04798809207;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04798451355;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04793077730;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04748272778;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04741434394;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04793090250;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04746748746;UPFR12;Ringetid kampanje 1200;Ringetid kampanje;1200;;;;;NIS 10.07.09;1;NIS
+;04790512866;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04745292178;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04748866758;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04745393576;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04745397312;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04791355399;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04791857781;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04748252697;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04797783328;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04746748728;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04746748731;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04746748735;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1500;;;;;NIS 10.07.09;1;NIS
+;04792644230;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1800;;;;;NIS 10.07.09;1;NIS
+;04745278523;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1800;;;;;NIS 10.07.09;1;NIS
+;04792699750;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1800;;;;;NIS 10.07.09;1;NIS
+;04798811943;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1800;;;;;NIS 10.07.09;1;NIS
+;04798865702;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1800;;;;;NIS 10.07.09;1;NIS
+;04792429443;UPFR12;Ringetid kampanje 1500;Ringetid kampanje;1800;;;;;NIS 10.07.09;1;NIS
+;04795147259;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793005768;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792476886;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792477005;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04746742572;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741414427;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792672988;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04745398687;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793248266;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04745869882;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792249947;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04795038854;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04740604856;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04791608241;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04799547619;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04791555860;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793268403;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04748224421;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741658889;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04799100332;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04795902629;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04799100824;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793231384;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04795295713;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741655168;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792053496;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790542710;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04799521840;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04797067157;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04797582861;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790507518;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793265734;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793261348;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741658887;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741479169;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04740493206;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793005709;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04740453725;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790507662;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04799244377;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741548283;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04740620490;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793268192;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741658943;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792043293;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793255738;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790888943;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04791847278;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792027347;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790854694;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790136748;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790561482;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04790144405;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04791757313;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04798266653;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04799608951;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04799593804;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792491213;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741601483;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04795801186;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741658907;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04746506838;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04793094180;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04791540129;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04792483972;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK
+;04741548325;KORFAK;Engangsjustering ref. anfl1690;Engangsjustering;300;;;;;CSK 10.07.09;;CSK

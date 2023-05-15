@@ -1,0 +1,25 @@
+Hi..
+
+This is a batch-job to replace one soc with another soc.
+
+The records are first loaded into the table ninjateam.hgu_tmp_clone....
+
++---------------+---------------+
+| NAME          | Type          |
++---------------+---------------+
+| SUBSCRIBER_NO | VARCHAR2(18)  |
+| SOC_OLD       | VARCHAR2(9)   |
+| SOC_NEW       | VARCHAR2(9)   |
+| REQUEST_TIME  | DATE          |
+| PRIORITY      | NUMBER(1,0)   |
+| REQUEST_ID    | VARCHAR2(30)  |
+| MEMO_TEXT     | VARCHAR2(300) |
++---------------+---------------+
+
+Once in that table, they can be loaded into ninjarules.master_transactions
+using the stored procedures:
+
+* ninjateam.hgu_procs.load_master_trans_clone
+
+..Regards
+..Håkan

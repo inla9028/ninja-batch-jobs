@@ -1,0 +1,53 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Wed Oct 23 11:51:27 2013
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   batch_marketing_indicator_update.ctl
+Data File:      Change_Marketing_Indicator_PTTEST.csv
+  Bad File:     Change_Marketing_Indicator_PTTEST.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MARKETING_INDICATOR_UPDATE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+MARKETING_INDICATOR                  NEXT     *   ;  O(") CHARACTER            
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+
+
+Table MARKETING_INDICATOR_UPDATE:
+  99 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  99072 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:            99
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Oct 23 11:51:27 2013
+Run ended on Wed Oct 23 11:51:29 2013
+
+Elapsed time was:     00:00:02.62
+CPU time was:         00:00:00.11

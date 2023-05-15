@@ -1,0 +1,10 @@
+ninjaprod01z;2009-04-20 00:00:07,289;v1_3_getSubscriptionDataExecutor;2980
+ninjaprod01z;2009-04-20 00:00:08,483;v1_3_getSubscriptionDataExecutor;146
+ninjaprod01z;2009-04-20 00:00:10,621;v1_2_getSubscriptionDetailsExecutor;2076
+ninjaprod01z;2009-04-20 00:00:12,581;getDealerGroupExecutor;121
+ninjaprod01z;2009-04-20 00:00:12,793;getAvailableTelephoneNumbersExecutor;161
+ninjaprod01z;2009-04-20 00:00:12,797;v1_2_getWirelessFamilySubscribersExecutor;4204
+ninjaprod01z;2009-04-20 00:00:13,234;v1_2_getSubscriptionDataExecutor;133
+ninjaprod01z;2009-04-20 00:00:16,037;v1_2_getAdditionalProductsExecutor;2209
+ninjaprod01z;2009-04-20 00:00:17,814;getDealerGroupExecutor;119
+ninjaprod01z;2009-04-20 00:00:18,513;assignTelephoneNumberExecutor;286

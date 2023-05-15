@@ -1,0 +1,229 @@
+U;;GSM04792051967;Aas-Aune; Siri Benedicte;;Fredrikstad;1605;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130478
+U;;GSM04795941178;Aass; Torbjørn;;Trondheim;7031;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130375
+U;;GSM04790060271;Afdal; Øystein;;ASKER;1386;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130155
+U;;GSM04793477934;Akselsen; Jill;;Kristiansand;4637;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130233
+U;;GSM04740728434;Alestig; Erik;;Trondheim;7041;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130488
+U;;GSM04795135247;Alexandersen; Åge Robert;;Tromsø;9016;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130193
+U;;GSM04790262462;Ask-Henriksen; Svein;;Drammen;3031;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130569
+U;;GSM04790609945;Auk; Petter Nenseth;;Oslo;0557;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130345
+U;;GSM04748191917;Aune; Brigt;;Haslum;1344;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130330
+U;;GSM04791716950;Aune; Karl Erik;;Nittedal;1482;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130447
+U;;GSM04797507938;Aune; Lars;;Oslo;0365;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130528
+U;;GSM04745660959;Austeng; Rune;;Strømmen;2010;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130498
+U;;GSM04748064476;Barstad; Mari;;Nesbru;1394;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130436
+U;;GSM04793058537;Beitnes; Anders;;Ringvål;7089;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130274
+U;;GSM04790031322;Beitnes; Nils Morten;;Heimdal;7088;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130249
+U;;GSM04748159269;Berge; Nils Olav;;Kristiansand;4621;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140541
+U;;GSM04741631515;Berge; Tone;;Kristiansand;4633;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140500
+U;;GSM04797564260;Berner; Lars;;Oslo;0258;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130394
+U;;GSM04799156053;Berntsen; Henriette Frafjord;;Oslo;0687;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130160
+U;;GSM04792805110;Bjerkås; Rune;;Hagan;1483;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130526
+U;;GSM04795746601;Bjordal; Sverre Nagell;;Høvik;1363;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130343
+U;;GSM04747638409;Bjordal; Tuva;;Oslo;0553;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130543
+U;;GSM04793242006;Bjørhovde; Erik;;Oslo;1164;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130402
+U;;GSM04797125911;Bjørnstad; Merethe;;Langhus;1405;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130226
+U;;GSM04797100028;Bjørseth; Hanne;;Lørenskog;1470;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130258
+U;;GSM04791680940;Bobakk; Torfinn Pettersen;;Tomasjord;9024;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130469
+U;;GSM04792094929;Borander; Kristin;;Stavern;3290;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130443
+U;;GSM04748056000;Braathen; Kai Rune;;Gullaug;3427;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130508
+U;;GSM04793206493;Breistein; Rune;;Bergen;5005;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130550
+U;;GSM04790998608;Buskenes; Nils;;Oslo;0468;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130071
+U;;GSM04790697177;Børresen; Morten;;Oslo;0196;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130173
+U;;GSM04799365413;Cornels-Bogen; Runar;;Oslo;0558;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130542
+U;;GSM04799247640;Davidson; Måns Petter;;Hvasser;3148;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130347
+U;;GSM04793441490;Dobbe; Mari Ketilsson;;Kolsås;1352;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130577
+U;;GSM04741472330;Dyrhaug; Frode;;Ranheim;7056;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130479
+U;;GSM04790724758;Døviken; Jon;;Kristiansand;4620;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130534
+U;;GSM04790503663;Edshage; Jonas;;Oslo;0356;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130562
+U;;GSM04795808070;Einarsson; Sigurdur;;Bergen;5007;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130455
+U;;GSM04790677103;Ekse; Gisle;;Kristiansand;4620;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130266
+U;;GSM04793482507;Elnan; Gisle;;Trondheim;7051;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130156
+U;;GSM04769268830;Elvemo; Geir;;Rygge;1580;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130423
+U;;GSM04791319631;Eriksen; Thorleif;;Sjetnemarka;7081;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130142
+U;;GSM04798212638;Eskildsen; Arild;;Oslo;1063;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130326
+U;;GSM04790838479;Finseraas; Tove;;Trondheim;7022;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130188
+U;;GSM04746416472;Finsrud; Vegeir;;Slependen;1341;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130165
+U;;GSM04790186018;Fjose; Astrid;;Moen;9321;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130564
+U;;GSM04790588213;Formo; Vanja Almåsbro;;Trondheim;7021;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130560
+U;;GSM04746614303;Forsberg; Lena;;Simlångsdalen;31038;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130399
+U;;GSM04798210292;Forsetlund; Henrik;;Gressvik;1621;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130573
+U;;GSM04747756137;Foseid; Maren;;OSLO;0881;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130178
+U;;GSM04791386735;Fosser; Kjetil Olav;;Olso;1615;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130539
+U;;GSM04791192312;Føreland; Jan Willy;;Kristiansand;4614;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140502
+U;;GSM04748286025;Gausen; Ola Moa;;Oslo;0656;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130415
+U;;GSM04799576089;Godhavn; Børge;;Trondheim;7032;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130367
+U;;GSM04791170223;Gotuholt; Alf Sveinong;;Jessheim;2066;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130240
+U;;GSM04797199509;Gram; Jon Kjetil;;Molde;6411;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130362
+U;;GSM04792068886;Grana; Gunnar;;Kristiansand;4637;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140555
+U;;GSM04791362875;Gulbrandsen; Monica;;Trondheim;7040;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130134
+U;;GSM04791007487;Gurijordet; John Andre;;Andebu;3158;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130501
+U;;GSM04797646669;Gussiås; Bente Pladsen;;Oslo;0766;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130416
+U;;GSM04790529435;Gynnild; Steinar;;Trondheim;7069;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130114
+U;;GSM04799595761;Gøystdal; Per Øivind;;oslo;0373;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130430
+U;;GSM04799595761;Gøystdal; Per Øyvind;;Oslo;0373;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130202
+U;;GSM04791751772;Hafnor; Bjørn Arill;;Holmestrand;3080;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130324
+U;;GSM04792237412;Hagen; Aslak;;Oslo;0376;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130120
+U;;GSM04795185154;Halvorsen; Einar;;Langhus;1405;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130167
+U;;GSM04791187988;Halvorsen; Mona Andersson;;Sandefjord;3233;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130527
+U;;GSM04792078750;Hammershaug; Silje Sørlie;;Oslo;0674;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130546
+U;;GSM04799506780;Hansen; Daniel;;Trondheim;7015;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130248
+U;;GSM04799541840;Hansen; Iren Synøve;;Trondheim;7023;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130354
+U;;GSM04797537557;Hansen; Stig;;Kvaløysletta;9100;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130321
+U;;GSM04790984696;Hansen; Thomas;;Krokelvdalen;9022;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130359
+U;;GSM04741202585;Haraldseth; Kenneth;;Oslo;0654;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130470
+U;;GSM04790968269;Hardeland; Ole Jan;;VENNESLA;4700;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140504
+U;;GSM04795105636;Haugland; Trygve;;Bjelland;4536;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140547
+U;;GSM04792614882;Hauglin; Morten Aleksander;;Heggedal;1389;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130312
+U;;GSM04741477441;Heimdal; Knut Ragnar;;Fetsund;1900;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130150
+U;;GSM04746401003;Helbostad; Anne Grete;;Oslo;0594;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130228
+U;;GSM04748099650;Herfjord; Jan Tore;;TRONDHEIM;7050;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130183
+U;;GSM04740019526;Herrem; Arnhild;;Opphaug;7140;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130168
+U;;GSM04798430339;Hervig; Anne-Grete Maarud;;Oslo;0690;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130007
+U;;GSM04790691652;Hervig; Kjartan;;Oslo;0270;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130372
+U;;GSM04740244336;Holmerud; Heidi Marie;;Slattum;1480;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130435
+U;;GSM04797714871;Holstad; Einar;;Ytre Enebakk;1914;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130006
+U;;GSM04795229456;Holtet; Anne Kathrine;;FJELLHAMAR;1472;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130005
+U;;GSM04798265654;Høigaard; Christine;;Hamresanden;4656;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130179
+U;;GSM04745672580;Høiland; Tom Stian;;Sandnes;4316;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130340
+U;;GSM04795219353;Håkonsen; Veronica;;Oslo;0774;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130445
+U;;GSM04799565569;Ingòlfsson; Eirikur;;Fredrikstad;1619;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130566
+U;;GSM04745243331;Innset; Stein Ole;;Skallestad;3138;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130198
+U;;GSM04790031239;Jensen; Lars;;Ottestad;2312;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130204
+U;;GSM04791164549;Johansen; Knut Jonny;;Oslo;0672;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130529
+U;;GSM04791999109;Johansen; Peder Østeby;;Strømmen;2010;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130441
+U;;GSM04741391669;Johansson; Martin;;Oslo;0553;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130314
+U;;GSM04797070641;Johnsen; Stein;;Trondheim;7048;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130549
+U;;GSM04741856828;Johnsen; Tarjei Hammertrø;;Oslo;0580;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130532
+U;;GSM04792272787;Jonsson; Sigurdur Ørn;;Oslo;0861;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130504
+U;;GSM04792043159;Jordanger; Ingemund;;Melhus;7224;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130412
+U;;GSM04797090000;Jordheim; Knut Håkon;;Oslo;0365;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130032
+U;;GSM04790989601;Jørgensen; Henning;;Mjølkeråen;5136;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130395
+U;;GSM04745267610;Jørgensen; Jan Tore;;Tranby;3409;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130538
+U;;GSM04747384816;Karlsen; André;;Oslo;0590;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130457
+U;;GSM04793003353;Karlsen; Arne Waal;;Hakadal;1488;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130458
+U;;GSM04748151334;Karlsen; Frode Veåsen;;Flekkerøy;4625;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130491
+U;;GSM04799157892;Karlsen; Lars Christian;;Skedsmokorset;2019;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130243
+U;;GSM04795190023;Karoliussen; Guro;;Oslo;1178;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130448
+U;;GSM04797424838;Kaupang; Gjermund;;Larvik;3271;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130313
+U;;GSM04748120086;Killingtveit; Arnstein;;Jakobsli;7058;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130481
+U;;GSM04791733461;Klakegg; Ole Jonny;;Trondheim;7036;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130456
+U;;GSM04790062750;Knoph; Sven Erik;;Kristiansand;4623;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130033
+U;;GSM04797654799;Knutsen; Linn Kulberg;;Oslo;0174;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130475
+U;;GSM04798800055;Kolberg; Gunn Kristin;;Buvika;7350;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130563
+U;;GSM04791112674;Kregnes; Are-Magne;;Kvål;7228;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130034
+U;;GSM04792240400;Kristensen; Kai Haakon;;Bodø;8010;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130547
+U;;GSM04799325180;Kristiansen; Are;;Kristiansand;4638;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130476
+U;;GSM04741370011;Kristiansen; Tonny;;Kvaløya;9105;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130351
+U;;GSM04795893134;Krogstad; Knut;;Oslo;0477;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130506
+U;;GSM04790040860;Kruse; Hans Christian;;Oslo;1284;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130376
+U;;GSM04791878070;Krømcke; Jan;;Tolvsrød;3154;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130304
+U;;GSM04792418181;Kvam; Kjell;;Trondheim;7021;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130390
+U;;GSM04745851863;Kvamstad; Ingvild Dahle;;Oslo;0480;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130411
+U;;GSM04792426815;Langeland; Hilje;;OSLO;0198;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130490
+U;;GSM04748150567;Larsen; Einar Sverre;;Kristiansand;4637;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130069
+U;;GSM04798207824;Latif; Sajjad;;Strømmen;2010;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130440
+U;;GSM04746953888;Leiksett; Trygve;;Heimdal;7088;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130567
+U;;GSM04792452983;Ligård; Øivind;;Heimdal;7089;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130406
+U;;GSM04790040412;Lindsetmo; Sven Roger;;Inderøy;7670;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130122
+U;;GSM04790164911;Lium; Geir Ola;;Vikhammer;7560;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130449
+U;;GSM04795123926;Ljunggren; Tore;;Oslo;0494;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130378
+U;;GSM04797515131;Lohse; Helge;;Rennebu;7398;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130146
+U;;GSM04795811426;Lundberg; Øyvind;;Kristiansand;4608;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130503
+U;;GSM04798023822;Lunke; Randi;;Oslo;0687;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140505
+U;;GSM04792622203;Lyngroth; Torbjørn;;Kristiansand;4624;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130521
+U;;GSM04792445376;Lægdheim; Elisabeth;;Trondheim;7037;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130289
+U;;GSM04791826544;Løberg; Borgar;;Notodden;3683;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130138
+U;;GSM04793207588;Løkse; Audun;;Oslo;0364;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130465
+U;;GSM04745404501;Løtveit; Beate Aske;;Eidsvågneset;5101;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130461
+U;;GSM04746415134;Makos; Lillian Karin;;Trondheim;7026;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130568
+U;;GSM04748080073;Martens; Harald Lahn;;Kristiansand;4637;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130144
+U;;GSM04791321367;Martinsen; Trond;;Slattum;1480;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;140549
+U;;GSM04791784430;Mathisen; Erling;;Kolbu;2847;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130522
+U;;GSM04793025724;Mauseth Hjertås; Hedvig;;Ranheim;7053;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130189
+U;;GSM04790546784;Michelsen; Knut Christian;;Kvaløya;9107;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130287
+U;;GSM04795280494;Midtlyng; John Olav;;Trondheim;7045;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130572
+U;;GSM04790123396;Munch-Søegaard; Erik;;Tomter;1825;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130124
+U;;GSM04797129150;Munthe-Kaas; Mina Smedås;;Oslo;0467;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130154
+U;;GSM04799282272;Myhr; Eugen;;Holmestrand;3089;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130467
+U;;GSM04791851451;Myrabakk; Kurt;;Vanvikan;7125;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130323
+U;;GSM04746743467;Møller; Morten;;Kristiansand;4633;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130531
+U;;GSM04793044579;Nedal; Kristoffer;;Oslo;0556;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130407
+U;;GSM04798603624;Nilsen; Steinar;;Oslo;0650;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130468
+U;;GSM04791629640;Nordby; Ulv-Erik;;Sandnes;4327;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130497
+U;;GSM04746464056;Nygård; Nils;;Spydeberg;1820;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130472
+U;;GSM04791706586;Nørholm; Sven Erik;;Trondheim;7021;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130460
+U;;GSM04795458192;Obrovac; Julia;;Oslo;0358;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130037
+U;;GSM047955120174;Odden; Christian;;Jar;1358;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130561
+U;;GSM04798482181;Oddum; Christoffer;;Oslo;0485;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130489
+U;;GSM04795232563;Odiin; Thomas;;Oslo;0682;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130225
+U;;GSM04799112267;Okstad; Arnt Ove;;TILLER;7075;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130484
+U;;GSM04795814260;Olimstad; Audun;;Kristiansand;4633;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130166
+U;;GSM04793082104;Olsson; Jan-Olof;;Gjerdrum;2022;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130439
+U;;GSM04790623720;Olstad; Jan-Erik;;Gjerdrum;2022;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130507
+U;;GSM04741530254;Oraug; Frøydis;;Borgenhaugen;1739;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130334
+U;;GSM04791567196;Overskott; Hege;;Buvika;7350;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130518
+U;;GSM04740720565;Paulsen; Bengt-Arild;;Tromsø;9018;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130384
+U;;GSM04791594903;Pedersen; Gaute;;Kvaløysletta;9100;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130316
+U;;GSM04799213873;Pettersen; Christin Kyseth;;Oslo;0363;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130360
+U;;GSM04791301023;Randgaard; Per Christian;;Bekkestua;1357;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130524
+U;;GSM04741603606;Rathe; Leif;;Asker;1384;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130256
+U;;GSM04748100963;Reinskou; Eirin;;Mandal;4519;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130350
+U;;GSM04792247471;Riddervold; Karen;;Oslo;1179;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130349
+U;;GSM04791819036;Rognli; Randi;;Tromsø;9010;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130239
+U;;GSM04797674532;Rollstad; Svein Erik;;Bergen;5019;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130231
+U;;GSM04790608345;Ruud; Yngve;;OSLO;1170;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130544
+U;;GSM04798295441;Rydland; Hege;;Oslo;0882;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130169
+U;;GSM04792448065;Rygvold; Kjersti Berg;;Trondheim;7036;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130571
+U;;GSM04741647043;Rød; Ingjerd Hals;;Oslo;0661;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130430
+U;;GSM04790947695;Røhrsveen; Nils Gunnar;;Oslo;0768;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130466
+U;;GSM04740402998;Sagedal; Jan Olav;;Kristiansand;4630;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130373
+U;;GSM04797718100;Sakshaug; Glenn;;Kråkerøy;1672;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130234
+U;;GSM04790508124;Salberg; Torgeir;;Trondheim;7022;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130308
+U;;GSM04795171948;Sanila; Katrine Pettersen;;Billingstad;1396;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130333
+U;;GSM04790166593;Sarastuen-Kleven; Frank;;Fjellhamar;1472;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130344
+U;;GSM04793283897;Schjetne; Elisabeth;;Trondheim;7024;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130474
+U;;GSM04745854545;Seglem; Frode;;Høvik;1363;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130437
+U;;GSM04745216286;Sjøholt; Anne Katrine Honningsøy;;Oslo;0855;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130403
+U;;GSM04790196753;Skarphagen; Monika;;Fjellhamar;1472;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130257
+U;;GSM04797538922;Skjelsbæk; Petter;;Oslo;0585;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130500
+U;;GSM04791122516;Skogdalen; Jørn Gunnar;;Yven;1715;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130369
+U;;GSM04795945738;Skotnes; Kari-Elisabeth;;Oslo;0479;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130355
+U;;GSM04798265710;Skrove; Gry;;Ranheim;7054;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130389
+U;;GSM04790746212;Skryten; Olav;;Lørenskog;1470;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130421
+U;;GSM04791672597;Skånøy; Gunnar;;Trondheim;7026;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130393
+U;;GSM04791320843;Soknes; Svein;;Heimdal;7088;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130260
+U;;GSM04746421977;Stene Lunde; Milda;;Trondheim;7019;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130419
+U;;GSM04798831353;Straume; Sara;;Fjerdingby;2008;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130302
+U;;GSM04790187248;Strøm-Storaker; Eirik;;Asker;1387;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130523
+U;;GSM04795925563;Støve; Vebjørn;;Haslum;1344;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130401
+U;;GSM04792245434;Sunde; Kjell;;Trondheim;7016;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130433
+U;;GSM04797012759;Sundet; Per Erik;;Trondheim;7089;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130042
+U;;GSM04795903783;Sundheim; Arne;;Tromsø;9016;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130548
+U;;GSM04740246228;Sundqvist; Anne;;Oslo;0651;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130213
+U;;GSM04797086895;Svarstad; Morten;;Ranheim;7055;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130574
+U;;GSM04797127319;Sæterhaug; Torbjørn;;Trondheim;7022;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130450
+U;;GSM04790968591;Sørsdahl; Gina;;Drammen;3038;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130043
+U;;GSM04795135257;Tharaldsen; Ingvald Torbjørn;;Tveit;4658;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130016
+U;;GSM04795107101;Theodorsen; Thomas;;Borgenhaugen;1739;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130264
+U;;GSM04790013260;Thoresen; Erik Christopher;;RANHEIM;7053;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130311
+U;;GSM04799511780;Tiller; Tone;;Trondheim;7015;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130185
+U;;GSM04794257222;Torp; Therese;;Oslo;0454;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130545
+U;;GSM04790069884;Tvedt; Olav;;Oslo;0650;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130442
+U;;GSM04799321701;Vadem; Marte Paus;;Torød;3135;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130505
+U;;GSM04795150929;Val; Aud;;Sofiemyr;1412;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130540
+U;;GSM04790177104;Viddal; Espen;;Bergen;5042;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130409
+U;;GSM04790877817;Vidnes; Pål;;Hosle;1362;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130451
+U;;GSM04799169954;Walseth; Siri Solem;;Oslo;0570;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130339
+U;;GSM04797553971;Wanvik; Jørgen;;Drammen;3045;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130414
+U;;GSM04793484469;Wanvik; Knut Petter;;Trondheim;7021;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130575
+U;;GSM04791392872;Warlo; Hans Johan;;Oslo;0772;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130145
+U;;GSM04797510623;Wasmuth; Jan-Fredrik;;ÅROS;3474;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130471
+U;;GSM04791592730;Wekre; Helge;;Heimdal;7089;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130172
+U;;GSM04793209781;Werner; Odd Ivar;;Harestua;2743;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130404
+U;;GSM04795730749;Wikran; Erik;;Tromsø;9007;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130511
+U;;GSM04748233587;Williksen; Jane Hellen;;Rørvik;7900;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130392
+U;;GSM04747329221;Wist; Anita;;Trondheim;7075;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130438
+U;;GSM04793058501;Wæraas; Tor Arne;;Trondheim;7033;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130477
+U;;GSM04793006032;Øren; Stephanie;;RANHEIM;7056;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130535
+U;;GSM04793220262;Østby; Erik;;SEM;3170;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130223
+U;;GSM04795168864;Øvensen; Kjetil;;Oslo;0681;;;;;NOR;;;;;;;;;;;;;;HFB.28.11.2016.04;HFB.28.11.2016;;;;130400

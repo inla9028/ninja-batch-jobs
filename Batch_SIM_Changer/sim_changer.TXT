@@ -1,0 +1,12 @@
+load data
+into table batch_sim_replacement
+append
+fields terminated by ";" optionally enclosed by '"'
+trailing nullcols
+(
+ SUBSCRIBER_NO,
+ NEW_SIM_NO,
+ OLD_SIM_NO,
+ REQUEST_PROCESS_DATE DATE "YYYY-MM-DD HH24:MI",
+ REQUEST_ID
+)

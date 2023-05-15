@@ -1,0 +1,3 @@
+CDA04769302000;CUGCDAFOX;ADD;CUG;CUG;TRYBX;EDW 08.02.2016 test;Adding missing CUG for fixed line;;;	
+CDA04769302001;CUGCDAFOX;ADD;CUG;CUG;TRYBX;EDW 08.02.2016 test;Adding missing CUG for fixed line;;;
+CDA04769302002;CUGCDAFOX;ADD;CUG;CUG;TRYBX;EDW 08.02.2016 test;Adding missing CUG for fixed line;;;

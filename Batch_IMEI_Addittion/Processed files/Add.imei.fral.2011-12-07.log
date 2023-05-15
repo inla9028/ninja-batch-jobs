@@ -1,0 +1,55 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Wed Dec 7 14:11:20 2011
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   add_imei.ctl
+Data File:      Add.imei.fral.2011-12-07.txt
+  Bad File:     Add.imei.fral.2011-12-07.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table "NINJADATA"."BATCH_IMEI_ADDITION", loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+IMEI_NO                              NEXT     *   ;  O(") CHARACTER            
+DEALER                               NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+REQUEST_PROCESS_DATE                 NEXT     *   ;  O(") DATE DD.MM.YYYY HH24:MI
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+
+
+Table "NINJADATA"."BATCH_IMEI_ADDITION":
+  285 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 132096 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           285
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Dec 07 14:11:20 2011
+Run ended on Wed Dec 07 14:11:25 2011
+
+Elapsed time was:     00:00:05.26
+CPU time was:         00:00:00.16

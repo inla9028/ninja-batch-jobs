@@ -1,0 +1,1663 @@
+;04793002973;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;149.94;;;;;CSK 12.03.10;1;CSK
+;04793003095;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152;;;;;CSK 12.03.10;1;CSK
+;04799384040;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.17;;;;;CSK 12.03.10;1;CSK
+;04740636962;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;46.26;;;;;CSK 12.03.10;1;CSK
+;04745272005;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;46.26;;;;;CSK 12.03.10;1;CSK
+;04745506767;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;46.26;;;;;CSK 12.03.10;1;CSK
+;04745511025;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;46.26;;;;;CSK 12.03.10;1;CSK
+;04745515330;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;46.26;;;;;CSK 12.03.10;1;CSK
+;04791830515;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;115.64;;;;;CSK 12.03.10;1;CSK
+;04798088156;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;110.68;;;;;CSK 12.03.10;1;CSK
+;04746633322;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;163.23;;;;;CSK 12.03.10;1;CSK
+;04799870099;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;148.68;;;;;CSK 12.03.10;1;CSK
+;04746430699;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04741556473;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;24.78;;;;;CSK 12.03.10;1;CSK
+;04797545818;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;264;;;;;CSK 12.03.10;1;CSK
+;04793083123;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;39.33;;;;;CSK 12.03.10;1;CSK
+;04796666495;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;39.33;;;;;CSK 12.03.10;1;CSK
+;04793400691;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.1;;;;;CSK 12.03.10;1;CSK
+;04799427605;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;44.05;;;;;CSK 12.03.10;1;CSK
+;04791102588;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;64.27;;;;;CSK 12.03.10;1;CSK
+;04799569815;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.52;;;;;CSK 12.03.10;1;CSK
+;04741466901;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.1;;;;;CSK 12.03.10;1;CSK
+;04790816831;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.1;;;;;CSK 12.03.10;1;CSK
+;04791601187;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;158.16;;;;;CSK 12.03.10;1;CSK
+;04794147587;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.1;;;;;CSK 12.03.10;1;CSK
+;04797500001;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.1;;;;;CSK 12.03.10;1;CSK
+;04797754799;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.1;;;;;CSK 12.03.10;1;CSK
+;04745236409;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;316.54;;;;;CSK 12.03.10;1;CSK
+;04745251052;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;215.14;;;;;CSK 12.03.10;1;CSK
+;04797794355;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;62.78;;;;;CSK 12.03.10;1;CSK
+;04746546967;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.77;;;;;CSK 12.03.10;1;CSK
+;04747391105;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;21.48;;;;;CSK 12.03.10;1;CSK
+;04791601701;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;311.77;;;;;CSK 12.03.10;1;CSK
+;04740472556;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.02;;;;;CSK 12.03.10;1;CSK
+;04792409250;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;63.52;;;;;CSK 12.03.10;1;CSK
+;04793209820;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.99;;;;;CSK 12.03.10;1;CSK
+;04798039951;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;13.08;;;;;CSK 12.03.10;1;CSK
+;04798495433;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;13.08;;;;;CSK 12.03.10;1;CSK
+;04791741452;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;30.02;;;;;CSK 12.03.10;1;CSK
+;04792617096;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04793229326;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.8;;;;;CSK 12.03.10;1;CSK
+;04795269298;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;5.54;;;;;CSK 12.03.10;1;CSK
+;04790806411;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;240.57;;;;;CSK 12.03.10;1;CSK
+;04797757130;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;8.26;;;;;CSK 12.03.10;1;CSK
+;04795110092;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;11.56;;;;;CSK 12.03.10;1;CSK
+;04797098205;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;94.16;;;;;CSK 12.03.10;1;CSK
+;04793036350;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;64.43;;;;;CSK 12.03.10;1;CSK
+;04791172638;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.17;;;;;CSK 12.03.10;1;CSK
+;04793000091;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04793806030;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04793806031;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04799445056;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04797023319;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.52;;;;;CSK 12.03.10;1;CSK
+;04745410076;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;335.38;;;;;CSK 12.03.10;1;CSK
+;04746547299;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;331.61;;;;;CSK 12.03.10;1;CSK
+;04746547449;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;335.38;;;;;CSK 12.03.10;1;CSK
+;04746547477;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;331.61;;;;;CSK 12.03.10;1;CSK
+;04793230395;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;47.55;;;;;CSK 12.03.10;1;CSK
+;04791800211;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.31;;;;;CSK 12.03.10;1;CSK
+;04747718422;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;335.38;;;;;CSK 12.03.10;1;CSK
+;04748222181;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;182.62;;;;;CSK 12.03.10;1;CSK
+;04790613664;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;335.38;;;;;CSK 12.03.10;1;CSK
+;04792641308;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;305.24;;;;;CSK 12.03.10;1;CSK
+;04792641825;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;157.61;;;;;CSK 12.03.10;1;CSK
+;04792649371;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;157.61;;;;;CSK 12.03.10;1;CSK
+;04797117192;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177.62;;;;;CSK 12.03.10;1;CSK
+;04791780110;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;36.34;;;;;CSK 12.03.10;1;CSK
+;04797503660;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;110.68;;;;;CSK 12.03.10;1;CSK
+;04790014891;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.15;;;;;CSK 12.03.10;1;CSK
+;04745245106;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;132.24;;;;;CSK 12.03.10;1;CSK
+;04745297390;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;140.3;;;;;CSK 12.03.10;1;CSK
+;04790862816;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;132.24;;;;;CSK 12.03.10;1;CSK
+;04798011546;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.4;;;;;CSK 12.03.10;1;CSK
+;04740830243;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.3;;;;;CSK 12.03.10;1;CSK
+;04746509233;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;115.02;;;;;CSK 12.03.10;1;CSK
+;04792011627;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;115.02;;;;;CSK 12.03.10;1;CSK
+;04740100351;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;97.47;;;;;CSK 12.03.10;1;CSK
+;04741309807;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.56;;;;;CSK 12.03.10;1;CSK
+;04790199305;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04745006635;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;130.28;;;;;CSK 12.03.10;1;CSK
+;04791172024;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;69.38;;;;;CSK 12.03.10;1;CSK
+;04745272588;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;29.74;;;;;CSK 12.03.10;1;CSK
+;04745279472;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04745279483;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04745410479;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04792246758;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04792291384;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04741670011;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.9;;;;;CSK 12.03.10;1;CSK
+;04748221452;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04740244454;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;31.39;;;;;CSK 12.03.10;1;CSK
+;04741515504;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04797098056;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;289.61;;;;;CSK 12.03.10;1;CSK
+;04746541900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.54;;;;;CSK 12.03.10;1;CSK
+;04746542900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.54;;;;;CSK 12.03.10;1;CSK
+;04746545500;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.86;;;;;CSK 12.03.10;1;CSK
+;04746546900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.48;;;;;CSK 12.03.10;1;CSK
+;04748075111;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;292.74;;;;;CSK 12.03.10;1;CSK
+;04790809756;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;292.74;;;;;CSK 12.03.10;1;CSK
+;04790168889;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;82.03;;;;;CSK 12.03.10;1;CSK
+;04790101042;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.2;;;;;CSK 12.03.10;1;CSK
+;04790996630;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;275.88;;;;;CSK 12.03.10;1;CSK
+;04745864374;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;212.64;;;;;CSK 12.03.10;1;CSK
+;04792059656;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.72;;;;;CSK 12.03.10;1;CSK
+;04793018679;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;135.83;;;;;CSK 12.03.10;1;CSK
+;04740406833;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04745249708;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.53;;;;;CSK 12.03.10;1;CSK
+;04747246913;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;21.48;;;;;CSK 12.03.10;1;CSK
+;04745277653;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.51;;;;;CSK 12.03.10;1;CSK
+;04745281428;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.51;;;;;CSK 12.03.10;1;CSK
+;04746431502;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.51;;;;;CSK 12.03.10;1;CSK
+;04746432603;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.51;;;;;CSK 12.03.10;1;CSK
+;04746473185;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.51;;;;;CSK 12.03.10;1;CSK
+;04746547986;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.51;;;;;CSK 12.03.10;1;CSK
+;04791555178;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;158.16;;;;;CSK 12.03.10;1;CSK
+;04793041143;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.73;;;;;CSK 12.03.10;1;CSK
+;04793045819;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.73;;;;;CSK 12.03.10;1;CSK
+;04797766484;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;158.16;;;;;CSK 12.03.10;1;CSK
+;04792085132;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;261.24;;;;;CSK 12.03.10;1;CSK
+;04792245941;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;261.24;;;;;CSK 12.03.10;1;CSK
+;04792257651;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;261.24;;;;;CSK 12.03.10;1;CSK
+;04792259832;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;261.24;;;;;CSK 12.03.10;1;CSK
+;04799629441;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;74.73;;;;;CSK 12.03.10;1;CSK
+;04795150485;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;249.48;;;;;CSK 12.03.10;1;CSK
+;04745265469;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.53;;;;;CSK 12.03.10;1;CSK
+;04799449696;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;300.3;;;;;CSK 12.03.10;1;CSK
+;04746431120;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04793060380;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;19.94;;;;;CSK 12.03.10;1;CSK
+;04795287057;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;2.99;;;;;CSK 12.03.10;1;CSK
+;04790216494;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;41.3;;;;;CSK 12.03.10;1;CSK
+;04790713398;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;41.3;;;;;CSK 12.03.10;1;CSK
+;04791844197;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;41.3;;;;;CSK 12.03.10;1;CSK
+;04795459062;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;41.3;;;;;CSK 12.03.10;1;CSK
+;04741316890;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;77.62;;;;;CSK 12.03.10;1;CSK
+;04748155219;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;77.62;;;;;CSK 12.03.10;1;CSK
+;04792655222;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.93;;;;;CSK 12.03.10;1;CSK
+;04792655444;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.93;;;;;CSK 12.03.10;1;CSK
+;04790882757;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;82.6;;;;;CSK 12.03.10;1;CSK
+;04792214432;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;241.16;;;;;CSK 12.03.10;1;CSK
+;04795411734;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;113.97;;;;;CSK 12.03.10;1;CSK
+;04792813432;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;23.13;;;;;CSK 12.03.10;1;CSK
+;04745473086;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;23.13;;;;;CSK 12.03.10;1;CSK
+;04799205371;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;23.13;;;;;CSK 12.03.10;1;CSK
+;04741231017;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04740019577;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.31;;;;;CSK 12.03.10;1;CSK
+;04748112220;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;121.97;;;;;CSK 12.03.10;1;CSK
+;04791633343;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04794135868;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04790742795;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177;;;;;CSK 12.03.10;1;CSK
+;04799760157;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04792460004;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;89.68;;;;;CSK 12.03.10;1;CSK
+;04793208397;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;11.56;;;;;CSK 12.03.10;1;CSK
+;04790276206;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04790556256;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04790588215;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04791556051;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04791756924;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04792279844;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.73;;;;;CSK 12.03.10;1;CSK
+;04795036757;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04797585469;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.73;;;;;CSK 12.03.10;1;CSK
+;04797665632;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.73;;;;;CSK 12.03.10;1;CSK
+;04748188353;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;357;;;;;CSK 12.03.10;1;CSK
+;04790585696;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;237;;;;;CSK 12.03.10;1;CSK
+;04797100196;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;239.63;;;;;CSK 12.03.10;1;CSK
+;04747017779;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;35.28;;;;;CSK 12.03.10;1;CSK
+;04792227333;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;134.99;;;;;CSK 12.03.10;1;CSK
+;04741428551;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;52.86;;;;;CSK 12.03.10;1;CSK
+;04799357000;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04792830005;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;101.24;;;;;CSK 12.03.10;1;CSK
+;04798256990;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.21;;;;;CSK 12.03.10;1;CSK
+;04798256991;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;241.33;;;;;CSK 12.03.10;1;CSK
+;04798256992;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.21;;;;;CSK 12.03.10;1;CSK
+;04741411545;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;301.47;;;;;CSK 12.03.10;1;CSK
+;04741649939;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;301.47;;;;;CSK 12.03.10;1;CSK
+;04792099810;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;200.13;;;;;CSK 12.03.10;1;CSK
+;04741470000;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;85.9;;;;;CSK 12.03.10;1;CSK
+;04741470000;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;150.33;;;;;CSK 12.03.10;1;CSK
+;04741225959;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.56;;;;;CSK 12.03.10;1;CSK
+;04790626766;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;249.9;;;;;CSK 12.03.10;1;CSK
+;04791118515;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.56;;;;;CSK 12.03.10;1;CSK
+;04792436096;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.72;;;;;CSK 12.03.10;1;CSK
+;04745208192;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;167.17;;;;;CSK 12.03.10;1;CSK
+;04740043398;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;205.92;;;;;CSK 12.03.10;1;CSK
+;04793099344;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;115.02;;;;;CSK 12.03.10;1;CSK
+;04790910389;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.95;;;;;CSK 12.03.10;1;CSK
+;04793237947;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152;;;;;CSK 12.03.10;1;CSK
+;04793247992;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152;;;;;CSK 12.03.10;1;CSK
+;04740044556;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;180.75;;;;;CSK 12.03.10;1;CSK
+;04799090510;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;97.47;;;;;CSK 12.03.10;1;CSK
+;04791741378;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;105.73;;;;;CSK 12.03.10;1;CSK
+;04791853873;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04791719868;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;108.11;;;;;CSK 12.03.10;1;CSK
+;04748252655;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;148.68;;;;;CSK 12.03.10;1;CSK
+;04791390367;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04797665754;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04795816402;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;148.68;;;;;CSK 12.03.10;1;CSK
+;04747912220;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04790477207;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;377.7;;;;;CSK 12.03.10;1;CSK
+;04790897696;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04790897753;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04791603367;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04791652990;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04791652999;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04792415121;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;444.96;;;;;CSK 12.03.10;1;CSK
+;04792860860;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04793029510;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04793040307;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04793211824;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04793211828;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04793406712;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04793460860;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04793876687;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04795092892;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04795815529;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;408.75;;;;;CSK 12.03.10;1;CSK
+;04797018968;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;372.53;;;;;CSK 12.03.10;1;CSK
+;04797482020;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04797523500;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;408.75;;;;;CSK 12.03.10;1;CSK
+;04797574006;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04798214813;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.89;;;;;CSK 12.03.10;1;CSK
+;04791841019;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;181.63;;;;;CSK 12.03.10;1;CSK
+;04741104717;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.98;;;;;CSK 12.03.10;1;CSK
+;04790061773;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.98;;;;;CSK 12.03.10;1;CSK
+;04791121172;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;217.83;;;;;CSK 12.03.10;1;CSK
+;04791641995;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;217.83;;;;;CSK 12.03.10;1;CSK
+;04791705571;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.98;;;;;CSK 12.03.10;1;CSK
+;04791714977;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.98;;;;;CSK 12.03.10;1;CSK
+;04795227634;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;207.93;;;;;CSK 12.03.10;1;CSK
+;04795992224;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.98;;;;;CSK 12.03.10;1;CSK
+;04797038976;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.98;;;;;CSK 12.03.10;1;CSK
+;04797612357;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.98;;;;;CSK 12.03.10;1;CSK
+;04745036100;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;38;;;;;CSK 12.03.10;1;CSK
+;04745410434;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;303.61;;;;;CSK 12.03.10;1;CSK
+;04740871307;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;92.51;;;;;CSK 12.03.10;1;CSK
+;04745240397;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;130.51;;;;;CSK 12.03.10;1;CSK
+;04795158048;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;92.51;;;;;CSK 12.03.10;1;CSK
+;04747344951;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04740551002;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;136.01;;;;;CSK 12.03.10;1;CSK
+;04740551003;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;136.01;;;;;CSK 12.03.10;1;CSK
+;04740551005;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;136.01;;;;;CSK 12.03.10;1;CSK
+;04798866249;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;148.68;;;;;CSK 12.03.10;1;CSK
+;04746423209;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.72;;;;;CSK 12.03.10;1;CSK
+;04790135106;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.34;;;;;CSK 12.03.10;1;CSK
+;04797424040;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.17;;;;;CSK 12.03.10;1;CSK
+;04797751697;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.56;;;;;CSK 12.03.10;1;CSK
+;04741463297;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;60.98;;;;;CSK 12.03.10;1;CSK
+;04798200302;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.88;;;;;CSK 12.03.10;1;CSK
+;04798200339;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.88;;;;;CSK 12.03.10;1;CSK
+;04792214178;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;168.15;;;;;CSK 12.03.10;1;CSK
+;04790231248;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;119.2;;;;;CSK 12.03.10;1;CSK
+;04791388231;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;84.25;;;;;CSK 12.03.10;1;CSK
+;04746543300;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.02;;;;;CSK 12.03.10;1;CSK
+;04746543400;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.02;;;;;CSK 12.03.10;1;CSK
+;04746543600;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.02;;;;;CSK 12.03.10;1;CSK
+;04746543900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.02;;;;;CSK 12.03.10;1;CSK
+;04746545900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.02;;;;;CSK 12.03.10;1;CSK
+;04746548003;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.02;;;;;CSK 12.03.10;1;CSK
+;04746548004;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.02;;;;;CSK 12.03.10;1;CSK
+;04791341400;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;18.17;;;;;CSK 12.03.10;1;CSK
+;04795247299;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;39.83;;;;;CSK 12.03.10;1;CSK
+;04791352606;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;289.88;;;;;CSK 12.03.10;1;CSK
+;04793078133;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.56;;;;;CSK 12.03.10;1;CSK
+;04793082470;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.56;;;;;CSK 12.03.10;1;CSK
+;04793083166;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.56;;;;;CSK 12.03.10;1;CSK
+;04793016422;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;168.53;;;;;CSK 12.03.10;1;CSK
+;04793020471;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;168.53;;;;;CSK 12.03.10;1;CSK
+;04745238538;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;77.64;;;;;CSK 12.03.10;1;CSK
+;04745231102;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.52;;;;;CSK 12.03.10;1;CSK
+;04798460027;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;173.07;;;;;CSK 12.03.10;1;CSK
+;04740010682;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;282.43;;;;;CSK 12.03.10;1;CSK
+;04792873246;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;183.28;;;;;CSK 12.03.10;1;CSK
+;04790500693;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04790671548;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04791599964;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792458222;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177;;;;;CSK 12.03.10;1;CSK
+;04795009222;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04795751266;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04790139496;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;99.79;;;;;CSK 12.03.10;1;CSK
+;04790601549;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04791103106;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04791103107;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04791103108;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04791615019;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04791615869;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04740610974;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;210.67;;;;;CSK 12.03.10;1;CSK
+;04740067966;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;117.29;;;;;CSK 12.03.10;1;CSK
+;04791177434;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.69;;;;;CSK 12.03.10;1;CSK
+;04790169218;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;142.07;;;;;CSK 12.03.10;1;CSK
+;04745274099;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;286.39;;;;;CSK 12.03.10;1;CSK
+;04745275171;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;286.39;;;;;CSK 12.03.10;1;CSK
+;04745484142;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;286.39;;;;;CSK 12.03.10;1;CSK
+;04745496989;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;286.39;;;;;CSK 12.03.10;1;CSK
+;04792011600;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;557.2;;;;;CSK 12.03.10;1;CSK
+;04793004803;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;102.7;;;;;CSK 12.03.10;1;CSK
+;04793472911;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;297;;;;;CSK 12.03.10;1;CSK
+;04740646872;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;205.4;;;;;CSK 12.03.10;1;CSK
+;04745277593;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;205.4;;;;;CSK 12.03.10;1;CSK
+;04746627753;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;205.4;;;;;CSK 12.03.10;1;CSK
+;04792477868;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.75;;;;;CSK 12.03.10;1;CSK
+;04792477984;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.75;;;;;CSK 12.03.10;1;CSK
+;04792479383;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;260.21;;;;;CSK 12.03.10;1;CSK
+;04746445921;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.85;;;;;CSK 12.03.10;1;CSK
+;04746636387;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04746636892;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.85;;;;;CSK 12.03.10;1;CSK
+;04745666511;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.5;;;;;CSK 12.03.10;1;CSK
+;04792072881;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;161.27;;;;;CSK 12.03.10;1;CSK
+;04792081090;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;92.43;;;;;CSK 12.03.10;1;CSK
+;04791792602;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.32;;;;;CSK 12.03.10;1;CSK
+;04747304314;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;180.75;;;;;CSK 12.03.10;1;CSK
+;04790570985;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;174.59;;;;;CSK 12.03.10;1;CSK
+;04791312555;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;176.64;;;;;CSK 12.03.10;1;CSK
+;04791517350;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.54;;;;;CSK 12.03.10;1;CSK
+;04790272089;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;135.83;;;;;CSK 12.03.10;1;CSK
+;04741412969;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.47;;;;;CSK 12.03.10;1;CSK
+;04791744181;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;243.94;;;;;CSK 12.03.10;1;CSK
+;04793028828;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.56;;;;;CSK 12.03.10;1;CSK
+;04747318037;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;72.69;;;;;CSK 12.03.10;1;CSK
+;04797699901;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;29.5;;;;;CSK 12.03.10;1;CSK
+;04790135060;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;149.57;;;;;CSK 12.03.10;1;CSK
+;04790890544;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;149.57;;;;;CSK 12.03.10;1;CSK
+;04795967328;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.47;;;;;CSK 12.03.10;1;CSK
+;04746968188;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;74.34;;;;;CSK 12.03.10;1;CSK
+;04791527753;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;116.11;;;;;CSK 12.03.10;1;CSK
+;04746412515;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;57.51;;;;;CSK 12.03.10;1;CSK
+;04790568899;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;153.4;;;;;CSK 12.03.10;1;CSK
+;04740642929;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;192.63;;;;;CSK 12.03.10;1;CSK
+;04797661774;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04790520517;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04790721403;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;35.02;;;;;CSK 12.03.10;1;CSK
+;04791899115;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;72.77;;;;;CSK 12.03.10;1;CSK
+;04792498000;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;67.73;;;;;CSK 12.03.10;1;CSK
+;04748125718;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04793835860;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;106.5;;;;;CSK 12.03.10;1;CSK
+;04748156840;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;64.43;;;;;CSK 12.03.10;1;CSK
+;04792025371;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04745424386;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;164.32;;;;;CSK 12.03.10;1;CSK
+;04790775747;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;67.73;;;;;CSK 12.03.10;1;CSK
+;04745258247;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;212.64;;;;;CSK 12.03.10;1;CSK
+;04747366784;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;37.37;;;;;CSK 12.03.10;1;CSK
+;04792882422;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;4.48;;;;;CSK 12.03.10;1;CSK
+;04792435996;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.03;;;;;CSK 12.03.10;1;CSK
+;04746626755;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;150.33;;;;;CSK 12.03.10;1;CSK
+;04791687104;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;72.69;;;;;CSK 12.03.10;1;CSK
+;04793095276;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;62.93;;;;;CSK 12.03.10;1;CSK
+;04792850757;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.75;;;;;CSK 12.03.10;1;CSK
+;04792871370;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.75;;;;;CSK 12.03.10;1;CSK
+;04792878507;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.75;;;;;CSK 12.03.10;1;CSK
+;04792884293;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.75;;;;;CSK 12.03.10;1;CSK
+;04792894365;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.75;;;;;CSK 12.03.10;1;CSK
+;04792438933;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04792839690;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;164.32;;;;;CSK 12.03.10;1;CSK
+;04792879716;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;247.52;;;;;CSK 12.03.10;1;CSK
+;04792895854;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;247.52;;;;;CSK 12.03.10;1;CSK
+;04793002374;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;247.52;;;;;CSK 12.03.10;1;CSK
+;04790877594;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;145.38;;;;;CSK 12.03.10;1;CSK
+;04792013060;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;57.82;;;;;CSK 12.03.10;1;CSK
+;04741298065;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04745258514;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.53;;;;;CSK 12.03.10;1;CSK
+;04790855057;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;31.39;;;;;CSK 12.03.10;1;CSK
+;04793451180;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04741600434;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.48;;;;;CSK 12.03.10;1;CSK
+;04741619998;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.48;;;;;CSK 12.03.10;1;CSK
+;04745410076;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;222.77;;;;;CSK 12.03.10;1;CSK
+;04746547299;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;222.77;;;;;CSK 12.03.10;1;CSK
+;04746547449;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;222.77;;;;;CSK 12.03.10;1;CSK
+;04746547477;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;222.77;;;;;CSK 12.03.10;1;CSK
+;04792646121;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04795998690;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.48;;;;;CSK 12.03.10;1;CSK
+;04797403371;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.8;;;;;CSK 12.03.10;1;CSK
+;04799342987;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.48;;;;;CSK 12.03.10;1;CSK
+;04799381030;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.8;;;;;CSK 12.03.10;1;CSK
+;04792441286;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04792823630;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;102.83;;;;;CSK 12.03.10;1;CSK
+;04794840138;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.55;;;;;CSK 12.03.10;1;CSK
+;04799498090;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;47.51;;;;;CSK 12.03.10;1;CSK
+;04794176933;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.52;;;;;CSK 12.03.10;1;CSK
+;04745288302;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.53;;;;;CSK 12.03.10;1;CSK
+;04791539595;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;188.5;;;;;CSK 12.03.10;1;CSK
+;04740064882;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.72;;;;;CSK 12.03.10;1;CSK
+;04748110750;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152;;;;;CSK 12.03.10;1;CSK
+;04790775917;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152;;;;;CSK 12.03.10;1;CSK
+;04798856561;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152;;;;;CSK 12.03.10;1;CSK
+;04745266633;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.94;;;;;CSK 12.03.10;1;CSK
+;04746544444;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.94;;;;;CSK 12.03.10;1;CSK
+;04793277788;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.94;;;;;CSK 12.03.10;1;CSK
+;04791578205;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04791578621;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04791578626;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04791578627;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04791578628;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04791581909;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04792662270;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04795107414;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04797799638;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04745830872;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;59;;;;;CSK 12.03.10;1;CSK
+;04745294951;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04797547285;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;142.3;;;;;CSK 12.03.10;1;CSK
+;04746630371;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;44.03;;;;;CSK 12.03.10;1;CSK
+;04790055246;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;67.51;;;;;CSK 12.03.10;1;CSK
+;04792298458;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;44.03;;;;;CSK 12.03.10;1;CSK
+;04792885378;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.69;;;;;CSK 12.03.10;1;CSK
+;04746546972;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;74.34;;;;;CSK 12.03.10;1;CSK
+;04793290036;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;278.46;;;;;CSK 12.03.10;1;CSK
+;04791864722;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;69.38;;;;;CSK 12.03.10;1;CSK
+;04793038677;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;63.6;;;;;CSK 12.03.10;1;CSK
+;04745240509;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.78;;;;;CSK 12.03.10;1;CSK
+;04747313303;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.78;;;;;CSK 12.03.10;1;CSK
+;04747910501;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;341.48;;;;;CSK 12.03.10;1;CSK
+;04747910502;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;393.22;;;;;CSK 12.03.10;1;CSK
+;04747910503;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;107.38;;;;;CSK 12.03.10;1;CSK
+;04747910504;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;107.38;;;;;CSK 12.03.10;1;CSK
+;04747910507;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.78;;;;;CSK 12.03.10;1;CSK
+;04747910519;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;107.38;;;;;CSK 12.03.10;1;CSK
+;04747910563;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;362.18;;;;;CSK 12.03.10;1;CSK
+;04747910595;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;341.48;;;;;CSK 12.03.10;1;CSK
+;04747921522;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;341.48;;;;;CSK 12.03.10;1;CSK
+;04791107711;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;362.18;;;;;CSK 12.03.10;1;CSK
+;04791186042;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.78;;;;;CSK 12.03.10;1;CSK
+;04746546525;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;207.3;;;;;CSK 12.03.10;1;CSK
+;04795151868;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;228.96;;;;;CSK 12.03.10;1;CSK
+;04745202786;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04745248856;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;180.75;;;;;CSK 12.03.10;1;CSK
+;04791119568;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.86;;;;;CSK 12.03.10;1;CSK
+;04792202845;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04792484026;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04792620954;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04792658601;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04795911601;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;174.59;;;;;CSK 12.03.10;1;CSK
+;04790066740;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;72.69;;;;;CSK 12.03.10;1;CSK
+;04793091398;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.78;;;;;CSK 12.03.10;1;CSK
+;04795839990;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;121.97;;;;;CSK 12.03.10;1;CSK
+;04740100293;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;247.52;;;;;CSK 12.03.10;1;CSK
+;04792057591;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.69;;;;;CSK 12.03.10;1;CSK
+;04798246475;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;225.15;;;;;CSK 12.03.10;1;CSK
+;04799271236;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;225.15;;;;;CSK 12.03.10;1;CSK
+;04740414513;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;14.87;;;;;CSK 12.03.10;1;CSK
+;04792451144;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;324.08;;;;;CSK 12.03.10;1;CSK
+;04792453158;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;324.08;;;;;CSK 12.03.10;1;CSK
+;04792453320;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;324.08;;;;;CSK 12.03.10;1;CSK
+;04792482245;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;179.52;;;;;CSK 12.03.10;1;CSK
+;04741414839;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.93;;;;;CSK 12.03.10;1;CSK
+;04793072355;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;205.13;;;;;CSK 12.03.10;1;CSK
+;04790651351;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.52;;;;;CSK 12.03.10;1;CSK
+;04791320065;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.52;;;;;CSK 12.03.10;1;CSK
+;04791554577;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;277.94;;;;;CSK 12.03.10;1;CSK
+;04795174900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.52;;;;;CSK 12.03.10;1;CSK
+;04795183290;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.52;;;;;CSK 12.03.10;1;CSK
+;04795202299;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.52;;;;;CSK 12.03.10;1;CSK
+;04795700773;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.52;;;;;CSK 12.03.10;1;CSK
+;04741495502;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.34;;;;;CSK 12.03.10;1;CSK
+;04747751975;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.34;;;;;CSK 12.03.10;1;CSK
+;04790219152;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.34;;;;;CSK 12.03.10;1;CSK
+;04790632888;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.34;;;;;CSK 12.03.10;1;CSK
+;04791709818;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.34;;;;;CSK 12.03.10;1;CSK
+;04791815746;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;292.74;;;;;CSK 12.03.10;1;CSK
+;04795494305;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.34;;;;;CSK 12.03.10;1;CSK
+;04795292570;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;51.21;;;;;CSK 12.03.10;1;CSK
+;04791870654;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;9.91;;;;;CSK 12.03.10;1;CSK
+;04793268185;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;49.56;;;;;CSK 12.03.10;1;CSK
+;04741272882;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;156.94;;;;;CSK 12.03.10;1;CSK
+;04745424702;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;142.8;;;;;CSK 12.03.10;1;CSK
+;04793477002;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.03;;;;;CSK 12.03.10;1;CSK
+;04799632868;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.73;;;;;CSK 12.03.10;1;CSK
+;04799326073;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.78;;;;;CSK 12.03.10;1;CSK
+;04741245436;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;146.92;;;;;CSK 12.03.10;1;CSK
+;04797002100;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;148.68;;;;;CSK 12.03.10;1;CSK
+;04740451949;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.46;;;;;CSK 12.03.10;1;CSK
+;04747659320;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;198.02;;;;;CSK 12.03.10;1;CSK
+;04793229878;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.46;;;;;CSK 12.03.10;1;CSK
+;04799153744;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04747360804;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;142.07;;;;;CSK 12.03.10;1;CSK
+;04791359132;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;67.73;;;;;CSK 12.03.10;1;CSK
+;04746546224;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;18.17;;;;;CSK 12.03.10;1;CSK
+;04746546200;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;202.54;;;;;CSK 12.03.10;1;CSK
+;04795049691;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;226.02;;;;;CSK 12.03.10;1;CSK
+;04791830853;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;49.56;;;;;CSK 12.03.10;1;CSK
+;04799628851;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;145.38;;;;;CSK 12.03.10;1;CSK
+;04795182035;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;75.99;;;;;CSK 12.03.10;1;CSK
+;04798666616;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04795295744;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;249.48;;;;;CSK 12.03.10;1;CSK
+;04740463576;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.9;;;;;CSK 12.03.10;1;CSK
+;04792439648;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.83;;;;;CSK 12.03.10;1;CSK
+;04745255217;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;222.59;;;;;CSK 12.03.10;1;CSK
+;04792441417;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;49.56;;;;;CSK 12.03.10;1;CSK
+;04799893942;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;290.4;;;;;CSK 12.03.10;1;CSK
+;04740103448;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;235.14;;;;;CSK 12.03.10;1;CSK
+;04740103839;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;235.14;;;;;CSK 12.03.10;1;CSK
+;04740103882;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;235.14;;;;;CSK 12.03.10;1;CSK
+;04740104246;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;232.05;;;;;CSK 12.03.10;1;CSK
+;04740450877;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;232.05;;;;;CSK 12.03.10;1;CSK
+;04745240031;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745240086;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745240118;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745240180;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745240393;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745240686;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745240707;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745241236;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745241240;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745241324;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745241371;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745241594;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745241720;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745241928;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745241981;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745242072;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;165.2;;;;;CSK 12.03.10;1;CSK
+;04745243049;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745243058;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745243669;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745243713;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745244064;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745244373;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745244798;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745244889;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745245185;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745245226;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745245399;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745245755;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745246109;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745246309;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745246321;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745246457;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745246521;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745246686;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745246736;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249096;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249137;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;167.17;;;;;CSK 12.03.10;1;CSK
+;04745249284;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249307;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745249634;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249636;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249669;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04745249713;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249875;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249981;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04745249996;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04792260375;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04792261230;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04792261604;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177;;;;;CSK 12.03.10;1;CSK
+;04792261629;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792261688;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04792262242;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04792262371;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792262375;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792262498;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792263384;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04792265268;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04792265827;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;165.2;;;;;CSK 12.03.10;1;CSK
+;04792266451;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792266716;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792267041;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04792267524;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792268514;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;165.2;;;;;CSK 12.03.10;1;CSK
+;04792268974;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792269167;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792269645;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04792441370;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;165.2;;;;;CSK 12.03.10;1;CSK
+;04792441581;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792442594;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792443273;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792443513;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04792443761;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792445512;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792445535;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04792801188;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792802591;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792802948;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792802967;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792803095;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792803331;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792804162;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792804753;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;173.07;;;;;CSK 12.03.10;1;CSK
+;04792805524;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792805842;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792807011;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792808617;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04794816629;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.52;;;;;CSK 12.03.10;1;CSK
+;04747700029;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;64.43;;;;;CSK 12.03.10;1;CSK
+;04791394111;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;149.47;;;;;CSK 12.03.10;1;CSK
+;04793230395;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;119.97;;;;;CSK 12.03.10;1;CSK
+;04794167971;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.72;;;;;CSK 12.03.10;1;CSK
+;04746402392;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.71;;;;;CSK 12.03.10;1;CSK
+;04746411870;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.71;;;;;CSK 12.03.10;1;CSK
+;04740553510;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;199.08;;;;;CSK 12.03.10;1;CSK
+;04746636439;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;110.23;;;;;CSK 12.03.10;1;CSK
+;04747465540;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;39.65;;;;;CSK 12.03.10;1;CSK
+;04792627800;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;82.84;;;;;CSK 12.03.10;1;CSK
+;04740646872;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;106.81;;;;;CSK 12.03.10;1;CSK
+;04745277593;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;106.81;;;;;CSK 12.03.10;1;CSK
+;04746627753;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;106.81;;;;;CSK 12.03.10;1;CSK
+;04740555927;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.23;;;;;CSK 12.03.10;1;CSK
+;04793253097;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;31.39;;;;;CSK 12.03.10;1;CSK
+;04790516191;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.69;;;;;CSK 12.03.10;1;CSK
+;04792890573;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.7;;;;;CSK 12.03.10;1;CSK
+;04791510304;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04790180906;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.55;;;;;CSK 12.03.10;1;CSK
+;04791169446;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;35.02;;;;;CSK 12.03.10;1;CSK
+;04740069000;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;470.83;;;;;CSK 12.03.10;1;CSK
+;04746803808;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;186.91;;;;;CSK 12.03.10;1;CSK
+;04792404833;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;470.83;;;;;CSK 12.03.10;1;CSK
+;04797725818;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;50.62;;;;;CSK 12.03.10;1;CSK
+;04799044876;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;186.91;;;;;CSK 12.03.10;1;CSK
+;04799707828;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;470.83;;;;;CSK 12.03.10;1;CSK
+;04792603666;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.23;;;;;CSK 12.03.10;1;CSK
+;04799720898;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04790525592;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;252.25;;;;;CSK 12.03.10;1;CSK
+;04791801600;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;85.9;;;;;CSK 12.03.10;1;CSK
+;04740472175;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;94.05;;;;;CSK 12.03.10;1;CSK
+;04745249669;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;138.06;;;;;CSK 12.03.10;1;CSK
+;04745249981;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;113.28;;;;;CSK 12.03.10;1;CSK
+;04795292546;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;121.97;;;;;CSK 12.03.10;1;CSK
+;04741210828;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;118.94;;;;;CSK 12.03.10;1;CSK
+;04791005060;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;8.26;;;;;CSK 12.03.10;1;CSK
+;04792495604;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.56;;;;;CSK 12.03.10;1;CSK
+;04792499518;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;256.56;;;;;CSK 12.03.10;1;CSK
+;04797188181;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;279.89;;;;;CSK 12.03.10;1;CSK
+;04741430270;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;109.03;;;;;CSK 12.03.10;1;CSK
+;04790922059;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;229.1;;;;;CSK 12.03.10;1;CSK
+;04791198323;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;229.1;;;;;CSK 12.03.10;1;CSK
+;04791643131;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;221.2;;;;;CSK 12.03.10;1;CSK
+;04792459444;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;215.93;;;;;CSK 12.03.10;1;CSK
+;04792649493;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;229.1;;;;;CSK 12.03.10;1;CSK
+;04797146780;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;229.1;;;;;CSK 12.03.10;1;CSK
+;04798443414;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;229.1;;;;;CSK 12.03.10;1;CSK
+;04799393944;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;229.1;;;;;CSK 12.03.10;1;CSK
+;04745264740;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.28;;;;;CSK 12.03.10;1;CSK
+;04745274101;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.28;;;;;CSK 12.03.10;1;CSK
+;04794824119;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;94.16;;;;;CSK 12.03.10;1;CSK
+;04792204238;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04746909200;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746935503;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746940373;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746940377;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746940410;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746940420;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746940424;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746940480;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04746940490;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04747387029;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;455.31;;;;;CSK 12.03.10;1;CSK
+;04748002800;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;455.31;;;;;CSK 12.03.10;1;CSK
+;04748009700;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04790533523;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04791584909;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04791872448;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04794792002;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04795218714;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04795419512;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04795883502;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04795916302;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04799027850;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04799164633;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04799322338;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04740479582;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;149.47;;;;;CSK 12.03.10;1;CSK
+;04746546225;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;18.17;;;;;CSK 12.03.10;1;CSK
+;04799520549;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.69;;;;;CSK 12.03.10;1;CSK
+;04797165023;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;145.53;;;;;CSK 12.03.10;1;CSK
+;04795164836;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.15;;;;;CSK 12.03.10;1;CSK
+;04797502832;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;20.45;;;;;CSK 12.03.10;1;CSK
+;04746547463;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.11;;;;;CSK 12.03.10;1;CSK
+;04746547464;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.11;;;;;CSK 12.03.10;1;CSK
+;04746547465;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.11;;;;;CSK 12.03.10;1;CSK
+;04746547466;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.11;;;;;CSK 12.03.10;1;CSK
+;04746547467;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.11;;;;;CSK 12.03.10;1;CSK
+;04746547468;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.27;;;;;CSK 12.03.10;1;CSK
+;04746547469;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;125.29;;;;;CSK 12.03.10;1;CSK
+;04793209050;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.46;;;;;CSK 12.03.10;1;CSK
+;04745007759;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;85.12;;;;;CSK 12.03.10;1;CSK
+;04798618094;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04791706485;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04741222261;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;118;;;;;CSK 12.03.10;1;CSK
+;04790992995;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;72.69;;;;;CSK 12.03.10;1;CSK
+;04793205463;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.78;;;;;CSK 12.03.10;1;CSK
+;04792441789;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;59;;;;;CSK 12.03.10;1;CSK
+;04792882422;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04795005929;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;66.08;;;;;CSK 12.03.10;1;CSK
+;04794814810;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.52;;;;;CSK 12.03.10;1;CSK
+;04745266633;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.31;;;;;CSK 12.03.10;1;CSK
+;04746544800;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;324.08;;;;;CSK 12.03.10;1;CSK
+;04740480710;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;168.43;;;;;CSK 12.03.10;1;CSK
+;04797021346;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;289.88;;;;;CSK 12.03.10;1;CSK
+;04793281984;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.99;;;;;CSK 12.03.10;1;CSK
+;04798452508;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;112.1;;;;;CSK 12.03.10;1;CSK
+;04740060380;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;35.02;;;;;CSK 12.03.10;1;CSK
+;04795186041;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;115.37;;;;;CSK 12.03.10;1;CSK
+;04799357867;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04791134469;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.63;;;;;CSK 12.03.10;1;CSK
+;04746400776;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04746400822;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04746400824;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04791691109;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;165.2;;;;;CSK 12.03.10;1;CSK
+;04745286243;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;12.51;;;;;CSK 12.03.10;1;CSK
+;04745295716;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;12.51;;;;;CSK 12.03.10;1;CSK
+;04745660930;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;22.42;;;;;CSK 12.03.10;1;CSK
+;04748273388;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;30.02;;;;;CSK 12.03.10;1;CSK
+;04790744662;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;17.51;;;;;CSK 12.03.10;1;CSK
+;04792035167;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;30.02;;;;;CSK 12.03.10;1;CSK
+;04793045335;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;30.02;;;;;CSK 12.03.10;1;CSK
+;04794781649;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;35.02;;;;;CSK 12.03.10;1;CSK
+;04794782010;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;30.02;;;;;CSK 12.03.10;1;CSK
+;04795145566;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;30.02;;;;;CSK 12.03.10;1;CSK
+;04795418250;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;30.02;;;;;CSK 12.03.10;1;CSK
+;04792471777;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.77;;;;;CSK 12.03.10;1;CSK
+;04746546248;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.72;;;;;CSK 12.03.10;1;CSK
+;04745235666;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;262.99;;;;;CSK 12.03.10;1;CSK
+;04745235777;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04745802357;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;69.38;;;;;CSK 12.03.10;1;CSK
+;04741631840;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;164.32;;;;;CSK 12.03.10;1;CSK
+;04793822218;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;136.39;;;;;CSK 12.03.10;1;CSK
+;04797742231;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;516.74;;;;;CSK 12.03.10;1;CSK
+;04799859656;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;14.87;;;;;CSK 12.03.10;1;CSK
+;04792691144;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;102.78;;;;;CSK 12.03.10;1;CSK
+;04790733142;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;188.5;;;;;CSK 12.03.10;1;CSK
+;04745503834;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;39.24;;;;;CSK 12.03.10;1;CSK
+;04746637226;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;39.24;;;;;CSK 12.03.10;1;CSK
+;04745274024;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;134.78;;;;;CSK 12.03.10;1;CSK
+;04792645095;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;106;;;;;CSK 12.03.10;1;CSK
+;04740467466;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;162.55;;;;;CSK 12.03.10;1;CSK
+;04746546419;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.77;;;;;CSK 12.03.10;1;CSK
+;04791611334;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;23.13;;;;;CSK 12.03.10;1;CSK
+;04797536462;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;134.87;;;;;CSK 12.03.10;1;CSK
+;04792276534;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;16.52;;;;;CSK 12.03.10;1;CSK
+;04790788120;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;120.98;;;;;CSK 12.03.10;1;CSK
+;04795141333;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.52;;;;;CSK 12.03.10;1;CSK
+;04741216203;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.68;;;;;CSK 12.03.10;1;CSK
+;04791123027;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.68;;;;;CSK 12.03.10;1;CSK
+;04791779738;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.68;;;;;CSK 12.03.10;1;CSK
+;04792864689;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.68;;;;;CSK 12.03.10;1;CSK
+;04793240415;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.68;;;;;CSK 12.03.10;1;CSK
+;04795254837;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.68;;;;;CSK 12.03.10;1;CSK
+;04741422212;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.72;;;;;CSK 12.03.10;1;CSK
+;04790803510;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.69;;;;;CSK 12.03.10;1;CSK
+;04791361830;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.72;;;;;CSK 12.03.10;1;CSK
+;04791361832;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.69;;;;;CSK 12.03.10;1;CSK
+;04791361833;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.72;;;;;CSK 12.03.10;1;CSK
+;04791361834;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;147.72;;;;;CSK 12.03.10;1;CSK
+;04794849939;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.69;;;;;CSK 12.03.10;1;CSK
+;04799546460;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.69;;;;;CSK 12.03.10;1;CSK
+;04791777709;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.07;;;;;CSK 12.03.10;1;CSK
+;04792091819;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.95;;;;;CSK 12.03.10;1;CSK
+;04741648394;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;183.44;;;;;CSK 12.03.10;1;CSK
+;04790503830;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;183.44;;;;;CSK 12.03.10;1;CSK
+;04790648395;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.26;;;;;CSK 12.03.10;1;CSK
+;04790963335;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;197.03;;;;;CSK 12.03.10;1;CSK
+;04793008884;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;72.69;;;;;CSK 12.03.10;1;CSK
+;04797192336;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177;;;;;CSK 12.03.10;1;CSK
+;04792879105;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.15;;;;;CSK 12.03.10;1;CSK
+;04799266313;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;74.2;;;;;CSK 12.03.10;1;CSK
+;04745267322;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;33.43;;;;;CSK 12.03.10;1;CSK
+;04797773097;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;122.56;;;;;CSK 12.03.10;1;CSK
+;04790475922;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04790973045;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;94.16;;;;;CSK 12.03.10;1;CSK
+;04740640422;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;125.4;;;;;CSK 12.03.10;1;CSK
+;04791176223;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;67.73;;;;;CSK 12.03.10;1;CSK
+;04741654100;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.07;;;;;CSK 12.03.10;1;CSK
+;04792098859;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.02;;;;;CSK 12.03.10;1;CSK
+;04792205225;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;158.81;;;;;CSK 12.03.10;1;CSK
+;04792659195;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;160.68;;;;;CSK 12.03.10;1;CSK
+;04792436057;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792436255;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792438491;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792439815;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792441841;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792443017;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792443647;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792444212;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792444579;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792446408;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792447098;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792447182;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04792447228;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;184.33;;;;;CSK 12.03.10;1;CSK
+;04793009625;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;167.17;;;;;CSK 12.03.10;1;CSK
+;04791994350;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;225.86;;;;;CSK 12.03.10;1;CSK
+;04790144529;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;66.08;;;;;CSK 12.03.10;1;CSK
+;04791886448;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177;;;;;CSK 12.03.10;1;CSK
+;04795755177;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;145.38;;;;;CSK 12.03.10;1;CSK
+;04746860078;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;62.78;;;;;CSK 12.03.10;1;CSK
+;04792896219;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.6;;;;;CSK 12.03.10;1;CSK
+;04740404499;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177.75;;;;;CSK 12.03.10;1;CSK
+;04740404889;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;177.75;;;;;CSK 12.03.10;1;CSK
+;04746546424;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;135.09;;;;;CSK 12.03.10;1;CSK
+;04745277068;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;47.03;;;;;CSK 12.03.10;1;CSK
+;04791602311;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;259.9;;;;;CSK 12.03.10;1;CSK
+;04793200391;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04793218308;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04797666353;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;259.9;;;;;CSK 12.03.10;1;CSK
+;04795812115;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;105.73;;;;;CSK 12.03.10;1;CSK
+;04797618668;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;169.13;;;;;CSK 12.03.10;1;CSK
+;04790548586;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;250.69;;;;;CSK 12.03.10;1;CSK
+;04741472031;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;252.25;;;;;CSK 12.03.10;1;CSK
+;04741472032;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;252.25;;;;;CSK 12.03.10;1;CSK
+;04741472033;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;77.62;;;;;CSK 12.03.10;1;CSK
+;04791545969;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;77.62;;;;;CSK 12.03.10;1;CSK
+;04795980412;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;55.22;;;;;CSK 12.03.10;1;CSK
+;04795980413;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.76;;;;;CSK 12.03.10;1;CSK
+;04795980414;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.76;;;;;CSK 12.03.10;1;CSK
+;04795980419;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;55.22;;;;;CSK 12.03.10;1;CSK
+;04791381267;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;162.27;;;;;CSK 12.03.10;1;CSK
+;04797491103;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.7;;;;;CSK 12.03.10;1;CSK
+;04790473694;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;150.33;;;;;CSK 12.03.10;1;CSK
+;04791394111;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.44;;;;;CSK 12.03.10;1;CSK
+;04746634661;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;2.95;;;;;CSK 12.03.10;1;CSK
+;04745802362;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;112.1;;;;;CSK 12.03.10;1;CSK
+;04790588173;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;97.47;;;;;CSK 12.03.10;1;CSK
+;04790943139;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;198.02;;;;;CSK 12.03.10;1;CSK
+;04791133134;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.46;;;;;CSK 12.03.10;1;CSK
+;04791133135;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;331.14;;;;;CSK 12.03.10;1;CSK
+;04792672838;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;151.61;;;;;CSK 12.03.10;1;CSK
+;04795285770;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.46;;;;;CSK 12.03.10;1;CSK
+;04797170850;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.46;;;;;CSK 12.03.10;1;CSK
+;04747269145;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;43.27;;;;;CSK 12.03.10;1;CSK
+;04794884311;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;159.3;;;;;CSK 12.03.10;1;CSK
+;04790705872;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;175.03;;;;;CSK 12.03.10;1;CSK
+;04792697182;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;241.16;;;;;CSK 12.03.10;1;CSK
+;04747253392;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;249.48;;;;;CSK 12.03.10;1;CSK
+;04795952226;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;69.38;;;;;CSK 12.03.10;1;CSK
+;04745852556;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;69.38;;;;;CSK 12.03.10;1;CSK
+;04748148004;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;8.26;;;;;CSK 12.03.10;1;CSK
+;04792435807;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.83;;;;;CSK 12.03.10;1;CSK
+;04790279545;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;163.23;;;;;CSK 12.03.10;1;CSK
+;04790575088;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;41.58;;;;;CSK 12.03.10;1;CSK
+;04793266865;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;19.82;;;;;CSK 12.03.10;1;CSK
+;04793266869;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;19.82;;;;;CSK 12.03.10;1;CSK
+;04794897415;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;19.82;;;;;CSK 12.03.10;1;CSK
+;04741618867;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;232.32;;;;;CSK 12.03.10;1;CSK
+;04745468122;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;116.42;;;;;CSK 12.03.10;1;CSK
+;04792241674;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.9;;;;;CSK 12.03.10;1;CSK
+;04790189298;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.05;;;;;CSK 12.03.10;1;CSK
+;04790685429;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;105.34;;;;;CSK 12.03.10;1;CSK
+;04793017032;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.71;;;;;CSK 12.03.10;1;CSK
+;04793017275;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.71;;;;;CSK 12.03.10;1;CSK
+;04793045366;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.71;;;;;CSK 12.03.10;1;CSK
+;04741460018;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04798246631;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;238.24;;;;;CSK 12.03.10;1;CSK
+;04791783764;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.95;;;;;CSK 12.03.10;1;CSK
+;04793678509;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;20.96;;;;;CSK 12.03.10;1;CSK
+;04797090926;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04791398326;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04790259421;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04790419132;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04740557240;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;133.73;;;;;CSK 12.03.10;1;CSK
+;04795274270;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04793002665;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;136.53;;;;;CSK 12.03.10;1;CSK
+;04740294240;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;45.23;;;;;CSK 12.03.10;1;CSK
+;04791576340;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;77.64;;;;;CSK 12.03.10;1;CSK
+;04741627512;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;96.37;;;;;CSK 12.03.10;1;CSK
+;04792018287;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;357;;;;;CSK 12.03.10;1;CSK
+;04748069130;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;176.64;;;;;CSK 12.03.10;1;CSK
+;04793444344;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;41.3;;;;;CSK 12.03.10;1;CSK
+;04747469057;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;62.89;;;;;CSK 12.03.10;1;CSK
+;04748066164;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;183.54;;;;;CSK 12.03.10;1;CSK
+;04790122752;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;183.54;;;;;CSK 12.03.10;1;CSK
+;04792627076;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;183.54;;;;;CSK 12.03.10;1;CSK
+;04793078117;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.71;;;;;CSK 12.03.10;1;CSK
+;04793078128;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;253.71;;;;;CSK 12.03.10;1;CSK
+;04745832969;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.9;;;;;CSK 12.03.10;1;CSK
+;04797074592;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04790697821;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;11.56;;;;;CSK 12.03.10;1;CSK
+;04791704427;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;105.73;;;;;CSK 12.03.10;1;CSK
+;04740404230;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.07;;;;;CSK 12.03.10;1;CSK
+;04792812848;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;112.29;;;;;CSK 12.03.10;1;CSK
+;04792853765;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;112.29;;;;;CSK 12.03.10;1;CSK
+;04792889935;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;112.29;;;;;CSK 12.03.10;1;CSK
+;04794808827;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;95.15;;;;;CSK 12.03.10;1;CSK
+;04795008183;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;110.88;;;;;CSK 12.03.10;1;CSK
+;04795247299;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.83;;;;;CSK 12.03.10;1;CSK
+;04793422013;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;320.31;;;;;CSK 12.03.10;1;CSK
+;04793423212;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;320.31;;;;;CSK 12.03.10;1;CSK
+;04793424511;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;320.31;;;;;CSK 12.03.10;1;CSK
+;04793427510;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;320.31;;;;;CSK 12.03.10;1;CSK
+;04793428514;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;320.31;;;;;CSK 12.03.10;1;CSK
+;04745614162;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.95;;;;;CSK 12.03.10;1;CSK
+;04790544220;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;83.89;;;;;CSK 12.03.10;1;CSK
+;04790118611;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;66.08;;;;;CSK 12.03.10;1;CSK
+;04793293252;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;180.58;;;;;CSK 12.03.10;1;CSK
+;04797977511;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;176.64;;;;;CSK 12.03.10;1;CSK
+;04798403069;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.2;;;;;CSK 12.03.10;1;CSK
+;04798447515;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;62.78;;;;;CSK 12.03.10;1;CSK
+;04793479001;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;137.67;;;;;CSK 12.03.10;1;CSK
+;04748226632;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.17;;;;;CSK 12.03.10;1;CSK
+;04748226633;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;52.86;;;;;CSK 12.03.10;1;CSK
+;04799242010;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;26.43;;;;;CSK 12.03.10;1;CSK
+;04741207569;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;142.67;;;;;CSK 12.03.10;1;CSK
+;04746430787;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;142.67;;;;;CSK 12.03.10;1;CSK
+;04790114455;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;142.67;;;;;CSK 12.03.10;1;CSK
+;04746792558;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.53;;;;;CSK 12.03.10;1;CSK
+;04793218555;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;180.75;;;;;CSK 12.03.10;1;CSK
+;04740877609;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;24.29;;;;;CSK 12.03.10;1;CSK
+;04740877853;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.34;;;;;CSK 12.03.10;1;CSK
+;04748202540;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;80.34;;;;;CSK 12.03.10;1;CSK
+;04790761180;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71;;;;;CSK 12.03.10;1;CSK
+;04741449360;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;139.59;;;;;CSK 12.03.10;1;CSK
+;04746841255;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;186.91;;;;;CSK 12.03.10;1;CSK
+;04746841954;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;186.91;;;;;CSK 12.03.10;1;CSK
+;04799107982;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;281.55;;;;;CSK 12.03.10;1;CSK
+;04791313215;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;150.1;;;;;CSK 12.03.10;1;CSK
+;04792431830;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;194.76;;;;;CSK 12.03.10;1;CSK
+;04791193361;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;176.64;;;;;CSK 12.03.10;1;CSK
+;04747203131;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.28;;;;;CSK 12.03.10;1;CSK
+;04792478828;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;297.7;;;;;CSK 12.03.10;1;CSK
+;04799093006;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;331.61;;;;;CSK 12.03.10;1;CSK
+;04799093014;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;331.61;;;;;CSK 12.03.10;1;CSK
+;04792265206;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04793032983;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;143.17;;;;;CSK 12.03.10;1;CSK
+;04790753166;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04746433175;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;68.83;;;;;CSK 12.03.10;1;CSK
+;04748248292;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;121.93;;;;;CSK 12.03.10;1;CSK
+;04790742795;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;88.5;;;;;CSK 12.03.10;1;CSK
+;04793245900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;58.06;;;;;CSK 12.03.10;1;CSK
+;04791333684;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.17;;;;;CSK 12.03.10;1;CSK
+;04793479001;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;33.75;;;;;CSK 12.03.10;1;CSK
+;04790190501;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;155.37;;;;;CSK 12.03.10;1;CSK
+;04791886122;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;155.37;;;;;CSK 12.03.10;1;CSK
+;04795086206;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;91.55;;;;;CSK 12.03.10;1;CSK
+;04791366760;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04791632755;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.56;;;;;CSK 12.03.10;1;CSK
+;04741326282;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.44;;;;;CSK 12.03.10;1;CSK
+;04799430608;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;66.08;;;;;CSK 12.03.10;1;CSK
+;04746420005;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;335.38;;;;;CSK 12.03.10;1;CSK
+;04792429113;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;327.85;;;;;CSK 12.03.10;1;CSK
+;04793211080;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;327.85;;;;;CSK 12.03.10;1;CSK
+;04791192098;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;59.47;;;;;CSK 12.03.10;1;CSK
+;04795063838;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04792242698;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;232.85;;;;;CSK 12.03.10;1;CSK
+;04746621376;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;47.04;;;;;CSK 12.03.10;1;CSK
+;04791619216;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04747202455;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.9;;;;;CSK 12.03.10;1;CSK
+;04748006296;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04791525625;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04795792147;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;129.8;;;;;CSK 12.03.10;1;CSK
+;04745016233;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;206.08;;;;;CSK 12.03.10;1;CSK
+;04746622554;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;187.97;;;;;CSK 12.03.10;1;CSK
+;04746634528;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;187.97;;;;;CSK 12.03.10;1;CSK
+;04792033579;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;140.38;;;;;CSK 12.03.10;1;CSK
+;04746546500;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;176.64;;;;;CSK 12.03.10;1;CSK
+;04790022404;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;269.18;;;;;CSK 12.03.10;1;CSK
+;04793280718;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;135.7;;;;;CSK 12.03.10;1;CSK
+;04745262222;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.32;;;;;CSK 12.03.10;1;CSK
+;04792437918;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;119.97;;;;;CSK 12.03.10;1;CSK
+;04797562243;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;104.08;;;;;CSK 12.03.10;1;CSK
+;04792207555;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;216.22;;;;;CSK 12.03.10;1;CSK
+;04792066876;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;50.03;;;;;CSK 12.03.10;1;CSK
+;04792600555;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;50.03;;;;;CSK 12.03.10;1;CSK
+;04793208293;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;50.03;;;;;CSK 12.03.10;1;CSK
+;04793404808;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;50.03;;;;;CSK 12.03.10;1;CSK
+;04793409240;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;37.37;;;;;CSK 12.03.10;1;CSK
+;04797465439;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;50.03;;;;;CSK 12.03.10;1;CSK
+;04745424852;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;137.12;;;;;CSK 12.03.10;1;CSK
+;04745472098;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;132.16;;;;;CSK 12.03.10;1;CSK
+;04793215300;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.93;;;;;CSK 12.03.10;1;CSK
+;04740620313;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;288.77;;;;;CSK 12.03.10;1;CSK
+;04745505270;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;288.77;;;;;CSK 12.03.10;1;CSK
+;04745511468;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;191.71;;;;;CSK 12.03.10;1;CSK
+;04745517131;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;288.77;;;;;CSK 12.03.10;1;CSK
+;04746416595;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;288.77;;;;;CSK 12.03.10;1;CSK
+;04746418790;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;288.77;;;;;CSK 12.03.10;1;CSK
+;04746422332;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;288.77;;;;;CSK 12.03.10;1;CSK
+;04790134259;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;174.85;;;;;CSK 12.03.10;1;CSK
+;04792283757;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;288.77;;;;;CSK 12.03.10;1;CSK
+;04795720584;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;121.15;;;;;CSK 12.03.10;1;CSK
+;04791153142;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;153.4;;;;;CSK 12.03.10;1;CSK
+;04741001111;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.11;;;;;CSK 12.03.10;1;CSK
+;04741550753;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04745516272;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04746627145;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04747454010;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;124.06;;;;;CSK 12.03.10;1;CSK
+;04747454017;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.05;;;;;CSK 12.03.10;1;CSK
+;04747454022;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.11;;;;;CSK 12.03.10;1;CSK
+;04747454028;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04747454031;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04747454032;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04747454036;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04747454039;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04747454044;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04747454045;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.53;;;;;CSK 12.03.10;1;CSK
+;04747454054;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.05;;;;;CSK 12.03.10;1;CSK
+;04747454062;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04747454067;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.11;;;;;CSK 12.03.10;1;CSK
+;04747454073;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04747454075;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04747454081;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;124.06;;;;;CSK 12.03.10;1;CSK
+;04747454082;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04790168242;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04790898047;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.11;;;;;CSK 12.03.10;1;CSK
+;04790910000;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;176.12;;;;;CSK 12.03.10;1;CSK
+;04791185912;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.11;;;;;CSK 12.03.10;1;CSK
+;04791817822;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;127.05;;;;;CSK 12.03.10;1;CSK
+;04792202455;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.11;;;;;CSK 12.03.10;1;CSK
+;04793400323;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04793466000;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.53;;;;;CSK 12.03.10;1;CSK
+;04793466011;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;124.06;;;;;CSK 12.03.10;1;CSK
+;04793466013;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466021;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466026;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466030;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.11;;;;;CSK 12.03.10;1;CSK
+;04793466033;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.53;;;;;CSK 12.03.10;1;CSK
+;04793466046;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466052;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466076;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466077;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466080;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04793466085;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04793466087;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;125.55;;;;;CSK 12.03.10;1;CSK
+;04793466095;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.11;;;;;CSK 12.03.10;1;CSK
+;04793613555;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.11;;;;;CSK 12.03.10;1;CSK
+;04795124706;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04795403992;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;172.11;;;;;CSK 12.03.10;1;CSK
+;04795871194;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;128.54;;;;;CSK 12.03.10;1;CSK
+;04795887101;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;124.06;;;;;CSK 12.03.10;1;CSK
+;04799458569;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;168.11;;;;;CSK 12.03.10;1;CSK
+;04741456626;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04790539543;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;11.56;;;;;CSK 12.03.10;1;CSK
+;04740038388;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;42.97;;;;;CSK 12.03.10;1;CSK
+;04791878153;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;140.42;;;;;CSK 12.03.10;1;CSK
+;04740550261;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;162.27;;;;;CSK 12.03.10;1;CSK
+;04740100851;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;150.33;;;;;CSK 12.03.10;1;CSK
+;04792201799;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;444.96;;;;;CSK 12.03.10;1;CSK
+;04793835860;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;53.69;;;;;CSK 12.03.10;1;CSK
+;04792231707;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;75.72;;;;;CSK 12.03.10;1;CSK
+;04740496972;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;102.27;;;;;CSK 12.03.10;1;CSK
+;04740018503;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;276.48;;;;;CSK 12.03.10;1;CSK
+;04740018508;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;276.48;;;;;CSK 12.03.10;1;CSK
+;04740018509;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;282.98;;;;;CSK 12.03.10;1;CSK
+;04740018511;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;276.48;;;;;CSK 12.03.10;1;CSK
+;04740018550;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;137.08;;;;;CSK 12.03.10;1;CSK
+;04740018551;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;282.98;;;;;CSK 12.03.10;1;CSK
+;04745490937;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;21.48;;;;;CSK 12.03.10;1;CSK
+;04792441660;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;351.04;;;;;CSK 12.03.10;1;CSK
+;04798838328;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;24.78;;;;;CSK 12.03.10;1;CSK
+;04745204381;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;84.06;;;;;CSK 12.03.10;1;CSK
+;04748141583;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;115.02;;;;;CSK 12.03.10;1;CSK
+;04792886697;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;121.66;;;;;CSK 12.03.10;1;CSK
+;04791346478;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;66.08;;;;;CSK 12.03.10;1;CSK
+;04792818081;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.12;;;;;CSK 12.03.10;1;CSK
+;04793691492;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;17.56;;;;;CSK 12.03.10;1;CSK
+;04740440996;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;210.39;;;;;CSK 12.03.10;1;CSK
+;04798004818;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;150.33;;;;;CSK 12.03.10;1;CSK
+;04791773969;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;62.78;;;;;CSK 12.03.10;1;CSK
+;04746546962;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;72.69;;;;;CSK 12.03.10;1;CSK
+;04792697082;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;134.67;;;;;CSK 12.03.10;1;CSK
+;04748226633;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04748890613;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04790971130;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04791373969;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04791531178;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04791616240;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04791791588;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04793479247;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04795121444;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04799295545;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;131.92;;;;;CSK 12.03.10;1;CSK
+;04747351295;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;241.16;;;;;CSK 12.03.10;1;CSK
+;04795730303;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;249.48;;;;;CSK 12.03.10;1;CSK
+;04747931227;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.74;;;;;CSK 12.03.10;1;CSK
+;04797955130;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;31.39;;;;;CSK 12.03.10;1;CSK
+;04792638270;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04799098654;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;125.29;;;;;CSK 12.03.10;1;CSK
+;04741430270;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;145.38;;;;;CSK 12.03.10;1;CSK
+;04797481666;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;99.12;;;;;CSK 12.03.10;1;CSK
+;04799151666;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;99.12;;;;;CSK 12.03.10;1;CSK
+;04799501096;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;95.82;;;;;CSK 12.03.10;1;CSK
+;04793432504;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;67.73;;;;;CSK 12.03.10;1;CSK
+;04792220625;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;21.95;;;;;CSK 12.03.10;1;CSK
+;04790219131;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;68.75;;;;;CSK 12.03.10;1;CSK
+;04746548102;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;162.68;;;;;CSK 12.03.10;1;CSK
+;04746548260;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;92.43;;;;;CSK 12.03.10;1;CSK
+;04746131641;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;117.29;;;;;CSK 12.03.10;1;CSK
+;04741468502;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;56.17;;;;;CSK 12.03.10;1;CSK
+;04741250385;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04741292948;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;124.29;;;;;CSK 12.03.10;1;CSK
+;04792233803;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04792898224;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04799162066;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;166.43;;;;;CSK 12.03.10;1;CSK
+;04790011045;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;207.9;;;;;CSK 12.03.10;1;CSK
+;04795446610;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.52;;;;;CSK 12.03.10;1;CSK
+;04790668817;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;171.1;;;;;CSK 12.03.10;1;CSK
+;04791548900;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;211.2;;;;;CSK 12.03.10;1;CSK
+;04795416188;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;34.69;;;;;CSK 12.03.10;1;CSK
+;04795922828;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;61.28;;;;;CSK 12.03.10;1;CSK
+;04792649586;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04740034875;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.02;;;;;CSK 12.03.10;1;CSK
+;04791325710;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.02;;;;;CSK 12.03.10;1;CSK
+;04791826968;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;170.02;;;;;CSK 12.03.10;1;CSK
+;04748012787;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;103.84;;;;;CSK 12.03.10;1;CSK
+;04790505671;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;182.95;;;;;CSK 12.03.10;1;CSK
+;04740627868;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;178.97;;;;;CSK 12.03.10;1;CSK
+;04791661848;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.73;;;;;CSK 12.03.10;1;CSK
+;04792643741;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;115.02;;;;;CSK 12.03.10;1;CSK
+;04792678049;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;85.9;;;;;CSK 12.03.10;1;CSK
+;04799270088;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;141.73;;;;;CSK 12.03.10;1;CSK
+;04745632898;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;259.9;;;;;CSK 12.03.10;1;CSK
+;04793200169;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793200198;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793200398;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793200467;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793200481;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793200758;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793200813;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;275.37;;;;;CSK 12.03.10;1;CSK
+;04793200863;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793200967;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793201941;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793203338;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04793208131;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04797189573;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;60.98;;;;;CSK 12.03.10;1;CSK
+;04741587471;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;99.79;;;;;CSK 12.03.10;1;CSK
+;04748895380;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;103.17;;;;;CSK 12.03.10;1;CSK
+;04794157997;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;99.79;;;;;CSK 12.03.10;1;CSK
+;04745832768;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;123.9;;;;;CSK 12.03.10;1;CSK
+;04748219763;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;3.3;;;;;CSK 12.03.10;1;CSK
+;04746392882;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;63.76;;;;;CSK 12.03.10;1;CSK
+;04792418582;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;14.87;;;;;CSK 12.03.10;1;CSK
+;04746622326;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;168.43;;;;;CSK 12.03.10;1;CSK
+;04799508232;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;129.4;;;;;CSK 12.03.10;1;CSK
+;04791137868;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;117.71;;;;;CSK 12.03.10;1;CSK
+;04799484176;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;54.18;;;;;CSK 12.03.10;1;CSK
+;04747600555;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;87.81;;;;;CSK 12.03.10;1;CSK
+;04748294036;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;164.41;;;;;CSK 12.03.10;1;CSK
+;04792820569;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;122.89;;;;;CSK 12.03.10;1;CSK
+;04792026837;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;285.6;;;;;CSK 12.03.10;1;CSK
+;04797521629;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;285.6;;;;;CSK 12.03.10;1;CSK
+;04799018864;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;285.6;;;;;CSK 12.03.10;1;CSK
+;04745391401;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;222.65;;;;;CSK 12.03.10;1;CSK
+;04745474121;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04746634879;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04792404864;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04792432158;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04792439549;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04792483153;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04792618546;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04792634772;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04792640362;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;152.6;;;;;CSK 12.03.10;1;CSK
+;04795184820;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;161.27;;;;;CSK 12.03.10;1;CSK
+;04745259694;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;86.53;;;;;CSK 12.03.10;1;CSK
+;04790509469;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;71.04;;;;;CSK 12.03.10;1;CSK
+;04792025022;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;272.27;;;;;CSK 12.03.10;1;CSK
+;04792032023;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;182.81;;;;;CSK 12.03.10;1;CSK
+;04792039499;KORFAK;CSK justert for fastavgift, da kunden skulle hatt 3 mnd gratis.;Justert for fastavgift;182.81;;;;;CSK 12.03.10;1;CSK
+;04792065651;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04798658811;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04793434789;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04791560600;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04746621758;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04792630327;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04797794722;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04795800529;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04795774622;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04791377326;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04745400483;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04747813233;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04748039672;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04792638611;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04798482640;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04740621634;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04795876322;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04798479169;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04790797107;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04748173553;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04794268964;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04792613057;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04792201774;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04792064371;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04741406064;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04792486669;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04741241497;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04798856590;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04795938062;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04797551387;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04793439730;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04741091218;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04798635678;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04740201028;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04741328289;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04747272506;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04792088666;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04795851529;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04798819246;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04795900311;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04791830773;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 12.03.10;1;NIS
+;04791364436;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04741292777;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04746403428;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04791715427;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793232911;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04741205836;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04748298902;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04790550514;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04790183638;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792407113;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792013343;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04799708148;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792227457;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792231119;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792458221;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793425772;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792047132;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792042149;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04795081231;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04747624482;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04797121278;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04747373871;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792853361;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04798021887;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792421173;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04799011663;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792083941;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793445076;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04798690090;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04798690050;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793004394;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04747644022;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04799099880;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04798845102;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793455680;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04790510667;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04741790880;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04791106227;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04745205891;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792693407;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04791113406;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04790098095;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04799018742;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792837421;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793498842;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793220338;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04747339834;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04745491671;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04793098207;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792057818;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04792887936;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04797069809;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04799561650;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04790050037;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 12.03.10;1;NIS
+;04748255216;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04748227065;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741225910;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792866876;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792230665;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799255738;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790779636;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798681578;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799422847;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04746469980;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04746425199;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793495409;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741475715;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793693258;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798407829;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792259604;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792099150;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799592801;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795851301;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790656875;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797775823;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745470459;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790748802;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798879717;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791835140;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791538163;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741591568;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798849414;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791178437;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795978525;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741225797;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793005043;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797587028;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745461510;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740485330;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745002701;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792869991;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747608162;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745511291;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740000434;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797480467;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793427590;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745096293;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792290184;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797685004;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04748132712;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799770465;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792848936;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797572126;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740103745;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791805345;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790788322;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747308278;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793610216;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795153022;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795772732;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793281988;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795185663;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747040746;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793495088;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740236158;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747603444;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745264647;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797119535;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790627428;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793007256;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793855659;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799413401;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797156653;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792428285;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799257826;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791775678;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745512630;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799165560;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792246237;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792652433;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792258349;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799568113;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792406015;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745238266;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792212879;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792265022;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795817185;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791829420;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04746966813;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790245487;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790135364;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740492327;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792283087;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741682162;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795702759;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792609025;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792286425;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04746622342;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797726067;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741355153;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799625566;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799790491;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745511236;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741216465;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799273838;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741477572;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792299918;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797618587;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795756323;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04748109627;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792064891;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792698302;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798070600;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791552466;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793605301;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747308438;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791564758;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797115782;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797573332;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797973098;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791178728;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741186325;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740461423;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792230860;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792847952;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741451850;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795886738;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740638334;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793699617;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792885447;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747644640;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790563061;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795206766;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790869917;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795131277;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792652877;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797502569;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741347985;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745517048;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747867502;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745276218;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04795937046;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799622877;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798015049;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792617390;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745297098;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747857351;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793436451;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793287111;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792231263;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790555937;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791195117;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792210849;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798453455;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791382971;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04746620764;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745425346;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740600687;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790634816;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745502953;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793488014;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792614350;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793256743;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799714055;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741494517;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793084867;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792844668;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797544793;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791518420;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791109082;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798002700;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792407672;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792837121;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793255193;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792458320;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793067594;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792057527;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792221391;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792244056;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798639416;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04794244346;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792867275;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797007654;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745289609;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793049081;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792293138;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791864916;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793406169;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792090234;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797531015;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799239762;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04794038218;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792891560;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792246909;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792250956;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04748038589;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798431576;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793626086;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792490442;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790933332;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790698104;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797731177;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790526506;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791176840;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792281591;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799456850;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04748246671;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741254396;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793450345;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792411681;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792661851;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745227548;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741142450;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792402927;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04799741587;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797549753;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790653801;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741623988;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792059504;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797595997;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04745511459;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741355152;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04793610475;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04797150084;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798035462;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741254556;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792098730;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04746741597;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791816965;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04790157812;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792041852;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792883600;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792038930;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798404082;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04741521979;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04747758440;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798865547;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792054883;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04740610994;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04792403989;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798814393;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04798052841;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIS 12.03.10;1;NIS
+;04791573786;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04793407331;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04799007577;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04741509805;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04791738298;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04790141323;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04790878819;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04793892858;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04793204256;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04745883903;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04745602501;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04790791140;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04792892843;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04792027743;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04793441443;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 12.03.10;1;NIS
+;04797060432;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04797737083;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04790784810;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04745501138;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04792411482;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04799464497;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04797098756;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04790069618;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04790275506;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04740496246;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04791327654;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04795934526;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04795414970;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04795031655;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04746420685;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04798688078;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04791371965;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04799326043;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04795834080;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04792419214;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04792413342;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIS 12.03.10;1;NIS
+;04745220091;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04797642471;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795151249;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799264048;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04797569777;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798404095;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04792862900;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741597964;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745288197;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04792831490;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04746622807;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04747836003;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793673624;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741507115;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798607696;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741665196;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793001376;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798696088;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798003592;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745255011;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04746484946;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740101548;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793809702;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740458434;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741435376;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741547234;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798855444;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741521643;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745440007;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798030497;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799229772;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741746391;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745246660;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741243388;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741205768;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04746610332;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745230836;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798480629;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741764534;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740200213;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793893971;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740857043;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745213639;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793054627;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798482536;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745293614;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793005439;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741302649;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04747903632;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04747238545;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741405871;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795297450;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745285955;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740454781;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745293613;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740474814;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745295625;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799247175;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745868847;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799329573;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795182271;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745200348;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798806856;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741325853;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795137965;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04748069853;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798093110;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740101202;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745511942;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795116062;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740228345;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795175551;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745462340;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799126585;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740105202;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741923180;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740220446;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799328154;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740102541;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740464411;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04792823084;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740102038;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04748020138;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793080858;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798875961;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799290763;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793018672;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741244738;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741255098;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740643119;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741210094;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745209060;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04797626665;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741809928;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740613642;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740451535;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741577751;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745667296;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745278477;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798851376;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04748157860;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798077970;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745427339;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740613603;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799352913;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04792888809;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745445736;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04797078437;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740013326;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798045410;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04797153932;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741471115;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04797794733;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04748218571;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04746431177;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793458306;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741799182;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745221066;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798833751;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741418875;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740610338;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798039949;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798831216;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795977326;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04747298111;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740201271;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740101115;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741509463;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741617612;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793487435;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745214205;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798879638;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741611317;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745225796;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04790119159;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741923285;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740485704;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04799040189;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798812558;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04748051158;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741231977;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740486289;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04795855523;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740644621;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04793446476;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04747353870;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741295020;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741265686;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04797123750;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04745232383;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741555320;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04792888727;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04740496159;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741677051;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04791726475;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741906574;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04741619800;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04792857226;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04798029606;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04790504204;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS
+;04790044408;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 12.03.10;1;NIS

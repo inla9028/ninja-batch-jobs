@@ -1,0 +1,11 @@
+GSM04794316163;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04798226687;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04793086368;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04797517053;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04792600685;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04791633667;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04792262656;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04792423885;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04792443597;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04792657035;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N
+GSM04740605009;PPTJ;000000000;;K;;;;KON1;Prisplanen er utgått og erstattes av tilsvarende privatprisplan;Y;HFA 17.03.2010;N

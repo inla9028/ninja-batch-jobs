@@ -1,0 +1,56 @@
+
+SQL*Loader: Release 9.2.0.1.0 - Production on Wed Mar 15 10:39:11 2006
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   Gemma_soc_processing.ctl
+Data File:      Add_GEMMA_soc_ASTRAZENECA.csv
+  Bad File:     Add_GEMMA_soc_ASTRAZENECA.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_TREE_CUG_ADDITION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ROOT_BAN                            FIRST     *   ;  O(") CHARACTER            
+PARENT_BAN                           NEXT     *   ;  O(") CHARACTER            
+SOC                                  NEXT     *   ;  O(") CHARACTER            
+PNI                                  NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+ACTION_CODE                          NEXT     *   ;  O(") CHARACTER            
+SOC_EFFECTIVE_DATE                   NEXT     *   ;  O(") CHARACTER            
+    SQL string for column : "TO_DATE(:SOC_EFFECTIVE_DATE,'YYYYMMDD')"
+
+
+Table BATCH_TREE_CUG_ADDITION:
+  3 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 132096 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:             3
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Mar 15 10:39:11 2006
+Run ended on Wed Mar 15 10:39:12 2006
+
+Elapsed time was:     00:00:00.22
+CPU time was:         00:00:00.03

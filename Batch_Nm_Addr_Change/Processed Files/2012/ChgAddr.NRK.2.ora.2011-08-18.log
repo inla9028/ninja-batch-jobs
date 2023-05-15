@@ -1,0 +1,79 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Thu Aug 18 15:16:25 2011
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   batch_name_address_loader.ctl
+Data File:      ChgAddr.NRK.2.ora.2011-08-18.txt
+  Bad File:     ChgAddr.NRK.2.ora.2011-08-18.bad
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_NAME_ADDRESS_UPDATE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+LINK_TYPE                           FIRST     *   ;  O(") CHARACTER
+BAN_NO                               NEXT     *   ;  O(") CHARACTER
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER
+LAST_BUSINESS_NAME                   NEXT     *   ;  O(") CHARACTER
+FIRST_NAME                           NEXT     *   ;  O(") CHARACTER
+BIRTH_DATE                           NEXT     *   ;  O(") CHARACTER
+ADR_CITY                             NEXT     *   ;  O(") CHARACTER
+ADR_ZIP                              NEXT     *   ;  O(") CHARACTER
+ADR_HOUSE_NO                         NEXT     *   ;  O(") CHARACTER
+ADR_STREET_NAME                      NEXT     *   ;  O(") CHARACTER
+ADR_POB                              NEXT     *   ;  O(") CHARACTER
+ADR_DISTRICT                         NEXT     *   ;  O(") CHARACTER
+ADR_COUNTRY                          NEXT     *   ;  O(") CHARACTER
+ADR_HOUSE_LETTER                     NEXT     *   ;  O(") CHARACTER
+ADR_STOREY                           NEXT     *   ;  O(") CHARACTER
+ADR_DOOR_NO                          NEXT     *   ;  O(") CHARACTER
+ADR_GENDER                           NEXT     *   ;  O(") CHARACTER
+ALLOW_ADVERTISING_IND                NEXT     *   ;  O(") CHARACTER
+ADR_HOME_PHONE                       NEXT     *   ;  O(") CHARACTER
+EMAIL_ADDR                           NEXT     *   ;  O(") CHARACTER
+ADR_LISTED_IND                       NEXT     *   ;  O(") CHARACTER
+PUBLISH_LEVEL                        NEXT     *   ;  O(") CHARACTER
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") CHARACTER
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER
+ROLE_IND                             NEXT     *   ;  O(") CHARACTER
+COMPANY_ID                           NEXT     *   ;  O(") CHARACTER
+ADR_CO_NAME                          NEXT     *   ;  O(") CHARACTER
+ADDITIONAL_TITLE                     NEXT     *   ;  O(") CHARACTER
+
+
+Table BATCH_NAME_ADDRESS_UPDATE:
+  2828 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 255936 bytes(31 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          2828
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Thu Aug 18 15:16:25 2011
+Run ended on Thu Aug 18 15:16:27 2011
+
+Elapsed time was:     00:00:01.49
+CPU time was:         00:00:00.14

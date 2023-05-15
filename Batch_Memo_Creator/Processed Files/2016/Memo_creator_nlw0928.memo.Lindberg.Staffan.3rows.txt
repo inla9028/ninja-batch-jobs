@@ -1,0 +1,3 @@
+04740016168;;The sub has got updated OCSI and SMSCSI triggers in HLR as a test. If sub complains about anything, please contact Lindberg, Staffan (STLI15) and Benterud, Per-Øyvind immediately. Thanks. ;;CSM;;
+04740086585;;The sub has got updated OCSI and SMSCSI triggers in HLR as a test. If sub complains about anything, please contact Lindberg, Staffan (STLI15) and Benterud, Per-Øyvind immediately. Thanks. ;;CSM;;
+04740203688;;The sub has got updated OCSI and SMSCSI triggers in HLR as a test. If sub complains about anything, please contact Lindberg, Staffan (STLI15) and Benterud, Per-Øyvind immediately. Thanks. ;;CSM;;

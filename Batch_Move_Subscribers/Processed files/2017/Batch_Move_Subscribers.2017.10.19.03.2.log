@@ -1,0 +1,64 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on To Okt 19 12:34:51 2017
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Kontrolfil:     move_subs.ctl
+Datafil:        Batch_Move_Subscribers.2017.10.19.03.2.txt
+  BAD-fil:      Batch_Move_Subscribers.2017.10.19.03.2.bad
+  Discard-fil:  ingen angivet
+ 
+ (Tillad alle discards)
+
+Antal, som skal indlæses:   ALL
+Antal, som skal overspringes: 0
+Fejl tilladt:   0
+Tilknytnings-array:  64 rækker, maksimum 256000 byte
+Fortsættelse:    ingen angivet
+Sti anvendt:      Konventionel
+
+Tabel "NINJADATA"."BATCH_MOVE_SUBSCRIBERS", indlæst fra hver logisk record.
+INSERT-valg gældende for denne tabel: APPEND
+TRAILING NULLCOLS-valg er aktivt
+
+   Kolonnenavn                  Position   Læn  Afgr Omsl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+NEW_BAN                              NEXT     *   ;  O(") CHARACTER            
+NEW_PRICEPLAN                        NEXT     *   ;  O(") CHARACTER            
+NEW_CAMPAIGN_CODE                    NEXT     *   ;  O(") CHARACTER            
+HANDLE_COMMITMENT                    NEXT     *   ;  O(") CHARACTER            
+DEALER                               NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+KEEP_USER_NAME                       NEXT     *   ;  O(") CHARACTER            
+WAIVE_FEES                           NEXT     *   ;  O(") CHARACTER            
+IS_MOVE_FROM_SP                      NEXT     *   ;  O(") CHARACTER            
+IS_MOVE_TO_SP                        NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+SKIP_NINJA_VALIDATION                NEXT     *   ;  O(") CHARACTER            
+
+den værdi, der blev brugt til ROWS-parameter, blev ændret fra 64 til 62
+
+Tabel "NINJADATA"."BATCH_MOVE_SUBSCRIBERS":
+  12 Rækker indlæst uden fejl.
+  0 Rækker ikke indlæst pga. datafejl.
+  0 Rækker er ikke indlæst, da der var fejl i alle WHEN-klausuler.
+  0 Rækker er ikke indlæst, da alle felter var NULL.
+
+
+Plads allokeret til tilknytnings-array:              255936 byte(62 rækker)
+Læsebuffer-byte: 1048576
+
+Samlet antal logiske records, der er oversprunget:         0
+Samlet antal logiske records, der er læst:                  12
+Samlet antal logiske records, der er afvist:                 0
+Samlet antal logiske records, der er kasseret:              0
+
+Udførelse begyndte To Okt 19 12:34:51 2017
+Udførelse sluttede To Okt 19 12:34:56 2017
+
+Forløbet tid:     00:00:04.38
+CPU-tid:          00:00:00.08

@@ -1,0 +1,37 @@
+GSM04745843000;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04746988502;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04745843002;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04746988501;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04793088500;PSSD;PSSD24BI;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04747922666;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04791370906;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04797700010;PSSD;PSSD24BI;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04759960042;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04798290470;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04745843001;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04740693900;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04793234723;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04745843004;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04746988505;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04791155940;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04797519118;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04790018275;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04791719375;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04791388787;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04746979300;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04746988506;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04740691800;PSSD;PSSD24BI;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04745843003;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04797700030;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04792245222;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04798290446;PSSC;PSSC24B1;;N;;N205;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N205. ;Y;MDL 04.11.2015;Y
+GSM04740408592;PSSC;PSSC24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04740408593;PSSC;PSSC24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04740408594;PSSB;PSSB24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04740408595;PSSC;PSSC24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04792219357;PSSD;PSSD24BI;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04793088575;PSSB;PSSB24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04792874750;PSSB;PSSB24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04792874775;PSSB;PSSB24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04793050310;PSSB;PSSB24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y
+GSM04793050325;PSSB;PSSB24B1;;N;;N180;A;BY33;Konvertering til Smart. 24 mnd avtaletid. On request by N180;Y;MDL 04.11.2015;Y

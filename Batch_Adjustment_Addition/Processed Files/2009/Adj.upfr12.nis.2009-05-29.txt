@@ -1,0 +1,458 @@
+;04799362690;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04793029945;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04793632263;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792018152;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04740210735;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792856177;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04797690015;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04790651782;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04741326011;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792833256;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792827699;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04741684108;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792413786;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04740626063;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04741568671;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04793486651;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04797584601;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04797775440;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792201613;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04798621128;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04795853953;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04746442624;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792864971;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04740462721;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792857567;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04791698240;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04797707864;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792832059;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04747859760;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04798856811;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04793219725;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04795487253;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792848827;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04795853954;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04795221451;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04792257459;UPFR12;Ringetid kampanje 600;;600;;;;;NIS 29.05.09;1;NIS
+;04745244592;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04798665479;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04745863145;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04792207641;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04797081128;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04793822025;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04745231289;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04793431331;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04790764726;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04793449309;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04798676089;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04792015478;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04791632136;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04792264940;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04745414571;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04799392720;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04799276498;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04790524891;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04790833045;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04745231000;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04795843546;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04797736694;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04799345404;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04792437338;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04791867282;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04792648715;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04799017291;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04746743407;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04740219355;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04792897368;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04793677444;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04799623353;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04799754970;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04793021062;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04793203890;UPFR12;Ringetid kampanje 900;;900;;;;;NIS 29.05.09;1;NIS
+;04745413074;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793686023;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793607159;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04741688164;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798680556;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792052262;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798878382;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793843746;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790147048;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04791619268;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04791705691;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790369622;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790228204;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798064112;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792099633;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792034063;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04748070262;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793656118;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798686562;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04797504040;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04740886675;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790201671;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04791888544;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793680129;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793644003;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798856300;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04745416298;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793692654;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04745226760;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798815168;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790911726;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04799029497;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04748995245;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04799488031;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04741546792;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04748035613;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790574397;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790963550;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793680685;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04741277565;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04791685550;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04747303086;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798035611;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793477879;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790233385;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04791348813;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04748111840;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04791319422;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793602347;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04741654112;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04798649670;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04799115438;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04746742429;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04746742412;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04748104637;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04795765464;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04740604191;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793006312;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04745217315;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04791646769;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792293135;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04746742409;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04790248867;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04740016764;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04797967278;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04795046911;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04797521625;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792660859;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04740853567;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793281880;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04793062670;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792465771;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04746742854;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04795976080;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792666089;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIS 29.05.09;1;NIS
+;04792453168;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04799391269;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04799045049;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793070166;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793212334;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745467212;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797154440;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793228477;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791860789;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745288803;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791188530;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04740239423;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793401647;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745614463;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792856980;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792443821;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798042807;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792866051;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790544351;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792254661;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792851313;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793456886;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798010438;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792646841;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793434783;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792844234;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790680711;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790515141;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793456236;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04746440674;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04740645109;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792097729;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791121711;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792014136;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798061593;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792817013;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792027763;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791349185;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792640621;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790680221;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793068125;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793440874;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790886053;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04747342441;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04799640259;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797780128;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741200061;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792836565;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797522323;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791877711;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793022055;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792039709;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792096601;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793210421;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792093596;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797785101;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790915355;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798465669;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798019994;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797170063;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792463676;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790999513;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790100553;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793295425;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792020695;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741541175;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793280400;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798445727;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04799112114;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792205679;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797082026;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793085872;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790258226;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798047478;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792063129;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792684853;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790568703;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798086671;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792491725;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793676236;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792614671;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745475071;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792420429;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797715490;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792430057;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04795970561;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04740018524;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04795109155;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791326388;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790243619;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797611527;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741100749;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793060341;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792894106;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793437054;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790696757;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792084754;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741906010;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793088786;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792295677;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798448256;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792292944;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745270352;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792664153;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04799557115;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792222287;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793069567;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792865550;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790173050;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793079594;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790296768;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792471989;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798403990;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04799029731;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793062239;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792049623;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791838439;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792838199;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790045245;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741809777;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793282532;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04799509535;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741334207;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798265009;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797715713;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792842790;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792090089;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792240349;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793049558;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793287180;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745601228;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04795919157;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792610003;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797175883;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793211176;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741517272;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745605399;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792079466;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792202087;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792297387;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798487466;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792071170;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790696925;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04746662426;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797955536;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792037007;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792431099;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792268904;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791808709;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791133006;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793296986;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04740001342;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792847502;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790601886;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04748230487;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790823287;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04740615576;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793255453;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792825151;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793078440;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792633879;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792233270;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745279590;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792845587;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04747612367;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798074258;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793270494;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792409369;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792454963;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791623424;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790690960;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790109452;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792672014;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797473235;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793030223;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798632381;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791113811;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791619179;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798695656;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790192642;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741540948;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04790532353;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04748039198;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04797117039;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791304324;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792052804;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793213817;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792689767;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04748125364;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793231300;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792081913;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04795909532;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798006125;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798232568;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792811353;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04745214970;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793284531;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798241919;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792085294;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04798478090;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741255130;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04791764476;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792239603;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04792056140;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04747668875;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04793467630;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04795239075;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741576283;UPFR12;Ringetid kampanje 1800;;1800;;;;;NIS 29.05.09;1;NIS
+;04741512706;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;15.89;;;;;CSK 26.05.09;1;CSK
+;04741533555;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;1 190.83;;;;;CSK 26.05.09;1;CSK
+;04741533566;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;60.42;;;;;CSK 26.05.09;1;CSK
+;04741533638;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;0.85;;;;;CSK 26.05.09;1;CSK
+;04741686401;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;0.45;;;;;CSK 26.05.09;1;CSK
+;04745485500;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;18.35;;;;;CSK 26.05.09;1;CSK
+;04747274113;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;0.47;;;;;CSK 26.05.09;1;CSK
+;04747465555;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;352.89;;;;;CSK 26.05.09;1;CSK
+;04748252400;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;364.28;;;;;CSK 26.05.09;1;CSK
+;04790020731;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;17.38;;;;;CSK 26.05.09;1;CSK
+;04790073207;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;15.62;;;;;CSK 26.05.09;1;CSK
+;04790192194;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;165.67;;;;;CSK 26.05.09;1;CSK
+;04790200107;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;26.95;;;;;CSK 26.05.09;1;CSK
+;04790535543;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;903.2;;;;;CSK 26.05.09;1;CSK
+;04790696214;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;979.41;;;;;CSK 26.05.09;1;CSK
+;04790797814;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;4.81;;;;;CSK 26.05.09;1;CSK
+;04790825963;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;166.29;;;;;CSK 26.05.09;1;CSK
+;04790845807;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;23.74;;;;;CSK 26.05.09;1;CSK
+;04790876644;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;7 105.75;;;;;CSK 26.05.09;1;CSK
+;04790927834;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;90.46;;;;;CSK 26.05.09;1;CSK
+;04791117599;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;32.08;;;;;CSK 26.05.09;1;CSK
+;04791169727;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;753.33;;;;;CSK 26.05.09;1;CSK
+;04791336304;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;204.85;;;;;CSK 26.05.09;1;CSK
+;04791603917;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;16.59;;;;;CSK 26.05.09;1;CSK
+;04791603921;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;2 667.53;;;;;CSK 26.05.09;1;CSK
+;04791794668;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;102.35;;;;;CSK 26.05.09;1;CSK
+;04791870198;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;236.21;;;;;CSK 26.05.09;1;CSK
+;04792036754;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;7.91;;;;;CSK 26.05.09;1;CSK
+;04792249199;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;115.8;;;;;CSK 26.05.09;1;CSK
+;04792291001;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;186.36;;;;;CSK 26.05.09;1;CSK
+;04792618973;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;41.39;;;;;CSK 26.05.09;1;CSK
+;04793054614;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;12.25;;;;;CSK 26.05.09;1;CSK
+;04793435311;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;10.29;;;;;CSK 26.05.09;1;CSK
+;04795248033;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;392.07;;;;;CSK 26.05.09;1;CSK
+;04795466321;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;30.28;;;;;CSK 26.05.09;1;CSK
+;04795931721;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;978.64;;;;;CSK 26.05.09;1;CSK
+;04797057250;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;29.26;;;;;CSK 26.05.09;1;CSK
+;04797508106;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;35.71;;;;;CSK 26.05.09;1;CSK
+;04797513940;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;37.97;;;;;CSK 26.05.09;1;CSK
+;04797570732;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;1 184.67;;;;;CSK 26.05.09;1;CSK
+;04797619321;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;77.5;;;;;CSK 26.05.09;1;CSK
+;04798212800;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;329.21;;;;;CSK 26.05.09;1;CSK
+;04799796113;KORFAK;CSK krediterer for manglende rabatt på roaming;Manglende rabatt utland;15.51;;;;;CSK 26.05.09;1;CSK
+;04741208593;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;23.07;;;;;CSK 26.05.09;1;CSK
+;04741433054;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;69.37;;;;;CSK 26.05.09;1;CSK
+;04741578524;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;52.8;;;;;CSK 26.05.09;1;CSK
+;04741614675;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;18.5;;;;;CSK 26.05.09;1;CSK
+;04745224881;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;37.83;;;;;CSK 26.05.09;1;CSK
+;04747638196;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;47.03;;;;;CSK 26.05.09;1;CSK
+;04747641338;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;87.43;;;;;CSK 26.05.09;1;CSK
+;04747646174;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;37.8;;;;;CSK 26.05.09;1;CSK
+;04747719462;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;17.17;;;;;CSK 26.05.09;1;CSK
+;04748224801;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;34.1;;;;;CSK 26.05.09;1;CSK
+;04748276282;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;23.93;;;;;CSK 26.05.09;1;CSK
+;04759902230;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;10.8;;;;;CSK 26.05.09;1;CSK
+;04759902231;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;10.8;;;;;CSK 26.05.09;1;CSK
+;04790035130;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;47.47;;;;;CSK 26.05.09;1;CSK
+;04790143194;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;49.67;;;;;CSK 26.05.09;1;CSK
+;04790156800;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;69.77;;;;;CSK 26.05.09;1;CSK
+;04790159800;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;49.47;;;;;CSK 26.05.09;1;CSK
+;04790164800;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;57.63;;;;;CSK 26.05.09;1;CSK
+;04790189300;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;46.8;;;;;CSK 26.05.09;1;CSK
+;04790195800;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;51.7;;;;;CSK 26.05.09;1;CSK
+;04790197600;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;62.7;;;;;CSK 26.05.09;1;CSK
+;04790623441;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;26.7;;;;;CSK 26.05.09;1;CSK
+;04790623461;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;32.3;;;;;CSK 26.05.09;1;CSK
+;04790648430;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;52.83;;;;;CSK 26.05.09;1;CSK
+;04790726400;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;34.57;;;;;CSK 26.05.09;1;CSK
+;04790772507;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;42.13;;;;;CSK 26.05.09;1;CSK
+;04790772530;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;23.07;;;;;CSK 26.05.09;1;CSK
+;04790783700;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;24.6;;;;;CSK 26.05.09;1;CSK
+;04790786800;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;19.8;;;;;CSK 26.05.09;1;CSK
+;04790787400;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;115.7;;;;;CSK 26.05.09;1;CSK
+;04790797300;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;55.17;;;;;CSK 26.05.09;1;CSK
+;04791158775;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;63.67;;;;;CSK 26.05.09;1;CSK
+;04791198048;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;19.8;;;;;CSK 26.05.09;1;CSK
+;04791198049;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;59.83;;;;;CSK 26.05.09;1;CSK
+;04791379265;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;24.07;;;;;CSK 26.05.09;1;CSK
+;04791389755;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;42.97;;;;;CSK 26.05.09;1;CSK
+;04791392460;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;19.8;;;;;CSK 26.05.09;1;CSK
+;04791396434;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;19.8;;;;;CSK 26.05.09;1;CSK
+;04791603720;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;65.93;;;;;CSK 26.05.09;1;CSK
+;04791611440;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;94.97;;;;;CSK 26.05.09;1;CSK
+;04791644060;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;83.27;;;;;CSK 26.05.09;1;CSK
+;04792251545;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;47.1;;;;;CSK 26.05.09;1;CSK
+;04792253062;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;29.9;;;;;CSK 26.05.09;1;CSK
+;04792262501;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;43.97;;;;;CSK 26.05.09;1;CSK
+;04794147630;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;55.77;;;;;CSK 26.05.09;1;CSK
+;04794154166;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;26.3;;;;;CSK 26.05.09;1;CSK
+;04795152247;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;37.93;;;;;CSK 26.05.09;1;CSK
+;04795195881;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;83.9;;;;;CSK 26.05.09;1;CSK
+;04795219625;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;99.23;;;;;CSK 26.05.09;1;CSK
+;04795220602;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;35.5;;;;;CSK 26.05.09;1;CSK
+;04795411435;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;20;;;;;CSK 26.05.09;1;CSK
+;04795426551;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;76.97;;;;;CSK 26.05.09;1;CSK
+;04797081885;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;21.17;;;;;CSK 26.05.09;1;CSK
+;04797181250;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;46.63;;;;;CSK 26.05.09;1;CSK
+;04797189713;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;31;;;;;CSK 26.05.09;1;CSK
+;04797194033;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;37.7;;;;;CSK 26.05.09;1;CSK
+;04797702029;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;47.77;;;;;CSK 26.05.09;1;CSK
+;04797767879;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;80.27;;;;;CSK 26.05.09;1;CSK
+;04799121217;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;19.5;;;;;CSK 26.05.09;1;CSK
+;04799348558;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;72.13;;;;;CSK 26.05.09;1;CSK
+;04799401935;KORFAK;CSK krediterer for manglende rabatt også på siste faktura;Manglende rabatt;72.8;;;;;CSK 26.05.09;1;CSK

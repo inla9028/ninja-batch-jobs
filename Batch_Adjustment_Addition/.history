@@ -1,0 +1,8 @@
+touch "2022-01-07.trka0776.txt"
+atom 2022*.txt
+./runloader_prod.sh 2022*.txt
+
+mv 2022* Processed\ Files/2022/
+svn add Processed\ Files/2022/2022-01-07.*
+
+svn commit -m "This just in..."

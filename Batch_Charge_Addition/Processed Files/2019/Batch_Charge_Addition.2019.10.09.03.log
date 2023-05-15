@@ -1,0 +1,62 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on To Okt 10 10:46:12 2019
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   hgu_runloader.ctl
+Data File:      Batch_Charge_Addition.2019.10.09.03.txt
+  Bad File:     hgu_runloader.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_CHARGE_ADDITION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+BAN_NO                              FIRST     *   ;  O(") CHARACTER            
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER            
+CHARGE_CODE                          NEXT     *   ;  O(") CHARACTER            
+ACTV_REASON_CODE                     NEXT     *   ;  O(") CHARACTER            
+AMOUNT                               NEXT     *   ;  O(") CHARACTER            
+USER_BILL_TEXT                       NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+EFFECTIVE_DATE                       NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+STREAM                               NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+
+
+Table BATCH_CHARGE_ADDITION:
+  3192 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 247680 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          3192
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on To Okt 10 10:46:12 2019
+Run ended on To Okt 10 10:46:25 2019
+
+Elapsed time was:     00:00:13.17
+CPU time was:         00:00:00.29

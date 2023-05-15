@@ -1,0 +1,2 @@
+subscriber_no;  soc;  action;  feature;  parameter;  parm_value; request_id; memo_text; feature2; parameter2; parm_value2
+GSM04792697302;DATA01;ADD;B-DA26;MSISDN;4745408503;LRI 09.02.2005;Testing data soc;ISDN96;MSISDN;4745408524

@@ -1,0 +1,884 @@
+;04792285421;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04747885538;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04790799602;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04792432691;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04748038802;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04741476454;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04747659767;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04745218037;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04799628889;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04745228208;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04740551715;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04793230233;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04798415095;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04792635161;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04792297376;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784;
+;04791179551;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741588698;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04740609484;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793026624;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04740555377;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790131094;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792868529;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04799252815;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792826665;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792207866;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04747282688;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793247806;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792866837;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745444995;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793069468;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792297098;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790147511;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793228364;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797507362;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745272280;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792054136;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745212436;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793635248;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04795075736;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04798035414;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797779773;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741729186;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04740555864;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04798458511;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04747359009;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790026846;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793654215;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04798232557;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793023075;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745058047;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792414869;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745220304;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792828734;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793232419;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793285286;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793044414;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792203244;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793875736;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793611136;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04798028095;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04791814391;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793463332;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793855117;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04795062077;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745219134;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04799119479;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745282085;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793024534;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797533150;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793045256;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741462722;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790554445;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04795702054;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790042175;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793007781;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792014135;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797705504;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04746440046;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797616949;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04798049803;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792082439;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04799378107;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790073128;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741256156;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741505248;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04795908461;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792668403;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04748065404;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04740613434;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04799709632;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741329079;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797719533;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741561587;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04747673948;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04799475124;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792801723;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04791522572;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04799243260;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792453266;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04791397160;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04799260649;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792618454;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04795259489;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04741280677;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797152882;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792480052;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792282842;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04798439120;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792207872;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792808832;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04740613590;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793295518;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790682488;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04791836152;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04740852234;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04745250618;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04740485078;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797044354;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792214005;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793621576;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04746621186;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04791570232;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04790599422;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792887974;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04747752832;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04792285662;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04793256558;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04797129652;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04748218841;UPFR12;Ringetid kampanje 600;;600;;;;;NIST0784 12.07.10;1;NIST0784
+;04795781656;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04798859768;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792069819;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04745252556;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792828435;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04799252832;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04790775366;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04793047465;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04791389150;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04798039710;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792053077;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04740451078;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04795970038;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04798846462;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04797792440;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792033847;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792620829;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04795246428;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04745436152;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792482918;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792285298;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04745420390;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04798477615;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04799559581;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04740249077;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792218375;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04797968081;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04799618948;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04745246944;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04740601401;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04745264529;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04798814016;UPFR12;Ringetid kampanje 900;;900;;;;;NIST0784 12.07.10;1;NIST0784
+;04792859424;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798654304;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745217298;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04791157969;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04746445720;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792461609;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04797099058;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04791300386;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04791752716;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792283870;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745281056;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04741762059;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792038202;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798098311;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04741805050;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798059279;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04740474705;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745393275;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793024462;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793098245;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795845781;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04799515806;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792842958;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795138649;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795772342;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792461614;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795422766;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04747012113;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792440861;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04740621734;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792684508;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792284763;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04747010479;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793081454;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745261820;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798625367;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04740556969;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04797779983;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790507870;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745239053;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745262665;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793439458;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04741321538;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793809295;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793424728;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795243274;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792260252;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745432868;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790887909;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04797141046;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04740555957;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04791361071;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793473194;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04746428996;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04799708652;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792888269;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790585771;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790052699;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790583973;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793043188;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793268562;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745277844;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792205790;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798030645;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792219518;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790152978;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793077957;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792092148;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798874772;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745204825;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04797011998;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793449973;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798030886;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04797109704;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04799738173;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792404252;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04748295992;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04791840957;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795016969;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04791816045;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793837563;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04747466222;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04740613316;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04799221093;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792408979;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04799565648;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793446748;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04741238699;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04748196028;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792256888;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790658487;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793292302;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04747758048;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790632758;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792254990;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04740864374;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795063308;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792450824;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04745274336;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792830175;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792820221;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04791118760;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790402004;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04797108066;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04741264079;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798843905;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790949459;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04793254181;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04790128528;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04746913601;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04795433011;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04741455349;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04798819728;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04794878199;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04797033759;UPFR12;Ringetid kampanje 1000;;1000;;;;;NIST0784 12.07.10;1;NIST0784
+;04792248402;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIST0784 12.07.10;1;NIST0784
+;04793243415;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIST0784 12.07.10;1;NIST0784
+;04745044435;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIST0784 12.07.10;1;NIST0784
+;04745396496;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIST0784 12.07.10;1;NIST0784
+;04791370916;UPFR12;Ringetid kampanje 1200;;1200;;;;;NIST0784 12.07.10;1;NIST0784
+;04799162142;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIST0784 12.07.10;1;NIST0784
+;04747074434;UPFR12;Ringetid kampanje 1500;;1500;;;;;NIST0784 12.07.10;1;NIST0784
+;04740067408;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;318.21;;;;;CASK1566 12.07.10;1;CASK1566
+;04741577419;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.23;;;;;CASK1566 12.07.10;1;CASK1566
+;04741577420;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04741577433;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.43;;;;;CASK1566 12.07.10;1;CASK1566
+;04741577459;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04741577494;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.02;;;;;CASK1566 12.07.10;1;CASK1566
+;04741577507;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;96.78;;;;;CASK1566 12.07.10;1;CASK1566
+;04741629060;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;49.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04745505090;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.03;;;;;CASK1566 12.07.10;1;CASK1566
+;04745505097;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.81;;;;;CASK1566 12.07.10;1;CASK1566
+;04745505102;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869015;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869040;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1197.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869046;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;180.89;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869047;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;26.94;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869062;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.99;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869086;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;74.45;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869087;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;41.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869096;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.61;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869100;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;31.19;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869106;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.35;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869107;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869118;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;134.06;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869134;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.53;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869139;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869140;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.11;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869151;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.79;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869156;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;44.98;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869158;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;53.82;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869160;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;32.17;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869161;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;262.71;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869166;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;31.68;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869171;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.97;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869174;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.96;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869182;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;6.53;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869196;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.67;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869197;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1023.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869218;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;264.19;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869219;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;129.57;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869225;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;232.67;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869231;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.99;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869241;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;323.95;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869244;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;71.29;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869246;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.03;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869256;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;48.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869264;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;53.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869274;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.59;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869282;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;45.5;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869284;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25.57;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869290;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869302;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.97;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869317;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.97;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869326;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869334;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869340;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;187.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869350;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;21.94;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869355;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;258.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869366;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869369;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869372;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.26;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869387;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;27.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869390;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;41.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869391;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;27.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869418;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869420;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869422;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.57;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869432;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13.91;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869437;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;178.82;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869438;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.19;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869439;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;21.95;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869485;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04745869493;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;71.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620318;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620319;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620320;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620374;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;22.99;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620392;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;20.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620393;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620397;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;6.14;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620400;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.94;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620404;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.61;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620416;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1437.24;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620417;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;256.97;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620418;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;316.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620420;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;24.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620421;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;35.7;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620422;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;70.39;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620430;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;33.5;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620431;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;435.43;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620433;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.52;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620438;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.82;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620450;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620457;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;68.95;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620459;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;38.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620460;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620473;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.39;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620493;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25.31;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620515;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620516;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620520;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;43.21;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620524;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620526;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.52;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620554;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.69;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620555;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.36;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620560;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;16.72;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620582;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;15.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620584;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;91.82;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620585;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;264.93;;;;;CASK1566 12.07.10;1;CASK1566
+;04746620592;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;269.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04747303672;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;101.32;;;;;CASK1566 12.07.10;1;CASK1566
+;04790011068;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04790021393;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;263.16;;;;;CASK1566 12.07.10;1;CASK1566
+;04790040467;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04790059095;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04790142855;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2706.16;;;;;CASK1566 12.07.10;1;CASK1566
+;04790192535;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.99;;;;;CASK1566 12.07.10;1;CASK1566
+;04790201520;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;58.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04790280598;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04790547241;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.81;;;;;CASK1566 12.07.10;1;CASK1566
+;04790558241;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;68.99;;;;;CASK1566 12.07.10;1;CASK1566
+;04790576347;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;117.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04790604039;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;154.68;;;;;CASK1566 12.07.10;1;CASK1566
+;04790762740;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.29;;;;;CASK1566 12.07.10;1;CASK1566
+;04790793538;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;31.61;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851201;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;31.03;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851203;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;180.22;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851204;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;213.5;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851207;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;91.7;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851209;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;247.62;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851211;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.28;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851224;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.35;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851229;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851242;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.99;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851250;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;76.03;;;;;CASK1566 12.07.10;1;CASK1566
+;04790851260;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.31;;;;;CASK1566 12.07.10;1;CASK1566
+;04790881145;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;329.59;;;;;CASK1566 12.07.10;1;CASK1566
+;04790915306;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;360.11;;;;;CASK1566 12.07.10;1;CASK1566
+;04790925161;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;38.33;;;;;CASK1566 12.07.10;1;CASK1566
+;04790925277;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04790934337;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;377.61;;;;;CASK1566 12.07.10;1;CASK1566
+;04790943350;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.86;;;;;CASK1566 12.07.10;1;CASK1566
+;04790961865;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.14;;;;;CASK1566 12.07.10;1;CASK1566
+;04791104343;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.87;;;;;CASK1566 12.07.10;1;CASK1566
+;04791118162;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.87;;;;;CASK1566 12.07.10;1;CASK1566
+;04791123404;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;83.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04791156202;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.45;;;;;CASK1566 12.07.10;1;CASK1566
+;04791174033;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;57.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04791353737;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04791366004;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;136.37;;;;;CASK1566 12.07.10;1;CASK1566
+;04791373660;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.84;;;;;CASK1566 12.07.10;1;CASK1566
+;04791379914;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.22;;;;;CASK1566 12.07.10;1;CASK1566
+;04791515096;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.29;;;;;CASK1566 12.07.10;1;CASK1566
+;04791515098;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.27;;;;;CASK1566 12.07.10;1;CASK1566
+;04791534519;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;15.31;;;;;CASK1566 12.07.10;1;CASK1566
+;04791674459;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;595.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04791697710;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25.21;;;;;CASK1566 12.07.10;1;CASK1566
+;04791697890;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.7;;;;;CASK1566 12.07.10;1;CASK1566
+;04791707364;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;68.16;;;;;CASK1566 12.07.10;1;CASK1566
+;04791710761;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;83.24;;;;;CASK1566 12.07.10;1;CASK1566
+;04791743093;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;15.72;;;;;CASK1566 12.07.10;1;CASK1566
+;04791852067;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04791860461;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.51;;;;;CASK1566 12.07.10;1;CASK1566
+;04791872475;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13.15;;;;;CASK1566 12.07.10;1;CASK1566
+;04792022596;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.27;;;;;CASK1566 12.07.10;1;CASK1566
+;04792040759;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.87;;;;;CASK1566 12.07.10;1;CASK1566
+;04792055107;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;182.68;;;;;CASK1566 12.07.10;1;CASK1566
+;04792055112;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.7;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251001;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.83;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251002;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;27.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251003;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;84.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251004;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;69.9;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251005;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251010;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.32;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251023;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251040;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;82.6;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251041;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;716.87;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251044;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;58.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251064;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.22;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251071;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.78;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251080;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.97;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251084;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251086;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;47.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251088;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251105;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.93;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251124;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.63;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251136;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;47.94;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251139;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.47;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251143;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;56.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251154;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.07;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251155;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251167;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;145.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251170;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;33.33;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251173;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;200.28;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251177;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;60.77;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251181;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;85.24;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251191;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;190.17;;;;;CASK1566 12.07.10;1;CASK1566
+;04792251198;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13;;;;;CASK1566 12.07.10;1;CASK1566
+;04792401325;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04792402663;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851203;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.89;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851214;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;19.21;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851218;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;23.88;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851236;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;15.83;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851238;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;54.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851239;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;36.05;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851249;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851250;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851261;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.47;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851281;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851286;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;26.57;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851305;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;23.68;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851307;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851310;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1018.39;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851318;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.92;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851339;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.63;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851345;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;33.62;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851348;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;113.84;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851357;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;110.88;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851358;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;78.48;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851364;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;131.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851368;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;149.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851374;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;352.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851379;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.63;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851380;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;120.44;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851385;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;62.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851394;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;15.91;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851398;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851409;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.92;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851410;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;854.87;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851415;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;37.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851419;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;59.37;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851427;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;264.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851444;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.81;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851451;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.55;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851452;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;41.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851458;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851462;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.53;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851464;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851468;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.91;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851471;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;64.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851473;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;22.05;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851479;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;127.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851482;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851494;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.52;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851499;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;226.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851504;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;100.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851510;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.17;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851512;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;22.03;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851519;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851520;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;74.15;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851527;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.36;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851528;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851529;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.91;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851532;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;42.14;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851539;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;69.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851562;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;16.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851569;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;36.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851571;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;6.48;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851578;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;24.53;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851582;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851589;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.26;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851590;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.71;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851595;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.29;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851597;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.92;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851603;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;6.39;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851604;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.32;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851605;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25.41;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851607;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;83.96;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851608;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;87.55;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851635;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;57.22;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851645;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;534.93;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851646;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.41;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851650;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;27.09;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851653;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;21.79;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851655;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25.44;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851686;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851688;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;105.02;;;;;CASK1566 12.07.10;1;CASK1566
+;04792851692;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04793008749;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.89;;;;;CASK1566 12.07.10;1;CASK1566
+;04793015621;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;62.88;;;;;CASK1566 12.07.10;1;CASK1566
+;04793015623;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04793252503;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04793252508;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.84;;;;;CASK1566 12.07.10;1;CASK1566
+;04793252546;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;107.68;;;;;CASK1566 12.07.10;1;CASK1566
+;04793252547;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;273.45;;;;;CASK1566 12.07.10;1;CASK1566
+;04793252592;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;32.69;;;;;CASK1566 12.07.10;1;CASK1566
+;04793252596;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04793438812;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;30.62;;;;;CASK1566 12.07.10;1;CASK1566
+;04793438844;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;342.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04793441251;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.06;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444406;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.23;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444407;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.23;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444408;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444409;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;59.07;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444413;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;202.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444446;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.05;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444453;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;72.2;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444461;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444464;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;47.07;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444465;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;352.89;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444468;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;66.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444480;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;83.06;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444482;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;33.71;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444483;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;33.43;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444485;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;80.86;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444491;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;77.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444492;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444493;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444500;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;64.44;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444512;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;157.35;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444530;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;221.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444538;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;22.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444544;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.99;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444550;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;137.93;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444551;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.64;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444555;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;61.09;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444556;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444558;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;21.37;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444563;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.43;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444564;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;227.13;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444566;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;268.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444569;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;154.05;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444575;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444578;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;182.29;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444595;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444597;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;23.51;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444598;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;594.79;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444602;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;32.59;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444608;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;16.06;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444612;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;788.52;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444615;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444618;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444623;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444628;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444633;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.78;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444637;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;24.77;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444653;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;37.86;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444654;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444658;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;114.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444665;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444669;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.16;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444670;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444673;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444676;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;26;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444678;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.98;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444681;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;318.84;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444685;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.89;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444686;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444691;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444692;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;43.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444693;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444694;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;53.23;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444706;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;49.32;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444710;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;55;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444721;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444731;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.31;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444738;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.21;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444739;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444741;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444744;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.02;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444746;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.19;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444753;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;106.41;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444758;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.26;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444759;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;931.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444765;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;409.19;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444768;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;6.78;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444773;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.54;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444774;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;31.55;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444778;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;286.89;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444779;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444785;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.82;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444788;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;207.36;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444792;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444805;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.95;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444813;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;19.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444815;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444831;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444846;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;857.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444852;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;81.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444859;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;21.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444875;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;465.43;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444882;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444884;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;114.17;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444886;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.91;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444892;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;146.86;;;;;CASK1566 12.07.10;1;CASK1566
+;04793444897;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.44;;;;;CASK1566 12.07.10;1;CASK1566
+;04793457013;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;382.13;;;;;CASK1566 12.07.10;1;CASK1566
+;04795081103;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.87;;;;;CASK1566 12.07.10;1;CASK1566
+;04795081108;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;103.39;;;;;CASK1566 12.07.10;1;CASK1566
+;04795135212;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;6.05;;;;;CASK1566 12.07.10;1;CASK1566
+;04795204280;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;111.21;;;;;CASK1566 12.07.10;1;CASK1566
+;04795705005;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.39;;;;;CASK1566 12.07.10;1;CASK1566
+;04795734964;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;55.15;;;;;CASK1566 12.07.10;1;CASK1566
+;04795768800;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.77;;;;;CASK1566 12.07.10;1;CASK1566
+;04795806351;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04795877401;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;299.98;;;;;CASK1566 12.07.10;1;CASK1566
+;04795983042;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;7.47;;;;;CASK1566 12.07.10;1;CASK1566
+;04795983045;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;285.87;;;;;CASK1566 12.07.10;1;CASK1566
+;04797011502;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;356.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04797011503;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;26.4;;;;;CASK1566 12.07.10;1;CASK1566
+;04797129235;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.33;;;;;CASK1566 12.07.10;1;CASK1566
+;04797129410;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.73;;;;;CASK1566 12.07.10;1;CASK1566
+;04797503688;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.63;;;;;CASK1566 12.07.10;1;CASK1566
+;04797776700;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;140.6;;;;;CASK1566 12.07.10;1;CASK1566
+;04797781244;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;463.37;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210000;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;688.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210001;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;115.5;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210004;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;63.13;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210014;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.95;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210021;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.21;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210024;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;31.55;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210027;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;136.83;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210036;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;43.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210037;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;342.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210038;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;24.81;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210039;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210040;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210042;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210047;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;21.86;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210050;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.02;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210051;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;27.71;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210052;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;22.44;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210060;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;57.61;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210061;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;308.54;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210063;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.16;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210070;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.91;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210083;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;83.61;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210089;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;95.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210093;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;34.29;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210113;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210120;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.15;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210127;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;271.31;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210134;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;30.43;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210135;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.82;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210137;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;14.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210139;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210140;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;150.14;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210146;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;51.73;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210147;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;299.09;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210148;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;72.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210157;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;54.45;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210158;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210160;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210164;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;512.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210165;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210170;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;41.09;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210180;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.42;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210185;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;161.79;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210190;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;112.07;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210200;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;19.82;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210202;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;48.48;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210207;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;46.59;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210208;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.36;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210224;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.73;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210226;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;71.05;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210227;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.81;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210228;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;35.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210229;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.46;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210235;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.83;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210241;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210244;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;193.7;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210246;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;272.4;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210250;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;57.09;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210258;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.38;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210259;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.67;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210260;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;18.55;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210262;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.6;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210266;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;169.91;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210270;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210272;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;91.53;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210276;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;228.43;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210285;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;79.26;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210286;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;71.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210288;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.73;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210294;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;157.35;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210298;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;52.56;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210307;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;195.52;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210308;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.06;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210319;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;56.96;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210325;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210328;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;53.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210330;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;33.28;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210336;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;181.94;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210338;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;39.98;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210341;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.67;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210358;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;6.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210362;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210370;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210388;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;218.98;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210390;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.2;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210391;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.02;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210393;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;75.32;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210404;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.29;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210405;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.02;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210406;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.51;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210415;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;38.51;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210422;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;400.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210424;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;253.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210429;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.4;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210437;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.16;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210439;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.77;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210447;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.88;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210449;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;294.39;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210450;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13.88;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210457;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;34.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210458;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;966.23;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210461;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.04;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210468;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210476;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.6;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210482;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;117.48;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210486;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1758.93;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210487;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;129.44;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210489;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.89;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210490;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;132.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210494;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.95;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210500;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;74.03;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210502;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.72;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210510;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;128.8;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210515;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210524;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.27;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210530;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;25.75;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210535;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210538;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;34.19;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210541;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.12;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210547;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.49;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210587;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;19.34;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210588;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.09;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210603;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;35.09;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210606;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;31.7;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210610;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.18;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210614;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.97;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210620;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;57.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210624;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.62;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210627;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210629;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.62;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210631;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;94.77;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210640;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;258.22;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210641;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.9;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210643;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.2;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210646;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;303.93;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210647;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.45;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210649;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210652;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;20.59;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210660;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;285.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210663;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210672;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;208.47;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210688;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.53;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210689;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;50.98;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210702;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;113.74;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210711;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;20.72;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210717;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;5.93;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210718;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;17.15;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210746;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13.54;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210752;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;9.78;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210758;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.96;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210767;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;45.55;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210769;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;242.85;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210778;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;54.5;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210783;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;27.63;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210789;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;22.28;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210796;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.62;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210800;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;906.54;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210802;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;13.27;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210814;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.4;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210820;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;136.32;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210822;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.33;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210831;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;11.52;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210833;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.98;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210839;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;645.14;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210844;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;8.17;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210846;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;249.01;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210847;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;59.77;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210875;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;10.48;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210879;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.26;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210884;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;3.03;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210887;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;12.9;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210889;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;4.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210894;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;227.1;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210898;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;21.76;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210917;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.25;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210931;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.37;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210936;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;660.7;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210944;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;52.66;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210951;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2809.9;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210953;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;110.58;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210955;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.3;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210957;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;0.54;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210958;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;29.44;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210962;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.96;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210963;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;53.88;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210974;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;15.67;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210984;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2157.78;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210986;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;33.62;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210991;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;15.08;;;;;CASK1566 12.07.10;1;CASK1566
+;04798210994;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;60.67;;;;;CASK1566 12.07.10;1;CASK1566
+;04798214404;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;426.32;;;;;CASK1566 12.07.10;1;CASK1566
+;04798214405;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;76.65;;;;;CASK1566 12.07.10;1;CASK1566
+;04798214410;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;1.77;;;;;CASK1566 12.07.10;1;CASK1566
+;04798214415;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;35.4;;;;;CASK1566 12.07.10;1;CASK1566
+;04798214420;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;2.13;;;;;CASK1566 12.07.10;1;CASK1566
+;04799537727;KORFAK;Skanska får justert alle interne samtaler i norden ettter avtale;Norden samtaler;28.98;;;;;CASK1566 12.07.10;1;CASK1566

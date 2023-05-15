@@ -1,0 +1,14 @@
+GSM04745494805;TWINCONF;TWINCON;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04740844532;TWINCONF;TWINCON;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04797550027;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04793060322;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04795785995;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04799393148;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04792083421;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04741470126;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04799621008;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04799307424;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04790056895;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04797126776;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04791849247;TWINCON;TWINCONF;;yau 2021-09-01;Endrer til korrekt soc iht avtale
+GSM04741359271;TWINCONF;TWINCON;;yau 2021-09-01;Endrer til korrekt soc iht avtale

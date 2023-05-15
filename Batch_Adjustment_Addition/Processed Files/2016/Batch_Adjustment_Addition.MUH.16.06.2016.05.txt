@@ -1,0 +1,3 @@
+473387603;;KORFAK;ref case 00530654;Kreditering Datapakker;172.5;;;;;MUH.16.06.2016.05;1;MOUL00;
+596147116;;KORFAK;ref case 00530654;Kreditering Datapakker;395;;;;;MUH.16.06.2016.05;1;MOUL00;
+795897602;;KORFAK;ref case 00530654;Kreditering Datapakker;296.25;;;;;MUH.16.06.2016.05;1;MOUL00;

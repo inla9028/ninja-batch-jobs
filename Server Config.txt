@@ -1,0 +1,27 @@
+WLS Passwords
+Test
+NinjaDomain
+Port = 7051
+samurai6303
+NinjaInternal
+Port = 8111
+ninjateam2002
+Env7
+Port = 7001
+ninjateam2002
+Env6
+Port = 9051
+ninjateam2002
+Users
+
+Production
+NinjaDomain
+Port = 7001
+samurai999
+Brawe
+Port = 7051
+braweSystem2002
+Internal
+Port = 8111
+rawhide2002
+Users

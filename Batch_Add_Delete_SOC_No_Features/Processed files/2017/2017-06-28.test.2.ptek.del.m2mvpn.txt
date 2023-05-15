@@ -1,0 +1,2 @@
+GSM04740722671;M2MVPN1;DELETE;;1;STLI15 28.06.2017;Deleting old M2M-APN service to prepare for adding new APN ref Terje Lilleåsen. - Staffan Lindberg (STLI15)
+GSM04740622882;M2MVPN1;DELETE;;1;STLI15 28.06.2017;Deleting old M2M-APN service to prepare for adding new APN ref Terje Lilleåsen. - Staffan Lindberg (STLI15)

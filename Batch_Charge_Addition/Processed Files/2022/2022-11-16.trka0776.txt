@@ -1,0 +1,234 @@
+831568415;;UCPSGO;UCPSGO;748.75;Månedsavgift Premium Okt22;Månedsavgift Premium;;;;;;TRKA0776;1;16.11.22
+831568415;;UCPSGO;UCPSGO;623.75;Månedsavg langnr 4745948010;Månedsavgift langnummer - 4745948010 ;;;;;;TRKA0776;1;16.11.22
+831568415;;UCPSGT;UCPSGT;62.50;SMS avgift Norge 100-stk;SMS avgift Norge - stk 100;;;;;;TRKA0776;1;16.11.22
+951768415;;UCPSGO;UCPSGO;623.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+951768415;;UCPSGO;UCPSGO;123.75;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+951768415;;UCPSGT;UCPSGT;88.75;SMS avgift Norge 142-stk;SMS avgift Norge 142-stk;;;;;;TRKA0776;1;16.11.22
+585678410;;UCPSGO;UCPSGO;748.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+585678410;;UCPSGO;UCPSGO;123.75;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+585678410;;UCPSGT;UCPSGT;1130.00;SMS avgift Norge 1808-stk;SMS avgift Norge 1808-stk;;;;;;TRKA0776;1;16.11.22
+585678410;;UCPSGT;UCPSGT;34.69;SMS avgift Utland 37-stk;SMS avgift Utland 37-stk;;;;;;TRKA0776;1;16.11.22
+495188419;;UCPSGO;UCPSGO;748.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+495188419;;UCPSGO;UCPSGO;623.75;Månedsavg langnr 4745948412;Månedsavg langnr 4745948412;;;;;;TRKA0776;1;16.11.22
+495188419;;UCPSGO;UCPSGO;123.75;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+495188419;;UCPSGT;UCPSGT;8127.00;SMS avgift Norge 14448-stk;SMS avgift Norge 14448-stk;;;;;;TRKA0776;1;16.11.22
+495188419;;UCPSGT;UCPSGT;21.56;SMS avgift Utland 23-stk;SMS avgift Utland 23-stk;;;;;;TRKA0776;1;16.11.22
+393588413;;UCPSGO;UCPSGO;748.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+393588413;;UCPSGT;UCPSGT;532.50;SMS avgift Norge 1065-stk;SMS avgift Norge 1065-stk;;;;;;TRKA0776;1;16.11.22
+393588413;;UCPSGT;UCPSGT;169.69;SMS avgift Utland 181-stk;SMS avgift Utland 181-stk;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGO;UCPSGO;623.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGO;UCPSGO;186.25;Månedsavg langnr 4745948001;Månedsavg langnr 4745948001;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGO;UCPSGO;186.25;Månedsavg langnr 4745948002;Månedsavg langnr 4745948002;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGO;UCPSGO;186.25;Månedsavg langnr 4745948003;Månedsavg langnr 4745948003;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGO;UCPSGO;186.25;Månedsavg langnr 4745948004;Månedsavg langnr 4745948004;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGO;UCPSGO;186.25;Månedsavg langnr 4745948005;Månedsavg langnr 4745948005;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGO;UCPSGO;123.75;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGT;UCPSGT;501.19;SMS avgift Norge 891-stk;SMS avgift Norge 891-stk;;;;;;TRKA0776;1;16.11.22
+849411517;;UCPSGT;UCPSGT;7.50;SMS avgift Utland 8-stk;SMS avgift Utland 8-stk;;;;;;TRKA0776;1;16.11.22
+129359410;;UCPSGO;UCPSGO;498.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+129359410;;UCPSGO;UCPSGO;623.75;Månedsavg langnr 4745948413;Månedsavg langnr 4745948413;;;;;;TRKA0776;1;16.11.22
+129359410;;UCPSGO;UCPSGO;123.75;Månedsavgift kodeord okt22;Månedsavgift kodeord okt22;;;;;;TRKA0776;1;16.11.22
+129359410;;UCPSGT;UCPSGT;483.75;SMS avgift Norge 774-stk;SMS avgift Norge 774-stk;;;;;;TRKA0776;1;16.11.22
+129359410;;UCPSGT;UCPSGT;1793.44;SMS avgift Utland 1913-stk;SMS avgift Utland 1913-stk;;;;;;TRKA0776;1;16.11.22
+872731518;;UCPSGO;UCPSGO;448.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+872731518;;UCPSGO;UCPSGO;373.75;Månedsavg langnr 46769436402;Månedsavg langnr 46769436402;;;;;;TRKA0776;1;16.11.22
+872731518;;UCPSGO;UCPSGO;373.75;Månedsavg langnr 4745948040;Månedsavg langnr 4745948040;;;;;;TRKA0776;1;16.11.22
+872731518;;UCPSGT;UCPSGT;266.06;SMS avgift Norge 473-stk;SMS avgift Norge 473-stk;;;;;;TRKA0776;1;16.11.22
+872731518;;UCPSGT;UCPSGT;2.81;SMS avgift Utland 5-stk;SMS avgift Utland 5-stk;;;;;;TRKA0776;1;16.11.22
+453200511;;UCPSGO;UCPSGO;748.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+453200511;;UCPSGT;UCPSGT;2976.25;SMS avgift Norge 4762-stk;SMS avgift Norge 4762-stk;;;;;;TRKA0776;1;16.11.22
+446770513;;UCPSGO;UCPSGO;623.75;Månedsavg langnr 4745948011;Månedsavg langnr 4745948011;;;;;;TRKA0776;1;16.11.22
+446770513;;UCPSGT;UCPSGT;4893.71;SMS avgift Norge 10581-stk;SMS avgift Norge 10581-stk;;;;;;TRKA0776;1;16.11.22
+446770513;;UCPSGT;UCPSGT;93.75;SMS avgift Utland 100-stk;SMS avgift Utland 100-stk;;;;;;TRKA0776;1;16.11.22
+198203515;;UCPSGO;UCPSGO;498.75;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+198203515;;UCPSGT;UCPSGT;63046.40;SMS avgift Norge 157616-stk;SMS avgift Norge 157616-stk;;;;;;TRKA0776;1;16.11.22
+198203515;;UCPSGT;UCPSGT;3.75;SMS avgift Utland 4-stk;SMS avgift Utland 4-stk;;;;;;TRKA0776;1;16.11.22
+867299414;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+867299414;;UCPSGT;UCPSGT; 856.88 ;SMS avgift Norge 1371-stk;SMS avgift Norge 1371-stk;;;;;;TRKA0776;1;16.11.22
+867299414;;UCPSGT;UCPSGT; 8.44 ;SMS avgift Utland 9-stk;SMS avgift Utland 9-stk;;;;;;TRKA0776;1;16.11.22
+555603513;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+639591510;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+436350516;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+436350516;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948006;Månedsavg langnr 4745948006;;;;;;TRKA0776;1;16.11.22
+284600517;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+906600515;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+971010517;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+971010517;;UCPSGT;UCPSGT; 5,736.00 ;SMS avgift Norge 11472-stk;SMS avgift Norge 11472-stk;;;;;;TRKA0776;1;16.11.22
+971010517;;UCPSGT;UCPSGT; 4,875.94 ;SMS avgift Utland 5201-stk;SMS avgift Utland 5201-stk;;;;;;TRKA0776;1;16.11.22
+916610512;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+916610512;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948015;Månedsavg langnr 4745948015;;;;;;TRKA0776;1;16.11.22
+916610512;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948016;Månedsavg langnr 4745948016;;;;;;TRKA0776;1;16.11.22
+916610512;;UCPSGT;UCPSGT; 63,682.43 ;SMS avgift Norge 149841-stk;SMS avgift Norge 149841-stk;;;;;;TRKA0776;1;16.11.22
+916610512;;UCPSGT;UCPSGT; 122.81 ;SMS avgift Utland 131-stk;SMS avgift Utland 131-stk;;;;;;TRKA0776;1;16.11.22
+424910511;;UCPSGO;UCPSGO; 373.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+424910511;;UCPSGT;UCPSGT; 612.79 ;SMS avgift Norge 1257-stk;SMS avgift Norge 1257-stk;;;;;;TRKA0776;1;16.11.22
+424910511;;UCPSGT;UCPSGT; 19,102.50 ;SMS avgift Utland 20376-stk;SMS avgift Utland 20376-stk;;;;;;TRKA0776;1;16.11.22
+853120517;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+853120517;;UCPSGT;UCPSGT; 513.75 ;SMS avgift Norge 822-stk;SMS avgift Norge 822-stk;;;;;;TRKA0776;1;16.11.22
+349789412;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+283320513;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+283320513;;UCPSGT;UCPSGT; 63.75 ;SMS avgift Norge 102-stk;SMS avgift Norge 102-stk;;;;;;TRKA0776;1;16.11.22
+196520514;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+896030517;;UCPSGO;UCPSGO; 373.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+896030517;;UCPSGT;UCPSGT; 1,238.75 ;SMS avgift Norge 1982-stk;SMS avgift Norge 1982-stk;;;;;;TRKA0776;1;16.11.22
+412040511;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+412040511;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+412040511;;UCPSGT;UCPSGT; 6.88 ;SMS avgift Norge 11-stk;SMS avgift Norge 11-stk;;;;;;TRKA0776;1;16.11.22
+412040511;;UCPSGT;UCPSGT; 14.06 ;SMS avgift Utland 15-stk;SMS avgift Utland 15-stk;;;;;;TRKA0776;1;16.11.22
+889850517;;UCPSGO;UCPSGO; 523.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+889850517;;UCPSGT;UCPSGT; 663.75 ;SMS avgift Norge 1180-stk;SMS avgift Norge 1180-stk;;;;;;TRKA0776;1;16.11.22
+889850517;;UCPSGT;UCPSGT; 12.19 ;SMS avgift Utland 13-stk;SMS avgift Utland 13-stk;;;;;;TRKA0776;1;16.11.22
+850170515;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+850170515;;UCPSGT;UCPSGT; 303.75 ;SMS avgift Norge 486-stk;SMS avgift Norge 486-stk;;;;;;TRKA0776;1;16.11.22
+332370519;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+332370519;;UCPSGT;UCPSGT; 379.38 ;SMS avgift Norge 607-stk;SMS avgift Norge 607-stk;;;;;;TRKA0776;1;16.11.22
+332370519;;UCPSGT;UCPSGT; 3.75 ;SMS avgift Utland 4-stk;SMS avgift Utland 4-stk;;;;;;TRKA0776;1;16.11.22
+400470514;;UCPSGO;UCPSGO; 373.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+400470514;;UCPSGT;UCPSGT; 2.50 ;SMS avgift Norge 4-stk;SMS avgift Norge 4-stk;;;;;;TRKA0776;1;16.11.22
+400470514;;UCPSGT;UCPSGT; 55.31 ;SMS avgift Utland 59-stk;SMS avgift Utland 59-stk;;;;;;TRKA0776;1;16.11.22
+530090513;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+530090513;;UCPSGT;UCPSGT; 526.88 ;SMS avgift Norge 843-stk;SMS avgift Norge 843-stk;;;;;;TRKA0776;1;16.11.22
+251090510;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+251090510;;UCPSGT;UCPSGT; 51.25 ;SMS avgift Norge 82-stk;SMS avgift Norge 82-stk;;;;;;TRKA0776;1;16.11.22
+251090510;;UCPSGT;UCPSGT; 4.69 ;SMS avgift Utland 5-stk;SMS avgift Utland 5-stk;;;;;;TRKA0776;1;16.11.22
+192090512;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+192090512;;UCPSGT;UCPSGT; 1,728.13 ;SMS avgift Norge 2765-stk;SMS avgift Norge 2765-stk;;;;;;TRKA0776;1;16.11.22
+192090512;;UCPSGT;UCPSGT; 10.31 ;SMS avgift Utland 11-stk;SMS avgift Utland 11-stk;;;;;;TRKA0776;1;16.11.22
+862490513;;UCPSGT;UCPSGT; 72.61 ;SMS avgift Norge 157-stk;SMS avgift Norge 157-stk;;;;;;TRKA0776;1;16.11.22
+130990518;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948009;Månedsavg langnr 4745948009;;;;;;TRKA0776;1;16.11.22
+130990518;;UCPSGT;UCPSGT; 24.51 ;SMS avgift Norge 53-stk;SMS avgift Norge 53-stk;;;;;;TRKA0776;1;16.11.22
+431001510;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+431001510;;UCPSGT;UCPSGT; 928.13 ;SMS avgift Norge 1485-stk;SMS avgift Norge 1485-stk;;;;;;TRKA0776;1;16.11.22
+431001510;;UCPSGT;UCPSGT; 15.00 ;SMS avgift Utland 16-stk;SMS avgift Utland 16-stk;;;;;;TRKA0776;1;16.11.22
+218101517;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+218101517;;UCPSGT;UCPSGT; 334.38 ;SMS avgift Norge 535-stk;SMS avgift Norge 535-stk;;;;;;TRKA0776;1;16.11.22
+218101517;;UCPSGT;UCPSGT; 100.31 ;SMS avgift Utland 107-stk;SMS avgift Utland 107-stk;;;;;;TRKA0776;1;16.11.22
+590911517;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+590911517;;UCPSGT;UCPSGT; 6,031.25 ;SMS avgift Norge 9650-stk;SMS avgift Norge 9650-stk;;;;;;TRKA0776;1;16.11.22
+590911517;;UCPSGT;UCPSGT; 33.75 ;SMS avgift Utland 36-stk;SMS avgift Utland 36-stk;;;;;;TRKA0776;1;16.11.22
+324901511;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+324901511;;UCPSGT;UCPSGT; 75.00 ;SMS avgift Norge 120-stk;SMS avgift Norge 120-stk;;;;;;TRKA0776;1;16.11.22
+446901514;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+446901514;;UCPSGT;UCPSGT; 6.94 ;SMS avgift Norge 15-stk;SMS avgift Norge 15-stk;;;;;;TRKA0776;1;16.11.22
+196931513;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+196931513;;UCPSGO;UCPSGO; 498.75 ;Månedsavg langnr 4745948012;Månedsavg langnr 4745948012;;;;;;TRKA0776;1;16.11.22
+196931513;;UCPSGT;UCPSGT; 590.63 ;SMS avgift Norge 1050-stk;SMS avgift Norge 1050-stk;;;;;;TRKA0776;1;16.11.22
+329111512;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948013;Månedsavg langnr 4745948013;;;;;;TRKA0776;1;16.11.22
+329111512;;UCPSGT;UCPSGT; 226.63 ;SMS avgift Norge 490-stk;SMS avgift Norge 490-stk;;;;;;TRKA0776;1;16.11.22
+329111512;;UCPSGT;UCPSGT; 3.75 ;SMS avgift Utland 4-stk;SMS avgift Utland 4-stk;;;;;;TRKA0776;1;16.11.22
+915132518;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+915132518;;UCPSGT;UCPSGT; 8,356.25 ;SMS avgift Norge 13370-stk;SMS avgift Norge 13370-stk;;;;;;TRKA0776;1;16.11.22
+915132518;;UCPSGT;UCPSGT; 1,467.19 ;SMS avgift Utland 1565-stk;SMS avgift Utland 1565-stk;;;;;;TRKA0776;1;16.11.22
+514521517;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948014;Månedsavg langnr 4745948014;;;;;;TRKA0776;1;16.11.22
+514521517;;UCPSGT;UCPSGT; 2,201.04 ;SMS avgift Norge 4759-stk;SMS avgift Norge 4759-stk;;;;;;TRKA0776;1;16.11.22
+879231512;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord;;;;;;TRKA0776;1;16.11.22
+879231512;;UCPSGT;UCPSGT; 487.48 ;SMS avgift Norge 1054-stk;SMS avgift Norge 1054-stk;;;;;;TRKA0776;1;16.11.22
+879231512;;UCPSGT;UCPSGT; 1.88 ;SMS avgift Utland 2-stk;SMS avgift Utland 2-stk;;;;;;TRKA0776;1;16.11.22
+219431517;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+233741511;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+233741511;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948031;Månedsavg langnr 4745948031;;;;;;TRKA0776;1;16.11.22
+233741511;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948032;Månedsavg langnr 4745948032;;;;;;TRKA0776;1;16.11.22
+233741511;;UCPSGT;UCPSGT; 52.31 ;SMS avgift Norge 93-stk;SMS avgift Norge 93-stk;;;;;;TRKA0776;1;16.11.22
+506391515;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+506391515;;UCPSGT;UCPSGT; 930.00 ;SMS avgift Norge 1488-stk;SMS avgift Norge 1488-stk;;;;;;TRKA0776;1;16.11.22
+506391515;;UCPSGT;UCPSGT; 2.81 ;SMS avgift Utland 3-stk;SMS avgift Utland 3-stk;;;;;;TRKA0776;1;16.11.22
+727581514;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+727581514;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+727581514;;UCPSGT;UCPSGT; 705.00 ;SMS avgift Norge 1128-stk;SMS avgift Norge 1128-stk;;;;;;TRKA0776;1;16.11.22
+788203511;;UCPSGO;UCPSGO; 343.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+788203511;;UCPSGT;UCPSGT; 11,624.50 ;SMS avgift Norge 23249-stk;SMS avgift Norge 23249-stk;;;;;;TRKA0776;1;16.11.22
+788203511;;UCPSGT;UCPSGT; 38.44 ;SMS avgift Utland 41-stk;SMS avgift Utland 41-stk;;;;;;TRKA0776;1;16.11.22
+127491512;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+127491512;;UCPSGT;UCPSGT; 840.00 ;SMS avgift Norge 1344-stk;SMS avgift Norge 1344-stk;;;;;;TRKA0776;1;16.11.22
+638402511;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+638402511;;UCPSGT;UCPSGT; 783.75 ;SMS avgift Norge 1254-stk;SMS avgift Norge 1254-stk;;;;;;TRKA0776;1;16.11.22
+358423515;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Premium okt22;Månedsavgift Premium okt22;;;;;;TRKA0776;1;16.11.22
+358423515;;UCPSGT;UCPSGT; 63,083.60 ;SMS avgift Norge 148432-stk;SMS avgift Norge 148432-stk;;;;;;TRKA0776;1;16.11.22
+358423515;;UCPSGT;UCPSGT; 2,355.00 ;SMS avgift Utland 2512-stk;SMS avgift Utland 2512-stk;;;;;;TRKA0776;1;16.11.22
+378032510;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium okt22;Månedsavgift Premium okt22;;;;;;TRKA0776;1;16.11.22
+378032510;;UCPSGT;UCPSGT; 508.75 ;SMS avgift Norge 814-stk;SMS avgift Norge 814-stk;;;;;;TRKA0776;1;16.11.22
+378032510;;UCPSGT;UCPSGT; 1,583.44 ;SMS avgift Utland 1689-stk;SMS avgift Utland 1689-stk;;;;;;TRKA0776;1;16.11.22
+531672517;;UCPSGO;UCPSGO; 186.25 ;Månedsavgift Premium okt22;Månedsavgift Premium okt22;;;;;;TRKA0776;1;16.11.22
+531672517;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948035;Månedsavg langnr 4745948035;;;;;;TRKA0776;1;16.11.22
+531672517;;UCPSGT;UCPSGT; 4,244.36 ;SMS avgift Norge 9177-stk;SMS avgift Norge 9177-stk;;;;;;TRKA0776;1;16.11.22
+531672517;;UCPSGT;UCPSGT; 11.25 ;SMS avgift Utland 12-stk;SMS avgift Utland 12-stk;;;;;;TRKA0776;1;16.11.22
+177382512;;UCPSGO;UCPSGO; 311.25 ;Månedsavgift Premium okt22;Månedsavgift Premium okt22;;;;;;TRKA0776;1;16.11.22
+177382512;;UCPSGT;UCPSGT; 3.75 ;SMS avgift Norge 6-stk;SMS avgift Norge 6-stk;;;;;;TRKA0776;1;16.11.22
+177382512;;UCPSGT;UCPSGT; 683.56 ;SMS avgift Utland 1088-stk;SMS avgift Utland 1088-stk;;;;;;TRKA0776;1;16.11.22
+422632513;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+422632513;;UCPSGT;UCPSGT; 1,401.25 ;SMS avgift Norge 2242-stk;SMS avgift Norge 2242-stk;;;;;;TRKA0776;1;16.11.22
+422632513;;UCPSGT;UCPSGT; 3.75 ;SMS avgift Utland 4-stk;SMS avgift Utland 4-stk;;;;;;TRKA0776;1;16.11.22
+428932511;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+565042512;;UCPSGO;UCPSGO; 436.25 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+565042512;;UCPSGT;UCPSGT; 10,204.88 ;SMS avgift Norge 18142-stk;SMS avgift Norge 18142-stk;;;;;;TRKA0776;1;16.11.22
+565042512;;UCPSGT;UCPSGT; 483.75 ;SMS avgift Utland 516-stk;SMS avgift Utland 516-stk;;;;;;TRKA0776;1;16.11.22
+155042518;;UCPSGO;UCPSGO; 436.25 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+155042518;;UCPSGT;UCPSGT; 9,082.69 ;SMS avgift Norge 16147-stk;SMS avgift Norge 16147-stk;;;;;;TRKA0776;1;16.11.22
+155042518;;UCPSGT;UCPSGT; 882.19 ;SMS avgift Utland 941-stk;SMS avgift Utland 941-stk;;;;;;TRKA0776;1;16.11.22
+195342514;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+608662516;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+608662516;;UCPSGT;UCPSGT; 22.20 ;SMS avgift Norge 48-stk;SMS avgift Norge 48-stk;;;;;;TRKA0776;1;16.11.22
+190672519;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+190672519;;UCPSGT;UCPSGT; 6.25 ;SMS avgift Norge 10-stk;SMS avgift Norge 10-stk;;;;;;TRKA0776;1;16.11.22
+920482510;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+920482510;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+920482510;;UCPSGT;UCPSGT; 1.13 ;SMS avgift Norge 2-stk;SMS avgift Norge 2-stk;;;;;;TRKA0776;1;16.11.22
+930482518;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+930482518;;UCPSGT;UCPSGT; 24.19 ;SMS avgift Norge 43-stk;SMS avgift Norge 43-stk;;;;;;TRKA0776;1;16.11.22
+584682512;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+584682512;;UCPSGT;UCPSGT; 29,324.31 ;SMS avgift Norge 67027-stk;SMS avgift Norge 67027-stk;;;;;;TRKA0776;1;16.11.22
+584682512;;UCPSGT;UCPSGT; 5,196.56 ;SMS avgift Utland 5543-stk;SMS avgift Utland 5543-stk;;;;;;TRKA0776;1;16.11.22
+505782516;;UCPSGT;UCPSGT; 54.11 ;SMS avgift Norge 117-stk;SMS avgift Norge 117-stk;;;;;;TRKA0776;1;16.11.22
+505782516;;UCPSGT;UCPSGT; 61.88 ;SMS avgift Utland 66-stk;SMS avgift Utland 66-stk;;;;;;TRKA0776;1;16.11.22
+806982518;;UCPSGO;UCPSGO; 123.75 ;Månedsavgift kodeord Okt22;Månedsavgift kodeord Okt22;;;;;;TRKA0776;1;16.11.22
+145113510;;UCPSGO;UCPSGO; 436.25 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+145113510;;UCPSGT;UCPSGT; 148.50 ;SMS avgift Norge 264-stk;SMS avgift Norge 264-stk;;;;;;TRKA0776;1;16.11.22
+145113510;;UCPSGT;UCPSGT; 1.88 ;SMS avgift Utland 2-stk;SMS avgift Utland 2-stk;;;;;;TRKA0776;1;16.11.22
+678992512;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+678992512;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948017;Månedsavg langnr 4745948017;;;;;;TRKA0776;1;16.11.22
+678992512;;UCPSGT;UCPSGT; 1.25 ;SMS avgift Norge 2-stk;SMS avgift Norge 2-stk;;;;;;TRKA0776;1;16.11.22
+629003518;;UCPSGO;UCPSGO; 561.25 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+629003518;;UCPSGO;UCPSGO; 436.25 ;Månedsavg langnr 4745948034;Månedsavg langnr 4745948034;;;;;;TRKA0776;1;16.11.22
+655223519;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+655223519;;UCPSGT;UCPSGT; 26.25 ;SMS avgift Norge 42-stk;SMS avgift Norge 42-stk;;;;;;TRKA0776;1;16.11.22
+655223519;;UCPSGT;UCPSGT; 1.88 ;SMS avgift Utland 2-stk;SMS avgift Utland 2-stk;;;;;;TRKA0776;1;16.11.22
+377634514;;UCPSGO;UCPSGO; 436.25 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+469483515;;UCPSGO;UCPSGO; 373.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+469483515;;UCPSGT;UCPSGT; 10,333.50 ;SMS 13778-stk gammel løsning;SMS 13778-stk gammel løsning;;;;;;TRKA0776;1;16.11.22
+933583510;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+475583514;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+962344511;;UCPSGO;UCPSGO; 373.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+962344511;;UCPSGT;UCPSGT; 18.75 ;SMS avgift Norge 30-stk;SMS avgift Norge 30-stk;;;;;;TRKA0776;1;16.11.22
+450214515;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+450214515;;UCPSGT;UCPSGT; 380.25 ;SMS avgift Norge 676-stk;SMS avgift Norge 676-stk;;;;;;TRKA0776;1;16.11.22
+450214515;;UCPSGT;UCPSGT; 2.81 ;SMS avgift Utland 3-stk;SMS avgift Utland 3-stk;;;;;;TRKA0776;1;16.11.22
+494924517;;UCPSGO;UCPSGO; 561.25 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+494924517;;UCPSGO;UCPSGO; 498.75 ;Månedsavg langnr 4745948033;Månedsavg langnr 4745948033;;;;;;TRKA0776;1;16.11.22
+494924517;;UCPSGT;UCPSGT; 6.74 ;SMS avgift Norge 11-stk;SMS avgift Norge 11-stk;;;;;;TRKA0776;1;16.11.22
+615924511;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+615924511;;UCPSGT;UCPSGT; 1,683.13 ;SMS avgift Norge 2693-stk;SMS avgift Norge 2693-stk;;;;;;TRKA0776;1;16.11.22
+103924510;;UCPSGO;UCPSGO; 623.75 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+103924510;;UCPSGT;UCPSGT; 318.75 ;SMS avgift Norge 510-stk;SMS avgift Norge 510-stk;;;;;;TRKA0776;1;16.11.22
+103924510;;UCPSGT;UCPSGT; 1.88 ;SMS avgift Utland 2-stk;SMS avgift Utland 2-stk;;;;;;TRKA0776;1;16.11.22
+187334511;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+309334514;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+309334514;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948036;Månedsavg langnr 4745948036;;;;;;TRKA0776;1;16.11.22
+782834519;;UCPSGO;UCPSGO; 748.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+782834519;;UCPSGO;UCPSGO; 623.75 ;Månedsavg langnr 4745948041;Månedsavg langnr 4745948041;;;;;;TRKA0776;1;16.11.22
+782834519;;UCPSGT;UCPSGT; 191.81 ;SMS avgift Norge 279-stk;SMS avgift Norge 279-stk;;;;;;TRKA0776;1;16.11.22
+826244519;;UCPSGO;UCPSGO; 498.75 ;Måned langnr 35845739677362;Måned langnr 35845739677362;;;;;;TRKA0776;1;16.11.22
+826244519;;UCPSGO;UCPSGO; 498.75 ;Måned langnr 35845739677363;Måned langnr 35845739677363;;;;;;TRKA0776;1;16.11.22
+826244519;;UCPSGO;UCPSGO; 498.75 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+822774519;;UCPSGT;UCPSGT; 260.00 ;SMS avgift Norge 104-stk;SMS avgift Norge 104-stk;;;;;;TRKA0776;1;16.11.22
+822774519;;UCPSGT;UCPSGT; 20.00 ;SMS avgift Utland 8-stk;SMS avgift Utland 8-stk;;;;;;TRKA0776;1;16.11.22
+856263512;;UCPSGO;UCPSGO; 2,498.75 ;Engangsavgift SMS-plattform;Engangsavgift SMS-plattform;;;;;;TRKA0776;1;16.11.22
+856263512;;UCPSGO;UCPSGO; 402.42 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+856263512;;UCPSGO;UCPSGO; 402.42 ;Månedsavg langnr 4745948048;Månedsavg langnr 4745948048;;;;;;TRKA0776;1;16.11.22
+158874511;;UCPSGO;UCPSGO; 2,498.75 ;Engangsavgift SMS-plattform;Engangsavgift SMS-plattform;;;;;;TRKA0776;1;16.11.22
+158874511;;UCPSGO;UCPSGO; 410.60 ;Månedsavgift Premium Okt22;Månedsavgift Premium Okt22;;;;;;TRKA0776;1;16.11.22
+158874511;;UCPSGT;UCPSGT; 0.69 ;SMS avgift Norge 1-stk;SMS avgift Norge 1-stk;;;;;;TRKA0776;1;16.11.22
+177184512;;UCPSGO;UCPSGO; 2,498.75 ;Engangsavgift SMS-plattform;Engangsavgift SMS-plattform;;;;;;TRKA0776;1;16.11.22
+177184512;;UCPSGO;UCPSGO; 201.21 ;Månedsavgift Standard Okt22;Månedsavgift Standard Okt22;;;;;;TRKA0776;1;16.11.22
+177184512;;UCPSGO;UCPSGO; 201.21 ;Månedsavg langnr 4745948045;Månedsavg langnr 4745948045;;;;;;TRKA0776;1;16.11.22
+177184512;;UCPSGT;UCPSGT; 4.13 ;SMS avgift Norge 6-stk;SMS avgift Norge 6-stk;;;;;;TRKA0776;1;16.11.22
+841384514;;UCPSGO;UCPSGO; 120.73 ;Månedsavg langnr 4745948044;Månedsavg langnr 4745948044;;;;;;TRKA0776;1;16.11.22

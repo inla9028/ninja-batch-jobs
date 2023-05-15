@@ -1,0 +1,101 @@
+
+----------------------------------QUERIES for NINJA DATA table-----------------------------------
+
+CREATE TABLE batch_test_subs_creation (
+    SUBSCRIBER_NO VARCHAR2(20 BYTE),
+    BAN NUMBER(9,0),
+    CTN VARCHAR2(20 BYTE),
+    PRICE_PLAN VARCHAR2(9 BYTE),
+    SOC1 VARCHAR2(9 BYTE),
+    SOC2 VARCHAR2(9 BYTE),
+    SOC3 VARCHAR2(9 BYTE),
+    SOC4 VARCHAR2(9 BYTE),
+    SOC5 VARCHAR2(9 BYTE),
+    SIM_NO VARCHAR2(20 CHAR),
+    FIRST_NAME VARCHAR2(32 CHAR), 
+    LAST_NAME VARCHAR2(60 CHAR), 
+    POSTAL_ADDRESS VARCHAR2(100 CHAR),
+    CITY VARCHAR2(40 CHAR),
+    ZIP_CODE VARCHAR2(9 CHAR),
+    ACTIVATE VARCHAR2(1 CHAR),
+        ENTER_TIME DATE, 
+        REQUEST_TIME DATE, 
+    REQUEST_ID VARCHAR2(30 CHAR), 
+        PROCESS_TIME DATE,
+        PROCESS_STATUS VARCHAR2(20 CHAR),       
+        STATUS_DESC VARCHAR2(2000 CHAR)
+);
+
+CREATE INDEX batch_test_subs_creation_idx1 ON batch_test_subs_creation (request_time, process_status);
+
+CREATE INDEX batch_test_subs_creation_idx2 ON batch_test_subs_creation (process_status, process_time);
+
+ALTER TABLE batch_test_subs_creation ADD CONSTRAINT batch_test_subs_creation_con1 CHECK ( process_status IN ('WAITING', 'IN_PROGRESS', 'PRSD_SUCCESS', 'PRSD_ERROR', 'ON_HOLD')) ENABLE;
+
+CREATE OR REPLACE TRIGGER BATCH_TEST_SUBS_CREATION_TRG 
+ BEFORE
+  INSERT
+ ON batch_test_subs_creation
+REFERENCING NEW AS NEW OLD AS OLD
+ FOR EACH ROW
+DECLARE
+        updating_key_fields EXCEPTION;
+        
+BEGIN
+  IF INSERTING
+        THEN
+        --== If status of record is null, default it to 'WAITING'
+        IF :new.process_status IS NULL THEN
+                :new.process_status := 'WAITING';
+        END IF;
+        --== Ensure we record the enter time
+        IF :new.enter_time IS NULL THEN
+                :new.enter_time := SYSDATE;
+        END IF;
+        --== Ensure we record the request time
+        IF :new.request_time IS NULL THEN
+                :new.request_time := SYSDATE;
+        END IF;
+        --== Ensure we record the request id
+        IF :NEW.request_id IS NULL THEN
+                :new.request_id := 'TEST ' || TO_CHAR(SYSDATE, 'YYYY-MM-DD');
+        END IF;
+  END IF;
+        EXCEPTION
+                WHEN updating_key_fields THEN
+                        raise_application_error(-20300, 'NinjaDB Error: cannot update key fields of source table.');
+END BATCH_TEST_SUBS_CREATION_TRG;
+
+/
+ALTER TRIGGER BATCH_TEST_SUBS_CREATION_TRG ENABLE;
+
+----------------- Grants for Table to ninjamain_st ------------------------------
+GRANT ALTER ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT DELETE ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT INDEX ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT INSERT ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT SELECT ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT UPDATE ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT REFERENCES ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT ON COMMIT REFRESH ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT QUERY REWRITE ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT DEBUG ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+GRANT FLASHBACK ON BATCH_TEST_SUBS_CREATION TO ninjamain_st
+/
+
+
+---------------------------------------------QUERIES for NINJA MAIN table--------------------------------------------
+
+CREATE OR REPLACE SYNONYM BATCH_TEST_SUBS_CREATION
+  FOR ninjadata_st.BATCH_TEST_SUBS_CREATION
+;

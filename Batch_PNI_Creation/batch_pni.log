@@ -1,0 +1,63 @@
+
+SQL*Loader: Release 19.0.0.0.0 - Production on Wed Mar 18 13:22:31 2020
+Version 19.3.0.0.0
+
+Copyright (c) 1982, 2019, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   batch_pni.ctl
+Character Set UTF8 specified for all input.
+
+Data File:      BatchPniCreation_AT.txt
+  Bad File:     BatchPniCreation_AT.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     250 rows, maximum of 1048576 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_PNI_CREATION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+COMPANY_NAME                        FIRST     *   ;  O(") CHARACTER            
+ACTION_CODE                          NEXT     *   ;  O(") CHARACTER            
+PNI_TYPE                             NEXT     *   ;  O(") CHARACTER            
+MEMBER_COUNT                         NEXT     *   ;  O(") CHARACTER            
+    SQL string for column : "DECODE(:member_count, null, 999999999, :member_count)"
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+    SQL string for column : "DECODE(:process_status, null, 'WAITING', :process_status)"
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+PNI_CODE                             NEXT     *   ;  O(") CHARACTER            
+ENTER_TIME                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+
+
+Table BATCH_PNI_CREATION:
+  8 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 709500 bytes(250 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:             8
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Mar 18 13:22:31 2020
+Run ended on Wed Mar 18 13:22:33 2020
+
+Elapsed time was:     00:00:01.64
+CPU time was:         00:00:00.07

@@ -1,0 +1,146 @@
+U;;GSM04745445278;Pedersen;Hanna;;Oslo;0180;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Akersgata
+U;;GSM04791691803;Wahl;Pieter;;Oslo;1070;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Bislett
+U;;GSM04798050266;Henriksen;Christine;;Lørenskog;1473;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Metro
+U;;GSM04747315599;Halvorsen;Camilla;;Lørenskog;1473;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Metro
+U;;GSM04791775806;Aakre;Kristine;;Nesttun;5222;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Nesttun
+U;;GSM04795916838;Tveiten;Trude;;Nesttun;5222;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Nesttun
+U;;GSM04795807575;Meldalen;Anita;;Sarpsborg;1723;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sarpsborg
+U;;GSM04797727211;Hagen;Anja;;Oslo;0485;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Storo
+U;;GSM04747952500;Salihi;Merita;;Oslo;0180;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Akersgata
+U;;GSM04797514824;Stølan;Grethe;;Oslo;1070;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Bislett
+U;;GSM04790121484;Røli;Renate;;Lørenskog;1473;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Metro
+U;;GSM04793056264;Dowerdock;Trine;;Lørenskog;1473;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Metro
+U;;GSM04741601981;Johnsen;Tina;;Lørenskog;1473;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Metro
+U;;GSM04793255445;Mæland;Martina;;Nesttun;5222;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Nesttun
+U;;GSM04793458699;Bjørshol;Elin;;Sarpsborg;1723;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sarpsborg
+U;;GSM04792056747;Reid;Lene;;Sarpsborg;1723;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sarpsborg
+U;;GSM04793661596;Skogen;Rikke;;Oslo;0485;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Storo
+U;;GSM04795725278;Vaagland;Maia Fjeld;;Oslo;0485;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Storo
+U;;GSM04740723045;Renhage;Johan;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Private Sales
+U;;GSM04795249268;Payan;Rune;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Private Sales
+U;;GSM04747936526;Johannisson;Anton;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Private Sales
+U;;GSM04790081982;Håkansson;Sara;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Private Sales
+U;;GSM04793657683;Zabiega;Magdalena;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Private Sales
+U;;GSM04747343271;Malm;Celinn;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04797411045;Andersen Romøren;Katrin;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04797653397;Mainardi;Kaja;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04748281666;Moen;Andreas;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04745031113;Høiland;Jarle;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04746842346;Christoffersen;Sigve;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04793832658;Eris;Stian;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04740230245;Smenes;Simen;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04745073998;Neren;Matilda;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04748226431;Løken;Reidun;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04795827649;Nørby Lundqvist;Jacob;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04740495605;Marlén Brynildsen;Aina;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04795418529;Haglund;Niklas;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04793616939;Hjelen Sæther;Runar;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04791302556;Dalsbotten;Martin Inge;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04797778769;Wærp Hauge;Cecilie;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04740642685;Sundström;Marcus;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Corporate Sales
+U;;GSM04793256886;Thorstad;Olav;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;CEO
+U;;GSM04792414195;Elde;Cecilie;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;CFO
+U;;GSM04791624010;Sandvold;Knut;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;HR
+U;;GSM04791701024;Johansen;Guri;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;HR
+U;;GSM04795890078;Bratsvedal;Hilda Maria;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;HR
+U;;GSM04792081360;Kolberg;Silje;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;HR
+U;;GSM04741618860;Stabbforsmo;Elin;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;HR
+U;;GSM04793211286;Krogstad;Tone;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Customer Service
+U;;GSM04790520730;Rasmussen;Preben;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Concept
+U;;GSM04791858575;Arntzen;Atle;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Concept
+U;;GSM04741691000;Christensen Solberg;Randi;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Concept
+U;;GSM04797132417;Stensrud;Kine;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Concept
+U;;GSM04791519717;Nilsen;Svein Erik;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04793086353;Søderstrøm;Carl;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04795875934;Evensen;Runar;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04741388491;Fritz;Jens;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04795701220;Wilhelmsen;Mads;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04793087414;Hammer;Lars;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04741509329;Littlewood;Mark;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04796625985;Hansen;Tommy;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Development
+U;;GSM04791876838;Bjerkan;Bjørn Terje;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Finance
+U;;GSM04741933252;Krey Berntz;Mia;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Finance
+U;;GSM04797507205;Optjernsberget;Svein;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sales Marketing
+U;;GSM04740287000;Solstad;Fredrik;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sales Marketing
+U;;GSM04740342149;Vestin;Ludvig;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sales Marketing
+U;;GSM04795222953;Nås;Bente;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sales Marketing
+U;;GSM04791133487;Børufsen;Hilde;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sales Marketing
+U;;GSM04791994999;Nielsen;Henrik;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sales Marketing
+U;;GSM04792814514;Brunstad;Beate;;Oslo;0483;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;SATS ELIXIA Academy
+U;;GSM04796861353;Kippersund;Victoria;;Bekkestua;1357;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Bekkestua
+U;;GSM04792664914;Kristiansen;Birthe;;Bergen;5008;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Bergen LHg
+U;;GSM04791581907;Evensen;Thomas;;Drammen;3002;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Drammen
+U;;GSM04791585633;Sanne;Vivian;;Oslo;0671;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Hellerud
+U;;GSM04792092638;Pedersen;Sofie Storløs;;Oslo;0658;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Kampen
+U;;GSM04791818932;Fremnesvik;Grete;;Tromsø;9016;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Langnes
+U;;GSM04799225200;Stokseth;Lisbeth;;Lillestrøm;2004;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Lillestrøm
+U;;GSM04798078318;Carlsson;Linda;;Oslo;0251;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Nationalteateret
+U;;GSM04790726170;Engström;Cecilia;;Oslo;0378;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Njårdhallen
+U;;GSM04746624262;Haugen;An-Maritha;;Oslo;0378;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Njårdhallen
+U;;GSM04741401445;Haugen;Rannveig;;Oslo;0484;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Nydalen
+U;;GSM04795946457;Rud;Therese;;Oslo;0462;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sagene
+U;;GSM04747710231;Johannessen;Jan Helge;;Sandnes;4306;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sandnes
+U;;GSM04740400092;Engelsen;Hege;;Bergen;5035;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sandviken
+U;;GSM04793682984;Ursin;Niklas;;Oslo;0560;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Schous plass
+U;;GSM04791703849;Westerberg;Angelica;;Oslo;0278;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Skøyen
+U;;GSM04746610261;Jacobsen;Bjørn Tore;;Oslo;0254;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Solli plass
+U;;GSM04791538362;Pedersen;Anita;;Oslo;0185;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Spektrum
+U;;GSM04746472758;Vangsnes;Wenche;;Stavanger;4027;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Tasta
+U;;GSM04745417274;Husjord;Jon;;Tromsø;9008;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Tromsø
+U;;GSM04799275820;Hausberg;Iremlin;;Tromsø;9008;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Tromsø
+U;;GSM04792694097;Hachvaag;Jill Veronica;;Bergen;5171;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Vestkanten
+U;;GSM04791785727;Tronbøl;Eli-Anne;;Oslo;0373;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Vinderen
+U;;GSM04792848200;Hanssen;Paal Daae;;Nyborg;5130;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Åsane
+U;;GSM04792293913;Rushfeldt;Bjørgunn;;Bekkestua;1357;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Bekkestua
+U;;GSM04745166446;Andersson;Emilia;;Bergen;5008;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Bergen LHg
+U;;GSM04792480280;Luzio;Anne Marie;;Drammen;3002;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Drammen
+U;;GSM04797718646;Tone;Liv;;Tromsø;9016;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Langnes
+U;;GSM04791101932;Klokseth;Renate;;Tromsø;9016;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Langnes
+U;;GSM04790365267;Hanssen;Hans-Adrian;;Lillestrøm;2004;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Lillestrøm
+U;;GSM04792252023;Horpestad;Jane;;Lillestrøm;2004;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Lillestrøm
+U;;GSM04792495318;Eidesmo;Andrea Helene;;Oslo;0251;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Nationalteateret
+U;;GSM04793814656;Krøs;Kine;;Oslo;0378;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Njårdhallen
+U;;GSM04795770539;Ellingsdalen;Therese Valderhaug;;Oslo;0484;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Nydalen
+U;;GSM04795752517;Nikolaisen;Stian;;Oslo;0462;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sagene
+U;;GSM04797180074;Støelen;Charlotte;;Oslo;0462;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sagene
+U;;GSM04747306152;Guldhav;Jill;;Sandnes;4306;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sandnes
+U;;GSM04741665231;Kvernes;Sandra;;Bergen;5035;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Sandviken
+U;;GSM04748242497;Hansen;William Duus;;Oslo;0560;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Schous plass
+U;;GSM04747851754;Bergli;Karina;;Oslo;0278;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Skøyen
+U;;GSM04795405914;Støve;Brita;;Oslo;0278;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Skøyen
+U;;GSM04793629801;Lamark;Malene;;Oslo;0254;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Solli plass
+U;;GSM04796751351;Carlaby;Johan;;Oslo;0254;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Solli plass
+U;;GSM04741694677;Haugen;Christina Kjellevold;;Oslo;0185;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Spektrum
+U;;GSM04793289797;Eide;Maren;;Stavanger;4027;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Tasta
+U;;GSM04791516390;Andresen;Elise;;Stavanger;4027;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Tasta
+U;;GSM04747943003;Forsberg;Alexander;;Tromsø;9008;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Tromsø
+U;;GSM04790208104;Johansen;Camilla Lieng;;Tromsø;9008;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Tromsø
+U;;GSM04746415090;Nilsen;Andre Lundal;;Bergen;5171;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Vestkanten
+U;;GSM04792224829;Rustad;Ina Kolstad;;Oslo;0373;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Vinderen
+U;;GSM04740861085;Einarsen;Jeanette;;Nyborg;5130;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Åsane
+U;;GSM04797622532;Østmoe;Lise;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04798675655;Thorsdahl;Nina;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04792629697;Thingnes;Kåre;;Trondheim;7046;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Valentinlyst
+U;;GSM04790046776;Stewart;Åsgunn;;Strømmen;2010;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Strømmen
+U;;GSM04797190890;Stangebye-Hansen;Christelle;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04792094305;Skaslien;Bård;;Trondheim;7041;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Lade Arena
+U;;GSM04793208422;Sjøflot;Lene Kristine;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04795445783;Ruud;Nikolai;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04795451097;Rennemo;Ronny;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04798619000;Oslington;Jane;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04797021479;Olsen;Kenneth;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04746787341;Mellquist;Lina Sofia Maragreta;;Oslo;0567;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Carl Berner
+U;;GSM04794840364;Mellquist;Lina;;Oslo;0567;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Carl Berner
+U;;GSM04791710851;Lyngen Eidem;Snefrid;;Trondheim;7038;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Teglgården
+U;;GSM04748074739;Lundø;Carina;;Lillestrøm;2004;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Lillestrøm
+U;;GSM04791879105;Landrø;Ingvild;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04793623695;Krosshavn;Vilde;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04747469061;Koen Solli;Therese;;Trondheim;7011;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Trondheim
+U;;GSM04791725003;Jakobsen;Margot;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04740881649;Husby Larsn;Linn;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04790564666;Hansem;Paal;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04747713887;Granroth;Evelina;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04795887351;Fisketjønn;Aslak;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04792237906;Asmyhr;Tone;;Oslo;0451;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness HQ
+U;;GSM04798481931;Andresen;Therese;;Moss;1530;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Moss
+U;;GSM04791182694;0;Senter 1;;Oslo;0567;;;;;NOR;;;;;;;;;;;;;;AWG.12.01.2017.03;AWG.12.01.2016;;;;Fresh Fitness Carl Berner

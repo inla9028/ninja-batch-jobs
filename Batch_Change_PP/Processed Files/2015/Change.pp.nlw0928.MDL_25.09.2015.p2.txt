@@ -1,0 +1,13 @@
+GSM04745483797;PSSC;PSSC24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04746566144;PSSC;PSSC24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04747653994;PSSC;PSSC24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04747679926;PSSB;PSSB24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04748290660;PSSB;PSSB24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04790550691;PSSC;PSSC24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04797535595;PSSC;PSSC24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04793025559;PSSB;PSSB24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04793224286;PSSC;PSSC24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04793679565;PSSB;PSSB24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04795831923;PSSB;PSSB24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04797040597;PSSB;PSSB24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y
+GSM04790808183;PSSB;PSSB24B1;;N;;N180;A;KON2;Over på riktig kampanje. On request by N180, Bernt Bergh;Y;MDL 25.09.2015 p2;Y

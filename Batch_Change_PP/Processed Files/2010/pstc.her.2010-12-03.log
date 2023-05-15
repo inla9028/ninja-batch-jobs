@@ -1,0 +1,60 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Fri Dec 3 09:33:43 2010
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   chg_pp_trans.ctl
+Data File:      pstc.her.2010-12-03.txt
+  Bad File:     pstc.her.2010-12-03.bad
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table "NINJADATA"."MASTER_CHG_PP_TRANS", loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER
+NEW_PRICEPLAN                        NEXT     *   ;  O(") CHARACTER
+NEW_CAMPAIGN_CODE                    NEXT     *   ;  O(") CHARACTER
+NEW_SUBSCRIPTION_TYPE                NEXT     *   ;  O(") CHARACTER
+HANDLE_COMMITMENT                    NEXT     *   ;  O(") CHARACTER
+EFFECTIVE_DATE                       NEXT     *   ;  O(") CHARACTER
+DEALER                               NEXT     *   ;  O(") CHARACTER
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER
+WAIVE_FEES                           NEXT     *   ;  O(") CHARACTER
+REQUESTOR_ID                         NEXT     *   ;  O(") CHARACTER
+SKIP_NINJA_VALIDATION                NEXT     *   ;  O(") CHARACTER
+
+
+Table "NINJADATA"."MASTER_CHG_PP_TRANS":
+  244 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 214656 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           244
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Dec 03 09:33:43 2010
+Run ended on Fri Dec 03 09:33:45 2010
+
+Elapsed time was:     00:00:02.17
+CPU time was:         00:00:00.04

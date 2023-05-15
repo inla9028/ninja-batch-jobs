@@ -1,0 +1,120 @@
+;04792806973;KORFAK;12 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04791850767;KORFAK;13 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04795286877;KORFAK;14 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792865273;KORFAK;15 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04790112175;KORFAK;16 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04740285948;KORFAK;17 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792046893;KORFAK;18 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792059218;KORFAK;19 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792447414;KORFAK;20 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04793031829;KORFAK;21 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04793446647;KORFAK;22 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04740601990;KORFAK;23 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792686052;KORFAK;24 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04740455736;KORFAK;25 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04791191726;KORFAK;26 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792896595;KORFAK;27 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792016294;KORFAK;28 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04740641747;KORFAK;29 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792452558;KORFAK;30 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04793424784;KORFAK;31 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04793005833;KORFAK;32 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04740624386;KORFAK;33 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04793205460;KORFAK;34 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04793223410;KORFAK;35 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792025642;KORFAK;36 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792059217;KORFAK;37 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792434484;KORFAK;38 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04798683049;KORFAK;39 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264203;KORFAK;40 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04796220513;KORFAK;41 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264874;KORFAK;42 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04798289511;KORFAK;43 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264202;KORFAK;44 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792610360;KORFAK;45 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04745233699;KORFAK;46 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04790135953;KORFAK;47 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264201;KORFAK;48 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04745287191;KORFAK;49 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792218511;KORFAK;50 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04740001026;KORFAK;51 mnd oppgradering kunde skal ikke ta ut terminaler, ref Per E Nordvik;Kreditering ihht. Avtale;2000;;;;;nobo2552 25.02.11;1;nobo2552
+;04792806973;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04791850767;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04795286877;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792865273;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04790112175;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740285948;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792046893;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792059218;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792447414;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793031829;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793446647;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740601990;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792686052;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740455736;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04791191726;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792896595;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792016294;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740641747;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792452558;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793424784;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793005833;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740624386;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793205460;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793223410;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792025642;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792059217;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792434484;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04798683049;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264203;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04796220513;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264874;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04798289511;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264202;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792610360;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04745233699;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04790135953;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264201;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04745287191;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792218511;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740001026;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792806973;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04791850767;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04795286877;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792865273;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04790112175;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740285948;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792046893;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792059218;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792447414;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793031829;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793446647;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740601990;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792686052;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740455736;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04791191726;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792896595;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792016294;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740641747;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792452558;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793424784;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793005833;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740624386;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793205460;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04793223410;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792025642;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792059217;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792434484;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04798683049;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264203;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04796220513;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264874;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04798289511;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264202;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792610360;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04745233699;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04790135953;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792264201;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04745287191;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04792218511;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552
+;04740001026;KORFAK;Kreditering av mnd avgift ref Arild Fredlund;Kreditering av mnd avgift;199;;;;;nobo2552 25.02.11;1;nobo2552

@@ -1,0 +1,216 @@
+660894502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+861894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+880894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+560005506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+970894507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+101894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+350005500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+370005506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+380894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+417994506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+571894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+580894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+580005502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+617994504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+590894507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+680005501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+770005502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+871894507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+951894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+260005509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+560894503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+661894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+670005503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+291894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+870894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+960005502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+481894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+180005506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+191894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+260894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+227994506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+360005508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+360894505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+450894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+427994504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+581894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+881894505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+961894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+780894507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+271894503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+317994507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+127994507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+850894502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+761894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+851894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+270005507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+237994504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+380005504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+471894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+490894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+650894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+640894507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+740894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+780005500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+990894503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+980894505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+940894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+281894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+950894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+527994503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+781894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+391894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+150894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+170005508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+250894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+250005501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+350894507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+381894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+470005505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+461894503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+460894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+460005507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+450005509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+540894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+660005505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+627994502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+681894507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+727994501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+827994500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+981894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+950005504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+370894503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+470894502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+790894505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+670894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+170894505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+280894502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+561894502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+760005504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+860894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+817994502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+960894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+117994509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+190894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+270894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+480894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+570005504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+671894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+750005506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+771894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+860005503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+970005500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+280005505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+171894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+570894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+361894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+750894503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+760894501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+137994505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+161894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+180894503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+217994508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+517994505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+550005508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+680894508;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+840894505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+890894504;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+717994503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+690894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+327994505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+160005500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+181894502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+290894500;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+371894502;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;507.61;;;;;2008-05-09;1;LED
+480005503;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+390894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+550894505;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+650005507;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+770894509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+870005501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+917994501;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+927994509;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.75;;;;;2008-05-09;1;LED
+971894506;;KORFAK;Kreditering pga fryste abo. Godkjent i ISA av POC.;Kreditering pga fryste abo ihht avtale;505.76;;;;;2008-05-09;1;LED
+;04740006640;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;454.75;;;;;2008-05-09;1;CSK
+;04740006641;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;633.19;;;;;2008-05-09;1;CSK
+;04740006642;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;1209.27;;;;;2008-05-09;1;CSK
+;04740006643;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;2019.78;;;;;2008-05-09;1;CSK
+;04740006644;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;423.13;;;;;2008-05-09;1;CSK
+;04740006645;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;84.57;;;;;2008-05-09;1;CSK
+;04740006646;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;1206.55;;;;;2008-05-09;1;CSK
+;04740006647;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;1099.78;;;;;2008-05-09;1;CSK
+;04740006648;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;397.55;;;;;2008-05-09;1;CSK
+;04740006649;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;1028.68;;;;;2008-05-09;1;CSK
+;04740006650;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;570.37;;;;;2008-05-09;1;CSK
+;04740006651;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;819.99;;;;;2008-05-09;1;CSK
+;04740006652;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;517.88;;;;;2008-05-09;1;CSK
+;04740006653;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;365.33;;;;;2008-05-09;1;CSK
+;04740006655;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;842;;;;;2008-05-09;1;CSK
+;04740006656;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;736.74;;;;;2008-05-09;1;CSK
+;04740006658;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;1105.97;;;;;2008-05-09;1;CSK
+;04740006661;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;853.62;;;;;2008-05-09;1;CSK
+;04740006662;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;360.16;;;;;2008-05-09;1;CSK
+;04740006669;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;302.47;;;;;2008-05-09;1;CSK
+;04740006670;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;451.13;;;;;2008-05-09;1;CSK
+;04740006675;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;150.42;;;;;2008-05-09;1;CSK
+;04740006679;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;906.27;;;;;2008-05-09;1;CSK
+;04740400502;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;210.52;;;;;2008-05-09;1;CSK
+;04741240390;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;510.65;;;;;2008-05-09;1;CSK
+;04741335042;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;1507.34;;;;;2008-05-09;1;CSK
+;04741403299;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;675.05;;;;;2008-05-09;1;CSK
+;04741482440;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;143;;;;;2008-05-09;1;CSK
+;04741568706;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;300.25;;;;;2008-05-09;1;CSK
+;04747303760;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;365.57;;;;;2008-05-09;1;CSK
+;04790093189;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;859.65;;;;;2008-05-09;1;CSK
+;04790185283;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;410.85;;;;;2008-05-09;1;CSK
+;04790199412;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;488.74;;;;;2008-05-09;1;CSK
+;04790200402;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;547.32;;;;;2008-05-09;1;CSK
+;04790917988;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;874.41;;;;;2008-05-09;1;CSK
+;04791137614;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;203.12;;;;;2008-05-09;1;CSK
+;04791138098;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;354.36;;;;;2008-05-09;1;CSK
+;04791391627;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;68.4;;;;;2008-05-09;1;CSK
+;04791623989;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;314.53;;;;;2008-05-09;1;CSK
+;04791711201;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;388.04;;;;;2008-05-09;1;CSK
+;04791796370;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;726.34;;;;;2008-05-09;1;CSK
+;04792090244;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;498.93;;;;;2008-05-09;1;CSK
+;04792807937;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;368.13;;;;;2008-05-09;1;CSK
+;04792830419;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;1024.83;;;;;2008-05-09;1;CSK
+;04793028376;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;706.41;;;;;2008-05-09;1;CSK
+;04793086572;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;463.67;;;;;2008-05-09;1;CSK
+;04793227918;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;131.37;;;;;2008-05-09;1;CSK
+;04793800959;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;255.49;;;;;2008-05-09;1;CSK
+;04795151662;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;420.01;;;;;2008-05-09;1;CSK
+;04795169798;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;493.82;;;;;2008-05-09;1;CSK
+;04795746879;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;145.84;;;;;2008-05-09;1;CSK
+;04798064402;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;66.81;;;;;2008-05-09;1;CSK
+;04798223405;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;436.34;;;;;2008-05-09;1;CSK
+;04798281400;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;2.96;;;;;2008-05-09;1;CSK
+;04798281406;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;50.78;;;;;2008-05-09;1;CSK
+;04798281411;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;64.52;;;;;2008-05-09;1;CSK
+;04798428118;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;336.37;;;;;2008-05-09;1;CSK
+;04798814455;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;216.4;;;;;2008-05-09;1;CSK
+;04798886964;KORFAK;Manglende Rabatt ref. PAD. Godkjent v POC i ISA;Manglende rabatt;653.03;;;;;2008-05-09;1;CSK
+;04745400687;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;147.61;;;;;2008-05-09;1;EON
+;04745864705;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;132.72;;;;;2008-05-09;1;EON
+;04795893000;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;178.02;;;;;2008-05-09;1;EON
+;04795893001;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;192.23;;;;;2008-05-09;1;EON
+;04795893002;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;485.66;;;;;2008-05-09;1;EON
+;04795893007;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;234;;;;;2008-05-09;1;EON
+;04795893008;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;179.91;;;;;2008-05-09;1;EON
+;04795893009;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;234.65;;;;;2008-05-09;1;EON
+;04795893010;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;227.06;;;;;2008-05-09;1;EON
+;04795893013;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;234;;;;;2008-05-09;1;EON
+;04795893016;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;268.56;;;;;2008-05-09;1;EON
+;04795893017;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;148.87;;;;;2008-05-09;1;EON
+;04795893018;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;222.18;;;;;2008-05-09;1;EON
+;04795893019;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;220.79;;;;;2008-05-09;1;EON
+;04795893027;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;234;;;;;2008-05-09;1;EON
+;04795893029;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;114.07;;;;;2008-05-09;1;EON
+;04795893035;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;199.55;;;;;2008-05-09;1;EON
+;04795893038;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;184.39;;;;;2008-05-09;1;EON
+;04795893040;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;427.49;;;;;2008-05-09;1;EON
+;04795893045;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;113.44;;;;;2008-05-09;1;EON
+;04795897423;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;192.23;;;;;2008-05-09;1;EON
+;04797051200;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;468;;;;;2008-05-09;1;EON
+;04797051205;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;156;;;;;2008-05-09;1;EON
+;04797051206;KORFAK;Kreditering av trillingsim-2007 ref morten perdersen;Kreditering av trillingsim;176.13;;;;;2008-05-09;1;EON

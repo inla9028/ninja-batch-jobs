@@ -1,0 +1,93 @@
+We have several WLS domains running on ernst:
+
+Common:
+SERVER_ADDRESS = 212.45.173.141
+SERVER_VERSION = 7.0 SP4 
+SERVER_LOGIN = ninja
+SERVER_PASSWORD = NinjaMaster
+SERVER_HOME = /app/ninja/bea/weblogic700
+SERVER_JAVA_HOME = /app/ninja/bea/jdk131_09
+Unix_Login = ninja
+Unix_Password = ninja2002
+
+When logging into Ninja, a shortcut to each environment is specifed..  ninja2, ninja3, ninja4 and demons This navigates to the server instance base directory..
+
+When at the server launch directory you can stop & start weblogic with the stopWLS & startWLS scripts.
+
+Server Instance Specific:
+
+SERVER2_NAME = ninja2domain
+SERVER2_PORT = 7001
+SERVER2_LOGFILES = /app/ninja/bea/user_projects/ninja2domain/YYYYMMDD-nohup.out  (e.g 20041004-nohup.out)
+Other detailed logfiles (SERVER2_LOGFILES_MORE = /app/ninja/bea/user_projects/ninja2domain/logs/.......  controlled via /app/ninja/bea/user_projects/ninja2domain/log4j.netcom.xml)
+SERVER2_LAUNCH_DIR = /app/ninja/bea/user_projects/ninja2domain
+Usage: Service Providers
+
+SERVER3_NAME = ninja3domain
+SERVER3_PORT = 7051
+SERVER3_LOGFILES = /app/ninja/bea/user_projects/ninja3domain/YYYYMMDD-nohup.out  (e.g 20041004-nohup.out)
+Other detailed logfiles (SERVER3_LOGFILES_MORE = /app/ninja/bea/user_projects/ninja3domain/logs/.......  controlled via /app/ninja/bea/user_projects/ninja3domain/log4j.netcom.xml)
+SERVER3_LAUNCH_DIR = /app/ninja/bea/user_projects/ninja3domain
+Usage: Brawe interfaces (MinSide, MinBedrift, Dowe, BOL)
+
+SERVER4_NAME = ninja4domain
+SERVER4_PORT = 9051
+SERVER4_LOGFILES = /app/ninja/bea/user_projects/ninja4domain/YYYYMMDD-nohup.out  (e.g 20041004-nohup.out)
+Other detailed logfiles (SERVER4_LOGFILES_MORE = /app/ninja/bea/user_projects/ninja4domain/logs/.......  controlled via /app/ninja/bea/user_projects/ninja4domain/log4j.netcom.xml)
+SERVER4_LAUNCH_DIR = /app/ninja/bea/user_projects/ninja4domain
+Usage: Delaer Commissioning Reports
+
+SERVER5_NAME = demondomain
+SERVER5_PORT = 8011
+SERVER5_LOGFILES = /app/ninja/bea/user_projects/demondomain/YYYYMMDD-nohup.out  (e.g 20041004-nohup.out)
+Other detailed logfiles (SERVER5_LOGFILES_MORE = /app/ninja/bea/user_projects/demondomain/logs/.......  controlled via /app/ninja/bea/user_projects/demondomain/log4j.netcom.xml)
+SERVER5_LAUNCH_DIR = /app/ninja/bea/user_projects/demondomain
+Usage: NinjaInternal Deamon Jobs..
+
+
+Crontab for Starting/Stopping 
+55 23 * * * /app/ninja/bea/user_projects/demondomain/stopWLS >> /app/ninja/bea/user_projects/demondomain/wls_stop.log
+30 23 * * * /app/ninja/bea/user_projects/ninja4domain/stopWLS >> /app/ninja/bea/user_projects/ninja4domain/wls_stop.log
+57 23 * * * /app/ninja/bea/user_projects/ninja2domain/stopWLS >> /app/ninja/bea/user_projects/ninja2domain/wls_stop.log
+58 23 * * * /app/ninja/bea/user_projects/ninja3domain/stopWLS >> /app/ninja/bea/user_projects/ninja3domain/wls_stop.log
+02 00 * * * /app/ninja/bea/user_projects/ninja3domain/startWLS >> /app/ninja/bea/user_projects/ninja3domain/wls_start.log
+01 00 * * * /app/ninja/bea/user_projects/ninja2domain/startWLS >> /app/ninja/bea/user_projects/ninja2domain/wls_start.log
+10 00 * * * /app/ninja/bea/user_projects/demondomain/startWLS >>  /app/ninja/bea/user_projects/demondomain/wls_start.log
+25 01 * * * /app/ninja/bea/user_projects/ninja4domain/startWLS >> /app/ninja/bea/user_projects/ninja4domain/wls_start.log
+
+Log File Cleanup
+24 07 * * * find /app/ninja/bea/user_projects/ninja2domain -name "*nohup.out" -mtime +4 -a -exec rm -f {} \;
+26 07 * * * find /app/ninja/bea/user_projects/ninja3domain -name "*nohup.out" -mtime +4 -a -exec rm -f {} \;
+28 07 * * * find /app/ninja/bea/user_projects/demondomain -name "*nohup.out" -mtime +4 -a -exec rm -f {} \;
+30 07 * * * find /app/ninja/bea/user_projects/ninja4domain -name "*nohup.out" -mtime +4 -a -exec rm -f {} \;
+24 05 * * * find /app/ninja/bea/user_projects/ninja2domain -name "NinjaOpenViewDaily.log.*" -mtime +2 -a -exec rm -f {} \;
+26 05 * * * find /app/ninja/bea/user_projects/ninja3domain -name "NinjaOpenViewDaily.log.*" -mtime +2 -a -exec rm -f {} \;
+28 05 * * * find /app/ninja/bea/user_projects/demondomain -name "NinjaOpenViewDaily.log.*" -mtime +2 -a -exec rm -f {} \;
+30 05 * * * find /app/ninja/bea/user_projects/ninja4domain -name "NinjaOpenViewDaily.log.*" -mtime +2 -a -exec rm -f {} \;
+
+
+Additional Info..
+
+Kiling a Server..  If a server won't respond to the stopWLS command, then they chances are it's hanging..  In these cases identify the server process and kill it..  Use this as a last resort..
+
+Example..
+
+ps -ef | grep ninja will return something like..
+
+   ninja  1008   990  0 00:01:00 ?       125:40 /app/ninja/bea/jdk131_09/bin/../bin/sparc/native_threads/java -server -Xms256m 
+    root  2414  1624  0   jun 07 ?       1155:41 /app/ninja/bea/jdk131_09/jre/bin/../bin/sparc/native_threads/java -Xbootclasspa
+   ninja  2465     1  0 00:10:00 ?        0:00 /bin/sh /app/ninja/bea/user_projects/demondomain/startWebLogic.sh
+    root  1624     1  0   jun 07 ?       94:59 /app/ninja/bea/jdk131_09/jre/bin/../bin/sparc/native_threads/rmid -port 9240 -l
+   ninja 18000 17949  0 15:47:37 pts/2    0:00 grep ninja
+   ninja   990     1  0 00:01:00 ?        0:00 /bin/sh /app/ninja/bea/user_projects/ninja2domain/startWebLogic.sh
+   ninja 17949 17945  0 15:47:26 pts/2    0:00 -bash
+   ninja 15759 15722  0 01:25:00 ?        6:39 /app/ninja/bea/jdk131_09/bin/../bin/sparc/native_threads/java -server -Xms32m -
+   ninja  1183  1165  0 00:02:00 ?       340:28 /app/ninja/bea/jdk131_09/bin/../bin/sparc/native_threads/java -server -Xms256m 
+   ninja  2488  2465  0 00:10:00 ?       62:43 /app/ninja/bea/jdk131_09/bin/../bin/sparc/native_threads/java -server -Xms256m 
+   ninja  1165     1  0 00:02:00 ?        0:00 /bin/sh /app/ninja/bea/user_projects/ninja3domain/startWebLogic.sh
+   ninja 15722     1  0 01:25:00 ?        0:00 /bin/sh /app/ninja/bea/user_projects/ninja4domain/startWebLogic.sh
+
+
+Identify the server instance..  e.g.. ninja3 is hanging..  So look for the startup file..  i.e. Process 1165,  Now find the associated process that the server is actually running under..  In this case you'd kill process 1183.
+
+   

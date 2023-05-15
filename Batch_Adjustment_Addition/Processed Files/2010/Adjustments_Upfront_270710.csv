@@ -1,0 +1,614 @@
+;04745442889;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04793257248;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04798426222;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04792850034;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04798410716;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04747905601;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04798686036;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776;
+;04798404617;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776;
+;04791177891;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04792245476;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04745456794;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04795228786;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04798609270;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04745427160;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04740637587;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04793890802;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793289593;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792805766;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792456164;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793424764;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746442869;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04798860098;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790060928;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795058601;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746669613;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747374518;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798442230;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798077058;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797088619;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798456609;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798848402;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745431035;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794212710;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746632303;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747377832;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740413007;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745423783;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798468161;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740608065;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741621703;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793071016;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745476949;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797022193;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798485432;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798627499;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741174133;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798059349;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798854775;KORFAK;Feil taksert ref. CPA;Innholdstjenester;57;;;;;trka0776 27.07.10;1;trka0776
+;04798618932;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798606791;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793831895;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795178464;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795863774;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04748005492;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740349226;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799524503;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798669334;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747637993;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799319983;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745492106;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792690159;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798038039;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741601146;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794289340;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798679529;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746444856;KORFAK;Feil taksert ref. CPA;Innholdstjenester;57;;;;;trka0776 27.07.10;1;trka0776
+;04793479015;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793414966;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740646458;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793627022;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798462405;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794436711;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792223731;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793833874;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793288387;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741175690;KORFAK;Feil taksert ref. CPA;Innholdstjenester;76;;;;;trka0776 27.07.10;1;trka0776
+;04792838231;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747155725;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793098874;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798856140;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793095504;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04792026790;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792866744;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792639250;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745452242;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04745507670;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746639247;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745274445;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793063923;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747178378;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745863604;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798031278;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790955583;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798497952;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798468199;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746621687;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745397750;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741373756;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04793610298;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795029529;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794135191;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793413750;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747251903;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797676408;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793843106;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746540766;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745266264;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798046094;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745068442;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745005237;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798860397;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745692206;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792404683;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793633946;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04746634025;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747668811;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797417026;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793097445;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794887613;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798400798;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793217565;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799039669;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795214462;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793890020;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745108957;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799304298;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792065090;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04791392697;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793287575;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795995338;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04745483269;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793612853;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792262436;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792233112;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792899777;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799371287;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798663886;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740463996;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793819040;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793638505;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798405984;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795214610;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745137625;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797621393;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798873632;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793820162;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745295922;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745425004;KORFAK;Feil taksert ref. CPA;Innholdstjenester;76;;;;;trka0776 27.07.10;1;trka0776
+;04797667131;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745134750;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798817063;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793855375;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798096631;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04748242159;KORFAK;Feil taksert ref. CPA;Innholdstjenester;57;;;;;trka0776 27.07.10;1;trka0776
+;04793636277;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745674613;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793006885;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794439956;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792027711;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797194346;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04748293562;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746636611;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793890160;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792841321;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792846077;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792860354;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746545121;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793296009;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798861689;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793263182;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797608085;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745865369;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746465897;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793867742;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798474116;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790730615;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790816845;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798011892;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04748045609;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04792603142;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790039460;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797020560;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792426620;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740246429;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798429948;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04791511868;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798686011;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798006176;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792685705;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795785878;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793254323;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741489544;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793653163;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793880842;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798877642;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740617177;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798670269;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793286428;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04791341173;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04791785985;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795902570;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793019552;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799260810;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745238086;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746630445;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798415582;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747172077;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792620155;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793811761;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790667002;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790010650;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745293050;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793209403;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798401933;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798457381;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746846722;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740289535;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793222814;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798415698;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798252260;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740638021;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798866080;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798644390;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792821495;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798612483;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797673005;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745435963;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793217722;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740495740;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741248366;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792830043;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740453061;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747888491;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04791343471;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745017773;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745475323;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793896494;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04745390343;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799045425;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798016327;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799010125;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740457778;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797000156;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795106022;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792477510;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798452795;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740247514;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04741234389;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04796209917;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794485786;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798608749;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792240869;KORFAK;Feil taksert ref. CPA;Innholdstjenester;57;;;;;trka0776 27.07.10;1;trka0776
+;04798495091;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795467822;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04748020924;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740611510;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792269073;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04792627527;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792010939;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792056379;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794499480;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798689544;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740622767;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745256553;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794269663;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798872194;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745209246;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793808750;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798876967;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794438851;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792079393;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798063345;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798678052;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792027476;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798055884;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797158429;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745461519;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790630261;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746423246;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794240332;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04797519909;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794267356;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745407726;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745401579;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792812952;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793603267;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792269319;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795847701;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798813122;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798826441;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790991539;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798805204;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790098980;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04747620165;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793880768;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740499266;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798441326;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798873570;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792479244;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04746855620;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740008134;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793632291;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790400600;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793892766;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793686935;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799790926;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04748235170;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798853163;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792830116;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04790953576;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793434488;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745295356;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793645686;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792486870;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745867990;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740638953;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04791316189;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798689696;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793007305;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798433032;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793870116;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04794487014;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798645058;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798869906;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793418161;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798622148;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04745243474;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04795028904;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792297618;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04798097092;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799233979;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04740626676;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04799126441;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04793825442;KORFAK;Feil taksert ref. CPA;Innholdstjenester;38;;;;;trka0776 27.07.10;1;trka0776
+;04792878013;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776
+;04792013876;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04797675830;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04741018350;KORFAK;Feil taksert ref. CPA;Innholdstjenester;19;;;;;trka0776 27.07.10;1;trka0776;
+;04740065081;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04795743459;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04791194489;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04792867199;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04795884331;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04747894333;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04748110383;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04748489880;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04793231632;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04740011492;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04795828595;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04793676228;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04792033933;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776;
+;04797512023;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04799048598;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792630554;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04746418037;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792446175;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792014203;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792014932;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04791806104;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04793882091;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04795791977;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04747864244;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04797005017;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04798863787;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04797699428;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792225669;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792627161;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792886854;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04795126392;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04797539650;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04748258123;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04795831893;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04797528819;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04797567215;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04797729956;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04741279450;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04793420098;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04798858410;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792867239;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04793803783;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04793460091;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792657191;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04790838392;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04740247451;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04792680270;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 27.07.10;1;trka0776
+;04793486823;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792801447;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797181436;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741339085;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04745259556;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795803888;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741664330;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797027561;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799597368;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795084031;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795253006;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792614041;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792273191;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792084592;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799693876;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04740477071;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04745219112;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793264743;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741436149;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793612554;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797716221;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793260694;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795800029;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04748201427;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790549113;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793207858;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799261972;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795187731;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790105688;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795812307;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797091383;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04798073850;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792493311;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790564500;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795861789;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790845016;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04748053652;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793441247;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04740494318;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793294276;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793033970;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792839304;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741669515;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04791386663;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792695747;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790984288;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793426663;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795085741;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792647071;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04748076675;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792043873;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04798444486;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04740464487;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790640646;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04745482898;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792802392;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793864754;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799444111;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793024469;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792453727;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741516170;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741293664;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790923887;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799482486;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792619271;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793086411;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792422046;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04745221627;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04798016283;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797021106;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04740247347;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04745039381;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790044464;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741517982;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793237025;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741552429;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04748895876;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790090105;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797793737;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04791532619;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04794339466;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792086867;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799047783;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793049238;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792453687;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792069994;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790195332;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04798885833;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790286882;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792426395;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793633974;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04746632664;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799577476;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797167139;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799799867;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793463693;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04747664512;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792404821;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792255052;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04798863111;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04748032162;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793221741;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792419494;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793223558;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04791884513;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792400052;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793292062;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792211781;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790565449;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792092940;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04748024907;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04791641934;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792621763;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792269838;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04794815344;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793023901;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04793870867;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792611065;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04795113158;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792684099;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04797072293;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04747614882;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04745262976;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04792267714;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04799414291;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04791709820;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04790838613;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04741302930;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 27.07.10;1;trka0776
+;04791136393;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793212656;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793425066;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04745206026;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798016976;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04799111087;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793453961;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792207034;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741526857;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04746610998;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793254898;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792425013;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04747616262;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741529050;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793490078;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791360035;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798676752;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792640464;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793656777;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798026934;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793802267;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04795165932;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793452036;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792051616;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04745460916;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793823848;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741908540;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793635008;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04745282037;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798447977;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04790559941;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04797679206;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798854711;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04746620794;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792068971;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04745422623;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04795744852;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792820906;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741599658;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04746935071;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741526859;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04746472669;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792649418;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04748117671;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04790626945;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04748022524;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04747754470;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792647631;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792498207;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792045015;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793808165;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04790738606;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792418588;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04797631132;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741845149;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792820912;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791599248;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04740044551;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793853170;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791816668;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741568839;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791169011;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04795995608;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04795995952;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04795929068;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791642655;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04790025848;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791668998;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04747820597;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04748240584;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04790501365;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741307790;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04790684749;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04748280860;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793287689;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793619575;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791364331;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04748175761;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04791689506;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792476653;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793877813;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04793451299;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792438679;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798811709;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04747853807;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798863384;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04740844199;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741621405;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04747062887;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04745449434;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798879325;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792657804;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04741767229;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04797013153;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04792659838;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798431651;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04740461713;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04798441149;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 27.07.10;1;trka0776
+;04797173612;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 27.07.10;1;trka0776
+;04793071182;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 27.07.10;1;trka0776
+;04792813864;UPFR12;Ringetid kampanje 1800;;1800;;;;;trka0776 27.07.10;1;trka0776

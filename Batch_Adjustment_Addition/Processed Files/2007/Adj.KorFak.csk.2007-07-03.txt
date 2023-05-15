@@ -1,0 +1,192 @@
+;04740825223;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;155.84;;;;;03.07.07;;CSK
+;04741531753;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04741531754;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04745005848;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04746412840;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04746444113;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;977.96;;;;;03.07.07;;CSK
+;04790077941;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04790759320;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04790934800;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04791130205;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04791699411;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04792205666;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04792238688;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04792603921;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04792622192;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04792633974;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;141.99;;;;;03.07.07;;CSK
+;04792689699;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1191.16;;;;;03.07.07;;CSK
+;04792809809;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;253.31;;;;;03.07.07;;CSK
+;04793034477;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;172.41;;;;;03.07.07;;CSK
+;04793285069;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04793291073;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04793425653;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04795088967;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;982.41;;;;;03.07.07;;CSK
+;04795106018;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;253.31;;;;;03.07.07;;CSK
+;04795173094;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04797151112;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;38.51;;;;;03.07.07;;CSK
+;04797177175;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04797522288;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1069.09;;;;;03.07.07;;CSK
+;04798222666;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1301.2;;;;;03.07.07;;CSK
+;04798222804;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04799271026;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;1395.62;;;;;03.07.07;;CSK
+;04799329629;KORFAK;Justert for TB fra 08/06 ref. Morten Meier;Trådløs Bedrift Basis;686.84;;;;;03.07.07;;CSK
+;04748148812;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04790685777;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04791524980;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.92;;;;;09.07.07;;CSK
+;04792012488;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;45.86;;;;;09.07.07;;CSK
+;04792804395;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;44.72;;;;;09.07.07;;CSK
+;04793015111;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;105.34;;;;;09.07.07;;CSK
+;04793015125;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04793015138;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;191.13;;;;;09.07.07;;CSK
+;04793015140;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.26;;;;;09.07.07;;CSK
+;04793015141;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;54.31;;;;;09.07.07;;CSK
+;04793015142;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;158.86;;;;;09.07.07;;CSK
+;04793015143;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;120.05;;;;;09.07.07;;CSK
+;04793015144;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;58.44;;;;;09.07.07;;CSK
+;04793015145;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.92;;;;;09.07.07;;CSK
+;04793015146;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.92;;;;;09.07.07;;CSK
+;04793015147;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;88.02;;;;;09.07.07;;CSK
+;04793015178;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;139.35;;;;;09.07.07;;CSK
+;04793015182;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;203.21;;;;;09.07.07;;CSK
+;04793016660;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.92;;;;;09.07.07;;CSK
+;04793016661;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;216.48;;;;;09.07.07;;CSK
+;04793016662;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;191.64;;;;;09.07.07;;CSK
+;04793016663;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;328.23;;;;;09.07.07;;CSK
+;04793016664;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;163.1;;;;;09.07.07;;CSK
+;04793016671;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;240.38;;;;;09.07.07;;CSK
+;04793016672;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.92;;;;;09.07.07;;CSK
+;04793057741;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04793091236;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.92;;;;;09.07.07;;CSK
+;04793438770;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;95.37;;;;;09.07.07;;CSK
+;04793438771;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;47.64;;;;;09.07.07;;CSK
+;04793438772;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;86.52;;;;;09.07.07;;CSK
+;04798203985;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.47;;;;;09.07.07;;CSK
+;04798203986;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;31.96;;;;;09.07.07;;CSK
+;04798203987;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;49.48;;;;;09.07.07;;CSK
+;04798203988;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;74.33;;;;;09.07.07;;CSK
+;04798203989;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;30.42;;;;;09.07.07;;CSK
+;04798203990;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;76.21;;;;;09.07.07;;CSK
+;04798203991;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;30.08;;;;;09.07.07;;CSK
+;04798203992;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;30.08;;;;;09.07.07;;CSK
+;04798203993;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;10.93;;;;;09.07.07;;CSK
+;04798203994;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;18.79;;;;;09.07.07;;CSK
+;04798203995;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;18.79;;;;;09.07.07;;CSK
+;04798203996;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;18.79;;;;;09.07.07;;CSK
+;04798203997;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;18.79;;;;;09.07.07;;CSK
+;04798203998;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;18.79;;;;;09.07.07;;CSK
+;04798203999;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;18.79;;;;;09.07.07;;CSK
+;04798263063;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;45.13;;;;;09.07.07;;CSK
+;04798263651;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;57.33;;;;;09.07.07;;CSK
+;04798263652;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;55.85;;;;;09.07.07;;CSK
+;04798263653;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;336.61;;;;;09.07.07;;CSK
+;04798263654;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;67.92;;;;;09.07.07;;CSK
+;04798263655;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;107.09;;;;;09.07.07;;CSK
+;04798263656;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;117.02;;;;;09.07.07;;CSK
+;04798263657;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;286.93;;;;;09.07.07;;CSK
+;04798263658;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;99.78;;;;;09.07.07;;CSK
+;04798263659;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;146.53;;;;;09.07.07;;CSK
+;04798263660;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;642.47;;;;;09.07.07;;CSK
+;04798263661;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;62.62;;;;;09.07.07;;CSK
+;04798263662;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;54.82;;;;;09.07.07;;CSK
+;04798263663;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;164.62;;;;;09.07.07;;CSK
+;04798263664;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;254.37;;;;;09.07.07;;CSK
+;04798263665;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;190.15;;;;;09.07.07;;CSK
+;04798263666;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04798263667;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;247.34;;;;;09.07.07;;CSK
+;04798263668;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;173.19;;;;;09.07.07;;CSK
+;04798263669;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;167.12;;;;;09.07.07;;CSK
+;04798263670;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;267.28;;;;;09.07.07;;CSK
+;04798263672;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;141.19;;;;;09.07.07;;CSK
+;04798263673;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;151.6;;;;;09.07.07;;CSK
+;04798263674;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;589.9;;;;;09.07.07;;CSK
+;04798263676;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;170.16;;;;;09.07.07;;CSK
+;04798263677;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;74.2;;;;;09.07.07;;CSK
+;04798263679;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;262.48;;;;;09.07.07;;CSK
+;04798263680;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;150.38;;;;;09.07.07;;CSK
+;04798263681;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;191.06;;;;;09.07.07;;CSK
+;04798263683;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;251.02;;;;;09.07.07;;CSK
+;04798263690;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;198.38;;;;;09.07.07;;CSK
+;04798263691;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;134.24;;;;;09.07.07;;CSK
+;04798263696;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;75.41;;;;;09.07.07;;CSK
+;04798263697;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;335.45;;;;;09.07.07;;CSK
+;04798263698;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;162.14;;;;;09.07.07;;CSK
+;04798263702;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04798263704;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;114.45;;;;;09.07.07;;CSK
+;04798263705;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;76.93;;;;;09.07.07;;CSK
+;04798263706;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;89.87;;;;;09.07.07;;CSK
+;04798263707;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;85.43;;;;;09.07.07;;CSK
+;04798263708;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;356.71;;;;;09.07.07;;CSK
+;04798263709;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;119.85;;;;;09.07.07;;CSK
+;04798263710;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04798263711;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;97.81;;;;;09.07.07;;CSK
+;04798263712;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;109.98;;;;;09.07.07;;CSK
+;04798263714;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;195.04;;;;;09.07.07;;CSK
+;04798263715;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04798263716;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;203.14;;;;;09.07.07;;CSK
+;04798263717;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;244.13;;;;;09.07.07;;CSK
+;04798263718;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;108.34;;;;;09.07.07;;CSK
+;04798263719;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;141.55;;;;;09.07.07;;CSK
+;04798263720;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;231.04;;;;;09.07.07;;CSK
+;04798263723;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;141.61;;;;;09.07.07;;CSK
+;04798263731;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;233.39;;;;;09.07.07;;CSK
+;04798263732;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;169.56;;;;;09.07.07;;CSK
+;04798263733;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;249.09;;;;;09.07.07;;CSK
+;04798263734;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;294.93;;;;;09.07.07;;CSK
+;04798263735;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;217.16;;;;;09.07.07;;CSK
+;04798263736;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;115.51;;;;;09.07.07;;CSK
+;04798263737;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;206.91;;;;;09.07.07;;CSK
+;04798263739;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;173.62;;;;;09.07.07;;CSK
+;04798263742;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;117.68;;;;;09.07.07;;CSK
+;04798263743;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;243.3;;;;;09.07.07;;CSK
+;04798263744;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;297.88;;;;;09.07.07;;CSK
+;04798263746;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;124.68;;;;;09.07.07;;CSK
+;04798263747;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;85.99;;;;;09.07.07;;CSK
+;04798263748;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;254.94;;;;;09.07.07;;CSK
+;04798263753;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;486.56;;;;;09.07.07;;CSK
+;04798263755;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;57.33;;;;;09.07.07;;CSK
+;04798263756;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04798263759;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;56.19;;;;;09.07.07;;CSK
+;04798263760;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;518.18;;;;;09.07.07;;CSK
+;04798263761;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;306.13;;;;;09.07.07;;CSK
+;04798263762;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;44.72;;;;;09.07.07;;CSK
+;04798263763;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;187.19;;;;;09.07.07;;CSK
+;04798263770;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;231.56;;;;;09.07.07;;CSK
+;04798263771;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;99.02;;;;;09.07.07;;CSK
+;04798263772;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;447.95;;;;;09.07.07;;CSK
+;04798263773;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;196.07;;;;;09.07.07;;CSK
+;04798263774;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;95.15;;;;;09.07.07;;CSK
+;04798263780;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;168.22;;;;;09.07.07;;CSK
+;04798263781;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;245.69;;;;;09.07.07;;CSK
+;04798263782;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;104.6;;;;;09.07.07;;CSK
+;04798263783;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;110.91;;;;;09.07.07;;CSK
+;04798263784;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;213.89;;;;;09.07.07;;CSK
+;04798263785;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;45.2;;;;;09.07.07;;CSK
+;04798263786;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.44;;;;;09.07.07;;CSK
+;04798263787;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;213.29;;;;;09.07.07;;CSK
+;04798263791;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.74;;;;;09.07.07;;CSK
+;04798263792;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;66.84;;;;;09.07.07;;CSK
+;04798263793;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;74.08;;;;;09.07.07;;CSK
+;04798263794;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;124.97;;;;;09.07.07;;CSK
+;04798263797;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;332.51;;;;;09.07.07;;CSK
+;04798263798;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;96.42;;;;;09.07.07;;CSK
+;04798263799;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;64.52;;;;;09.07.07;;CSK
+;04798263800;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;194.22;;;;;09.07.07;;CSK
+;04798263801;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;85.96;;;;;09.07.07;;CSK
+;04798263802;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;153.1;;;;;09.07.07;;CSK
+;04798263803;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;80.86;;;;;09.07.07;;CSK
+;04798263804;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;218.56;;;;;09.07.07;;CSK
+;04798263809;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;614.36;;;;;09.07.07;;CSK
+;04798263810;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;301.63;;;;;09.07.07;;CSK
+;04798263811;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;224.75;;;;;09.07.07;;CSK
+;04798263812;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;239.83;;;;;09.07.07;;CSK
+;04798263815;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;67.48;;;;;09.07.07;;CSK
+;04798263830;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;429.39;;;;;09.07.07;;CSK
+;04798263831;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;214.53;;;;;09.07.07;;CSK
+;04798263832;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;311.88;;;;;09.07.07;;CSK
+;04798263833;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;136.03;;;;;09.07.07;;CSK
+;04798263834;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;221.92;;;;;09.07.07;;CSK
+;04798263835;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;181.19;;;;;09.07.07;;CSK
+;04798263836;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;198.04;;;;;09.07.07;;CSK
+;04798263837;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;179.03;;;;;09.07.07;;CSK
+;04798263838;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;245.83;;;;;09.07.07;;CSK
+;04798263839;KORFAK;Justert for manglende rabatt (24%) fra 01.03.07 ref. TGM;Rabatt;96.04;;;;;09.07.07;;CSK

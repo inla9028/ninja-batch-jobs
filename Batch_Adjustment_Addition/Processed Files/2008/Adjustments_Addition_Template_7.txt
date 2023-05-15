@@ -1,0 +1,129 @@
+;04723159850;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;524.75;;;;;;;CSK;2008-01-22
+;04740233515;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;1452.95;;;;;;;CSK;2008-01-22
+;04740603936;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;727.46;;;;;;;CSK;2008-01-22
+;04745209932;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;0.08;;;;;;;CSK;2008-01-22
+;04745295591;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;965.06;;;;;;;CSK;2008-01-22
+;04747750447;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;1437.01;;;;;;;CSK;2008-01-22
+;04748023162;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2199.35;;;;;;;CSK;2008-01-22
+;04790880991;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;920.89;;;;;;;CSK;2008-01-22
+;04791384810;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;428.81;;;;;;;CSK;2008-01-22
+;04791595055;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2861.45;;;;;;;CSK;2008-01-22
+;04791853447;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;988.58;;;;;;;CSK;2008-01-22
+;04792232142;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;627.36;;;;;;;CSK;2008-01-22
+;04792684475;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;21.41;;;;;;;CSK;2008-01-22
+;04792885272;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;201.99;;;;;;;CSK;2008-01-22
+;04793069892;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;25.43;;;;;;;CSK;2008-01-22
+;04793213358;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;95.37;;;;;;;CSK;2008-01-22
+;04793264795;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2.29;;;;;;;CSK;2008-01-22
+;04793268641;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;0.08;;;;;;;CSK;2008-01-22
+;04793401496;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;971.52;;;;;;;CSK;2008-01-22
+;04793816172;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;489.53;;;;;;;CSK;2008-01-22
+;04795966933;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;148.17;;;;;;;CSK;2008-01-22
+;04797561786;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;297.62;;;;;;;CSK;2008-01-22
+;04797646431;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;624.5;;;;;;;CSK;2008-01-22
+;04798259898;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;1103.91;;;;;;;CSK;2008-01-22
+;04798288855;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;80.65;;;;;;;CSK;2008-01-22
+;04798288856;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;80.65;;;;;;;CSK;2008-01-22
+;04798288857;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2969.63;;;;;;;CSK;2008-01-22
+;04798288858;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;1235.61;;;;;;;CSK;2008-01-22
+;04798288859;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;3398.44;;;;;;;CSK;2008-01-22
+;04798288860;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2313.61;;;;;;;CSK;2008-01-22
+;04798288861;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;4305.92;;;;;;;CSK;2008-01-22
+;04798288862;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;470;;;;;;;CSK;2008-01-22
+;04798288864;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2710.74;;;;;;;CSK;2008-01-22
+;04798288865;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;1201.12;;;;;;;CSK;2008-01-22
+;04798288866;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;80.65;;;;;;;CSK;2008-01-22
+;04798288867;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;80.65;;;;;;;CSK;2008-01-22
+;04798288868;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2328.05;;;;;;;CSK;2008-01-22
+;04798288870;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;5907.94;;;;;;;CSK;2008-01-22
+;04798288871;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;1176.70;;;;;;;CSK;2008-01-22
+;04798288872;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;3026.47;;;;;;;CSK;2008-01-22
+;04798288873;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;2541.40;;;;;;;CSK;2008-01-22
+;04798288874;KORFAK;Justert for manglende rabatt (20%) ref. TKM. Godkjent av LGR;Manglende rabatt;5781.99;;;;;;;CSK;2008-01-22
+;04748173738;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04790524435;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04790589715;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04790848920;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2877.21;;;;;;;CSK;2008-01-25
+;04792695441;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1707.04;;;;;;;CSK;2008-01-25
+;04792817985;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04792817986;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04792821940;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04792821941;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04793220700;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04795062591;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;2881.73;;;;;;;CSK;2008-01-25
+;04795880247;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;57.24;;;;;;;CSK;2008-01-25
+;04740621246;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04746448102;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04748205305;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04748267876;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792298278;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1033.08;;;;;;;CSK;2008-01-25
+;04792841476;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841477;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841478;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841482;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841483;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841484;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841485;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841486;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04792841487;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1647.75;;;;;;;CSK;2008-01-25
+;04799546771;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;1310.43;;;;;;;CSK;2008-01-25
+;04799722850;KORFAK;Justert TB ref. RJO, godkjent av POC/ISA;Trådløs Bedrift;612.63;;;;;;;CSK;2008-01-25
+;04740637847;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04745223232;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04747804411;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04748287868;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04748290670;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790017235;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790081519;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790137819;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790159329;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790607194;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790613617;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790648462;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790790626;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04790824844;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04791138720;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04791138742;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04791342535;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04791535447;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04791732171;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04791764570;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04791837815;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04792211410;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04792278201;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04793445227;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04795089279;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04795200791;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04795228434;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04795231456;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04795231958;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04797021081;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04797776656;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04799626147;KORFAK;LED, Kreditering ihht avtale, godkjent av Inge Nordgård (ISA);Etter avtale;300;;;;;;;LED;2008-01-14
+;04774163380;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;0.8;;;;;;;LED;2008-01-14
+;04740646174;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;908.88;;;;;;;LED;2008-01-16
+;04740646179;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;145.62;;;;;;;LED;2008-01-16
+;04740646182;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;195.23;;;;;;;LED;2008-01-16
+;04740646183;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;135.14;;;;;;;LED;2008-01-16
+;04740646184;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;72.12;;;;;;;LED;2008-01-16
+;04740646185;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;138.48;;;;;;;LED;2008-01-16
+;04740646189;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;108.67;;;;;;;LED;2008-01-16
+;04740646195;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;142.2;;;;;;;LED;2008-01-16
+;04745275870;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;84.37;;;;;;;LED;2008-01-16
+;04791877544;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;260.91;;;;;;;LED;2008-01-16
+;04792063014;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;146.05;;;;;;;LED;2008-01-16
+;04792064928;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;232.3;;;;;;;LED;2008-01-16
+;04792064982;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;127.95;;;;;;;LED;2008-01-16
+;04792070412;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;195.64;;;;;;;LED;2008-01-16
+;04792070413;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;75.75;;;;;;;LED;2008-01-16
+;04792070420;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;139.49;;;;;;;LED;2008-01-16
+;04792070424;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;95.73;;;;;;;LED;2008-01-16
+;04792279761;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;10.45;;;;;;;LED;2008-01-16
+;04798249432;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;99.66;;;;;;;LED;2008-01-16
+;04798249433;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;189.49;;;;;;;LED;2008-01-16
+;04798296461;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;418.73;;;;;;;LED;2008-01-16
+;04798296462;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;240.54;;;;;;;LED;2008-01-16
+;04798296463;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;410.62;;;;;;;LED;2008-01-16
+;04798296464;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;307.81;;;;;;;LED;2008-01-16
+;04798296465;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;76.56;;;;;;;LED;2008-01-16
+;04798296466;KORFAK;LED, Kreditering pga manglende rabatt ;Kreditering pga manglende rabatt ;121.34;;;;;;;LED;2008-01-16

@@ -1,0 +1,6 @@
+GSM04741215335;NSHPPUS;DELETE;2016-04-05 11:26;;HFA.05.04.2016.03;Sletter Sverige Inkludert da denne ikke eksisterer på prisplanen lenger. On request by Haakon Francke
+GSM04741215482;NSHPPUS;DELETE;2016-04-05 11:26;;HFA.05.04.2016.03;Sletter Sverige Inkludert da denne ikke eksisterer på prisplanen lenger. On request by Haakon Francke
+GSM04799898386;NSHPPUT;DELETE;2016-04-05 11:26;;HFA.05.04.2016.03;Sletter Sverige Inkludert da denne ikke eksisterer på prisplanen lenger. On request by Haakon Francke
+GSM04799899404;NSHPPUT;DELETE;2016-04-05 11:26;;HFA.05.04.2016.03;Sletter Sverige Inkludert da denne ikke eksisterer på prisplanen lenger. On request by Haakon Francke
+GSM04740497362;NSHPPUX;DELETE;2016-04-05 11:26;;HFA.05.04.2016.03;Sletter Sverige Inkludert da denne ikke eksisterer på prisplanen lenger. On request by Haakon Francke
+GSM04746313018;NSHPPUX;DELETE;2016-04-05 11:26;;HFA.05.04.2016.03;Sletter Sverige Inkludert da denne ikke eksisterer på prisplanen lenger. On request by Haakon Francke

@@ -1,0 +1,100 @@
+;04745869953;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04746504327;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04791306112;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793010547;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793413002;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460335;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460421;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460422;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460423;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460424;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460425;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460426;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460427;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460428;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460429;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460430;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460431;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460432;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460433;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460434;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460435;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04793460436;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04795232528;KORFAK;Ringetidsrabatt for 2009 ihht avtale. Ref selger Mette Olsson;Ringetidsrabatt;375;;;;;LED 02.06.09;1;LED
+;04792290017;SALGUT;Utkjøp av bindingstid, ref selger Vegard Sjøvold;;1500;;;;;LED 02.06.09;1;LED
+;04799097798;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04793210908;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215851;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215857;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215859;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215858;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215860;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215853;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215857;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215861;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04798215855;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04746804007;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04746940919;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04748162299;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04748292029;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04790042424;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04794850086;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04795479640;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04795960092;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04797040030;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04797082766;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04797489952;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04797599205;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04797708872;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04799486648;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04748301313;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04748301414;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04747511410;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;500;;;;;LED 02.06.09;1;LED
+;04741338458;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1500;;;;;LED 02.06.09;1;LED
+;04741421727;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1500;;;;;LED 02.06.09;1;LED
+;04741352605;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;500;;;;;LED 02.06.09;1;LED
+;04741352604;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;500;;;;;LED 02.06.09;1;LED
+;04791605641;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04797549474;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1200;;;;;LED 02.06.09;1;LED
+;04747462087;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1875;;;;;LED 02.06.09;1;LED
+;04790936455;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04790983360;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04795000318;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04790604560;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04741500615;SALGUT;Utkjøp av bindingstid, ref selger Vegard Sjøvold;;1200;;;;;LED 02.06.09;1;LED
+;04746801139;SALGUT;Utkjøp av bindingstid, ref selger Vegard Sjøvold;;1200;;;;;LED 02.06.09;1;LED
+;04790479107;SALGUT;Utkjøp av bindingstid, ref selger Vegard Sjøvold;;1200;;;;;LED 02.06.09;1;LED
+;04740220296;SALGUT;Utkjøp av bindingstid, ref selger Per Aadne;;1200;;;;;LED 02.06.09;1;LED
+;04797637801;SALGUT;Utkjøp av bindingstid, ref selger Per Aadne;;1200;;;;;LED 02.06.09;1;LED
+;04740485775;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1200;;;;;LED 02.06.09;1;LED
+;04793205110;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1200;;;;;LED 02.06.09;1;LED
+;04748221090;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1100;;;;;LED 02.06.09;1;LED
+;04746873550;SALGUT;Utkjøp av bindingstid, ref selger Vegard Sjøvold;;1200;;;;;LED 02.06.09;1;LED
+;04791786111;SALGUT;Utkjøp av bindingstid, ref selger Vegard Sjøvold;;1200;;;;;LED 02.06.09;1;LED
+;04795000550;SALGUT;Utkjøp av bindingstid, ref selger Vegard Sjøvold;;1200;;;;;LED 02.06.09;1;LED
+;04792494297;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04792099481;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04741234122;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1500;;;;;LED 02.06.09;1;LED
+;04795812202;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1250;;;;;LED 02.06.09;1;LED
+;04747923209;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1250;;;;;LED 02.06.09;1;LED
+;04747923852;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1250;;;;;LED 02.06.09;1;LED
+;04795241441;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1200;;;;;LED 02.06.09;1;LED
+;04748128960;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1200;;;;;LED 02.06.09;1;LED
+;04799231009;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1200;;;;;LED 02.06.09;1;LED
+;04794154771;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1200;;;;;LED 02.06.09;1;LED
+;04795887440;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1200;;;;;LED 02.06.09;1;LED
+;04741796606;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1375;;;;;LED 02.06.09;1;LED
+;04741320054;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04741476568;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04748044606;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04748181518;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04748897978;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04790363917;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04790579679;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04790730583;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;1200;;;;;LED 02.06.09;1;LED
+;04793036096;SALGUT;Utkjøp av bindingstid, ref selger Jon-Are Loktu;;906.25;;;;;LED 02.06.09;1;LED
+;04793260652;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1500;;;;;LED 02.06.09;1;LED
+;04793466157;SALGUT;Utkjøp av bindingstid, ref selger Mette Olsson;;1500;;;;;LED 02.06.09;1;LED
+;04747913489;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1125;;;;;LED 02.06.09;1;LED
+;04748221283;SALGUT;Utkjøp av bindingstid, ref selger Sture Høyvåg;;1125;;;;;LED 02.06.09;1;LED
+;04745030010;SALGUT;Utkjøp av bindingstid, ref selger Jens Fagernes;;1500;;;;;LED 02.06.09;1;LED

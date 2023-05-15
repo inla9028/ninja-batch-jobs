@@ -1,0 +1,105 @@
+;04740002600;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1623.04;;;;;15.06.07;;CSK
+;04740614626;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;475.35;;;;;15.06.07;;CSK
+;04741667380;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1137.89;;;;;15.06.07;;CSK
+;04748104565;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;2629.07;;;;;15.06.07;;CSK
+;04748119361;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1100.82;;;;;15.06.07;;CSK
+;04790011023;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1289.76;;;;;15.06.07;;CSK
+;04790023056;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1572.39;;;;;15.06.07;;CSK
+;04790050425;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1409.81;;;;;15.06.07;;CSK
+;04790097631;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1786.43;;;;;15.06.07;;CSK
+;04790098202;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1322.54;;;;;15.06.07;;CSK
+;04790110968;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;100.25;;;;;15.06.07;;CSK
+;04790173369;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1254.65;;;;;15.06.07;;CSK
+;04790190983;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1607.58;;;;;15.06.07;;CSK
+;04790192328;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1631.63;;;;;15.06.07;;CSK
+;04790506400;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1173.33;;;;;15.06.07;;CSK
+;04790516795;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1275.48;;;;;15.06.07;;CSK
+;04790530720;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1434.78;;;;;15.06.07;;CSK
+;04790555582;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1171.48;;;;;15.06.07;;CSK
+;04790557941;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1354.22;;;;;15.06.07;;CSK
+;04790559609;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1496.10;;;;;15.06.07;;CSK
+;04790559629;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1818.98;;;;;15.06.07;;CSK
+;04790563054;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1204.99;;;;;15.06.07;;CSK
+;04790571312;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1164.14;;;;;15.06.07;;CSK
+;04790571651;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1055.05;;;;;15.06.07;;CSK
+;04790627337;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1110.99;;;;;15.06.07;;CSK
+;04790737032;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1030.54;;;;;15.06.07;;CSK
+;04790831328;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1057.28;;;;;15.06.07;;CSK
+;04790952303;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;268.33;;;;;15.06.07;;CSK
+;04790953790;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1274.68;;;;;15.06.07;;CSK
+;04790963603;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1029.83;;;;;15.06.07;;CSK
+;04791117932;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1830.64;;;;;15.06.07;;CSK
+;04791346479;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1482.02;;;;;15.06.07;;CSK
+;04791386021;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1262.07;;;;;15.06.07;;CSK
+;04791510971;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1045.67;;;;;15.06.07;;CSK
+;04791557911;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1241.94;;;;;15.06.07;;CSK
+;04791761613;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1364.22;;;;;15.06.07;;CSK
+;04791786298;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1270.12;;;;;15.06.07;;CSK
+;04791786838;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1256.39;;;;;15.06.07;;CSK
+;04791805611;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1155.61;;;;;15.06.07;;CSK
+;04791824806;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1124.56;;;;;15.06.07;;CSK
+;04791832257;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1101.78;;;;;15.06.07;;CSK
+;04791850087;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1030.74;;;;;15.06.07;;CSK
+;04792013077;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1154.89;;;;;15.06.07;;CSK
+;04792497792;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;615.94;;;;;15.06.07;;CSK
+;04792817073;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1210.64;;;;;15.06.07;;CSK
+;04792825380;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1241.00;;;;;15.06.07;;CSK
+;04792831332;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1778.01;;;;;15.06.07;;CSK
+;04792846621;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;675.31;;;;;15.06.07;;CSK
+;04792849202;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1341.46;;;;;15.06.07;;CSK
+;04792898572;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1420.69;;;;;15.06.07;;CSK
+;04793003763;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;243.31;;;;;15.06.07;;CSK
+;04793037577;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1457.52;;;;;15.06.07;;CSK
+;04793433657;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1198.66;;;;;15.06.07;;CSK
+;04793864768;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1469.01;;;;;15.06.07;;CSK
+;04795104423;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1044.11;;;;;15.06.07;;CSK
+;04795160065;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1172.95;;;;;15.06.07;;CSK
+;04795204366;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1121.70;;;;;15.06.07;;CSK
+;04795229663;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1299.09;;;;;15.06.07;;CSK
+;04795721446;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1226.88;;;;;15.06.07;;CSK
+;04795723137;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1572.76;;;;;15.06.07;;CSK
+;04795754944;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1087.59;;;;;15.06.07;;CSK
+;04795795629;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;114.82;;;;;15.06.07;;CSK
+;04795880876;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1050.26;;;;;15.06.07;;CSK
+;04795961973;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1692.86;;;;;15.06.07;;CSK
+;04797096181;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1033.54;;;;;15.06.07;;CSK
+;04797153528;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1408.36;;;;;15.06.07;;CSK
+;04797167361;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1221.77;;;;;15.06.07;;CSK
+;04797197292;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1215.42;;;;;15.06.07;;CSK
+;04797527383;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1115.21;;;;;15.06.07;;CSK
+;04797530082;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1262.26;;;;;15.06.07;;CSK
+;04797532806;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1101.01;;;;;15.06.07;;CSK
+;04797541383;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1528.60;;;;;15.06.07;;CSK
+;04797541474;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1173.98;;;;;15.06.07;;CSK
+;04797541484;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1141.55;;;;;15.06.07;;CSK
+;04797541545;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1154.34;;;;;15.06.07;;CSK
+;04797588611;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1422.44;;;;;15.06.07;;CSK
+;04797701484;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1579.83;;;;;15.06.07;;CSK
+;04797711616;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1143.67;;;;;15.06.07;;CSK
+;04799024504;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1378.67;;;;;15.06.07;;CSK
+;04799163086;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1515.59;;;;;15.06.07;;CSK
+;04799169046;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1188.08;;;;;15.06.07;;CSK
+;04799247581;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;1451.66;;;;;15.06.07;;CSK
+;04799260668;KORFAK;Justert for basic fra 26.02.06 ref. Joakim Karlsen;Justering Basic;436.18;;;;;15.06.07;;CSK
+;04790735984;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;61.94;;;;;18.06.07;;CSK
+;04790918323;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;101.84;;;;;18.06.07;;CSK
+;04792013013;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;92.21;;;;;18.06.07;;CSK
+;04792242502;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;22.99;;;;;18.06.07;;CSK
+;04792635749;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;29.63;;;;;18.06.07;;CSK
+;04792652184;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;102.48;;;;;18.06.07;;CSK
+;04792823955;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;170.52;;;;;18.06.07;;CSK
+;04792825250;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;64.03;;;;;18.06.07;;CSK
+;04793021118;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;37.36;;;;;18.06.07;;CSK
+;04793203669;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;77.14;;;;;18.06.07;;CSK
+;04793203762;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;39.86;;;;;18.06.07;;CSK
+;04793224525;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;45.95;;;;;18.06.07;;CSK
+;04793403809;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;126.42;;;;;18.06.07;;CSK
+;04793403917;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;59.83;;;;;18.06.07;;CSK
+;04793480254;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;110.05;;;;;18.06.07;;CSK
+;04793480283;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;31.83;;;;;18.06.07;;CSK
+;04793480558;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;140.49;;;;;18.06.07;;CSK
+;04793480652;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;43.95;;;;;18.06.07;;CSK
+;04793480707;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;28.55;;;;;18.06.07;;CSK
+;04793480709;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;37.31;;;;;18.06.07;;CSK
+;04793480861;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;0.06;;;;;18.06.07;;CSK
+;04793845806;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007 ref. Harald Meldby;Rabatt;21.45;;;;;18.06.07;;CSK

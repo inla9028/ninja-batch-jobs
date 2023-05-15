@@ -1,0 +1,6 @@
+I;R;Homer;First;Bentsebrugata 23a;Oslo;0403;Y;
+I;R;Homer;Firstone;Bentsebrugata 23a;Oslo;0403;Y;
+I;R;Homer;Beer;Bentsebrugata 23a;Oslo;0403;Y;
+I;R;Homer;First_1;Bentsebrugata 23a;Oslo;0403;Y;
+I;R;Homer;Firstone_2;Bentsebrugata 23a;Oslo;0403;Y;
+I;R;Homer;Beer_3;Bentsebrugata 23a;Oslo;0403;Y;

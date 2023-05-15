@@ -1,0 +1,187 @@
+;04790989450;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790822877;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797190110;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791759611;CHRGMV;CHRGMV;230.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792035806;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792043824;CHRGMV;CHRGMV;230.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04798224010;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792699955;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790766615;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795274731;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797122076;CHRGMV;CHRGMV;420.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793038752;CHRGMV;CHRGMV;230.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747204821;CHRGMV;CHRGMV;120.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792041300;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790031800;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790159059;CHRGMV;CHRGMV;230.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747202252;CHRGMV;CHRGMV;280.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790502594;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795287812;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791770923;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04746628722;CHRGMV;CHRGMV;230.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741107114;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792819080;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791187002;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791597738;CHRGMV;CHRGMV;420.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747202253;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797515160;CHRGMV;CHRGMV;420.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793458412;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792262321;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791746535;CHRGMV;CHRGMV;230.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795273052;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747912729;CHRGMV;CHRGMV;280.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790694340;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792278877;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793092468;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790088863;CHRGMV;CHRGMV;360.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741323624;CHRGMV;CHRGMV;230.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793845571;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04740855129;CHRGMV;CHRGMV;280.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747202256;CHRGMV;CHRGMV;230.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793028220;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747655504;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793602882;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792027500;CHRGMV;CHRGMV;230.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797772042;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791332250;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791185759;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793048891;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04799164199;CHRGMV;CHRGMV;230.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792833877;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791130570;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790694341;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793820800;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741127250;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747267273;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793001690;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831529;CHRGMV;CHRGMV;180.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831545;CHRGMV;CHRGMV;120.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791694934;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795147101;CHRGMV;CHRGMV;230.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790199769;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747202069;CHRGMV;CHRGMV;280.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790086742;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790501050;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793497569;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792663749;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04748222273;CHRGMV;CHRGMV;230.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793027762;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745804372;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831570;CHRGMV;CHRGMV;230.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831131;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793045000;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747375716;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741561988;CHRGMV;CHRGMV;420.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747271489;CHRGMV;CHRGMV;230.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793039266;CHRGMV;CHRGMV;420.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791160058;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04798824343;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791148816;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747928920;CHRGMV;CHRGMV;120.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831562;CHRGMV;CHRGMV;420.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831568;CHRGMV;CHRGMV;230.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741687678;CHRGMV;CHRGMV;120.00;Mnd avg nov 13 avdrag igjen;Mnd avg nov 13 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745838686;CHRGMV;CHRGMV;420.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792411778;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790556225;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831509;CHRGMV;CHRGMV;360.00;Mnd avg nov 1 avdrag igjen;Mnd avg nov 1 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791196204;CHRGMV;CHRGMV;120.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790707678;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04746448681;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791179090;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741461061;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831528;CHRGMV;CHRGMV;180.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831554;CHRGMV;CHRGMV;120.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790550094;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741223582;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793873875;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792420001;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792891905;CHRGMV;CHRGMV;360.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793063036;CHRGMV;CHRGMV;230.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790532349;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791334643;CHRGMV;CHRGMV;230.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793059100;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795207169;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797571826;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04798204292;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04798418038;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792416519;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791578990;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747201650;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791772441;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792090960;CHRGMV;CHRGMV;230.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04747852505;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795212019;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791755957;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741522107;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791162025;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792643262;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797149459;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792443518;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831132;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795751753;CHRGMV;CHRGMV;180.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791334164;CHRGMV;CHRGMV;180.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791812535;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790147631;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745065696;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04748124313;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791195443;CHRGMV;CHRGMV;230.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741238975;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793050906;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792017029;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741462172;CHRGMV;CHRGMV;420.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791189844;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790022442;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792064630;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831130;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04799578999;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792256560;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791148035;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791197082;CHRGMV;CHRGMV;230.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04799550151;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795794199;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795764534;CHRGMV;CHRGMV;420.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831546;CHRGMV;CHRGMV;120.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792039364;CHRGMV;CHRGMV;360.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831569;CHRGMV;CHRGMV;230.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04792081500;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04795859262;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745217074;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745831509;CHRGMV;CHRGMV;360.00;Mnd avg nov 1 avdrag igjen;Mnd avg nov 1 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04746433322;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790088823;CHRGMV;CHRGMV;360.00;Mnd avg nov 8 avdrag igjen;Mnd avg nov 8 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797798789;CHRGMV;CHRGMV;420.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04797158942;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04741121380;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790934330;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04790124630;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745055955;CHRGMV;CHRGMV;360.00;Mnd avg nov 12 avdrag igjen;Mnd avg nov 12 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04791889886;CHRGMV;CHRGMV;420.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04745830945;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04798204290;CHRGMV;CHRGMV;360.00;Mnd avg nov 9 avdrag igjen;Mnd avg nov 9 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793497565;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04799397503;CHRGMV;CHRGMV;420.00;Mnd avg nov 11 avdrag igjen;Mnd avg nov 11 avdrag igjen;;;;;;29.11.11;1;cask1566
+;04793030219;CHRGMV;CHRGMV;360.00;Mnd avg nov 10 avdrag igjen;Mnd avg nov 10 avdrag igjen;;;;;;29.11.11;1;cask1566
+833621907;;;;230.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+772441903;;;;120.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+196621908;;;;230.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+455141903;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+797521903;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+196621908;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+773521901;;;;180.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+773521901;;;;420.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+713141901;;;;420.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+754621902;;;;230.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+797521903;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+773521901;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+594141905;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+455141903;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+930621909;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+196621908;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+263621906;;;;230.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+772441903;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+455141903;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+263621906;;;;230.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+455141903;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+196621908;;;;360.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566
+386341903;;;;420.00;Ferdig 0 avdrag igjen;Ferdig 0 avdrag igjen;;;;;;29.11.11;1;cask1566

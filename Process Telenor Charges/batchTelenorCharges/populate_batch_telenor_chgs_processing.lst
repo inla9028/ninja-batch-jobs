@@ -1,0 +1,40 @@
+SQL> set feedback on
+SQL> 
+SQL> DECLARE
+  2  cursor c1 is
+  3  
+  4  select charge_number, charge_date, charge_time, charge_ref,
+  5  charge_text, charge_duration, charge_amount,charge_operator
+  6  FROM batch_telenor_load_tmp ;
+  7  
+  8  update_row c1%ROWTYPE;
+  9  
+ 10  begin
+ 11  
+ 12  for update_row in c1 loop
+ 13  
+ 14  insert into BATCH_TELENOR_CHGS_PROCESSING values(
+ 15  null,
+ 16  update_row.charge_number,
+ 17  to_date(update_row.charge_date||update_row.charge_time,'YYYYMMDDHH24MISS'),
+ 18  update_row.charge_ref,
+ 19  update_row.charge_duration,
+ 20  update_row.charge_amount,
+ 21  update_row.charge_operator,
+ 22  NULL,
+ 23  NULL,
+ 24  NULL,
+ 25  NULL,
+ 26  update_row.charge_text);
+ 27  
+ 28  commit;
+ 29  
+ 30  end loop;
+ 31  end;
+ 32  /
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.12
+SQL> 
+SQL> spool off

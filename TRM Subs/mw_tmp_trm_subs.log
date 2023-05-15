@@ -1,0 +1,54 @@
+
+SQL*Loader: Release 9.0.1.1.1 - Production on Thu May 26 10:39:46 2005
+
+(c) Copyright 2001 Oracle Corporation.  All rights reserved.
+
+Control File:   mw_tmp_trm_subs.ctl
+Data File:      mw_subs3_out.csv
+  Bad File:     mw_subs3_out.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MW_TMP_TRM_SUBS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUB_MAIN_TN                         FIRST     *   ;  O(") CHARACTER            
+SUB_FAX_TN                           NEXT     *   ;  O(") CHARACTER            
+SUB_VM_TN                            NEXT     *   ;  O(") CHARACTER            
+SUB_VM_EMAIL                         NEXT     *   ;  O(") CHARACTER            
+SUB_MSG_TYPE                         NEXT     *   ;  O(") CHARACTER            
+SUB_MSG_DATA_TYPE                    NEXT     *   ;  O(") CHARACTER            
+SUB_MSG_KEEP_DELETE                  NEXT     *   ;  O(") CHARACTER            
+
+
+Table MW_TMP_TRM_SUBS:
+  2187 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 115584 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          2187
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Thu May 26 10:39:46 2005
+Run ended on Thu May 26 10:39:47 2005
+
+Elapsed time was:     00:00:01.30
+CPU time was:         00:00:00.05    

@@ -1,0 +1,28 @@
+NinjaProd1 WLS Details
+
+Common:
+SERVER_ADDRESS = 212.45.173.155
+SERVER_VERSION = 8.1 SP4 
+SERVER_LOGIN = ninja
+SERVER_PASSWORD = NinjaMaster
+SERVER_HOME = /app/ninja/bea/weblogic81
+SERVER_JAVA_HOME = /app/ninja/bea/jdk142_05
+Unix_Login = ninja
+Unix_Password = ninja2002
+
+Server Instance Specific:
+
+SERVER1_NAME = billingSystemHandler1Server 
+SERVER1_PORT = 7001
+SERVER1_LOGFILES = /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain/NinjaOpenViewDaily.log
+Other detailed logfiles (SERVER1_LOGFILES_MORE = /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain/logs/.......  controlled via /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain/log4j.netcom.xml)
+SERVER1_LAUNCH_DIR = /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain
+Usage: IPL BillingSystemHandler (NetCom.no + others).
+
+SERVER2_NAME = billingSystemHandler2Server 
+SERVER2_PORT = 8001
+SERVER2_LOGFILES = /app/ninja/bea/user_projects/domains/billingSystemHandler2Domain/NinjaOpenViewDaily.log
+Other detailed logfiles  (SERVER2_LOGFILES_MORE = /app/ninja/bea/user_projects/domains/billingSystemHandler2Domain/logs/.......  controlled via /app/ninja/bea/user_projects/domains/billingSystemHandler2Domain/log4j.netcom.xml)
+SERVER2_LAUNCH_DIR = /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain
+Usage: will be used after next week by internal deamon processing..
+

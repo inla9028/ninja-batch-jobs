@@ -1,0 +1,63 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Wed Sep 23 12:13:53 2009
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   batch_status_change.ctl
+Data File:      Cancel.tobj1039.2009-09-23.txt
+  Bad File:     Cancel.tobj1039.2009-09-23.bad
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table NINJA_SUB_CHANGE_STATUS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER
+ACTION_CODE                          NEXT     *   ;  O(") CHARACTER
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER
+FEE_WAIVER_CODE                      NEXT     *   ;  O(") CHARACTER
+ENTER_TIME                           NEXT     *   ;  O(") CHARACTER
+REQUEST_TIME                         NEXT     *   ;  O(") CHARACTER
+PRIORITY                             NEXT     *   ;  O(") CHARACTER
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER
+REQUEST_REFERENCE_ID                 NEXT     *   ;  O(") CHARACTER
+RELEASE_CTN                          NEXT     *   ;  O(") CHARACTER
+PREPAID_USER                         NEXT     *   ;  O(") CHARACTER
+HLR_STREAM                           NEXT     *   ;  O(") CHARACTER
+
+
+Table NINJA_SUB_CHANGE_STATUS:
+  4657 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 255936 bytes(62 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          4657
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Sep 23 12:13:53 2009
+Run ended on Wed Sep 23 12:14:26 2009
+
+Elapsed time was:     00:00:33.23
+CPU time was:         00:00:00.26

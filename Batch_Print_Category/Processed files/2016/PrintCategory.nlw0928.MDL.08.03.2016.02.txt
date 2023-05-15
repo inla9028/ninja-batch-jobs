@@ -1,0 +1,14 @@
+;829637214;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;202860219;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;481760213;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;262627219;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;835837212;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;891760217;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;510234214;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;128507217;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;802860213;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;602860215;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;402760219;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;285427217;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;265917211;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;
+;929637213;EE;5020@invoicecenter.net;NET;A;Ref. SF Case 379393;;;;;MDL 08.03.2016 02;

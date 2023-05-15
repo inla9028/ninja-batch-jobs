@@ -1,0 +1,1 @@
+GSM04792010056;VMBED;MODIFY;S-WCB;Who Called Service;ON;MDL 11.12.2015 test;Kunde ønsker Who Called;;;

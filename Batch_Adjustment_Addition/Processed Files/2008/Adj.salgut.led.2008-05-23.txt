@@ -1,0 +1,117 @@
+;04741586335;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-05-23;1;LED
+;04799538853;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-05-23;1;LED
+;04741586335;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-05-23;1;LED
+;04799498715;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-05-23;1;LED
+;04799481090;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-05-23;1;LED
+;04748276952;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-05-23;1;LED
+;04793045809;SALGUT;Utkjøp av bindingstid, godkjent av selger Glenn Røhme;;1200;;;;;2008-05-23;1;LED
+;04795023624;SALGUT;Utkjøp av bindingstid, godkjent av selger Glenn Røhme;;1200;;;;;2008-05-23;1;LED
+;04795890925;SALGUT;Utkjøp av bindingstid, godkjent av selger Glenn Røhme;;1200;;;;;2008-05-23;1;LED
+;04741690323;SALGUT;Utkjøp av bindingstid, godkjent av selger Glenn Røhme;;1500;;;;;2008-05-23;1;LED
+;04748897467;SALGUT;Utkjøp av bindingstid, godkjent av selger Glenn Røhme;;1500;;;;;2008-05-23;1;LED
+;04791686439;SALGUT;Utkjøp av bindingstid, godkjent av selger Glenn Røhme;;1500;;;;;2008-05-23;1;LED
+;04799261665;SALGUT;Utkjøp av bindingstid, godkjent av selger Glenn Røhme;;1500;;;;;2008-05-23;1;LED
+;04797124806;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04741105568;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04747249691;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04747812716;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04791650603;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04793282877;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04797981326;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04793056951;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04793049778;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04791313348;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04790130917;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04747450564;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04790683823;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04791168797;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04791368898;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04790883880;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04797716140;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04797793322;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04797739876;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04797738955;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04797979089;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04797620773;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;900;;;;;2008-05-23;1;LED
+;04799398501;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04799389005;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04799366877;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04795002682;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04791849955;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04790739055;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04790500871;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04791389373;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04791582922;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04791687300;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04792010898;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04741514788;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1000;;;;;2008-05-23;1;LED
+;04795830157;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1000;;;;;2008-05-23;1;LED
+;04795990886;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04747630888;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;900;;;;;2008-05-23;1;LED
+;04745022947;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1000;;;;;2008-05-23;1;LED
+;04797797350;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1200;;;;;2008-05-23;1;LED
+;04747630999;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;800;;;;;2008-05-23;1;LED
+;04747630666;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;900;;;;;2008-05-23;1;LED
+;04797682462;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04747896243;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04790778843;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04790778853;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+661194605;;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04797512901;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank W Hoset;;1500;;;;;2008-05-23;1;LED
+;04795158000;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04795158900;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04790714264;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1100;;;;;2008-05-23;1;LED
+;04790526206;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04797071771;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;800;;;;;2008-05-23;1;LED
+;04748151822;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04797533203;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04791536654;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04799280014;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04799108533;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04795903534;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04797751771;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04797015614;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04797015612;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04795913204;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04794788308;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04792617054;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04748238660;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-23;1;LED
+;04747370019;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-23;1;LED
+;04747370016;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-23;1;LED
+;04747370013;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-23;1;LED
+;04747370012;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-23;1;LED
+;04747370010;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-23;1;LED
+;04791584427;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-05-23;1;LED
+;04799593007;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1000;;;;;2008-05-23;1;LED
+;04795114821;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-05-23;1;LED
+;04795114822;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-05-23;1;LED
+;04795114823;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-05-23;1;LED
+;04795114824;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-05-23;1;LED
+;04792052824;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1500;;;;;2008-05-23;1;LED
+;04795296061;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1500;;;;;2008-05-23;1;LED
+;04799256132;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1500;;;;;2008-05-23;1;LED
+;04790819310;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-05-23;1;LED
+;04790875830;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-05-23;1;LED
+;04791135723;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-05-23;1;LED
+;04795213401;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-05-23;1;LED
+;04799531561;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-05-23;1;LED
+;04792202541;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1500;;;;;2008-05-23;1;LED
+;04795241610;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1500;;;;;2008-05-23;1;LED
+;04790920974;SALGUT;Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1500;;;;;2008-05-23;1;LED
+;04797794160;SALGUT;Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;600;;;;;2008-05-23;1;LED
+;04790914060;SALGUT;Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;400;;;;;2008-05-23;1;LED
+;04799106302;SALGUT;Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1500;;;;;2008-05-23;1;LED
+;04747335928;SALGUT;Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1000;;;;;2008-05-23;1;LED
+;04741296287;SALGUT;Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1500;;;;;2008-05-23;1;LED
+;04748006336;SALGUT;Utkjøp av bindingstid, godkjent av Yngve Grindheim;;1500;;;;;2008-05-23;1;LED
+;04791531043;SALGUT;Utkjøp av bindingstid, godkjent av Yngve Grindheim;;1500;;;;;2008-05-23;1;LED
+;04799410582;SALGUT;Utkjøp av bindingstid, godkjent av Yngve Grindheim;;1500;;;;;2008-05-23;1;LED
+;04791595115;SALGUT;Utkjøp av bindingstid, godkjent av Yngve Grindheim;;1500;;;;;2008-05-23;1;LED
+;04793220297;SALGUT;Utkjøp av bindingstid, godkjent av Yngve Grindheim;;1500;;;;;2008-05-23;1;LED
+;04790858420;SALGUT;Utkjøp av bindingstid, godkjent av Joachim Karlsen;;1000;;;;;2008-05-23;1;LED
+;04790825990;SALGUT;Utkjøp av bindingstid, godkjent av Joachim Karlsen;;1200;;;;;2008-05-23;1;LED
+;04790033389;SALGUT;Utkjøp av bindingstid, godkjent av Joachim Karlsen;;1200;;;;;2008-05-23;1;LED
+;04747809919;SALGUT;Utkjøp av bindingstid, godkjent av Joachim Karlsen;;1200;;;;;2008-05-23;1;LED
+;04746815115;SALGUT;Utkjøp av bindingstid, godkjent av Joachim Karlsen;;1200;;;;;2008-05-23;1;LED
+;04741557736;SALGUT;Utkjøp av bindingstid, godkjent av Joachim Karlsen;;1200;;;;;2008-05-23;1;LED
+;04747013643;SALGUT;Utkjøp av bindingstid, godkjent av Joachim Karlsen;;1500;;;;;2008-05-23;1;LED

@@ -1,0 +1,277 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Fri Feb 20 12:46:35 2015
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   hgu_runloader.ctl
+Data File:      C:\Projects\svn\ninja-batch-jobs\Batch_Adjustment_Addition\Adj.korfak.arfr1723.2015-02-20.txt
+  Bad File:     hgu_runloader.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_ADJUSTMENT_ADDITION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+BAN_NO                              FIRST     *   ;  O(") CHARACTER            
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER            
+ADJUSTMENT_CODE                      NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+USER_BILL_TEXT                       NEXT     *   ;  O(") CHARACTER            
+AMOUNT                               NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+STREAM                               NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+EFFECTIVE_DATE                       NEXT     *   ;  O(") CHARACTER            
+
+Record 3: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 12: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 19: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 25: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 27: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 28: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 29: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 30: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 35: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 36: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 37: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 47: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 48: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 57: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 61: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 64: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 68: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 72: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 73: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 74: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 77: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 78: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 79: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 81: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 85: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 86: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 87: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 89: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 90: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 100: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 101: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 109: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 115: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 116: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 122: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 125: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 128: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 132: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 133: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 146: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 148: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 149: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 159: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 163: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 164: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 165: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 166: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 168: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 175: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 179: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+Record 180: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column SUBSCRIBER_NO.
+ORA-12899: value too large for column "NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."SUBSCRIBER_NO" (actual: 18, maximum: 15)
+
+
+MAXIMUM ERROR COUNT EXCEEDED - Above statistics reflect partial run.
+
+Table BATCH_ADJUSTMENT_ADDITION:
+  129 Rows successfully loaded.
+  51 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 231168 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           181
+Total logical records rejected:        51
+Total logical records discarded:        0
+
+Run began on Fri Feb 20 12:46:35 2015
+Run ended on Fri Feb 20 12:46:37 2015
+
+Elapsed time was:     00:00:02.42
+CPU time was:         00:00:00.09
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Fri Feb 20 12:49:44 2015
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   hgu_runloader.ctl
+Data File:      C:\Projects\svn\ninja-batch-jobs\Batch_Adjustment_Addition\hgu_runloader.bad
+  Bad File:     hgu_runloader.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_ADJUSTMENT_ADDITION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+BAN_NO                              FIRST     *   ;  O(") CHARACTER            
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER            
+ADJUSTMENT_CODE                      NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+USER_BILL_TEXT                       NEXT     *   ;  O(") CHARACTER            
+AMOUNT                               NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+STREAM                               NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+EFFECTIVE_DATE                       NEXT     *   ;  O(") CHARACTER            
+
+
+Table BATCH_ADJUSTMENT_ADDITION:
+  51 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 231168 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:            51
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Feb 20 12:49:44 2015
+Run ended on Fri Feb 20 12:49:46 2015
+
+Elapsed time was:     00:00:02.64
+CPU time was:         00:00:00.03

@@ -1,0 +1,405 @@
+646027011;4798005839;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691027 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691027;Apple - iPhone 6
+500902606;4793299174;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692570 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692570;Apple - iPhone 7
+124291311;4745230482;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692599 med skadedato 08-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692599;Apple - iPhone Xs Max
+848870317;4790232172;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692066 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692066;Apple - iPhone X
+102986015;4745238911;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692671 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692671;Apple - iPhone 6S
+981347115;4740763191;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19687983 med skadedato 22-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687983;Apple - iPhone 7 Plus
+861981116;4793034981;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691501 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691501;Samsung - Galaxy S10
+278515903;4793486811;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19693346 med skadedato 11-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693346;Samsung  - Galaxy Xcover
+286344312;4799533953;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691962 med skadedato 08-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691962;Huawei - P20 Pro
+153926316;4796743865;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19693451 med skadedato 13-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693451;Samsung - Galaxy S8
+729260414;4792095811;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693180 med skadedato 05-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693180;Apple - iPhone X
+226829216;4746622843;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687945 med skadedato 15-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687945;Apple - iPhone X
+903210219;4740010202;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693175 med skadedato 12-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693175;Huawei  - Mate 20 Pro
+812245900;4740847929;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19693197 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693197;Apple - iPhone 7
+867113219;4798803733;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692646 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692646;Apple - iPhone 6
+736991316;4790651560;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693269 med skadedato 05-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693269;Apple - iPhone 8 Plus
+844891218;4740743444;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19670272 med skadedato 27-08-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19670272;Apple - iPhone 8
+406153502;4745679436;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692696 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692696;Apple - iPhone 8 Plus
+301152211;4747338831;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689085 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689085;Samsung - Galaxy A9 (2018)
+354714313;4793693715;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688283 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688283;Apple - iPhone Xs Max
+347524217;4791743000;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689552 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689552;Samsung - Galaxy S10
+555407311;4792028998;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687378 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687378;Huawei  - P10
+300251311;4792031663;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19689043 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689043;Huawei - Honor 9
+944402502;4746416667;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688935 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688935;Samsung - Galaxy S9
+149976110;4797605821;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689245 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689245;Apple - iPhone X
+533182416;4799556088;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689644 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689644;Apple - iPhone 8 Plus
+616918314;4790708217;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19688930 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688930;Apple - iPhone 8 Plus
+388019317;4740607613;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690715 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690715;Apple - iPhone 8 Plus
+398362111;4746747739;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690068 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690068;Apple - iPhone X
+192563310;4795289595;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19637338 med skadedato 29-08-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19637338;Huawei - Mate 20 Pro
+652594417;4740100191;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688933 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688933;Apple - iPhone 8 Plus
+971942115;4740104009;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19684219 med skadedato 31-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19684219;Samsung - Galaxy S9
+608400214;4740551374;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690335 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690335;Apple - iPhone X
+725747208;4793085186;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691567 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691567;Apple - iPhone 6
+888430709;4741326612;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689733 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689733;Samsung - Galaxy S9
+569715600;4794288078;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19680734 med skadedato 16-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19680734;Apple - iPhone SE
+720564111;4741491130;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19667382 med skadedato 06-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19667382;Apple - iPhone 8 Plus
+514785211;4747749788;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688867 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688867;Apple - iPhone X
+194108213;4792632107;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689672 med skadedato 06-08-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689672;Apple - iPhone 8
+498973601;4747216174;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689209 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689209;Apple - iPhone X
+676508310;4741518294;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689654 med skadedato 15-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689654;Apple - iPhone X
+802526319;4745928537;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690932 med skadedato 10-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690932;Apple - iPhone 8 Plus
+721120319;4746807183;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19685159 med skadedato 11-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19685159;Samsung  - Galaxy A70
+523630218;4748502485;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691851 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691851;Apple - iPhone SE
+506976414;4790524783;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689819 med skadedato 01-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689819;Samsung  - Galaxy S10+
+264089210;4790231733;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691527 med skadedato 15-08-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691527;Samsung - Galaxy S7 Edge
+968846311;4747216905;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688929 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688929;Apple - iPhone X
+184282903;4792044670;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690197 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690197;Apple - iPhone X
+730806015;4793438173;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689337 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689337;Apple - iPhone X
+780925004;4792846364;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690815 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690815;Apple - iPhone XS Max
+869882217;4795476975;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690379 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690379;Apple - iPhone 8 Plus
+372736413;4794485881;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690242 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690242;Samsung  - Galaxy S10+
+288316417;4741214544;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688793 med skadedato 14-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688793;Apple - iPhone 8 Plus
+354606501;4793014206;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690218 med skadedato 03-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690218;Apple - iPhone 8
+284863412;4741346580;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688751 med skadedato 18-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688751;Apple - iPhone X
+160673414;4791150741;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691071 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691071;Apple - iPhone Xs Max
+916834112;4747322619;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19684113 med skadedato 31-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19684113;Samsung - Galaxy S8+
+505538702;4793691115;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19688299 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688299;
+911062214;4798455156;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19689508 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689508;Samsung - Galaxy A50
+352744114;4793270124;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690224 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690224;Apple - iPhone Xs Max
+554096602;4793473141;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690262 med skadedato 01-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690262;Apple - iPhone 8 Plus
+386363311;4793660526;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687215 med skadedato 19-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687215;Apple - iPhone 8 Plus
+981681117;4748287647;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688210 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688210;Apple - iPhone X
+857203418;4741321798;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19689503 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689503;Huawei - Mate 20 Lite
+943506014;4746508298;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690300 med skadedato 18-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690300;Apple - iPhone 7
+257095901;4745145090;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689779 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689779;
+791186315;4748088283;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690215 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690215;Samsung - Galaxy S8+
+251984316;4741740611;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19689185 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689185;Apple - iPhone SE
+763671112;4741759844;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19657343 med skadedato 14-10-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19657343;Apple - iPhone 6
+426667218;4793974959;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19687764 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687764;Samsung - Galaxy S10+
+793835901;4790962882;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688593 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688593;Apple - iPhone XS
+372117200;4798998590;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689335 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689335;Apple - iPhone 7
+287687214;4799634116;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19677431 med skadedato 18-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19677431;Apple - iPhone 8 Plus
+141649210;4746932430;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689658 med skadedato 30-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689658;Huawei - P30 Pro
+398055319;4792485168;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689690 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689690;Apple - iPhone 8 Plus
+956188312;4794296490;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688756 med skadedato 14-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688756;Apple - iPhone X
+355282401;4745479314;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19663975 med skadedato 28-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19663975;Apple - iPhone 7 Plus
+477120414;4741226723;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19689682 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689682;Samsung - Galaxy A70
+516260304;4741551738;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691571 med skadedato 17-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691571;Apple  - iPhone XR
+388136012;4748264182;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690666 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690666;Apple - iPhone 6S Plus
+204727119;4796811351;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688737 med skadedato 23-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688737;Samsung - Galaxy S9+
+844917211;4791374934;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690229 med skadedato 19-10-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690229;Apple - iPhone 8 Plus
+521661405;4798427618;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19685291 med skadedato 02-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19685291;Apple - iPhone XR
+822880118;4745485324;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689187 med skadedato 12-02-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689187;Samsung - Galaxy S8
+754888212;4745842780;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689454 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689454;Apple - iPhone 7 Plus
+705004315;4793288523;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690345 med skadedato 10-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690345;Apple - iPhone 7 Plus
+136056413;4746443302;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19688825 med skadedato 15-10-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688825;Samsung - Galaxy A50
+869001016;4790737420;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690756 med skadedato 01-07-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690756;Apple - iPhone 7
+813215316;4798308480;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689738 med skadedato 29-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689738;Samsung - Galaxy S8
+972427215;4747460232;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689784 med skadedato 18-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689784;Apple - iPhone Xs
+542083118;4792812086;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690479 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690479;Samsung - Galaxy S10+
+385106414;4792050895;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690974 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690974;Samsung - Galaxy S10+
+786038406;4746969902;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690268 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690268;Apple - iPhone SE
+673093316;4745765188;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690524 med skadedato 13-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690524;Apple - iPhone X
+785068016;4793414540;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689881 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689881;Apple - iPhone 8
+495908311;4792555070;FORSCR;O;1100;*Egenandel forsikring;Egenandelen gjelder skadesak 19690611 med skadedato 03-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690611;Samsung - Galaxy S7
+315524017;4790769923;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688700 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688700;Apple - iPhone 6
+673383410;4746412157;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691832 med skadedato 14-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691832;Apple - iPhone X
+278515903;4793246912;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19660412 med skadedato 15-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19660412;Huawei - P20 Pro
+732742218;4741296773;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19685675 med skadedato 05-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19685675;Samsung - Galaxy Note 8
+175368604;4746611592;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690647 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690647;Apple - iPhone Xs
+297756504;4792883774;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689707 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689707;Apple - iPhone 8 Plus
+264277310;4797408604;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19691845 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691845;Samsung  - Galaxy A70
+975226416;4792218080;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689095 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689095;Apple - iPhone 11 Pro Max
+528684210;4740202992;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687546 med skadedato 06-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687546;Apple - iPhone 8
+856838016;4793289524;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689487 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689487;Apple - iPhone 7
+881589402;4790186557;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19676969 med skadedato 11-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19676969;Apple - iPhone X
+903257418;4798196644;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689675 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689675;Apple - iPhone 11 Pro Max
+114593601;4798039994;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690612 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690612;Apple - iPhone X
+593613318;4797301908;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19685476 med skadedato 12-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19685476;Samsung - Galaxy A8 (2018)
+102369600;4745225040;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689421 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689421;Apple - iPhone 8
+753810415;4793681155;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689177 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689177;Apple - iPhone X
+322963414;4792225357;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19688894 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688894;Samsung - Galaxy S9
+359706215;4745235688;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19678258 med skadedato 08-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19678258;Apple - iPhone 6S
+931575310;4795102456;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690014 med skadedato 01-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690014;Apple - iPhone X
+950653410;4746742799;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19689234 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689234;Apple - iPhone Xs Max
+592748313;4745467139;FORSCR;O;1100;*Egenandel forsikring;Egenandelen gjelder skadesak 19689732 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689732;Apple - iPhone
+466682507;4793475291;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689093 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689093;Apple - iPhone 8 Plus
+736421215;4797872287;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19658849 med skadedato 10-10-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19658849;Apple  - iPhone XR
+951521319;4799566556;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19689070 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689070;Samsung - Galaxy S7 Edge
+467142501;4745419102;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690185 med skadedato 01-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690185;Samsung - Galaxy S9+
+126790310;4790299213;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690321 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690321;Huawei - P20
+394236319;4797152066;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19691850 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691850;Huawei - Mate 20 Lite
+978727410;4748620891;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692164 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692164;Huawei - P30 Pro
+842416018;4740553360;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688886 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688886;Apple - iPhone 7
+729434407;4793278857;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689567 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689567;Apple  - iPhone XR
+954609905;4794121066;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690621 med skadedato 03-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690621;Apple - iPhone 8
+884279316;4745847324;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689735 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689735;Apple - iPhone 7 Plus
+713555118;4798175207;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19688541 med skadedato 23-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688541;Apple - iPhone 7
+904777315;4790281715;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689727 med skadedato 31-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689727;Apple - iPhone 7
+588144600;4793401167;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690930 med skadedato 01-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690930;Apple - iPhone 11 Pro
+459516217;4747204422;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19656724 med skadedato 31-10-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19656724;Apple - iPhone 7
+256402504;4790881928;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689513 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689513;Apple - iPhone Xs Max
+963566419;4745844983;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690393 med skadedato 22-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690393;Huawei  - Mate 20 Pro
+333415412;4799422366;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19687401 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687401;
+414626010;4793008755;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691653 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691653;Samsung  - Galaxy S10+
+169247111;4792681919;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691575 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691575;Apple - iPhone XS Max
+975892316;4745671979;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19691154 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691154;Apple - iPhone X
+833325012;4798015960;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688502 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688502;Apple - iPhone XR
+311461313;4746633937;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687156 med skadedato 17-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687156;Apple - iPhone 11
+758388409;4793468211;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690183 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690183;Apple - iPhone 7 Plus
+314742214;4790609439;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687288 med skadedato 19-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687288;Apple - iPhone 8
+191664416;4748385567;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688966 med skadedato 18-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688966;Apple - iPhone Xs Max
+880026315;4791395600;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687410 med skadedato 19-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687410;Apple - iPhone 8
+309935211;4796726544;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688509 med skadedato 23-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688509;Apple  - iPhone XR
+639505411;4740644671;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19654396 med skadedato 01-09-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19654396;Apple - iPhone Xs Max
+216607218;4746742763;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687249 med skadedato 10-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687249;Samsung - Galaxy S10+
+969777218;4799545382;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19688722 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688722;Apple - iPhone 8 Plus
+260462411;4792030889;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19678254 med skadedato 20-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19678254;Apple - iPhone 7 Plus
+946350709;4740307968;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691116 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691116;Apple - iPhone X
+285017315;4740720563;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689806 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689806;Apple - iPhone 11 Pro
+476707211;4790759099;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19689415 med skadedato 01-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689415;Samsung  - Galaxy A50
+239275100;4741323666;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19691471 med skadedato 05-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691471;Samsung - Galaxy A3 (2017)
+201373313;4748409645;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692131 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692131;Samsung - Galaxy S10e
+721438703;4745807536;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691418 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691418;Samsung - Galaxy Note 9
+384421608;4741699915;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19621000 med skadedato 02-07-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19621000;Apple - iPhone 8
+459516217;4747204395;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688931 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688931;Apple - iPhone X
+214584112;4746544574;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689414 med skadedato 20-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689414;Apple - iPhone X
+179236211;4740470866;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690529 med skadedato 18-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690529;Apple - iPhone 8 Plus
+338960602;4790633590;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689113 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689113;Apple  - iPhone 11
+678881319;4795991008;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688586 med skadedato 16-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688586;Apple - iPhone X
+478080310;4747165144;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19687929 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687929;Apple - iPhone Xs Max
+636439101;4798650858;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690334 med skadedato 12-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690334;Apple - iPhone 7
+191127703;4797606277;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690347 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690347;Apple - iPhone 8 Plus
+250638319;4794876965;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690759 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690759;Apple - iPhone 7 Plus
+135476505;4793216704;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691082 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691082;Apple - iPhone 7
+229174412;4740469786;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691308 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691308;Apple - iPhone 11 Pro
+689438802;4795448510;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689836 med skadedato 01-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689836;Apple - iPhone 8 Plus
+804127215;4795994124;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690917 med skadedato 04-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690917;Apple - iPhone X
+227132313;4793008158;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691669 med skadedato 15-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691669;Apple - iPhone X
+802112318;4792835365;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19686807 med skadedato 01-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19686807;Apple - iPhone 7
+988362315;4795885913;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691867 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691867;Apple - iPhone 8 Plus
+198947202;4795798638;FORSCR;O;350;*Egenandel forsikring;Egenandelen gjelder skadesak 19691675 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691675;
+639974013;4741644457;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691343 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691343;Apple  - iPhone XR
+539477208;4798885789;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691983 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691983;Apple - iPhone Xs Max
+910070218;4791194910;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691843 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691843;Apple - iPhone 11 Pro
+988818704;4799610202;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19691580 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691580;Apple - iPhone X
+652504416;4746449243;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691872 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691872;Apple - iPhone Xs Max
+253111413;4748444006;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691568 med skadedato 05-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691568;Apple - iPhone X
+257882217;4748676512;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689498 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689498;Apple - iPhone Xs
+866208408;4747700670;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19692333 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692333;Apple - iPhone 8 Plus
+457289908;4740494285;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691676 med skadedato 05-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691676;Apple - iPhone 8 Plus
+862694015;4745607485;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692415 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692415;Samsung - Galaxy S9
+543162317;4797383131;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19691733 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691733;Apple - iPhone 6S Plus
+488882705;4793867911;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690357 med skadedato 19-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690357;Apple - iPhone XS
+197546419;4745830960;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692069 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692069;Apple - iPhone Xs
+537936411;4792665490;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689241 med skadedato 23-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689241;Apple - iPhone XR
+221997414;4799852417;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692593 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692593;Apple  - iPhone 11
+509753901;4791710283;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692350 med skadedato 05-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692350;Apple - iPhone XS Max
+145478012;4798019799;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692296 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692296;Apple - iPhone 8 Plus
+223191313;4793814615;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19691306 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691306;Apple - iPhone Xs
+810789115;4741362786;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691815 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691815;Apple - iPhone 8
+441831419;4794038268;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691981 med skadedato 08-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691981;Apple - iPhone XR
+430834606;4745512294;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19688200 med skadedato 22-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688200;Apple - iPhone 7 Plus
+463381111;4798683938;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691743 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691743;Apple - iPhone 7
+288608318;4798098667;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691823 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691823;Apple - iPhone 7
+661326017;4798603461;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691706 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691706;Apple - iPhone 6
+210038311;4797139638;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19693049 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693049;Apple - iPhone 8 Plus
+130808314;4745194842;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689256 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689256;Apple - iPhone X
+547158212;4798007165;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19692934 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692934;Apple - iPhone 8 Plus
+166846410;4745221798;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19686836 med skadedato 18-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19686836;Samsung - Galaxy S10e
+332886704;4791793500;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692947 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692947;Apple - iPhone Xs
+189203219;4741296892;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19671829 med skadedato 28-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19671829;Apple - iPhone 8
+662732015;4741467884;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691115 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691115;Apple - iPhone X
+111748315;4741234155;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19692933 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692933;Apple - iPhone 8 Plus
+850713900;4798819807;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690639 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690639;Apple - iPhone X
+606418317;4792038151;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692687 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692687;Apple - iPhone 8
+540983111;4792241180;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692653 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692653;Apple - iPhone Xs Max
+637772211;4795215780;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19687281 med skadedato 08-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687281;Apple - iPhone 8 Plus
+213788318;4741242977;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19692338 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692338;Apple - iPhone X
+667503312;4792238075;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688568 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688568;Huawei - P30 Pro
+794203802;4740758769;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690369 med skadedato 18-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690369;Apple - iPhone 6s
+620992115;4745198789;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19693014 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693014;Huawei - P20 Pro
+285314415;4793042117;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692303 med skadedato 08-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692303;Samsung - Galaxy S10+
+735562316;4741394464;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19692377 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692377;Apple - iPhone 8 Plus
+204631311;4792200891;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692445 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692445;Samsung  - Galaxy S10+
+925402315;4799348811;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692443 med skadedato 10-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692443;Samsung - Galaxy Note 9
+808606214;4794157177;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19682633 med skadedato 16-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19682633;Huawei - P10 lite
+597551316;4747279211;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692391 med skadedato 08-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692391;Samsung - Galaxy S9
+752823211;4741290113;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19691164 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691164;Samsung - Galaxy A8
+149974909;4746899159;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19675966 med skadedato 11-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19675966;Apple - iPhone 8 Plus
+550693212;4792831083;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19692642 med skadedato 03-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692642;Apple - iPhone 7
+456114214;4746505086;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19690780 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690780;Apple - iPhone 7
+792534018;4741217761;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690727 med skadedato 26-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690727;Huawei  - Mate 20 Pro
+445878606;4791751939;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19685426 med skadedato 02-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19685426;Apple - iPhone 7
+741809313;4798351915;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692562 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692562;Apple - iPhone XS Max
+486242704;4798695515;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690954 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690954;Apple - iPhone 8
+236163416;4740074391;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688648 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688648;Apple - iPhone Xs Max
+523277119;4796708240;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19639925 med skadedato 02-09-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19639925;Samsung - Galaxy S8
+548158310;4798638895;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19586860 med skadedato 05-03-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19586860;Apple - iPhone 8
+318931417;4745838552;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692414 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692414;Apple - iPhone XR
+378952410;4790897211;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689613 med skadedato 12-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689613;Apple  - iPhone XR
+462989112;4793601774;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19630452 med skadedato 06-06-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19630452;Apple - iPhone 7
+881807218;4793657013;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689679 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689679;Apple - iPhone Xs Max
+268157112;4798465370;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688826 med skadedato 23-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688826;Apple - iPhone 8 Plus
+763273505;4740460989;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694438 med skadedato 20-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694438;Samsung - Galaxy S9+
+660427014;4793014550;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19693817 med skadedato 16-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693817;Huawei - P20 Lite
+658843412;4741221173;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19693408 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693408;Huawei - P Smart
+311235600;4745210935;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693129 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693129;Samsung - Galaxy S8
+589815414;4797877172;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690658 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690658;Huawei - Mate 20 Pro
+865815419;4741384093;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694923 med skadedato 21-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694923;Samsung - Galaxy S10e
+424664316;4792291160;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692645 med skadedato 01-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692645;Samsung - Galaxy S8+
+797741212;4798137075;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688693 med skadedato 05-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688693;Samsung - Galaxy S10+
+718106412;4794836833;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693827 med skadedato 15-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693827;Samsung - Galaxy S10+
+240911115;4746622277;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19693569 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693569;Samsung - Galaxy S8
+757841218;4797643896;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694277 med skadedato 19-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694277;Huawei - P20 Pro
+902145309;4797740242;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693515 med skadedato 14-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693515;Huawei - P20 Pro
+289785412;4748671677;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693955 med skadedato 17-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693955;Huawei - P30 Pro
+863845418;4741398203;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19662267 med skadedato 22-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19662267;Huawei - P30 Pro
+657462412;4790230426;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693218 med skadedato 11-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693218;Huawei - Mate 10 Pro
+225705417;4746590378;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693167 med skadedato 12-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693167;Huawei - P30 Pro
+126424316;4748995050;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19685014 med skadedato 08-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19685014;Samsung - Galaxy A8 (2018)
+500138318;4746971713;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19689411 med skadedato 27-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689411;Apple - iPhone Xs
+981681117;4748287647;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688210 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688210;Apple - iPhone X
+408228500;4792854801;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19686036 med skadedato 12-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19686036;Sony - Xperia X Performance
+529255218;4746431208;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19690137 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690137;Samsung - Galaxy Note 8
+943290502;4797768114;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690722 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690722;Sony - Xperia XZ3
+834598310;4796660646;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690168 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690168;Huawei - P30 Pro
+293167417;4798644538;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690289 med skadedato 26-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690289;Doro - 8080
+483085908;4799005396;FORSCR;O;600;*Egenandel forsikring;Egenandelen gjelder skadesak 19689991 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689991;
+987345600;4740733829;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693138 med skadedato 11-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693138;Apple - iPhone Xs Max
+317076412;4790245148;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694365 med skadedato 17-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694365;Apple - iPhone Xs Max
+500698311;4740943066;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694154 med skadedato 19-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694154;Apple - iPhone 11 pro max
+694283904;4792062090;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695277 med skadedato 25-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695277;Apple - iPhone Xs Max
+950653410;4746742799;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19689234 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689234;Apple - iPhone Xs Max
+763883212;4748065617;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694180 med skadedato 12-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694180;Apple - iPhone XS
+157463415;4740648240;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19694683 med skadedato 22-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694683;
+885457416;4795010178;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695139 med skadedato 25-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695139;Apple - iPhone 11 Pro
+330069212;4792048307;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694465 med skadedato 21-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694465;Apple - iPhone Xs
+762535706;4792400931;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694631 med skadedato 24-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694631;Apple - iPhone X
+438498214;4792017013;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19694442 med skadedato 18-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694442;Apple - iPhone X
+656391216;4741557049;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19684093 med skadedato 28-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19684093;Apple - iPhone X
+697040210;4748404941;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695449 med skadedato 26-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695449;Apple - iPhone X
+463295907;4746522213;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693474 med skadedato 02-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693474;Apple - iPhone X
+574095014;4797157804;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693835 med skadedato 30-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693835;Apple - iPhone 8 Plus
+262620602;4792841779;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694480 med skadedato 19-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694480;Apple - iPhone 8 Plus
+694886417;4798084336;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695055 med skadedato 18-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695055;Apple - iPhone 11
+891839110;4794148289;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693591 med skadedato 14-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693591;Apple - iPhone 7 Plus
+679083311;4741412885;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694959 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694959;Apple - iPhone 8
+420229114;4793293067;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695021 med skadedato 25-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695021;Apple - iPhone 8
+261852016;4793478992;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693592 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693592;Apple - iPhone 7
+893035212;4794198432;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693765 med skadedato 16-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693765;Apple - iPhone 7
+744692310;4799292762;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19694371 med skadedato 20-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694371;Apple - iPhone 7
+564525210;4795524383;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19693994 med skadedato 25-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693994;Apple - iPhone 7
+394162416;4740165265;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694827 med skadedato 28-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694827;Apple - iPhone 7
+844087213;4798018372;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695145 med skadedato 24-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695145;Apple - iPhone 8 Plus
+230110702;4795946153;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695171 med skadedato 18-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695171;Apple - iPhone 8
+328209317;4792217660;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695492 med skadedato 15-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695492;Apple - iPhone 7
+442183414;4793672281;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694552 med skadedato 13-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694552;Apple - iPhone Xs Max
+549314219;4798600171;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695714 med skadedato 29-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695714;Apple - iPhone XS Max
+841748312;4741235210;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695976 med skadedato 31-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695976;Apple - iPhone Xs Max
+592146807;4799389198;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693754 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693754;Apple - iPhone X
+841607310;4792055873;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696477 med skadedato 13-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696477;Apple - iPhone X
+238809313;4795553040;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695644 med skadedato 29-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695644;Apple - iPhone X
+514598317;4748141584;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693852 med skadedato 15-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693852;Apple - iPhone X
+414967315;4795445522;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695158 med skadedato 25-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695158;Apple - iPhone X
+865860316;4741720718;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695469 med skadedato 28-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695469;Apple - iPhone X
+743391013;4740727053;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695818 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695818;Apple - iPhone X
+556358703;4798074655;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695669 med skadedato 27-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695669;Apple - iPhone Xs
+160631313;4748113773;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693749 med skadedato 10-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693749;Apple - iPhone X
+800763419;4793434307;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19694742 med skadedato 21-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694742;Apple - iPhone Xs
+796802312;4794889401;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694585 med skadedato 22-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694585;Apple - iPhone XS
+868113317;4796957042;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695760 med skadedato 30-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695760;Apple - iPhone Xs
+639947118;4746409031;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695396 med skadedato 26-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695396;Apple - iPhone X
+615599313;4798874789;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694437 med skadedato 21-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694437;Apple - iPhone 8 Plus
+126845411;4745231707;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695645 med skadedato 29-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695645;
+639028315;4745204847;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694983 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694983;Apple - iPhone 8 Plus
+859770216;4792077585;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695718 med skadedato 28-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695718;Apple - iPhone 8 Plus
+798417317;4791241770;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695095 med skadedato 25-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695095;Apple - iPhone 8 Plus
+481092310;4792246866;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19694181 med skadedato 18-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694181;Apple - iPhone 8 Plus
+123058216;4793668517;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695778 med skadedato 11-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695778;Apple - iPhone 11
+278319900;4747297337;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695931 med skadedato 30-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695931;Apple - iPhone 7 Plus
+796027506;4798437871;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696250 med skadedato 02-04-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696250;Apple - iPhone 7 Plus
+224474213;4741296266;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695360 med skadedato 27-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695360;Apple - iPhone 7 Plus
+828294215;4741389774;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694836 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694836;Apple - iPhone 8
+717322416;4796738997;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694921 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694921;Apple - iPhone 8
+584384507;4748115450;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691931 med skadedato 18-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691931;Apple - iPhone 8
+124973413;4741273914;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694927 med skadedato 24-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694927;Apple - iPhone 8
+850626318;4797424336;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695386 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695386;Apple - iPhone Xs Max
+199405606;4746636876;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695075 med skadedato 24-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695075;Apple - iPhone 6S Plus
+837481605;4793636489;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695218 med skadedato 20-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695218;Apple - iPhone 6S Plus
+327432217;4794288922;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694121 med skadedato 18-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694121;Apple - iPhone 7
+334980901;4745243926;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695358 med skadedato 27-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695358;Apple - iPhone 7
+879607315;4741200668;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694530 med skadedato 22-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694530;Apple - iPhone 11 Pro
+415626605;4793077446;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696098 med skadedato 01-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696098;Apple - iPhone 6S
+499280014;4798015614;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695149 med skadedato 24-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695149;Apple - iPhone 6
+531855211;4741347669;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695849 med skadedato 28-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695849;Apple - iPhone 6
+415626605;4745846874;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19696100 med skadedato 15-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696100;Apple - iPhone 6S
+796384808;4740551636;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19693207 med skadedato 12-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693207;Apple - iPhone 6S
+389048315;4798129037;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19689635 med skadedato 28-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19689635;Apple - iPhone X
+563927110;4746500066;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695692 med skadedato 27-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695692;Apple - iPhone X
+713386118;4745412186;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695301 med skadedato 22-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695301;Apple - iPhone X
+928518117;4790806277;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693996 med skadedato 15-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693996;Apple - iPhone 5S
+948368311;4745919958;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695017 med skadedato 21-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695017;Apple - iPhone XR
+842990210;4797884169;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693790 med skadedato 16-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693790;Apple - iPhone 11
+107483117;4745458226;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19695672 med skadedato 27-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695672;Apple - iPhone 8 Plus
+412486011;4741235290;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19687318 med skadedato 20-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687318;Apple - iPhone 7 Plus
+524633708;4746742917;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19694877 med skadedato 24-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694877;Apple - iPhone SE
+912793015;4795991884;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691177 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691177;Apple - iPhone 8
+335732418;4792218220;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695208 med skadedato 25-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695208;Apple - iPhone 7
+636323016;4793040195;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696002 med skadedato 31-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696002;Apple - iPhone 6S
+388029902;4745460951;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694013 med skadedato 15-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694013;Apple - iPhone 6S
+939036315;4745294742;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696241 med skadedato 01-04-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696241;Apple - iPhone 7
+871486411;4791268147;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19696427 med skadedato 28-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696427;Apple - iPhone 11 Pro Max
+559057401;4792832374;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694592 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694592;Apple - iPhone Xs
+860375211;4795914957;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696313 med skadedato 02-04-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696313;Apple - iPhone X
+505752212;4747341058;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19682940 med skadedato 29-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19682940;Apple - iPhone X
+987309317;4740247529;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693940 med skadedato 17-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693940;Apple - iPhone X
+166869313;4747726294;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19685564 med skadedato 07-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19685564;Apple - iPhone X
+465306413;4746401398;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695990 med skadedato 31-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695990;Apple - iPhone XR
+425320314;4790261499;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693954 med skadedato 16-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693954;Apple - iPhone 8 Plus
+913784310;4794254599;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19696171 med skadedato 03-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696171;Apple - iPhone 8
+682225214;4741383273;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695617 med skadedato 29-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695617;Apple - iPhone 7 Plus
+274675214;4740633418;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696285 med skadedato 19-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696285;Apple - iPhone 8
+193836418;4741073493;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694933 med skadedato 20-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694933;Apple - iPhone 8
+648633600;4792241849;FORSCR;O;350;*Egenandel forsikring;Egenandelen gjelder skadesak 19695290 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695290;Apple - iPhone 8
+350194213;4797824609;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693978 med skadedato 03-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693978;Apple - iPhone 6S Plus
+655381705;4746450399;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696390 med skadedato 30-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696390;Apple - iPhone 7
+728072802;4793658589;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695306 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695306;Apple - iPhone 7
+434999900;4745201427;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696309 med skadedato 02-04-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696309;Apple - iPhone X
+917585218;4741207106;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19696655 med skadedato 05-04-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696655;Apple - iPhone 6S Plus
+740986310;4792842500;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19695909 med skadedato 29-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695909;Apple - iPhone 7
+926906116;4745393419;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695775 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695775;Apple - iPhone 6
+545663411;4791293810;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690677 med skadedato 21-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690677;Apple - iPhone 11 Pro
+986736312;4799402635;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691864 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691864;Apple - iPhone 7
+452973316;4793034832;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692170 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692170;Apple - iPhone 8 Plus
+806577417;4748408404;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691895 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691895;Apple - iPhone 11 Pro Max
+156884314;4746941022;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691344 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691344;Samsung - Galaxy S8+
+461103806;4793481779;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19691611 med skadedato 21-09-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691611;Samsung - Galaxy S8+
+116405218;4794879404;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691538 med skadedato 05-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691538;Apple - iPhone 8 Plus
+988708111;4741765126;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19681312 med skadedato 31-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19681312;Samsung  - Galaxy S10+
+859682114;4790044005;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694170 med skadedato 13-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694170;Apple - iPhone Xs
+337366801;4792201127;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19691158 med skadedato 04-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19691158;Samsung  - Galaxy S10+
+348287418;4745399050;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692354 med skadedato 06-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692354;Apple - iPhone 11 Pro Max
+201379211;4798068868;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19681360 med skadedato 22-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19681360;Samsung - Galaxy S9+
+738684901;4799461913;FORSCR;O;350;*Egenandel forsikring;Egenandelen gjelder skadesak 19693898 med skadedato 02-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693898;Sony - Xperia L2
+601625213;4747388280;FORSCR;O;2250;*Egenandel forsikring;Egenandelen gjelder skadesak 19692572 med skadedato 15-11-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692572;Apple - iPhone X
+419115019;4792860379;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19692364 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692364;Apple - iPhone 11 Pro Max
+856578604;4792042823;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694704 med skadedato 21-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694704;Apple - iPhone SE
+718847411;4740460354;FORSCR;O;350;*Egenandel forsikring;Egenandelen gjelder skadesak 19688664 med skadedato 23-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688664;Samsung  - Galaxy A20e
+129193413;4792010890;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694787 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694787;Apple - iPhone 11 Pro Max
+477359210;4795225750;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694662 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694662;Apple - iPhone 8 Plus
+917767410;4792295048;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19693261 med skadedato 29-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693261;Apple - iPhone 7
+308332212;4740208571;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694670 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694670;Oneplus - HD 1903
+378895411;4799880426;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19687800 med skadedato 18-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19687800;Samsung - Galaxy S9+
+651136418;4746225149;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19692724 med skadedato 09-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19692724;Samsung - Galaxy A50
+105796312;4790735422;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19682727 med skadedato 29-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19682727;Apple - iPhone X
+251682019;4798682128;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19675297 med skadedato 20-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19675297;Apple - iPhone 7
+901774901;4798446972;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694324 med skadedato 17-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694324;Huawei - P30 Pro
+357845411;4746518433;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694306 med skadedato 18-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694306;Samsung - Galaxy S10+
+852242213;4746350000;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19694828 med skadedato 23-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19694828;Samsung - Galaxy S8
+575095013;4741363401;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19693828 med skadedato 15-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693828;Samsung - Galaxy S8
+416044410;4741371462;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19695971 med skadedato 28-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19695971;Apple - iPhone 11 Pro
+940484413;4797161720;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19690605 med skadedato 24-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19690605;Apple - iPhone 11 Pro
+437430804;4798612498;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19696202 med skadedato 13-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696202;Apple - iPhone 8 Plus
+396022212;4741384647;FORSCR;O;350;*Egenandel forsikring;Egenandelen gjelder skadesak 19696502 med skadedato 07-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696502;Samsung - Galaxy A20e
+414129312;4798351900;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19696480 med skadedato 24-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696480;Apple - iPhone X
+715087417;4790364133;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19693957 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693957;Samsung  - Galaxy Note 10+
+185088317;4740168720;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19688383 med skadedato 08-02-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19688383;Apple - iPhone 11 Pro Max
+556664415;4748400733;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19674858 med skadedato 06-01-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19674858;Apple - iPhone 6S
+802857110;4791122748;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19693219 med skadedato 10-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693219;Apple - iPhone 8 Plus
+551320211;4791542542;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19696516 med skadedato 07-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19696516;Apple - iPhone XS
+142208412;4745038094;FORSCR;O;550;*Egenandel forsikring;Egenandelen gjelder skadesak 19693428 med skadedato 13-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19693428;Samsung - Galaxy A51
+602758310;4740670675;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19697599 med skadedato 27-03-2020;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19697599;Samsung - Galaxy S10e
+179143318;4745843489;FORSCR;O;750;*Egenandel forsikring;Egenandelen gjelder skadesak 19670567 med skadedato 09-12-2019;;;;;;Gjensidige Faktura 0070-1024;;SAMA1700;19670567;Samsung - Galaxy S9+

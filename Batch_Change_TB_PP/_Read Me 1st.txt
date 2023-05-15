@@ -1,0 +1,29 @@
+TB Batchjobs comes in two flavours.
+
+1) Only 5 columns, for example...:
+
+...
+GSM04746422039;PSTB;16496;RIKS;MCTB4
+GSM04799516525;PSTB;16496;RIKS;MCTB4
+...
+
+2) Many columns, for example...:
+
+...
+GSM04792421243;KSSK;ON;PSUB;0;K;KON6;Endret til tb basic. Ref. Ole Martin Nilsen;Y;MCTBFREE;18559;SIEME;;;;;;RKE 26.04.2007
+GSM04746405878;KSSK;ON;PSUB;0;K;KON6;Endret til tb basic. Ref. Ole Martin Nilsen;Y;MCTBFREE;18559;SIEME;;;;;;RKE 26.04.2007
+...
+
+
+For 1), use 'runloader.cmd' and apply the scripts in the folder...
+  "Change TB Priceplan"
+...one at the time.
+
+For 2), use 'runloader_into_tb_processing_trans.cmd'; look up the rows
+in the table ninjadata.tb_processing_trans and change the status from
+'IN_PROGRESS' to 'WAITING'. Also, some records might have been copied
+into ninjateam.mw_tmp_trans, in which case one needs to run the stored
+procedure ninjateam.mw_procs.load_master_transactions to process them.
+
+..Cheers
+..Håkan

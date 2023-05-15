@@ -1,0 +1,721 @@
+;04793466757;UPFR12;Ringetid kampanje 300;;300;;;;;trka0776 12.11.10;1;trka0776
+;04792452302;UPFR12;Ringetid kampanje 300;;300;;;;;trka0776 12.11.10;1;trka0776
+;04797587705;UPFR12;Ringetid kampanje 300;;300;;;;;trka0776 12.11.10;1;trka0776
+;04797580744;UPFR12;Ringetid kampanje 300;;300;;;;;trka0776 12.11.10;1;trka0776
+;04790824874;UPFR12;Ringetid kampanje 300;;300;;;;;trka0776 12.11.10;1;trka0776
+;04746806282;UPFR12;Ringetid kampanje 300;;300;;;;;trka0776 12.11.10;1;trka0776
+;04792094000;UPFR12;Ringetid kampanje 300;;300;;;;;trka0776 12.11.10;1;trka0776
+;04791363110;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793836919;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04745259325;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04794839156;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04795177340;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04740483839;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746473716;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04795883241;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792295741;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792298482;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792415437;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792428976;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792460667;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792205072;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792470717;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792254379;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792258978;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04741460143;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04740646867;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793236320;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04748173812;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04791848579;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792618407;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798892456;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746788990;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793418063;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792046181;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04797418133;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792847170;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792847198;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793206178;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792677769;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04741608495;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798621716;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04745021743;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746634542;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04795282749;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798053508;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798872662;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746623465;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04791558349;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04745204805;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798881295;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792812630;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792063888;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793621013;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792416117;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04799786981;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798845575;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746634994;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04790561816;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04795904609;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746635231;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746635517;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793485289;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792299542;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746420760;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746374822;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746637283;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792878165;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04740457126;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04745405698;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798406645;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798840561;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792017203;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793051264;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798630803;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746897947;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792647079;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04791915543;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793455908;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792655272;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792299805;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793245647;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798029416;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792852834;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793659042;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793067625;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792013094;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793434241;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04797542846;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746470419;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792072839;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798635809;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04795147552;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798044868;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792492280;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04799043890;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798839512;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793627851;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04746470937;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04740856388;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04798866969;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04741507455;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04793862412;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04790756129;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04799628348;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04792637472;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04794152362;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04747635091;UPFR12;Ringetid kampanje 600;;600;;;;;trka0776 12.11.10;1;trka0776
+;04741522584;UPFR12;Ringetid kampanje 750;;750;;;;;trka0776 12.11.10;1;trka0776
+;04798899935;UPFR12;Ringetid kampanje 750;;750;;;;;trka0776 12.11.10;1;trka0776
+;04740552949;UPFR12;Ringetid kampanje 750;;750;;;;;trka0776 12.11.10;1;trka0776
+;04792617984;UPFR12;Ringetid kampanje 750;;750;;;;;trka0776 12.11.10;1;trka0776
+;04792855570;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745883381;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798888138;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04741565742;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792239750;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792434801;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745482729;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792201063;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792292979;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04747311027;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798476303;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792225022;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04797474843;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798417594;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04746448263;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04748126004;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04747459542;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04747862715;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790104738;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793451688;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798699767;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04799738904;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792253397;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745202323;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04746469779;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793261755;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04747659807;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792289750;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04748089966;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745278384;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792805776;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04795848986;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792809305;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798603286;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790958643;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792272096;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793214151;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745246957;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793052664;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04741288327;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745444611;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792637652;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04747325811;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792241550;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04794371969;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04791876741;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04799003901;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793083712;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04795231956;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798820770;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793616478;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04797011205;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745254776;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04795801266;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792055381;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04795942824;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790947569;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792630535;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790957270;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04741541048;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04747678061;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04748004660;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04746428436;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790189332;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792453056;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04797607302;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790529981;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793406260;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792212702;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04791357227;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04795155937;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04740551527;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04795258475;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793252930;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793069838;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04799450265;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792828309;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04791177801;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04791820610;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04796222093;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793000231;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792236442;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793431362;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745276594;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04740615881;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793625838;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04741614394;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04746542251;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04740231620;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792648852;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792693641;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04797661888;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793214288;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04747669755;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790881411;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792498950;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04791765365;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790991991;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04745213364;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04748126327;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793295165;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793402184;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04797006287;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790957604;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793061126;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04740605782;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04792647602;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798016412;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798885767;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793092897;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04798849600;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04746431634;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04790564017;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04799725938;UPFR12;Ringetid kampanje 900;;900;;;;;trka0776 12.11.10;1;trka0776
+;04793005169;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04798859608;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04797628726;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04791766424;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04748095967;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04797517168;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04740284740;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04792839594;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04793051161;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04797152623;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04793833725;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04747851458;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04798073272;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745210748;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04793202380;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745261237;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745264418;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745264587;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745265744;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745267179;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745275526;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04747260022;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04791825329;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04793218787;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04748127658;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04792065503;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04790035660;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04748244837;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04793442726;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04792285822;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04741360635;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04792465457;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04796838530;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745294649;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04791883872;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04792206222;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04746276319;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04799532837;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04745217705;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04793424834;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04795931872;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04792499199;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04797709953;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04747630180;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04792865560;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04791609746;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04799328593;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04748273332;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04795033037;UPFR12;Ringetid kampanje 1000;;1000;;;;;trka0776 12.11.10;1;trka0776
+;04797602705;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04798031508;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04741903020;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04745513912;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04797989248;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04792877509;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04792818051;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04797504040;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04798438905;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04791196194;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04746451910;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04740044394;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04793443565;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04793634249;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04793847097;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04797620094;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04792696847;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04799294467;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04795791993;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04792277276;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04740108526;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04792467732;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04792834237;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04790044064;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04741549596;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04793834980;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04798481780;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04793894599;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04791772700;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04745605456;UPFR12;Ringetid kampanje 1200;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04790867815;UPFR12;Ringetid kampanje 1200;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790947581;UPFR12;Ringetid kampanje 1200;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792457025;UPFR12;Ringetid kampanje 1200;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790503540;UPFR12;Ringetid kampanje 1800;;1800;;;;;trka0776 12.11.10;1;trka0776
+;04792657424;UPFR12;Ringetid kampanje 1800;;1800;;;;;trka0776 12.11.10;1;trka0776
+;04759907880;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907881;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907882;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907883;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907884;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907885;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907886;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907887;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907888;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907909;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907910;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907911;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907912;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907960;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907961;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907962;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907963;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907964;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907965;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907966;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907967;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907968;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907969;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907970;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907971;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907972;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907930;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907932;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907933;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907934;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907935;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907936;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907937;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907938;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907955;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907956;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907957;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907958;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907959;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907980;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907981;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907982;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907983;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907984;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907985;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907986;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907987;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907988;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907989;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04759907990;KORFAK;Innmeldingsavgift ref Inger Cecilie Holmen;Innmeldingsavgift;50;;;;;NOBO2552 12.11.10;1;NOBO2552
+;04741240944;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746625270;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747454930;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790063168;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790832335;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793099608;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795293590;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747203322;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747203323;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748141194;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790762346;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790938038;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795037214;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795243635;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797000053;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04745811868;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790711979;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790931228;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04799753939;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790977985;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791196503;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen/Vibeke;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04745038387;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen/Vibeke;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747483557;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen/Vibeke;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793460815;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen/Vibeke;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790400006;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791850007;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795044000;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04747280198;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790522285;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797578150;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790155150;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790500550;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790944545;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791744729;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795107055;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799469497;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799522445;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04740013535;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04740606223;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04740634177;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741101132;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741501839;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741658333;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04745007912;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04745007923;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04745407296;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04746405744;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746428709;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04746637540;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04746874083;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;750;;;;;trka0776 12.11.10;1;trka0776
+;04746932959;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747636419;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748002828;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04748072922;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748283577;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748889730;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790016599;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790024570;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790095919;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790100161;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790117967;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790162270;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790170167;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790174637;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790174638;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790207902;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790289928;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790519769;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790519770;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790524016;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790544403;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790549987;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790549988;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790549995;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790549996;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790553225;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790572971;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790582591;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790637377;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790642102;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790649637;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790745591;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790776212;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790797600;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790878730;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790897891;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790916761;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790948146;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790979763;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791114967;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791116000;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791121414;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791168638;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791331903;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791510985;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791611244;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791617252;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791633401;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791642430;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791661921;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791788993;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04792021200;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04792259606;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792289958;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04792605638;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792652634;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793093983;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793267165;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04793404489;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04793427970;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04793465025;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04794170505;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795045622;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795064661;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795085880;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795099997;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795178773;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795178835;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795195171;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795257244;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795709269;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795755336;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797000066;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797077966;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797147794;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797172680;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797423737;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;750;;;;;trka0776 12.11.10;1;trka0776
+;04797504100;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797594663;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797597917;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797617823;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797688918;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797735100;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04798221443;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04798221447;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04798221450;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04798235622;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04798887385;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799235909;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799242424;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799243163;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799248215;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799290038;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799355556;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799449149;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04747678887;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790819890;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790976917;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791399149;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741577373;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795010623;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795946046;SALGUT;Utkjøp av binding, godkjent av selger Jeanette Evans;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794807650;SALGUT;Utkjøp av binding, godkjent av selger Jeanette Evans;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790898795;SALGUT;Utkjøp av binding, godkjent av selger Jeanette Evans;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790603095;SALGUT;Utkjøp av binding, godkjent av selger Jeanette Evans;;862;;;;;trka0776 12.11.10;1;trka0776
+;04748294678;SALGUT;Utkjøp av binding, godkjent av selger Jeanette Evans;;437;;;;;trka0776 12.11.10;1;trka0776
+;04748035527;SALGUT;Utkjøp av binding, godkjent av selger Jeanette Evans;;387;;;;;trka0776 12.11.10;1;trka0776
+;04790176319;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04790713421;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790947999;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790946777;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790948999;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790999300;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791330773;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795006691;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795076222;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748042978;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;593;;;;;trka0776 12.11.10;1;trka0776
+;04747399934;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747395174;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741302520;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791750943;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741425388;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748181411;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748279400;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791837733;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795159734;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04795865954;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797779226;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797779227;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790914561;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04793231313;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04746933516;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;907;;;;;trka0776 12.11.10;1;trka0776
+;04792823354;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1337;;;;;trka0776 12.11.10;1;trka0776
+;04795820378;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;2000;;;;;trka0776 12.11.10;1;trka0776
+;04790792560;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04741275157;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04741327259;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04795099904;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;047928890326;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791789649;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794791580;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790558133;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04792655394;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04797190629;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797782974;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;938;;;;;trka0776 12.11.10;1;trka0776
+;04791722736;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;0474158399;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790050315;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1531;;;;;trka0776 12.11.10;1;trka0776
+;04740013939;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04747928438;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04796990069;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04791544507;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790083799;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04792233313;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795883555;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797090816;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04794870606;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797076101;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790030462;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790618066;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795948513;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790027596;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1200;;;;;trka0776 12.11.10;1;trka0776
+;04741848400;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790149867;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1260;;;;;trka0776 12.11.10;1;trka0776
+;04797707977;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790677907;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;750;;;;;trka0776 12.11.10;1;trka0776
+;04790767833;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;750;;;;;trka0776 12.11.10;1;trka0776
+;04791726369;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;750;;;;;trka0776 12.11.10;1;trka0776
+;04740629525;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;750;;;;;trka0776 12.11.10;1;trka0776
+;04748315474;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1750;;;;;trka0776 12.11.10;1;trka0776
+;04790671147;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;500;;;;;trka0776 12.11.10;1;trka0776
+;04740406544;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04740469349;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741446501;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790670993;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790936018;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790940951;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791542874;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792023832;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793008609;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797717818;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04799351540;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04741437014;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790808757;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797956448;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797958790;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797955821;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797955287;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797954591;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797790821;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04799086895;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04740433326;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04740433338;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04745257550;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790711536;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04792082171;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086851;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086852;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086853;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086854;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086855;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086856;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086857;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086858;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086859;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086860;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086861;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086862;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086863;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086864;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086865;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086866;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086867;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086868;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086869;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086870;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086871;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086872;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086873;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086874;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086875;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086876;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086877;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086878;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086879;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086880;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086881;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086882;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086883;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086884;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086885;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086886;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086887;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086888;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086889;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086890;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086891;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086892;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086893;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799086894;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799098281;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04799098284;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;trka0776 12.11.10;1;trka0776
+;04790056393;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746411209;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746428952;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746430648;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746430847;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746440796;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746444611;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746444634;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746445201;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746445203;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747455171;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747455191;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790552487;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792017851;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792027317;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792029277;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792035645;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792037606;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792056027;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792056984;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792071130;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792879622;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04799364063;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746631550;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746632250;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746803886;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746817463;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746828342;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04746847423;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04748062330;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790110555;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790236324;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790275647;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790279748;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04790788287;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791111806;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793070350;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794840706;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794860897;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795229901;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795266770;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797079431;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797186792;SALGUT;Utkjøp av binding, godkjent av selger Trond Cato Hansen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;0479377373;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;875;;;;;trka0776 12.11.10;1;trka0776
+;04799495087;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;875;;;;;trka0776 12.11.10;1;trka0776
+;04747923130;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;875;;;;;trka0776 12.11.10;1;trka0776
+;04792246462;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792817307;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;875;;;;;trka0776 12.11.10;1;trka0776
+;04793051920;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;875;;;;;trka0776 12.11.10;1;trka0776
+;04740645666;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04745291248;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747238733;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04747399789;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04791107600;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792021703;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792071215;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793852792;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794000445;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794001588;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794001668;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794819137;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04795216469;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04797175922;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793023548;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794815415;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793031490;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04794815415;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04793023548;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1500;;;;;trka0776 12.11.10;1;trka0776
+;04792214433;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;750;;;;;trka0776 12.11.10;1;trka0776
+;04793493537;SALGUT;Utkjøp av binding, godkjent av selger Vibeke Andresen;;1125;;;;;trka0776 12.11.10;1;trka0776

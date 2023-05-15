@@ -1,0 +1,92 @@
+U;;GSM04740218273;Abell; Pål Martin;;Oslo;0555;3;Hesselbergsgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791792074;Almås; Frank;;Oslo;0752;14;Søndre Rød;;;NOR;C;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04748143730;Asbjørnsen; Rasmus;;Oslo;0851;28;Eventyrveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790789162;Bergan; Helge Olav;;Oslo;0758;35;Sakariasv.;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795810227;Bergan; Kittil Eriksrud;;Oslo;0170;6;Sofiesgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791514016;Bergsaker; Olav;;Oslo;0267;60;Thomas Heftyesgt;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04799020571;Bjerke; Mari Reitzel;;Oslo;0874;6;Havnabakken;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791706299;Bjørn-Hansen; Christian;;Oslo;0775;50;Dalsveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792449047;Bleken; Håkon;;Oslo;1273;5;Hans Steinpukkersv.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795279166;Brekken; Ola;;Oslo;0260;30;Munthesgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795965984;Brevik; Bjørn;;Oslo;0372;26;Sognsvannsveien;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04793677222;Brøndmo; Mikal;;Oslo;0656;852;Schweigaardsgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04747243108;Bråthen; Ingvild;;Sande;3070;12;Blåveislia;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791145982;Bugge; Amund Fougner;;Oslo;0273;8;Nobelsgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795267683;Bull; Nils Flesland;;Oslo;1177;58;Holtv.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741558561;Dahl; Erlend;;Oslo;0474;4;Anna Sethnesgt;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04793425705;Davidsen; Erik;;Oslo;0264;31;Frederik Stangsgt.;;;NOR;C;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797191593;Eckbo; Eirill;;Oslo;0266;9;Magnus Bergs gt.;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791333603;Eid; Christian Vinjar;;Oslo;0354;35;Sporveisg.;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792058817;Espe; Sissel;;Oslo;0776;19;Dagaliveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792835278;Foyn; Sten;;Oslo;0382;32;Vesteråsveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04793028054;Garnås; Ingvild;;Oslo;0169;6;Collettsgate;;;NOR;C;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04748253578;Grenstad; Ane;;Oslo;0260;2;Torsgate;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04747015616;Grette; Hildegunn Raa;;Oslo;0776;31;Risalleen;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741551141;Grimseth; Silje;;Oslo;0355;32;Holtegata;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797187552;Grivi; Tone;;Oslo;0465;18;Hammergata;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741440873;Gulsvik; Mari Helen;;Flå;3569;;Åvestrud;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790630926;Haga; Hans G.;;Oslo;0851;37;Niels Henrik Aabelsv.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04748012274;Hardeng; Kjetil;;Oslo;0379;6A;Veslekroken;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795282532;Holstrøm; Jarle Wallevik;;Stabekk;1369;94;Skogveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04799467423;Hyldmo; Kristine;;Oslo;0556;14;Schleppegrellsgate;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792245279;Haavind; Arne;;Oslo;0382;52;Hoffsjef Løvenskioldsv.;;;NOR;K;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792830540;Jagland; Lars Petter;;Drammen;3030;8;Røstmyrveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790069522;Jakobsen; Guttorm;;Oslo;1170;13;Furubråtveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741207022;Johansen; Anita;;Oslo;0275;3;Elmholdt Alle;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790543223;Johansen; Barbro H.;;Dal;2072;42;Utforbakken;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792807826;Johansen; Johnny;;Oslo;0752;15;Søndre Rød;;;NOR;C;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04799279907;Kildal; Trond;;Oslo;0787;6;Doktor Holmsvei;;;NOR;F;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792827944;Kittelsen; Marianne Bekken;;Oslo;0656;69;Schweigaardsgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795293636;Krogsrud; Børge;;Jar;1358;50;Bjerkelundsvn.;;;NOR;C;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795101367;Krokann; Gaute;;Høvik;1363;18;Skogstuveien;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04740404544;Krøvel; Hans;;Oslo;0354;68;Pilestredet;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790607838;Kvernaas; Pål;;Oslo;0287;12;Bygdøy Kapellv.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792011336;Larsgaard; Susanne;;Oslo;0170;8;Krumgata;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792022903;Lie; Petter;;Oslo;0356;1;Rosenborggt.;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791803814;Lindboe; Jørgen;;Oslo;0362;24;Suhmsgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790746520;Lowzow; Halfdan;;Oslo;0373;24;Ivar Aasens vei;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04793208197;Lund; Inger-Johanne;;Oslo;0766;14;Nils Collett Vogstvei;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797758780;Lunde; Ellen Beate;;Oslo;0855;63;Nils Bays vei;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790880814;Melandsø; Nina;;Bekkestua;1356;22;Gartnerveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04748103910;Monn; Jørgen;;Bekkestua;1356;95;Ekrekroken;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797788879;Negaard; Terese A.;;Oslo;0650;1;Eiriks Gate;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04748012132;Ness; Stein;;Oslo;0360;2;Gørbitzgt.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790199853;Nicolaysen; Anne Merete;;Jar;1358;135;Tollef Gravsv.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792803540;Nielsen; Jan-Erik;;Oslo;0487;32;Bjerkealleen;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04748990055;Nordbø; Espen;;Jar;1358;80;Ruglandsveien;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791146894;Nordtvedt; Henning;;Oslo;0851;48;Sognsveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797620888;Olsen; Inger Unn;;Sørumsand;1920;6;Østbyvegen;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04793462879;Omdahl; Rune;;Oslo;0686;6;Skøyenkroken;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741618310;Pihlstrøm; Svein Arild;;Oslo;0490;30;Grefsenkollveien;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741637357;Rebbestad; Espen;;OSLO;0257;2;BYDGØY ALLE;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791399187;Remmen; Johan Fredrik;;Oslo;0383;20;Fritz Kiærsv.;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791371120;Roksund; Herman;;Oslo;0259;1;Lallakroken;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04793088962;Rudidalen; Camilla;;Oslo;0457;20;Kingos gate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795068135;Ruud; Dag Arne;;Oslo;0379;8;Gråbrødrevn.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792423695;Rørstad; Kari;;Oslo;0493;160;Kapellv.;;;NOR;E;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04799019194;Råum; Kristian;;Oslo;0259;2;President Harbitz gate;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791179606;Sandvik; Kristin Tingberg;;Oslo;0276;9;Askeveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791879735;Sejersted; Anne Marie;;Jar;1358;18;Ringstadbekkveien;;;NOR;C;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04748012328;Skogvoll; Håvard;;Oslo;0273;104;Drammensveien;;;NOR;D;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790096861;Skridshol; Nicolai;;Oslo;0367;8;Gjørstadsgate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04795749246;Sletten; Gaute;;Oslo;0365;3;Schultz' gate;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792094917;Snellingen; Magnus;;Oslo;0266;58;Frognerveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790693962;Stava; Gro;;Oslo;0491;8;Kikkutveien;;;NOR;A;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791696511;Steinberg; Geir ;;Lommedalen;1350;30;Kirkebyveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790762690;Sæter; Frode;;Oslo;0788;29;Jerpefaret;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790022765;Tannum; Aksel;;Oslo;1178;14;Høgdefaret;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792805555;Thorud; Kjersti Schiøtz;;Vestby;1540;75;Torsvei;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792042471;Timm; Erling Marcussen;;Oslo;0778;2;Trosterudveien;;;NOR;J;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04792647125;Tobiassen; Ian Anders;;Høvik;1363;14;Mellemveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790518584;Torkildsen; Kjell;;OSLO;0257;2;BYGDØY ALLE;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797643308;Tørnquist; Andreas;;Oslo;1182;24;Simensbråtv.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797505432;Ulriksen; Ellen;;Oslo;0358;4;Brageveien;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741042459;Valle; Viri;;OSLO;0257;2;BYDGØY ALLE;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04797728264;Ven; Bjørg;;Oslo;0376;23;Arnebråtvn.;;;NOR;C;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04741517475;Wagle; Anders Mediaas;;Oslo;0358;35;Stensg.;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04799585239;Wangen; Tomas;;Oslo;0767;76;Landingsveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791647121;Weierud; Marita;;OSLO;0257;2;BYGDØY ALLE;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790626590;Welle-Smidt; Cathrin;;Oslo;0484;74;Sandakerveien;;;NOR;B;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04791611520;Willoughby; Kari Christiansen;;Vestby;1540;3;Mjølnerveien;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790503765;Wærp; Una;;Oslo;0262;18;Bygdøy Alle;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010
+U;;GSM04790926652;Ødegård; Arvid R.;;Oslo;1274;30;Åslandvn.;;;NOR;;;;;;;;;X;;;;;TJP;TJP 01.02.2010

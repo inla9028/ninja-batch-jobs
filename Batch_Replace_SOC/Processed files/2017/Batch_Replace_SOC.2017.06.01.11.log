@@ -1,0 +1,54 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on To Jun 1 12:55:55 2017
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   hgu_tmp_replace.ctl
+Data File:      Batch_Replace_SOC.2017.06.01.11.txt
+  Bad File:     runloader.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table HGU_TMP_REPLACE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+SOC_OLD                              NEXT     *   ;  O(") CHARACTER            
+SOC_NEW                              NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+PRIORITY                             NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+
+
+Table HGU_TMP_REPLACE:
+  2176 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 115584 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          2176
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on To Jun 01 12:55:55 2017
+Run ended on To Jun 01 12:56:05 2017
+
+Elapsed time was:     00:00:09.27
+CPU time was:         00:00:00.08

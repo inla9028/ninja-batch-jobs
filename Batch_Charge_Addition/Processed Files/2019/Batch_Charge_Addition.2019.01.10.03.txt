@@ -1,0 +1,5 @@
+790420319;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2019.01.10.03;1;jahe0457
+849548318;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2019.01.10.03;1;jahe0457
+981602212;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2019.01.10.03;1;jahe0457
+751732215;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2019.01.10.03;1;jahe0457
+624574901;;CRDPAY;CRDPAY;69;;Kreditt omkostninger Dibs;;WAITING;;;;2019.01.10.03;1;jahe0457

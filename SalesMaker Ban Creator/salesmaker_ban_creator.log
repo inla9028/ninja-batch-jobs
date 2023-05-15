@@ -1,0 +1,57 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Tue Jun 16 14:33:47 2009
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   salesmaker_ban_creator.ctl
+Data File:      File4.CSV
+  Bad File:     File4.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table SALESMAKER_BAN_CREATOR, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+BAN                                 FIRST     *   ;  O(") CHARACTER            
+SM_KEY                               NEXT     *   ;  O(") CHARACTER            
+SM_DESC                              NEXT     *   ;  O(") CHARACTER            
+ADDITIONAL_NAME                      NEXT     *   ;  O(") CHARACTER            
+ENTER_TIME                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+
+
+Table SALESMAKER_BAN_CREATOR:
+  35868 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 165120 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:         35868
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Tue Jun 16 14:33:47 2009
+Run ended on Tue Jun 16 14:35:16 2009
+
+Elapsed time was:     00:01:28.90
+CPU time was:         00:00:01.19

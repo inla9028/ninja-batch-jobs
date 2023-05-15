@@ -1,0 +1,13 @@
+Load DATA
+INFILE *
+Append
+INTO TABLE batch_email_address_update
+FIELDS TERMINATED BY ";" OPTIONALLY ENCLOSED BY '"'
+trailing nullcols
+( LINK_TYPE,
+  SUBSCRIBER_NO,
+  BAN_NO,
+  EMAIL_ADDRESS,
+  REQUEST_ID,
+  REQUEST_USER_ID
+)

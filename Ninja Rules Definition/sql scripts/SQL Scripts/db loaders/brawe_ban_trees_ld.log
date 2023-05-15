@@ -1,0 +1,62 @@
+
+SQL*Loader: Release 8.1.7.0.0 - Production on Fri Feb 8 10:55:11 2002
+
+(c) Copyright 2000 Oracle Corporation.  All rights reserved.
+
+Control File:   brawe_ban_trees_ld.ctl
+Data File:      ban_hierarchy_tree.txt
+  Bad File:     ban_hierarchy_tree.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 65536 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BRAWE_BAN_TREES, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+TREE_ROOT_BAN                       FIRST     *   ;  O(") CHARACTER            
+PARENT_BAN                           NEXT     *   ;  O(") CHARACTER            
+BAN                                  NEXT     *   ;  O(") CHARACTER            
+TREE_LEVEL                           NEXT     *   ;  O(") CHARACTER            
+ACCOUNT_TYPE                         NEXT     *   ;  O(") CHARACTER            
+ACCOUNT_SUB_TYPE                     NEXT     *   ;  O(") CHARACTER            
+BAN_STATUS                           NEXT     *   ;  O(") CHARACTER            
+COMPNAME1                            NEXT     *   ;  O(") CHARACTER            
+COMPNAME2                            NEXT     *   ;  O(") CHARACTER            
+ADR_POB                              NEXT     *   ;  O(") CHARACTER            
+ADR_STREET_NAME                      NEXT     *   ;  O(") CHARACTER            
+ADR_ZIP                              NEXT     *   ;  O(") CHARACTER            
+ADR_CITY                             NEXT     *   ;  O(") CHARACTER            
+EFFECTIVE_DATE                       NEXT     *   ;  O(") CHARACTER            
+EXPIRATION_DATE                      NEXT     *   ;  O(") CHARACTER            
+
+
+Table BRAWE_BAN_TREES:
+  5554 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  61920 bytes(16 rows)
+Space allocated for memory besides bind array:        0 bytes
+
+Total logical records skipped:          0
+Total logical records read:          5554
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Feb 08 10:55:11 2002
+Run ended on Fri Feb 08 10:55:17 2002
+
+Elapsed time was:     00:00:05.41
+CPU time was:         00:00:00.36    

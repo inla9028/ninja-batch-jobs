@@ -1,0 +1,3 @@
+GSM04745481201;MMS02;DELETE;;1;STLI15 23.06.2017;Deleting Data service to prepare for adding APN ref Terje Lilleåsen. -Staffan Lindberg (STLI15)
+GSM04740724670;MMS02;DELETE;;1;STLI15 23.06.2017;Deleting Data service to prepare for adding APN ref Terje Lilleåsen. -Staffan Lindberg (STLI15)
+GSM04740641539;MMS02;DELETE;;1;STLI15 23.06.2017;Deleting Data service to prepare for adding APN ref Terje Lilleåsen. -Staffan Lindberg (STLI15)

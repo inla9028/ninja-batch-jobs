@@ -1,0 +1,2 @@
+HOLD;268887007;INSB;Hold test memo
+RESUME;268887007;;Resume test memo

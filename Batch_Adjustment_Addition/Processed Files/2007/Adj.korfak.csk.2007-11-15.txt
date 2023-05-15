@@ -1,0 +1,151 @@
+;04741682354;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;52.07;;;;;15.11.2007;1;LED
+;04748002262;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;243.03;;;;;15.11.2007;1;LED
+;04790563183;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;307.33;;;;;15.11.2007;1;LED
+;04790568440;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;36.67;;;;;15.11.2007;1;LED
+;04790571064;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;78.77;;;;;15.11.2007;1;LED
+;04790573602;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;68.9;;;;;15.11.2007;1;LED
+;04790697186;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;190.03;;;;;15.11.2007;1;LED
+;04790698158;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;79.27;;;;;15.11.2007;1;LED
+;04795252657;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;107.93;;;;;15.11.2007;1;LED
+;04797054341;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;26.97;;;;;15.11.2007;1;LED
+;04790591196;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;3.06;;;;;15.11.2007;1;LED
+;04797054341;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.13;;;;;15.11.2007;1;LED
+;04797054345;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.94;;;;;15.11.2007;1;LED
+;04790573602;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;3.36;;;;;15.11.2007;1;LED
+;04795207505;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;19.76;;;;;15.11.2007;1;LED
+;04790847911;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.09;;;;;15.11.2007;1;LED
+;04740645876;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;39.17;;;;;15.11.2007;1;LED
+;04740645879;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;11.8;;;;;15.11.2007;1;LED
+;04748002262;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;21.55;;;;;15.11.2007;1;LED
+;04795878992;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.64;;;;;15.11.2007;1;LED
+;04790697186;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;22.65;;;;;15.11.2007;1;LED
+;04790573610;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;129.27;;;;;15.11.2007;1;LED
+;04791175204;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;79.97;;;;;15.11.2007;1;LED
+;04795878992;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;28.3;;;;;15.11.2007;1;LED
+;04797054342;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;26.87;;;;;15.11.2007;1;LED
+;04790536486;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;8.16;;;;;15.11.2007;1;LED
+;04797546419;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;5.36;;;;;15.11.2007;1;LED
+;04790576104;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;39.97;;;;;15.11.2007;1;LED
+;04790568440;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;3.32;;;;;15.11.2007;1;LED
+;04790875565;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;4;;;;;15.11.2007;1;LED
+;04795252657;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.68;;;;;15.11.2007;1;LED
+;04790068107;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;23.03;;;;;15.11.2007;1;LED
+;04792401696;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;29.23;;;;;15.11.2007;1;LED
+;04797652967;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;615.8;;;;;15.11.2007;1;LED
+;04748280088;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;22.4;;;;;15.11.2007;1;LED
+;04790205317;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.13;;;;;15.11.2007;1;LED
+;04790698158;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;3.53;;;;;15.11.2007;1;LED
+;04741569959;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;425.9;;;;;15.11.2007;1;LED
+;04790548383;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;34.43;;;;;15.11.2007;1;LED
+;04797652967;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;50.92;;;;;15.11.2007;1;LED
+;04741569959;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;42.54;;;;;15.11.2007;1;LED
+;04790548383;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;1.4;;;;;15.11.2007;1;LED
+;04790573605;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;11.6;;;;;15.11.2007;1;LED
+;04740645877;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;11.8;;;;;15.11.2007;1;LED
+;04741511543;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;103.17;;;;;15.11.2007;1;LED
+;04790205317;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;55.87;;;;;15.11.2007;1;LED
+;04790536486;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;120.2;;;;;15.11.2007;1;LED
+;04790847911;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;117.87;;;;;15.11.2007;1;LED
+;04797054340;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;189;;;;;15.11.2007;1;LED
+;04797054345;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;57.9;;;;;15.11.2007;1;LED
+;04799256093;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;22.4;;;;;15.11.2007;1;LED
+;04795207505;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;41.2;;;;;15.11.2007;1;LED
+;04795081917;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;20.19;;;;;15.11.2007;1;LED
+;04792401696;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.85;;;;;15.11.2007;1;LED
+;04797054344;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;9.69;;;;;15.11.2007;1;LED
+;04791620603;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;110.33;;;;;15.11.2007;1;LED
+;04797054343;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;23.2;;;;;15.11.2007;1;LED
+;04790571064;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;2.34;;;;;15.11.2007;1;LED
+;04790573610;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.3;;;;;15.11.2007;1;LED
+;04790576104;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;2.55;;;;;15.11.2007;1;LED
+;04791175204;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;3.66;;;;;15.11.2007;1;LED
+;04795181917;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;3.7;;;;;15.11.2007;1;LED
+;04741511543;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;22.36;;;;;15.11.2007;1;LED
+;04741682354;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;7.52;;;;;15.11.2007;1;LED
+;04747200225;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;25.43;;;;;15.11.2007;1;LED
+;04790573605;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;95;;;;;15.11.2007;1;LED
+;04790591196;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;28.6;;;;;15.11.2007;1;LED
+;04790875565;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;137.73;;;;;15.11.2007;1;LED
+;04795081917;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;187.07;;;;;15.11.2007;1;LED
+;04797054344;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;210.83;;;;;15.11.2007;1;LED
+;04797546419;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;87.2;;;;;15.11.2007;1;LED
+;04740645876;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;5.48;;;;;15.11.2007;1;LED
+;04797054340;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;0.98;;;;;15.11.2007;1;LED
+;04795181917;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;30.03;;;;;15.11.2007;1;LED
+;04790563183;KORFAK;LED: Manglende rabatt, godkjent av Bjørn Johannessen;Kreditering pga manglende rabatt;5.61;;;;;15.11.2007;1;LED
+;04790655179;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;756.67;;;;;15.11.2007;1;CSK
+;04792845755;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;710.91;;;;;15.11.2007;1;CSK
+;04795043525;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;438.65;;;;;15.11.2007;1;CSK
+;04793019353;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;166.2;;;;;15.11.2007;1;CSK
+;04746661404;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;156.26;;;;;15.11.2007;1;CSK
+;04741572217;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;144.6;;;;;15.11.2007;1;CSK
+;04740457095;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;112.85;;;;;15.11.2007;1;CSK
+;04798285746;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;101.4;;;;;15.11.2007;1;CSK
+;04793090066;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;78.15;;;;;15.11.2007;1;CSK
+;04791618746;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;64.8;;;;;15.11.2007;1;CSK
+;04798285748;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;61.8;;;;;15.11.2007;1;CSK
+;04790997973;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;57;;;;;15.11.2007;1;CSK
+;04790111317;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;48.64;;;;;15.11.2007;1;CSK
+;04795974569;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;42.6;;;;;15.11.2007;1;CSK
+;04798285749;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;39.6;;;;;15.11.2007;1;CSK
+;04748992977;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;38.01;;;;;15.11.2007;1;CSK
+;04792866019;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;34;;;;;15.11.2007;1;CSK
+;04795098398;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;28.8;;;;;15.11.2007;1;CSK
+;04795283206;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;27.03;;;;;15.11.2007;1;CSK
+;04748266891;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;25.2;;;;;15.11.2007;1;CSK
+;04795206999;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;21;;;;;15.11.2007;1;CSK
+;04792026941;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;19.2;;;;;15.11.2007;1;CSK
+;04747849787;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;16.8;;;;;15.11.2007;1;CSK
+;04799157212;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;16.2;;;;;15.11.2007;1;CSK
+;04790096360;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;15.6;;;;;15.11.2007;1;CSK
+;04791550807;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;14.9;;;;;15.11.2007;1;CSK
+;04748897439;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;13.8;;;;;15.11.2007;1;CSK
+;04795098866;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;13.8;;;;;15.11.2007;1;CSK
+;04791782423;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;11.4;;;;;15.11.2007;1;CSK
+;04792633504;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;10.46;;;;;15.11.2007;1;CSK
+;04791562141;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;9;;;;;15.11.2007;1;CSK
+;04792026882;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;9;;;;;15.11.2007;1;CSK
+;04792642355;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;9;;;;;15.11.2007;1;CSK
+;04745450040;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;8.4;;;;;15.11.2007;1;CSK
+;04797537177;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;7.8;;;;;15.11.2007;1;CSK
+;04792410971;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;6.44;;;;;15.11.2007;1;CSK
+;04797540834;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;5.4;;;;;15.11.2007;1;CSK
+;04741614359;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;4.8;;;;;15.11.2007;1;CSK
+;04792038737;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;3.6;;;;;15.11.2007;1;CSK
+;04795878666;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;3;;;;;15.11.2007;1;CSK
+;04745256916;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.8;;;;;15.11.2007;1;CSK
+;04791891371;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.8;;;;;15.11.2007;1;CSK
+;04795083220;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.8;;;;;15.11.2007;1;CSK
+;04795146052;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.8;;;;;15.11.2007;1;CSK
+;04740428080;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.7;;;;;15.11.2007;1;CSK
+;04745257036;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.2;;;;;15.11.2007;1;CSK
+;04791348996;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.2;;;;;15.11.2007;1;CSK
+;04795165130;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.2;;;;;15.11.2007;1;CSK
+;04795284531;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;1.2;;;;;15.11.2007;1;CSK
+;04793056306;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;0.88;;;;;15.11.2007;1;CSK
+;04745257058;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;0.6;;;;;15.11.2007;1;CSK
+;04745257062;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;0.6;;;;;15.11.2007;1;CSK
+;04790799658;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;0.6;;;;;15.11.2007;1;CSK
+;04790831911;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;0.6;;;;;15.11.2007;1;CSK
+;04792809046;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;0.6;;;;;15.11.2007;1;CSK
+;04795996759;KORFAK;CSK: Interne samtaler multi VPN ref. PAD;Bedriftsinterne samtaler;0.6;;;;;15.11.2007;1;CSK
+;04747413171;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;36.76;;;;;15.11.2007;1;ELON
+;04792024033;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;55.68;;;;;15.11.2007;1;ELON
+;04793252828;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;225.42;;;;;15.11.2007;1;ELON
+;04745250450;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;53.3;;;;;15.11.2007;1;ELON
+;04741239379;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;67.66;;;;;15.11.2007;1;ELON
+;04792453449;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;18.19;;;;;15.11.2007;1;ELON
+;04748895521;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;13.35;;;;;15.11.2007;1;ELON
+;04793252828;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;15.22;;;;;15.11.2007;1;ELON
+;04748895521;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;199.84;;;;;15.11.2007;1;ELON
+;04748895520;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;13.73;;;;;15.11.2007;1;ELON
+;04741239379;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;19.55;;;;;15.11.2007;1;ELON
+;04741144042;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;75.65;;;;;15.11.2007;1;ELON
+;04748895522;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;154.15;;;;;15.11.2007;1;ELON
+;04747257404;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;34.26;;;;;15.11.2007;1;ELON
+;04798640579;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;119.09;;;;;15.11.2007;1;ELON
+;04792453449;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;106.38;;;;;15.11.2007;1;ELON
+;04792482454;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;68.34;;;;;15.11.2007;1;ELON
+;04745250450;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;13.94;;;;;15.11.2007;1;ELON
+;04790279596;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;35.96;;;;;15.11.2007;1;ELON
+;04792482454;KORFAK;ELON: Manglende rabatt 5% / 22% ref. Egil Thengs;Manglende rabatt;29.88;;;;;15.11.2007;1;ELON

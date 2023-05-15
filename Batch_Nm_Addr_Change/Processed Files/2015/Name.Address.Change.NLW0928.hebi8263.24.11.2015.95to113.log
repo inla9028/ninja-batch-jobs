@@ -1,0 +1,85 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Tue Nov 24 15:18:09 2015
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   batch_name_address_loader.ctl
+Data File:      C:\Projects\svn\ninja-batch-jobs\Batch_Nm_Addr_Change\Name.Address.Change.NLW0928.hebi8263.24.11.2015.95toend.txt
+  Bad File:     Name.Address.Change.NLW0928.hebi8263.24.11.2015.95toend.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_NAME_ADDRESS_UPDATE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+LINK_TYPE                           FIRST     *   ;  O(") CHARACTER            
+BAN_NO                               NEXT     *   ;  O(") CHARACTER            
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER            
+LAST_BUSINESS_NAME                   NEXT     *   ;  O(") CHARACTER            
+FIRST_NAME                           NEXT     *   ;  O(") CHARACTER            
+BIRTH_DATE                           NEXT     *   ;  O(") DATE YYYY-MM-DD      
+ADR_CITY                             NEXT     *   ;  O(") CHARACTER            
+ADR_ZIP                              NEXT     *   ;  O(") CHARACTER            
+ADR_HOUSE_NO                         NEXT     *   ;  O(") CHARACTER            
+ADR_STREET_NAME                      NEXT     *   ;  O(") CHARACTER            
+ADR_POB                              NEXT     *   ;  O(") CHARACTER            
+ADR_DISTRICT                         NEXT     *   ;  O(") CHARACTER            
+ADR_COUNTRY                          NEXT     *   ;  O(") CHARACTER            
+ADR_HOUSE_LETTER                     NEXT     *   ;  O(") CHARACTER            
+ADR_STOREY                           NEXT     *   ;  O(") CHARACTER            
+ADR_DOOR_NO                          NEXT     *   ;  O(") CHARACTER            
+ADR_GENDER                           NEXT     *   ;  O(") CHARACTER            
+ALLOW_ADVERTISING_IND                NEXT     *   ;  O(") CHARACTER            
+ADR_HOME_PHONE                       NEXT     *   ;  O(") CHARACTER            
+EMAIL_ADDR                           NEXT     *   ;  O(") CHARACTER            
+ADR_LISTED_IND                       NEXT     *   ;  O(") CHARACTER            
+PUBLISH_LEVEL                        NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+ROLE_IND                             NEXT     *   ;  O(") CHARACTER            
+COMPANY_ID                           NEXT     *   ;  O(") CHARACTER            
+ADR_CO_NAME                          NEXT     *   ;  O(") CHARACTER            
+ADDITIONAL_TITLE                     NEXT     *   ;  O(") CHARACTER            
+
+value used for ROWS parameter changed from 64 to 31
+Record 19: Rejected - Error on table BATCH_NAME_ADDRESS_UPDATE, column FIRST_NAME.
+ORA-12899: value too large for column "NINJADATA"."BATCH_NAME_ADDRESS_UPDATE"."FIRST_NAME" (actual: 33, maximum: 32)
+
+
+MAXIMUM ERROR COUNT EXCEEDED - Above statistics reflect partial run.
+
+Table BATCH_NAME_ADDRESS_UPDATE:
+  18 Rows successfully loaded.
+  1 Row not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 255936 bytes(31 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:            31
+Total logical records rejected:         1
+Total logical records discarded:        0
+
+Run began on Tue Nov 24 15:18:09 2015
+Run ended on Tue Nov 24 15:18:15 2015
+
+Elapsed time was:     00:00:05.92
+CPU time was:         00:00:00.08

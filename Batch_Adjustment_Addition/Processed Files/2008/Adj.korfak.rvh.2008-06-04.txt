@@ -1,0 +1,91 @@
+;04740006099;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636649;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04799584900;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04790639565;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636629;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006036;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04748280757;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636647;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006121;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006097;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006095;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04791380098;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636645;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636649;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04797749622;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006096;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636631;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636653;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636652;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636635;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04791563988;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04746636642;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006020;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006040;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04790639545;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006046;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006039;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006035;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006034;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006041;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006018;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006031;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006049;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04793245175;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006152;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006022;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006032;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006171;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006091;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006038;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006080;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006024;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006017;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006002;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006045;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006151;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006013;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006043;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04797074315;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006033;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006023;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04792216262;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006101;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006160;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006161;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006042;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006071;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04741663989;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04795901072;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006007;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006006;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006004;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006150;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006000;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006003;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006001;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006015;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006016;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006010;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006009;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006010;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006000;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006008;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006011;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006001;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04740006012;KORFAK;Justering etter avtale;Justering pga utkjøp bindingstid, ref. ISA og oversikt fra BIE;875;;;;;RVH 04.06.08;1;RVH
+;04748129154;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 20/11/07), ref. John Arnt Iversen;177.11;;;;;RVH 04.06.08;1;RVH
+;04792456202;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 20/11/07), ref. John Arnt Iversen;196.35;;;;;RVH 04.06.08;1;RVH
+;04792463837;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 20/11/07), ref. John Arnt Iversen;202.69;;;;;RVH 04.06.08;1;RVH
+;04792464968;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 20/11/07), ref. John Arnt Iversen;171.75;;;;;RVH 04.06.08;1;RVH
+;04792467859;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 20/11/07), ref. John Arnt Iversen;138.17;;;;;RVH 04.06.08;1;RVH
+;04795975445;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 20/11/07), ref. John Arnt Iversen;434.19;;;;;RVH 04.06.08;1;RVH
+;04797113052;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 20/11/07), ref. John Arnt Iversen;387.9;;;;;RVH 04.06.08;1;RVH
+;04748193375;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;41.95;;;;;RVH 04.06.08;1;RVH
+;04791864144;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;79.94;;;;;RVH 04.06.08;1;RVH
+;04795484848;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;0.43;;;;;RVH 04.06.08;1;RVH
+;04798296260;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;61.45;;;;;RVH 04.06.08;1;RVH
+;04798296261;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;41.31;;;;;RVH 04.06.08;1;RVH
+;04798296262;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;62.05;;;;;RVH 04.06.08;1;RVH
+;04798296263;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;71.23;;;;;RVH 04.06.08;1;RVH
+;04798296269;KORFAK;Justering etter avtale;Justering pga manglende rabatt (fra 06/03/08), ref. Jon-Are Loktu;83.3;;;;;RVH 04.06.08;1;RVH

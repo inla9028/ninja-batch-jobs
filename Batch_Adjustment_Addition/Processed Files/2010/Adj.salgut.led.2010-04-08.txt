@@ -1,0 +1,215 @@
+;04799524082;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04745866192;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04745866238;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04746417513;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04746417514;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04746421254;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04746423043;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04746430161;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04746430631;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04792819642;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04792821738;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04793040833;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04793298882;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1875;;;;;LED 08.04.2010;1;LED
+;04795165178;SALGUT;Utkjøp av binding, godkjent av selger Jens Fagernes;;1407;;;;;LED 08.04.2010;1;LED
+;04792207734;SALGUT;Utkjøp av binding, godkjent av selger Jonny Iversen;;1500;;;;;LED 08.04.2010;1;LED
+;04741517038;SALGUT;Utkjøp av binding, godkjent av selger Jonny Iversen;;1500;;;;;LED 08.04.2010;1;LED
+;04791582469;SALGUT;Utkjøp av binding, godkjent av selger Jonny Iversen;;1500;;;;;LED 08.04.2010;1;LED
+;04791730056;SALGUT;Utkjøp av binding, godkjent av selger Jonny Iversen;;1500;;;;;LED 08.04.2010;1;LED
+;04792499426;SALGUT;Utkjøp av binding, godkjent av selger Jonny Iversen;;1500;;;;;LED 08.04.2010;1;LED
+;04794157822;SALGUT;Utkjøp av binding, godkjent av selger Jonny Iversen;;1500;;;;;LED 08.04.2010;1;LED
+;04797516518;SALGUT;Utkjøp av binding, godkjent av selger Jonny Iversen;;1500;;;;;LED 08.04.2010;1;LED
+;04790107590;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04791143911;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04791879981;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04799224260;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04748258474;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04791148910;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04791366790;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04795768555;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04797195597;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04797017136;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;LED 08.04.2010;1;LED
+;04790874467;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04797951740;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1875;;;;;LED 08.04.2010;1;LED
+;04795968042;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04747938780;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;2375;;;;;LED 08.04.2010;1;LED
+;04793433112;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04741236539;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04793497567;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04794133014;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04795409449;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04741298916;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04741298904;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04747311752;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04791719445;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04790706446;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1200;;;;;LED 08.04.2010;1;LED
+;04790777749;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04790776476;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04740036481;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04795777200;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04790601676;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04797182631;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04790601665;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04795815252;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04741926388;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;LED 08.04.2010;1;LED
+;04748130615;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04790722805;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04790732566;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04791758806;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04791861233;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04793017777;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04793866498;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04793869586;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04795009400;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04798886811;SALGUT;Utkjøp av binding, godkjent av selger Lisbet Fredriksen;;1875;;;;;LED 08.04.2010;1;LED
+;04741515950;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04741515951;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04741637582;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04745473881;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04748995496;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04792238252;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04792804373;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04792804722;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04792818191;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04792826440;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04793227730;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04797743732;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1500;;;;;LED 08.04.2010;1;LED
+;04792855128;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1200;;;;;LED 08.04.2010;1;LED
+;04794839411;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1200;;;;;LED 08.04.2010;1;LED
+;04794839660;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1200;;;;;LED 08.04.2010;1;LED
+;04798818086;SALGUT;Utkjøp av binding, godkjent av selger Mette Olsson;;1200;;;;;LED 08.04.2010;1;LED
+;04792092955;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;LED 08.04.2010;1;LED
+;04793455733;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;LED 08.04.2010;1;LED
+;04797061975;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;LED 08.04.2010;1;LED
+;04799421946;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;LED 08.04.2010;1;LED
+;04790503830;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04790963335;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04741648395;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04741648394;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04740033602;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04740033603;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04740033604;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04740033605;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04740033606;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04740033607;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04797097029;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04790507923;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04791682020;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1200;;;;;LED 08.04.2010;1;LED
+;04791687097;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1200;;;;;LED 08.04.2010;1;LED
+;04792054109;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04794819909;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1200;;;;;LED 08.04.2010;1;LED
+;04796202424;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04799302424;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1200;;;;;LED 08.04.2010;1;LED
+;04799365881;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04799428442;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04799507494;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;LED 08.04.2010;1;LED
+;04747463612;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601250;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799162797;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799712590;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747484767;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747484770;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04748891436;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04792038333;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740032540;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747201134;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747489987;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04791192439;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795788176;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601301;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04748893392;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790578487;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04791691466;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04792010293;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795428822;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601255;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04748176890;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790087082;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790231905;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790658799;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790754758;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04793408028;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740034843;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740038154;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740038157;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740038158;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747463660;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04748131004;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790261334;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790261488;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790261501;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790261509;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790261670;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790261861;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790261921;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790550670;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790865443;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04791304056;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04792684566;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795080734;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795299330;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795299332;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795299334;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04797677983;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04798697385;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799234825;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740036562;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04792856586;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799004414;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799552660;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799552661;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799552663;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601272;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795422922;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799503039;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740524444;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601249;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601281;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601283;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601284;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04791149950;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04740036061;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747902810;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04748259084;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04792884830;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04795899071;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799219020;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799474754;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799542416;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04799542476;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747460655;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747601270;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747872547;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04790919807;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04791322652;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04791750214;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04793408212;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04797119499;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04747877774;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04748893390;SALGUT;Utkjøp av binding, godkjent av selger Roy Jonassen;;1875;;;;;LED 08.04.2010;1;LED
+;04793083395;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1500;;;;;LED 08.04.2010;1;LED
+;04793299284;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1375;;;;;LED 08.04.2010;1;LED
+;04798699747;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1250;;;;;LED 08.04.2010;1;LED
+;04747910960;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1125;;;;;LED 08.04.2010;1;LED
+;04790834119;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1500;;;;;LED 08.04.2010;1;LED
+;04798251940;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;LED 08.04.2010;1;LED
+;04798251944;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1200;;;;;LED 08.04.2010;1;LED
+;04798251946;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1200;;;;;LED 08.04.2010;1;LED
+;04747482860;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;LED 08.04.2010;1;LED
+;04790095588;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;LED 08.04.2010;1;LED
+;04795271263;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1875;;;;;LED 08.04.2010;1;LED
+;04798854196;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;750;;;;;LED 08.04.2010;1;LED
+;04746421944;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792652637;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792099911;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04793001157;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792803125;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04745210318;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792646047;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792236969;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792292254;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792852670;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04746443449;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792458480;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04741312380;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED
+;04792091065;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1875;;;;;LED 08.04.2010;1;LED

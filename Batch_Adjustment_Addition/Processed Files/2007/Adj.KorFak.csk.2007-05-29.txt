@@ -1,0 +1,134 @@
+;04741915150;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;89.86;;;;;29.05.07;;CSK
+;04747337899;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;101.97;;;;;29.05.07;;CSK
+;04748088266;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;110.96;;;;;29.05.07;;CSK
+;04790031830;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;36.7;;;;;29.05.07;;CSK
+;04790066571;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;113.45;;;;;29.05.07;;CSK
+;04790150720;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;97.9;;;;;29.05.07;;CSK
+;04790179373;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;29.84;;;;;29.05.07;;CSK
+;04790569239;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;168.15;;;;;29.05.07;;CSK
+;04790643160;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;101.07;;;;;29.05.07;;CSK
+;04790665913;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;109.57;;;;;29.05.07;;CSK
+;04790749413;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;151.43;;;;;29.05.07;;CSK
+;04790758416;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;42.6;;;;;29.05.07;;CSK
+;04790758485;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;173.34;;;;;29.05.07;;CSK
+;04790860627;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;71.74;;;;;29.05.07;;CSK
+;04791117359;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;133.41;;;;;29.05.07;;CSK
+;04791170576;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;136.98;;;;;29.05.07;;CSK
+;04791647997;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;60.56;;;;;29.05.07;;CSK
+;04791648299;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;71.42;;;;;29.05.07;;CSK
+;04791775934;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;160.85;;;;;29.05.07;;CSK
+;04791796332;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;67.22;;;;;29.05.07;;CSK
+;04791826949;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;157.05;;;;;29.05.07;;CSK
+;04791865650;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;93.11;;;;;29.05.07;;CSK
+;04792015649;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;8.86;;;;;29.05.07;;CSK
+;04792016042;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;8.86;;;;;29.05.07;;CSK
+;04792035937;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;242.41;;;;;29.05.07;;CSK
+;04792224848;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;101.6;;;;;29.05.07;;CSK
+;04792269334;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;145.9;;;;;29.05.07;;CSK
+;04792288217;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;266.44;;;;;29.05.07;;CSK
+;04792648900;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;70.84;;;;;29.05.07;;CSK
+;04792698447;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;301.21;;;;;29.05.07;;CSK
+;04792885731;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;105.44;;;;;29.05.07;;CSK
+;04793018826;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;130.89;;;;;29.05.07;;CSK
+;04795152737;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;118.65;;;;;29.05.07;;CSK
+;04795210974;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;120.23;;;;;29.05.07;;CSK
+;04795729168;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;106.98;;;;;29.05.07;;CSK
+;04795803910;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;175.31;;;;;29.05.07;;CSK
+;04795940241;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;126.03;;;;;29.05.07;;CSK
+;04797033473;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;66.62;;;;;29.05.07;;CSK
+;04798002996;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;63.74;;;;;29.05.07;;CSK
+;04798238615;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;129.24;;;;;29.05.07;;CSK
+;04798282696;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;57.21;;;;;29.05.07;;CSK
+;04798282697;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;244;;;;;29.05.07;;CSK
+;04798282698;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;67.42;;;;;29.05.07;;CSK
+;04798282699;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;77.73;;;;;29.05.07;;CSK
+;04798282701;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;158.92;;;;;29.05.07;;CSK
+;04798282702;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;61.45;;;;;29.05.07;;CSK
+;04798282703;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;127.33;;;;;29.05.07;;CSK
+;04798282704;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;103.22;;;;;29.05.07;;CSK
+;04798282705;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;124.66;;;;;29.05.07;;CSK
+;04798282706;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;33.69;;;;;29.05.07;;CSK
+;04798282707;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;35.71;;;;;29.05.07;;CSK
+;04798282708;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;37.11;;;;;29.05.07;;CSK
+;04798282709;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;208.04;;;;;29.05.07;;CSK
+;04798282710;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;246.52;;;;;29.05.07;;CSK
+;04798282711;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;85.73;;;;;29.05.07;;CSK
+;04798282712;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;59.29;;;;;29.05.07;;CSK
+;04798282713;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;81.23;;;;;29.05.07;;CSK
+;04798282714;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;61.86;;;;;29.05.07;;CSK
+;04798282715;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;25.58;;;;;29.05.07;;CSK
+;04798282719;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;163.33;;;;;29.05.07;;CSK
+;04798414280;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;92.18;;;;;29.05.07;;CSK
+;04798492253;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;82.17;;;;;29.05.07;;CSK
+;04799257141;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;122.83;;;;;29.05.07;;CSK
+;04799419734;KORFAK;Justert for manglende rabatt (22%) fra 01.01.2007;Rabatt;154.34;;;;;29.05.07;;CSK
+;04790735984;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;33.77;;;;;29.05.07;;CSK
+;04790918323;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;43.78;;;;;29.05.07;;CSK
+;04792013013;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;48.61;;;;;29.05.07;;CSK
+;04792242502;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;12.88;;;;;29.05.07;;CSK
+;04792635749;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;17.25;;;;;29.05.07;;CSK
+;04792652184;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;53.51;;;;;29.05.07;;CSK
+;04792823955;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;83.58;;;;;29.05.07;;CSK
+;04792825250;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;3.64;;;;;29.05.07;;CSK
+;04793203669;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;43.02;;;;;29.05.07;;CSK
+;04793203762;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;27.94;;;;;29.05.07;;CSK
+;04793224525;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;22.92;;;;;29.05.07;;CSK
+;04793403809;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;99.54;;;;;29.05.07;;CSK
+;04793403917;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;40.46;;;;;29.05.07;;CSK
+;04793480254;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;75.73;;;;;29.05.07;;CSK
+;04793480283;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;15.57;;;;;29.05.07;;CSK
+;04793480558;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;70.37;;;;;29.05.07;;CSK
+;04793480652;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;20.95;;;;;29.05.07;;CSK
+;04793480707;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;16.4;;;;;29.05.07;;CSK
+;04793480709;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;15.14;;;;;29.05.07;;CSK
+;04793480861;KORFAK;Justert for manglende rabatt (20%) fra 01.10.06;Rabatt;320.03;;;;;29.05.07;;CSK
+;04792893611;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;0.14;;;;;05.06.07;;CSK
+;04790619134;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;0.37;;;;;05.06.07;;CSK
+;04745023373;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;0.41;;;;;05.06.07;;CSK
+;04793236499;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;0.61;;;;;05.06.07;;CSK
+;04792044534;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;0.73;;;;;05.06.07;;CSK
+;04793489389;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;0.83;;;;;05.06.07;;CSK
+;04798000233;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;0.99;;;;;05.06.07;;CSK
+;04792024620;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;1.01;;;;;05.06.07;;CSK
+;04793425363;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;1.08;;;;;05.06.07;;CSK
+;04792823488;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;1.27;;;;;05.06.07;;CSK
+;04792459421;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;1.67;;;;;05.06.07;;CSK
+;04799642245;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;2.11;;;;;05.06.07;;CSK
+;04792836188;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;2.7;;;;;05.06.07;;CSK
+;04745227632;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;3.6;;;;;05.06.07;;CSK
+;04798211482;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;3.75;;;;;05.06.07;;CSK
+;04741460166;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;3.8;;;;;05.06.07;;CSK
+;04793017986;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;3.94;;;;;05.06.07;;CSK
+;04799617491;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;4.1;;;;;05.06.07;;CSK
+;04793046444;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;4.27;;;;;05.06.07;;CSK
+;04745227696;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;4.65;;;;;05.06.07;;CSK
+;04793486153;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;4.78;;;;;05.06.07;;CSK
+;04792603071;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;5.01;;;;;05.06.07;;CSK
+;04792661612;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;5.22;;;;;05.06.07;;CSK
+;04745449288;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;5.86;;;;;05.06.07;;CSK
+;04793416932;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;6.29;;;;;05.06.07;;CSK
+;04740617659;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;6.34;;;;;05.06.07;;CSK
+;04798452260;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;7.04;;;;;05.06.07;;CSK
+;04793215503;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;7.06;;;;;05.06.07;;CSK
+;04799357749;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;7.91;;;;;05.06.07;;CSK
+;04793004870;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;9.16;;;;;05.06.07;;CSK
+;04793266901;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;9.16;;;;;05.06.07;;CSK
+;04793814082;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;11.16;;;;;05.06.07;;CSK
+;04791175848;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;11.31;;;;;05.06.07;;CSK
+;04798838400;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;11.57;;;;;05.06.07;;CSK
+;04793016630;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;12.69;;;;;05.06.07;;CSK
+;04797155843;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;13.41;;;;;05.06.07;;CSK
+;04792859508;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;13.61;;;;;05.06.07;;CSK
+;04741161750;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;13.76;;;;;05.06.07;;CSK
+;04792266769;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;14.53;;;;;05.06.07;;CSK
+;04792488767;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;15.18;;;;;05.06.07;;CSK
+;04748116604;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;17.19;;;;;05.06.07;;CSK
+;04798241633;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;18.44;;;;;05.06.07;;CSK
+;04793056357;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;23.76;;;;;05.06.07;;CSK
+;04792457220;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;24.75;;;;;05.06.07;;CSK
+;04792809063;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;26.52;;;;;05.06.07;;CSK
+;04793487903;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;29.36;;;;;05.06.07;;CSK
+;04792069949;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;33.28;;;;;05.06.07;;CSK
+;04798417509;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;80.2;;;;;05.06.07;;CSK
+;04798241594;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;82.93;;;;;05.06.07;;CSK
+;04798241651;KORFAK;Interne samtaler NTAXI fra 01.01.07;Bedriftsinterne samtaler;119.5;;;;;05.06.07;;CSK

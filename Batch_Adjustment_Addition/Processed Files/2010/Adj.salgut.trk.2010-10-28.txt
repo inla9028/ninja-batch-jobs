@@ -1,0 +1,131 @@
+;04741472801;SALGUT;Utkjøp av binding, godkjent av selger Asim Hadzalic;;1500;;;;;TRK 28.10.10;1;TRK
+;04741486550;SALGUT;Utkjøp av binding, godkjent av selger Asim Hadzalic;;1500;;;;;TRK 28.10.10;1;TRK
+;04791165456;SALGUT;Utkjøp av binding, godkjent av selger Asim Hadzalic;;1500;;;;;TRK 28.10.10;1;TRK
+;04795488208;SALGUT;Utkjøp av binding, godkjent av selger Asim Hadzalic;;1500;;;;;TRK 28.10.10;1;TRK
+;04795492167;SALGUT;Utkjøp av binding, godkjent av selger Asim Hadzalic;;1500;;;;;TRK 28.10.10;1;TRK
+;04795494689;SALGUT;Utkjøp av binding, godkjent av selger Asim Hadzalic;;1500;;;;;TRK 28.10.10;1;TRK
+;04745261858;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;TRK 28.10.10;1;TRK
+;04740634360;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;TRK 28.10.10;1;TRK
+;04740641490;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1250;;;;;TRK 28.10.10;1;TRK
+;04792883598;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;TRK 28.10.10;1;TRK
+;04798017877;SALGUT;Utkjøp av binding, godkjent av selger Frank Tømmervik;;1875;;;;;TRK 28.10.10;1;TRK
+;04794176110;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1875;;;;;TRK 28.10.10;1;TRK
+;04741515002;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;TRK 28.10.10;1;TRK
+;04795302404;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;TRK 28.10.10;1;TRK
+;04791160804;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;TRK 28.10.10;1;TRK
+;04797582019;SALGUT;Utkjøp av binding, godkjent av selger Inge Nordgård;;1500;;;;;TRK 28.10.10;1;TRK
+;04793246300;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;TRK 28.10.10;1;TRK
+;04793246306;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;TRK 28.10.10;1;TRK
+;04793246308;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1625;;;;;TRK 28.10.10;1;TRK
+;04793246309;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;TRK 28.10.10;1;TRK
+;04793246310;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;TRK 28.10.10;1;TRK
+;04790825599;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1875;;;;;TRK 28.10.10;1;TRK
+;04795775746;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;TRK 28.10.10;1;TRK
+;04740223560;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;TRK 28.10.10;1;TRK
+;04748076734;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;TRK 28.10.10;1;TRK
+;04797965180;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04740234330;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04791381374;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04797110035;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04790610374;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04746933516;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;907;;;;;TRK 28.10.10;1;TRK
+;04795820378;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04790086881;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04790671907;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1100;;;;;TRK 28.10.10;1;TRK
+;04797585198;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04795200689;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04791772822;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04745437354;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04793047658;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04741553247;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04797618215;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04795872525;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04790970023;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04741553448;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04793673172;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1200;;;;;TRK 28.10.10;1;TRK
+;04791548683;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04741519098;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04748279157;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04748180794;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04797193310;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04791308277;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04790033790;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04792077911;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04799447832;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04797666515;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04797183710;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04790767366;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04791722736;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04790610374;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04791637116;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04790558133;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1500;;;;;TRK 28.10.10;1;TRK
+;04746415329;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L Torsvik;;1875;;;;;TRK 28.10.10;1;TRK
+;04795893295;SALGUT;Utkjøp av binding, godkjent av selger Linn Skretting;;1500;;;;;TRK 28.10.10;1;TRK
+;04794002464;SALGUT;Utkjøp av binding, godkjent av selger Morten Brandt;;1875;;;;;TRK 28.10.10;1;TRK
+;04790650500;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;TRK 28.10.10;1;TRK
+;04740346872;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04745444444;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04791775118;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04795899850;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04748202367;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04799729830;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04795200382;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04746866120;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04741505151;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04748034451;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04799291749;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04790941878;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;TRK 28.10.10;1;TRK
+;04795928047;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;TRK 28.10.10;1;TRK
+;04746939616;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;438;;;;;TRK 28.10.10;1;TRK
+;04748135113;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;TRK 28.10.10;1;TRK
+;04790599572;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;TRK 28.10.10;1;TRK
+;04741689617;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;388;;;;;TRK 28.10.10;1;TRK
+;04790034045;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04790117036;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04790069705;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04797184540;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04790560952;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04792829232;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04740003736;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1875;;;;;TRK 28.10.10;1;TRK
+;04795759153;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04795238058;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04790171862;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04791752970;SALGUT;Utkjøp av binding, godkjent av selger Ole-Kristian Fossheim;;1500;;;;;TRK 28.10.10;1;TRK
+;04790955245;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1200;;;;;TRK 28.10.10;1;TRK
+;04740622622;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04745486446;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04745486776;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04746424104;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04748149401;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04748234820;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792027622;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792229351;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792409354;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792418905;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792603342;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792628780;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792631882;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04792690300;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04793005508;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04793069722;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04793092293;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04796629170;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04796629171;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04796629172;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04796629173;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04796629175;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04796629176;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;TRK 28.10.10;1;TRK
+;04797698695;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04799593321;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04799593320;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04748083228;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04748083230;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04748083229;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04793042818;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04793038024;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04745486922;SALGUT;Utkjøp av binding, godkjent av selger Rolf Høyem;;1500;;;;;TRK 28.10.10;1;TRK
+;04747755162;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1500;;;;;TRK 28.10.10;1;TRK
+;04790916303;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1500;;;;;TRK 28.10.10;1;TRK
+;04793223067;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1500;;;;;TRK 28.10.10;1;TRK
+;04793807970;SALGUT;Utkjøp av binding, godkjent av selger Sture Høyvåg;;1500;;;;;TRK 28.10.10;1;TRK
+;04799550002;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;TRK 28.10.10;1;TRK

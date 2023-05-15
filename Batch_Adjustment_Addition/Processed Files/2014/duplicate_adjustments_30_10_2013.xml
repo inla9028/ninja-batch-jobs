@@ -1,0 +1,2108 @@
+<?xml version="1.0"?>
+<?xml:stylesheet type="text/xsl" href="duplicate_adjustments_30_10_2013xml_xml.xsl"?>
+<CACHE>
+<TITLE>duplicate_adjustments_30_10_2013xml_xml</TITLE>
+<STYLES>
+<STYLE Id="0" AlignText="Left" FontName="Arial" FontCharset="1" Bold="True" Italic="False" Underline="False" StrikeOut="False" FontColor="rgb(0,0,0)" FontSize="10" BrushStyle="Clear" BrushBkColor="rgb(255,255,255)" BrushFgColor="rgb(255,255,255)">
+<BORDER_LEFT IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+<BORDER_UP IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+<BORDER_RIGHT IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+<BORDER_DOWN IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+</STYLE>
+<STYLE Id="1" AlignText="Right" FontName="Arial" FontCharset="1" Bold="False" Italic="False" Underline="False" StrikeOut="False" FontColor="rgb(0,0,0)" FontSize="10" BrushStyle="Clear" BrushBkColor="rgb(255,255,255)" BrushFgColor="rgb(255,255,255)">
+<BORDER_LEFT IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+<BORDER_UP IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+<BORDER_RIGHT IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+<BORDER_DOWN IsDefault="False" Width="0" Color="rgb(0,0,0)"/>
+</STYLE>
+</STYLES>
+<LINES ColCount="5" RowCount="346">
+<LINE>
+<CELL Width="0" Height="0">
+</CELL>
+<CELL Width="0" Height="0">
+</CELL>
+<CELL Width="0" Height="0">
+</CELL>
+<CELL Width="0" Height="0">
+</CELL>
+<CELL Width="0" Height="0">
+</CELL>
+</LINE>
+<LINE>
+<CELL Align="left" StyleClass="0">SUBSCRIBER_NO</CELL>
+<CELL Align="left" StyleClass="0">ADJUSTMENT_CODE</CELL>
+<CELL Align="left" StyleClass="0">AMOUNT</CELL>
+<CELL Align="left" StyleClass="0">PROCESS_STATUS</CELL>
+<CELL Align="left" StyleClass="0">COUNT(*)</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790027810</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790478586</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790746700</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795113032</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795402426</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795708106</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322401</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248791</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248792</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248789</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793417233</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793435585</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740454711</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741619810</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795047117</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741315502</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795863356</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745242557</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792410402</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1375</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795709631</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790187464</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791359598</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740441623</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793222986</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799007323</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740436990</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799577120</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747910434</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747417608</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741402588</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741395372</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745002828</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793078800</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745861633</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795463840</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797012333</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740694330</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746978991</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792077872</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235005</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235010</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797727629</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790132102</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793847175</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791882350</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790193302</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797537792</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790561317</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791160991</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791914723</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799593349</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741531592</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741531593</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798246531</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798246533</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741531590</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04794833735</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790403187</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790614382</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248794</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248787</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793435599</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793417232</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747669018</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792020972</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797600510</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792097630</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745519935</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747242467</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795724319</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790281398</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797666343</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741421769</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799109008</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3125</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745099590</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3125</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798869885</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795991749</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745514639</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746509369</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797733330</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790972855</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791103333</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791876190</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748323702</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740696059</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740696063</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746972281</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748311001</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04751558010</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795759791</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235003</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792697446</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748109121</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748292683</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746745746</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795070319</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792412307</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745515075</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322404</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322407</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322418</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790614383</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795705546</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791535474</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248788</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248786</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793435587</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793435592</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793417230</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793417231</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790275579</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790940594</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792460484</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797546633</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798089020</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747248502</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">375</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746843717</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745402940</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791316415</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">375</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746543507</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740698820</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748323389</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792077901</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792077903</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235001</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235004</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235012</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790214717</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791107579</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791532335</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04794521513</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04794525756</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795272898</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04794821477</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748323322</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790055464</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790614380</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791917745</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795040660</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795416757</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793435591</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795789816</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792247819</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745616521</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795116210</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790878295</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790777145</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795139736</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795772328</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748108735</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792222258</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793484500</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3125</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741696460</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745507290</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745505160</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746543760</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791100884</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795250013</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747458856</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790520746</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792257860</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747458855</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745245097</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792077873</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235011</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791850424</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791192129</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741531595</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745426643</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798246529</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741328844</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748054000</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797417913</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322405</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322406</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322411</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790738700</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790745654</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248785</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792288650</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792660916</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792081140</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741546914</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799323473</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741336756</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747314383</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793831654</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791396325</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793223278</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740291932</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741458185</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799232226</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3125</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790868105</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791395790</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748129776</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747660764</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745505150</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795229855</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">375</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747459991</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747926669</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748323701</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795250011</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745859758</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740696058</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746978984</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746987056</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747931826</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748311002</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792077902</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792077904</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235006</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235009</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790820040</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790912864</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791637708</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746983796</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798246525</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798246528</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322409</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790055463</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790198327</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790784109</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740454548</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740609523</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791878042</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791175833</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790792400</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792232493</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790534595</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748175363</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740604243</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797541199</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791613061</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740407832</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799349093</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791576685</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747455747</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747170160</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792854030</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3125</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745235394</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3125</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04794817301</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791632209</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799511184</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747627825</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792807008</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793262505</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">375</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795250010</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746983750</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235008</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799489389</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799797380</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746980542</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746985317</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790664365</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790737839</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791357055</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791898687</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797417377</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790601405</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793408610</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798246530</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792042167</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795419228</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795419372</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795424667</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248790</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793464962</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792633941</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791996951</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790063010</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791697881</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795215654</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745044244</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790066505</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741699956</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790879278</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795052871</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799210971</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747399317</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741290750</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">938</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741920422</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748868697</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799511185</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745516360</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799101125</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745391983</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745506029</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746983751</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746983752</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747917389</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790697421</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791820145</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797646000</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793239760</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04794521501</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740525252</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741531594</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790107240</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798246527</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04799121611</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322403</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748322419</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790077728</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790124088</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791599721</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795401769</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2625</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798248793</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793435596</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793417234</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793417236</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797106123</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792639377</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795863822</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791103761</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790222961</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740008709</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797888122</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797044086</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790024171</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04793293545</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790667085</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747928393</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795221475</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747371537</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747022700</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04797084140</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791856085</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04791699528</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2021</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04745516370</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790719958</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">375</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746545213</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04792649496</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04795250012</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04740694332</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235002</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798235007</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04747472886</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748044346</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746863636</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04790575005</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3000</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04798257324</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">3750</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741531591</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">2250</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">2</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04748259205</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">4</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04746610155</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">4</CELL>
+</LINE><LINE>
+<CELL Align="left" StyleClass="-1">04741421767</CELL>
+<CELL Align="left" StyleClass="-1">SALGUT</CELL>
+<CELL Align="left" StyleClass="-1">1500</CELL>
+<CELL Align="left" StyleClass="-1">PRSD_SUCCESS</CELL>
+<CELL Align="left" StyleClass="-1">4</CELL>
+</LINE></LINES></CACHE>

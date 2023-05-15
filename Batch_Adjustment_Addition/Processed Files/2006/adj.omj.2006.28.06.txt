@@ -1,0 +1,622 @@
+;04790175723;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2007;Rabatt;39.14;;;;;25.06.07;;CSK;
+;04790175724;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2008;Rabatt;47.26;;;;;25.06.07;;CSK;
+;04790563656;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2009;Rabatt;178.25;;;;;25.06.07;;CSK;
+;04790637518;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2010;Rabatt;86.36;;;;;25.06.07;;CSK;
+;04790637519;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2011;Rabatt;3.7;;;;;25.06.07;;CSK;
+;04790649257;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2012;Rabatt;36.3;;;;;25.06.07;;CSK;
+;04790659872;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2013;Rabatt;63.45;;;;;25.06.07;;CSK;
+;04790760362;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2014;Rabatt;35.11;;;;;25.06.07;;CSK;
+;04790791600;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2015;Rabatt;88.83;;;;;25.06.07;;CSK;
+;04791304227;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2016;Rabatt;55.17;;;;;25.06.07;;CSK;
+;04791806950;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2017;Rabatt;86.57;;;;;25.06.07;;CSK;
+;04792853012;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2018;Rabatt;29.71;;;;;25.06.07;;CSK;
+;04793893208;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2019;Rabatt;31.28;;;;;25.06.07;;CSK;
+;04795227724;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2020;Rabatt;119.94;;;;;25.06.07;;CSK;
+;04795901272;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2021;Rabatt;23.59;;;;;25.06.07;;CSK;
+;04799597988;KORFAK;Justert for manglende rabatt (22%) fra 01.04.2022;Rabatt;112.67;;;;;25.06.07;;CSK
+;04798208472;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;45.11;;;;;27.06.07;;OMJ
+;04793084977;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.36;;;;;27.06.07;;OMJ
+;04798880504;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.73;;;;;27.06.07;;OMJ
+;04797043453;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;20.64;;;;;27.06.07;;OMJ
+;04793247042;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;50.17;;;;;27.06.07;;OMJ
+;04799044844;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;69.23;;;;;27.06.07;;OMJ
+;04793480730;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.78;;;;;27.06.07;;OMJ
+;04793480609;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.37;;;;;27.06.07;;OMJ
+;04793480402;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.47;;;;;27.06.07;;OMJ
+;04793480338;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;30.41;;;;;27.06.07;;OMJ
+;04793479610;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;12.07;;;;;27.06.07;;OMJ
+;04793403914;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.62;;;;;27.06.07;;OMJ
+;04793403466;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;5.5;;;;;27.06.07;;OMJ
+;04793234824;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.69;;;;;27.06.07;;OMJ
+;04792433834;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;10.94;;;;;27.06.07;;OMJ
+;04792242010;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;26.18;;;;;27.06.07;;OMJ
+;04792213405;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.02;;;;;27.06.07;;OMJ
+;04792011166;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;89.66;;;;;27.06.07;;OMJ
+;04799168538;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.5;;;;;27.06.07;;OMJ
+;04797687766;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.26;;;;;27.06.07;;OMJ
+;04795056060;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;8.67;;;;;27.06.07;;OMJ
+;04793480635;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.19;;;;;27.06.07;;OMJ
+;04793480278;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.15;;;;;27.06.07;;OMJ
+;04793455599;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.86;;;;;27.06.07;;OMJ
+;04793425403;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.75;;;;;27.06.07;;OMJ
+;04793422263;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.02;;;;;27.06.07;;OMJ
+;04793403081;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;52.32;;;;;27.06.07;;OMJ
+;04793403068;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.29;;;;;27.06.07;;OMJ
+;04793264528;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.18;;;;;27.06.07;;OMJ
+;04792829741;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.24;;;;;27.06.07;;OMJ
+;04792809371;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;6.79;;;;;27.06.07;;OMJ
+;04792665300;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.87;;;;;27.06.07;;OMJ
+;04790087837;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.86;;;;;27.06.07;;OMJ
+;04797713998;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.24;;;;;27.06.07;;OMJ
+;04793007905;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.23;;;;;27.06.07;;OMJ
+;04799004505;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;34.91;;;;;27.06.07;;OMJ
+;04795701088;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.85;;;;;27.06.07;;OMJ
+;04793480640;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;52.61;;;;;27.06.07;;OMJ
+;04793480583;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.18;;;;;27.06.07;;OMJ
+;04793480382;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;63.08;;;;;27.06.07;;OMJ
+;04793422602;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;9.28;;;;;27.06.07;;OMJ
+;04793403955;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.3;;;;;27.06.07;;OMJ
+;04793403913;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.68;;;;;27.06.07;;OMJ
+;04793403912;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.27;;;;;27.06.07;;OMJ
+;04793403894;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;80.92;;;;;27.06.07;;OMJ
+;04792246009;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.55;;;;;27.06.07;;OMJ
+;04790565152;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.23;;;;;27.06.07;;OMJ
+;04798847200;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;115.07;;;;;27.06.07;;OMJ
+;04793480850;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.79;;;;;27.06.07;;OMJ
+;04793480656;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.9;;;;;27.06.07;;OMJ
+;04793480049;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.61;;;;;27.06.07;;OMJ
+;04793403016;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.87;;;;;27.06.07;;OMJ
+;04792893859;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.38;;;;;27.06.07;;OMJ
+;04792829753;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;20.87;;;;;27.06.07;;OMJ
+;04792440100;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;251.22;;;;;27.06.07;;OMJ
+;04793404534;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.78;;;;;27.06.07;;OMJ
+;04790837910;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;6.45;;;;;27.06.07;;OMJ
+;04799216727;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;13.26;;;;;27.06.07;;OMJ
+;04793480637;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;16.5;;;;;27.06.07;;OMJ
+;04793480248;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.92;;;;;27.06.07;;OMJ
+;04793480190;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;40.52;;;;;27.06.07;;OMJ
+;04793480137;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.95;;;;;27.06.07;;OMJ
+;04793480039;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;22.85;;;;;27.06.07;;OMJ
+;04793480034;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;496.11;;;;;27.06.07;;OMJ
+;04793459348;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.27;;;;;27.06.07;;OMJ
+;04793403401;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;46.29;;;;;27.06.07;;OMJ
+;04793403308;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;12.18;;;;;27.06.07;;OMJ
+;04793403030;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;99.2;;;;;27.06.07;;OMJ
+;04791517908;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;29.23;;;;;27.06.07;;OMJ
+;04790119205;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;31.71;;;;;27.06.07;;OMJ
+;04741521579;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;10.21;;;;;27.06.07;;OMJ
+;04793480311;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.21;;;;;27.06.07;;OMJ
+;04793479603;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;45.43;;;;;27.06.07;;OMJ
+;04793403916;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;128.57;;;;;27.06.07;;OMJ
+;04792400103;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.03;;;;;27.06.07;;OMJ
+;04741026884;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.17;;;;;27.06.07;;OMJ
+;04793431811;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.26;;;;;27.06.07;;OMJ
+;04793428680;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.37;;;;;27.06.07;;OMJ
+;04792602376;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.67;;;;;27.06.07;;OMJ
+;04798004444;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.26;;;;;27.06.07;;OMJ
+;04795998083;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.73;;;;;27.06.07;;OMJ
+;04793480900;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.33;;;;;27.06.07;;OMJ
+;04793480704;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.73;;;;;27.06.07;;OMJ
+;04793480621;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;17.81;;;;;27.06.07;;OMJ
+;04793480150;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.23;;;;;27.06.07;;OMJ
+;04793403786;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.67;;;;;27.06.07;;OMJ
+;04793403668;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.1;;;;;27.06.07;;OMJ
+;04793403567;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;26.79;;;;;27.06.07;;OMJ
+;04793403062;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;330.74;;;;;27.06.07;;OMJ
+;04792833607;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;44.82;;;;;27.06.07;;OMJ
+;04792602870;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;224.35;;;;;27.06.07;;OMJ
+;04792495575;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.71;;;;;27.06.07;;OMJ
+;04792035770;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.04;;;;;27.06.07;;OMJ
+;04797588074;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.73;;;;;27.06.07;;OMJ
+;04795057902;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.05;;;;;27.06.07;;OMJ
+;04793480319;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.07;;;;;27.06.07;;OMJ
+;04792828575;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.52;;;;;27.06.07;;OMJ
+;04792826155;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;10.72;;;;;27.06.07;;OMJ
+;04792454080;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;35.37;;;;;27.06.07;;OMJ
+;04791126512;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;12.86;;;;;27.06.07;;OMJ
+;04790995434;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;22.64;;;;;27.06.07;;OMJ
+;04797743143;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.84;;;;;27.06.07;;OMJ
+;04795801828;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;28.8;;;;;27.06.07;;OMJ
+;04793480219;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.29;;;;;27.06.07;;OMJ
+;04793403562;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.02;;;;;27.06.07;;OMJ
+;04792805381;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.44;;;;;27.06.07;;OMJ
+;04795222002;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.18;;;;;27.06.07;;OMJ
+;04793480737;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;13.12;;;;;27.06.07;;OMJ
+;04793480643;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.79;;;;;27.06.07;;OMJ
+;04793420379;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.54;;;;;27.06.07;;OMJ
+;04793403333;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;29.29;;;;;27.06.07;;OMJ
+;04793403066;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.12;;;;;27.06.07;;OMJ
+;04793255659;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;47.68;;;;;27.06.07;;OMJ
+;04793205244;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.04;;;;;27.06.07;;OMJ
+;04793098766;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.45;;;;;27.06.07;;OMJ
+;04792893714;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;608.84;;;;;27.06.07;;OMJ
+;04792297762;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;8.05;;;;;27.06.07;;OMJ
+;04797733696;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;14.46;;;;;27.06.07;;OMJ
+;04793480081;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.7;;;;;27.06.07;;OMJ
+;04793403484;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.44;;;;;27.06.07;;OMJ
+;04791317047;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.03;;;;;27.06.07;;OMJ
+;04791103570;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;5.57;;;;;27.06.07;;OMJ
+;04790028224;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.75;;;;;27.06.07;;OMJ
+;04741420626;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;106.24;;;;;27.06.07;;OMJ
+;04793480703;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.9;;;;;27.06.07;;OMJ
+;04793480199;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.27;;;;;27.06.07;;OMJ
+;04792627101;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.46;;;;;27.06.07;;OMJ
+;04792486980;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.08;;;;;27.06.07;;OMJ
+;04791762165;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;34.29;;;;;27.06.07;;OMJ
+;04799260356;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.27;;;;;27.06.07;;OMJ
+;04795803068;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;80.57;;;;;27.06.07;;OMJ
+;04793480461;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;116.77;;;;;27.06.07;;OMJ
+;04793479634;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;41.65;;;;;27.06.07;;OMJ
+;04793418000;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;241.23;;;;;27.06.07;;OMJ
+;04793403911;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.34;;;;;27.06.07;;OMJ
+;04793403316;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.87;;;;;27.06.07;;OMJ
+;04790096760;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.34;;;;;27.06.07;;OMJ
+;04748110451;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;14.13;;;;;27.06.07;;OMJ
+;04798416990;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.64;;;;;27.06.07;;OMJ
+;04797684210;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.31;;;;;27.06.07;;OMJ
+;04793480618;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;705.07;;;;;27.06.07;;OMJ
+;04793480462;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.92;;;;;27.06.07;;OMJ
+;04793403380;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;221.11;;;;;27.06.07;;OMJ
+;04793403077;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;51.69;;;;;27.06.07;;OMJ
+;04792838163;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;86.47;;;;;27.06.07;;OMJ
+;04791136101;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.99;;;;;27.06.07;;OMJ
+;04795153533;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;5.35;;;;;27.06.07;;OMJ
+;04793480801;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.29;;;;;27.06.07;;OMJ
+;04793480685;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.23;;;;;27.06.07;;OMJ
+;04793480510;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;17.22;;;;;27.06.07;;OMJ
+;04793479628;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;70.7;;;;;27.06.07;;OMJ
+;04793403808;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;33.34;;;;;27.06.07;;OMJ
+;04793403503;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;144.25;;;;;27.06.07;;OMJ
+;04793403342;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.85;;;;;27.06.07;;OMJ
+;04793403299;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.16;;;;;27.06.07;;OMJ
+;04793403138;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;41.05;;;;;27.06.07;;OMJ
+;04793403000;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;38.2;;;;;27.06.07;;OMJ
+;04792838077;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;205.37;;;;;27.06.07;;OMJ
+;04792253957;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.28;;;;;27.06.07;;OMJ
+;04791378445;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;12.9;;;;;27.06.07;;OMJ
+;04790062931;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;13.61;;;;;27.06.07;;OMJ
+;04793480905;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.43;;;;;27.06.07;;OMJ
+;04793480410;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;70.08;;;;;27.06.07;;OMJ
+;04793480226;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.96;;;;;27.06.07;;OMJ
+;04793480175;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;35.71;;;;;27.06.07;;OMJ
+;04793403678;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.14;;;;;27.06.07;;OMJ
+;04793018800;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;8.6;;;;;27.06.07;;OMJ
+;04792886932;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;51.65;;;;;27.06.07;;OMJ
+;04792027454;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.29;;;;;27.06.07;;OMJ
+;04790054001;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;54.64;;;;;27.06.07;;OMJ
+;04793479602;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.39;;;;;27.06.07;;OMJ
+;04793403032;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.7;;;;;27.06.07;;OMJ
+;04792282740;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.92;;;;;27.06.07;;OMJ
+;04795204505;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;29.14;;;;;27.06.07;;OMJ
+;04793845010;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;68.75;;;;;27.06.07;;OMJ
+;04793480772;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;56.52;;;;;27.06.07;;OMJ
+;04793480598;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;18.95;;;;;27.06.07;;OMJ
+;04793480588;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1304.38;;;;;27.06.07;;OMJ
+;04793480300;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.86;;;;;27.06.07;;OMJ
+;04793429718;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.52;;;;;27.06.07;;OMJ
+;04793403403;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;91.86;;;;;27.06.07;;OMJ
+;04792838093;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.38;;;;;27.06.07;;OMJ
+;04793480526;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.61;;;;;27.06.07;;OMJ
+;04793480466;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.41;;;;;27.06.07;;OMJ
+;04793480012;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;106.53;;;;;27.06.07;;OMJ
+;04793456043;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.89;;;;;27.06.07;;OMJ
+;04793403777;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;22.37;;;;;27.06.07;;OMJ
+;04793403132;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.17;;;;;27.06.07;;OMJ
+;04790863658;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;8.26;;;;;27.06.07;;OMJ
+;04793480475;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.1;;;;;27.06.07;;OMJ
+;04797427662;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;81.68;;;;;27.06.07;;OMJ
+;04795107210;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;694.05;;;;;27.06.07;;OMJ
+;04795075498;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;221.7;;;;;27.06.07;;OMJ
+;04793480106;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;50.5;;;;;27.06.07;;OMJ
+;04793422550;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.05;;;;;27.06.07;;OMJ
+;04793406942;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;15.43;;;;;27.06.07;;OMJ
+;04793403024;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;12.58;;;;;27.06.07;;OMJ
+;04793009494;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.32;;;;;27.06.07;;OMJ
+;04792833738;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;127.11;;;;;27.06.07;;OMJ
+;04792291098;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.08;;;;;27.06.07;;OMJ
+;04790793614;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.37;;;;;27.06.07;;OMJ
+;04745290787;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.9;;;;;27.06.07;;OMJ
+;04741658616;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.14;;;;;27.06.07;;OMJ
+;04799736366;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;6.8;;;;;27.06.07;;OMJ
+;04792845754;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.6;;;;;27.06.07;;OMJ
+;04792253882;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.04;;;;;27.06.07;;OMJ
+;04791846174;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.51;;;;;27.06.07;;OMJ
+;04791379106;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;85.72;;;;;27.06.07;;OMJ
+;04791116261;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;184.35;;;;;27.06.07;;OMJ
+;04740614614;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;14.19;;;;;27.06.07;;OMJ
+;04792803552;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.21;;;;;27.06.07;;OMJ
+;04792244131;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.58;;;;;27.06.07;;OMJ
+;04790873743;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;17.02;;;;;27.06.07;;OMJ
+;04793480659;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.48;;;;;27.06.07;;OMJ
+;04793480369;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.41;;;;;27.06.07;;OMJ
+;04793480238;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.9;;;;;27.06.07;;OMJ
+;04793403107;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;110.48;;;;;27.06.07;;OMJ
+;04792041158;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.02;;;;;27.06.07;;OMJ
+;04791530499;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.03;;;;;27.06.07;;OMJ
+;04790911419;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.8;;;;;27.06.07;;OMJ
+;04790771923;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;197.22;;;;;27.06.07;;OMJ
+;04790044459;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;65.14;;;;;27.06.07;;OMJ
+;04798898041;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.92;;;;;27.06.07;;OMJ
+;04795159834;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.28;;;;;27.06.07;;OMJ
+;04793480011;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;42.85;;;;;27.06.07;;OMJ
+;04793461193;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;29.77;;;;;27.06.07;;OMJ
+;04793403471;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;30.03;;;;;27.06.07;;OMJ
+;04793403306;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;17.52;;;;;27.06.07;;OMJ
+;04793403049;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;13.53;;;;;27.06.07;;OMJ
+;04792823978;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.41;;;;;27.06.07;;OMJ
+;04792819120;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.52;;;;;27.06.07;;OMJ
+;04792483958;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.77;;;;;27.06.07;;OMJ
+;04799265691;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.02;;;;;27.06.07;;OMJ
+;04792829731;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.92;;;;;27.06.07;;OMJ
+;04790281898;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.98;;;;;27.06.07;;OMJ
+;04745032306;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.03;;;;;27.06.07;;OMJ
+;04797794738;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;31.13;;;;;27.06.07;;OMJ
+;04793480836;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.55;;;;;27.06.07;;OMJ
+;04793480771;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.1;;;;;27.06.07;;OMJ
+;04793480430;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1790.15;;;;;27.06.07;;OMJ
+;04793479608;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.82;;;;;27.06.07;;OMJ
+;04793408510;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;42;;;;;27.06.07;;OMJ
+;04793403183;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.12;;;;;27.06.07;;OMJ
+;04792829751;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.46;;;;;27.06.07;;OMJ
+;04792801337;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;44.64;;;;;27.06.07;;OMJ
+;04792028822;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.06;;;;;27.06.07;;OMJ
+;04799798927;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.28;;;;;27.06.07;;OMJ
+;04799720015;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;62.6;;;;;27.06.07;;OMJ
+;04798846804;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.04;;;;;27.06.07;;OMJ
+;04797733765;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.86;;;;;27.06.07;;OMJ
+;04795201369;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.74;;;;;27.06.07;;OMJ
+;04793480428;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;183.86;;;;;27.06.07;;OMJ
+;04793480427;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.92;;;;;27.06.07;;OMJ
+;04793403612;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.86;;;;;27.06.07;;OMJ
+;04792019524;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;14.93;;;;;27.06.07;;OMJ
+;04791583100;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;46.53;;;;;27.06.07;;OMJ
+;04791384694;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;9.09;;;;;27.06.07;;OMJ
+;04790840899;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;10.85;;;;;27.06.07;;OMJ
+;04741508089;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.94;;;;;27.06.07;;OMJ
+;04798496161;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;14.63;;;;;27.06.07;;OMJ
+;04793480317;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.58;;;;;27.06.07;;OMJ
+;04792416420;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.92;;;;;27.06.07;;OMJ
+;04792064892;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.71;;;;;27.06.07;;OMJ
+;04791791781;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;23.1;;;;;27.06.07;;OMJ
+;04791190082;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.21;;;;;27.06.07;;OMJ
+;04790571935;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.53;;;;;27.06.07;;OMJ
+;04797707330;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.71;;;;;27.06.07;;OMJ
+;04797070900;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;20.6;;;;;27.06.07;;OMJ
+;04793480872;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;18.96;;;;;27.06.07;;OMJ
+;04793480662;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.57;;;;;27.06.07;;OMJ
+;04793480522;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;22.04;;;;;27.06.07;;OMJ
+;04793480364;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.82;;;;;27.06.07;;OMJ
+;04793480079;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;17.5;;;;;27.06.07;;OMJ
+;04793403318;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.12;;;;;27.06.07;;OMJ
+;04793403159;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.3;;;;;27.06.07;;OMJ
+;04792608125;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.96;;;;;27.06.07;;OMJ
+;04797197076;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.4;;;;;27.06.07;;OMJ
+;04793480846;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.56;;;;;27.06.07;;OMJ
+;04793480776;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;5.87;;;;;27.06.07;;OMJ
+;04793406926;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.65;;;;;27.06.07;;OMJ
+;04793095450;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.36;;;;;27.06.07;;OMJ
+;04792869515;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.33;;;;;27.06.07;;OMJ
+;04792099392;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.03;;;;;27.06.07;;OMJ
+;04745046446;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;17.83;;;;;27.06.07;;OMJ
+;04741905713;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;20.01;;;;;27.06.07;;OMJ
+;04741615058;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.2;;;;;27.06.07;;OMJ
+;04795750581;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.34;;;;;27.06.07;;OMJ
+;04793479635;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.02;;;;;27.06.07;;OMJ
+;04793400540;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.13;;;;;27.06.07;;OMJ
+;04741547878;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;5.36;;;;;27.06.07;;OMJ
+;04793480881;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.48;;;;;27.06.07;;OMJ
+;04793480386;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.46;;;;;27.06.07;;OMJ
+;04793480348;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.09;;;;;27.06.07;;OMJ
+;04793480151;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;74.92;;;;;27.06.07;;OMJ
+;04793480015;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;101.43;;;;;27.06.07;;OMJ
+;04793453059;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.8;;;;;27.06.07;;OMJ
+;04793403133;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;9.2;;;;;27.06.07;;OMJ
+;04793403102;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;8.64;;;;;27.06.07;;OMJ
+;04792834233;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;66.32;;;;;27.06.07;;OMJ
+;04792829686;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;8.8;;;;;27.06.07;;OMJ
+;04792815547;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;595.74;;;;;27.06.07;;OMJ
+;04792090300;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;22.18;;;;;27.06.07;;OMJ
+;04798893908;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;20.05;;;;;27.06.07;;OMJ
+;04793480877;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.67;;;;;27.06.07;;OMJ
+;04793480848;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.43;;;;;27.06.07;;OMJ
+;04793454378;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;62.2;;;;;27.06.07;;OMJ
+;04793434075;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.08;;;;;27.06.07;;OMJ
+;04793403985;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;14.04;;;;;27.06.07;;OMJ
+;04792452437;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.08;;;;;27.06.07;;OMJ
+;04793403850;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.14;;;;;27.06.07;;OMJ
+;04793403014;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;46.7;;;;;27.06.07;;OMJ
+;04797050200;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;5.26;;;;;27.06.07;;OMJ
+;04793480820;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;20.04;;;;;27.06.07;;OMJ
+;04793480321;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;32.17;;;;;27.06.07;;OMJ
+;04793480135;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.58;;;;;27.06.07;;OMJ
+;04793403863;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;23.55;;;;;27.06.07;;OMJ
+;04793403831;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;12.82;;;;;27.06.07;;OMJ
+;04793403463;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.85;;;;;27.06.07;;OMJ
+;04793403069;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.23;;;;;27.06.07;;OMJ
+;04792842011;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.79;;;;;27.06.07;;OMJ
+;04792829718;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;13.71;;;;;27.06.07;;OMJ
+;04792803747;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.72;;;;;27.06.07;;OMJ
+;04792638069;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;53.21;;;;;27.06.07;;OMJ
+;04790766691;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.76;;;;;27.06.07;;OMJ
+;04798898040;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;120.83;;;;;27.06.07;;OMJ
+;04795237202;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;17.66;;;;;27.06.07;;OMJ
+;04795235550;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.1;;;;;27.06.07;;OMJ
+;04793480596;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.63;;;;;27.06.07;;OMJ
+;04793480578;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;30.07;;;;;27.06.07;;OMJ
+;04793480535;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.31;;;;;27.06.07;;OMJ
+;04793407819;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;57.46;;;;;27.06.07;;OMJ
+;04793403754;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;243.91;;;;;27.06.07;;OMJ
+;04793210307;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.56;;;;;27.06.07;;OMJ
+;04792433082;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;36.29;;;;;27.06.07;;OMJ
+;04792045330;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;10.17;;;;;27.06.07;;OMJ
+;04747400038;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.14;;;;;27.06.07;;OMJ
+;04741617600;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;27.28;;;;;27.06.07;;OMJ
+;04793403594;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;78.54;;;;;27.06.07;;OMJ
+;04793403321;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.14;;;;;27.06.07;;OMJ
+;04792289348;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.21;;;;;27.06.07;;OMJ
+;04745269023;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.1;;;;;27.06.07;;OMJ
+;04797975839;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;14.34;;;;;27.06.07;;OMJ
+;04795702665;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.23;;;;;27.06.07;;OMJ
+;04793480617;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;55.01;;;;;27.06.07;;OMJ
+;04793428669;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.73;;;;;27.06.07;;OMJ
+;04793424565;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.21;;;;;27.06.07;;OMJ
+;04793403839;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;18.1;;;;;27.06.07;;OMJ
+;04793403028;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;349.05;;;;;27.06.07;;OMJ
+;04792221492;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.38;;;;;27.06.07;;OMJ
+;04792083836;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;9.14;;;;;27.06.07;;OMJ
+;04792023917;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4;;;;;27.06.07;;OMJ
+;04790771756;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;139.55;;;;;27.06.07;;OMJ
+;04790037987;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;145.6;;;;;27.06.07;;OMJ
+;04794209370;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;62.21;;;;;27.06.07;;OMJ
+;04793480653;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;63.9;;;;;27.06.07;;OMJ
+;04793480412;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.87;;;;;27.06.07;;OMJ
+;04793403155;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.86;;;;;27.06.07;;OMJ
+;04792601490;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;7.13;;;;;27.06.07;;OMJ
+;04792287244;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.07;;;;;27.06.07;;OMJ
+;04790881830;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.6;;;;;27.06.07;;OMJ
+;04790739243;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;11.17;;;;;27.06.07;;OMJ
+;04790738548;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.35;;;;;27.06.07;;OMJ
+;04790027817;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;186.45;;;;;27.06.07;;OMJ
+;04792833545;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;35.15;;;;;27.06.07;;OMJ
+;04795868005;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.23;;;;;27.06.07;;OMJ
+;04793486043;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.81;;;;;27.06.07;;OMJ
+;04793480751;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.89;;;;;27.06.07;;OMJ
+;04793403314;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;245.09;;;;;27.06.07;;OMJ
+;04793403261;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.73;;;;;27.06.07;;OMJ
+;04793403033;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;6.53;;;;;27.06.07;;OMJ
+;04793201232;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.5;;;;;27.06.07;;OMJ
+;04791848310;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;2.95;;;;;27.06.07;;OMJ
+;04791337484;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;26.8;;;;;27.06.07;;OMJ
+;04798434600;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.39;;;;;27.06.07;;OMJ
+;04793480999;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.85;;;;;27.06.07;;OMJ
+;04793480892;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;5.72;;;;;27.06.07;;OMJ
+;04793479525;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.28;;;;;27.06.07;;OMJ
+;04793403926;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.97;;;;;27.06.07;;OMJ
+;04793403882;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.04;;;;;27.06.07;;OMJ
+;04793403776;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;0.3;;;;;27.06.07;;OMJ
+;04792229511;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;93.66;;;;;27.06.07;;OMJ
+;04791701101;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.5;;;;;27.06.07;;OMJ
+;04741907190;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;3.1;;;;;27.06.07;;OMJ
+;04791572792;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.67;;;;;27.06.07;;OMJ
+;04790672647;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1.29;;;;;27.06.07;;OMJ
+;04790858511;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;145.27;;;;;27.06.07;;OMJ
+;04745250284;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1722.12;;;;;27.06.07;;OMJ
+;04748257781;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;4.5;;;;;27.06.07;;OMJ
+;04793018640;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;33.85;;;;;27.06.07;;OMJ
+;04792423869;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;130.55;;;;;27.06.07;;OMJ
+;04745231222;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;12.97;;;;;27.06.07;;OMJ
+;04795276007;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;21.74;;;;;27.06.07;;OMJ
+;04793480820;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1180.42;;;;;27.06.07;;OMJ
+;04798898040;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;649.04;;;;;27.06.07;;OMJ
+;04793403403;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;495.57;;;;;27.06.07;;OMJ
+;04792027454;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;494.79;;;;;27.06.07;;OMJ
+;04792886932;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;450.36;;;;;27.06.07;;OMJ
+;04790984041;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;316.74;;;;;27.06.07;;OMJ
+;04792011166;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;307.72;;;;;27.06.07;;OMJ
+;04799606421;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;193.53;;;;;27.06.07;;OMJ
+;04793403380;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;170.73;;;;;27.06.07;;OMJ
+;04793480011;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;162.02;;;;;27.06.07;;OMJ
+;04793403028;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;157.4;;;;;27.06.07;;OMJ
+;04793403579;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;143.35;;;;;27.06.07;;OMJ
+;04791317047;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;141.54;;;;;27.06.07;;OMJ
+;04793480648;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;140.8;;;;;27.06.07;;OMJ
+;04793403503;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;140.04;;;;;27.06.07;;OMJ
+;04793480382;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;129.75;;;;;27.06.07;;OMJ
+;04793236985;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;121.09;;;;;27.06.07;;OMJ
+;04793418000;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;117.68;;;;;27.06.07;;OMJ
+;04793480588;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;107.56;;;;;27.06.07;;OMJ
+;04790087837;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;84.83;;;;;27.06.07;;OMJ
+;04792602870;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;79.74;;;;;27.06.07;;OMJ
+;04798847200;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;73.55;;;;;27.06.07;;OMJ
+;04792083836;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;67.67;;;;;27.06.07;;OMJ
+;04741026884;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;67.55;;;;;27.06.07;;OMJ
+;04793403976;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;67.26;;;;;27.06.07;;OMJ
+;04793403755;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;62.94;;;;;27.06.07;;OMJ
+;04797707330;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;57.79;;;;;27.06.07;;OMJ
+;04793403077;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;55.54;;;;;27.06.07;;OMJ
+;04795107210;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;52.41;;;;;27.06.07;;OMJ
+;04797687766;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;50.03;;;;;27.06.07;;OMJ
+;04792440100;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;49.47;;;;;27.06.07;;OMJ
+;04793480311;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;48.43;;;;;27.06.07;;OMJ
+;04792842011;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;46.91;;;;;27.06.07;;OMJ
+;04790737682;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;45.71;;;;;27.06.07;;OMJ
+;04793480430;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;44.66;;;;;27.06.07;;OMJ
+;04745470693;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;44.46;;;;;27.06.07;;OMJ
+;04793403850;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;41.8;;;;;27.06.07;;OMJ
+;04793480892;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;38;;;;;27.06.07;;OMJ
+;04792699040;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;36.27;;;;;27.06.07;;OMJ
+;04799044844;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;35.19;;;;;27.06.07;;OMJ
+;04792495575;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;32.82;;;;;27.06.07;;OMJ
+;04793480737;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;31.95;;;;;27.06.07;;OMJ
+;04799272378;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;28.94;;;;;27.06.07;;OMJ
+;04797077830;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;25.17;;;;;27.06.07;;OMJ
+;04793403333;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;24.84;;;;;27.06.07;;OMJ
+;04793403430;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;22.5;;;;;27.06.07;;OMJ
+;04793403140;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;22.39;;;;;27.06.07;;OMJ
+;04793480609;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;21.3;;;;;27.06.07;;OMJ
+;04790858511;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;20.41;;;;;27.06.07;;OMJ
+;04791848310;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;19.93;;;;;27.06.07;;OMJ
+;04793480450;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;19.71;;;;;27.06.07;;OMJ
+;04791190082;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;19.44;;;;;27.06.07;;OMJ
+;04795925952;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;18.76;;;;;27.06.07;;OMJ
+;04790565152;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;18.45;;;;;27.06.07;;OMJ
+;04790027817;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;18.13;;;;;27.06.07;;OMJ
+;04791379106;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;17.89;;;;;27.06.07;;OMJ
+;04795235550;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;17.21;;;;;27.06.07;;OMJ
+;04793480115;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;16.66;;;;;27.06.07;;OMJ
+;04793480583;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;15.87;;;;;27.06.07;;OMJ
+;04791116261;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;15.35;;;;;27.06.07;;OMJ
+;04793480578;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;15.05;;;;;27.06.07;;OMJ
+;04793480106;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;15.02;;;;;27.06.07;;OMJ
+;04793403808;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;14.64;;;;;27.06.07;;OMJ
+;04791583100;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;14.3;;;;;27.06.07;;OMJ
+;04792829751;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;12.97;;;;;27.06.07;;OMJ
+;04793480150;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;12.8;;;;;27.06.07;;OMJ
+;04793480654;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;11.89;;;;;27.06.07;;OMJ
+;04793403777;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;11.54;;;;;27.06.07;;OMJ
+;04799004505;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;11.08;;;;;27.06.07;;OMJ
+;04793479634;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;10.97;;;;;27.06.07;;OMJ
+;04790168821;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;9.64;;;;;27.06.07;;OMJ
+;04793007905;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;9.58;;;;;27.06.07;;OMJ
+;04792297762;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;9.52;;;;;27.06.07;;OMJ
+;04795153533;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;9.29;;;;;27.06.07;;OMJ
+;04793480662;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;8.91;;;;;27.06.07;;OMJ
+;04790062931;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;8.83;;;;;27.06.07;;OMJ
+;04799617353;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;8.8;;;;;27.06.07;;OMJ
+;04745046446;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;8.77;;;;;27.06.07;;OMJ
+;04793234824;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;8.21;;;;;27.06.07;;OMJ
+;04793480317;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;7.93;;;;;27.06.07;;OMJ
+;04797733765;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;7.71;;;;;27.06.07;;OMJ
+;04792282740;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;7.39;;;;;27.06.07;;OMJ
+;04795801828;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;7.25;;;;;27.06.07;;OMJ
+;04792842055;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;7.2;;;;;27.06.07;;OMJ
+;04793882030;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;6.9;;;;;27.06.07;;OMJ
+;04792423869;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;6.61;;;;;27.06.07;;OMJ
+;04793480617;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;6.46;;;;;27.06.07;;OMJ
+;04792638069;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;5.99;;;;;27.06.07;;OMJ
+;04793018640;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;5.82;;;;;27.06.07;;OMJ
+;04793403068;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;5.05;;;;;27.06.07;;OMJ
+;04790054001;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;4.97;;;;;27.06.07;;OMJ
+;04793480112;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;4.89;;;;;27.06.07;;OMJ
+;04793410780;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;4.45;;;;;27.06.07;;OMJ
+;04740412299;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;4.35;;;;;27.06.07;;OMJ
+;04792834233;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;3.89;;;;;27.06.07;;OMJ
+;04792433834;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;3.65;;;;;27.06.07;;OMJ
+;04798846804;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;3.5;;;;;27.06.07;;OMJ
+;04792801337;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;3.19;;;;;27.06.07;;OMJ
+;04792253882;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.9;;;;;27.06.07;;OMJ
+;04792829718;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.9;;;;;27.06.07;;OMJ
+;04793403776;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.69;;;;;27.06.07;;OMJ
+;04793480006;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.6;;;;;27.06.07;;OMJ
+;04792041158;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.6;;;;;27.06.07;;OMJ
+;04793247042;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.55;;;;;27.06.07;;OMJ
+;04793403852;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.46;;;;;27.06.07;;OMJ
+;04792835354;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.37;;;;;27.06.07;;OMJ
+;04793480676;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.31;;;;;27.06.07;;OMJ
+;04797427662;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.31;;;;;27.06.07;;OMJ
+;04790771923;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.22;;;;;27.06.07;;OMJ
+;04793480574;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.16;;;;;27.06.07;;OMJ
+;04793479603;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;2.1;;;;;27.06.07;;OMJ
+;04795289224;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.95;;;;;27.06.07;;OMJ
+;04792428034;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.87;;;;;27.06.07;;OMJ
+;04792893953;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.85;;;;;27.06.07;;OMJ
+;04790863658;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.78;;;;;27.06.07;;OMJ
+;04791762165;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.75;;;;;27.06.07;;OMJ
+;04791530499;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.73;;;;;27.06.07;;OMJ
+;04792416420;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.72;;;;;27.06.07;;OMJ
+;04793480507;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.64;;;;;27.06.07;;OMJ
+;04792829645;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.61;;;;;27.06.07;;OMJ
+;04793403863;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.55;;;;;27.06.07;;OMJ
+;04793403567;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.5;;;;;27.06.07;;OMJ
+;04793403851;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.5;;;;;27.06.07;;OMJ
+;04793429718;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.41;;;;;27.06.07;;OMJ
+;04793283727;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.41;;;;;27.06.07;;OMJ
+;04791378445;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.37;;;;;27.06.07;;OMJ
+;04793480238;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.35;;;;;27.06.07;;OMJ
+;04792083071;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.34;;;;;27.06.07;;OMJ
+;04790116826;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.29;;;;;27.06.07;;OMJ
+;04792833607;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.25;;;;;27.06.07;;OMJ
+;04792842388;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.11;;;;;27.06.07;;OMJ
+;04790995434;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.09;;;;;27.06.07;;OMJ
+;04793480830;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.08;;;;;27.06.07;;OMJ
+;04791346808;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;1.02;;;;;27.06.07;;OMJ
+;04790669630;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.97;;;;;27.06.07;;OMJ
+;04798822615;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.96;;;;;27.06.07;;OMJ
+;04793037158;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.94;;;;;27.06.07;;OMJ
+;04793420379;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.88;;;;;27.06.07;;OMJ
+;04793403211;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.88;;;;;27.06.07;;OMJ
+;04793480217;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.87;;;;;27.06.07;;OMJ
+;04793496240;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.84;;;;;27.06.07;;OMJ
+;04793480586;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.84;;;;;27.06.07;;OMJ
+;04799798927;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.79;;;;;27.06.07;;OMJ
+;04791687322;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.78;;;;;27.06.07;;OMJ
+;04793480124;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.76;;;;;27.06.07;;OMJ
+;04793098766;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.73;;;;;27.06.07;;OMJ
+;04793480836;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.73;;;;;27.06.07;;OMJ
+;04793480338;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.67;;;;;27.06.07;;OMJ
+;04793480129;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.67;;;;;27.06.07;;OMJ
+;04793408510;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.65;;;;;27.06.07;;OMJ
+;04793403594;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.65;;;;;27.06.07;;OMJ
+;04793480610;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.64;;;;;27.06.07;;OMJ
+;04792608125;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.64;;;;;27.06.07;;OMJ
+;04793428669;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.64;;;;;27.06.07;;OMJ
+;04793480771;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.61;;;;;27.06.07;;OMJ
+;04793480854;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.56;;;;;27.06.07;;OMJ
+;04792229511;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.56;;;;;27.06.07;;OMJ
+;04790965301;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.53;;;;;27.06.07;;OMJ
+;04795702665;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.53;;;;;27.06.07;;OMJ
+;04792601490;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.52;;;;;27.06.07;;OMJ
+;04795159834;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.46;;;;;27.06.07;;OMJ
+;04790866083;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.43;;;;;27.06.07;;OMJ
+;04793403107;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.43;;;;;27.06.07;;OMJ
+;04793480412;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.43;;;;;27.06.07;;OMJ
+;04792869515;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.4;;;;;27.06.07;;OMJ
+;04793421385;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.38;;;;;27.06.07;;OMJ
+;04791320953;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.36;;;;;27.06.07;;OMJ
+;04799637646;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.36;;;;;27.06.07;;OMJ
+;04792253957;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.35;;;;;27.06.07;;OMJ
+;04793480034;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.33;;;;;27.06.07;;OMJ
+;04793403066;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.32;;;;;27.06.07;;OMJ
+;04793480223;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.32;;;;;27.06.07;;OMJ
+;04790544684;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.3;;;;;27.06.07;;OMJ
+;04793480300;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.3;;;;;27.06.07;;OMJ
+;04790672647;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.29;;;;;27.06.07;;OMJ
+;04793403914;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.27;;;;;27.06.07;;OMJ
+;04793480461;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.24;;;;;27.06.07;;OMJ
+;04792838077;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.23;;;;;27.06.07;;OMJ
+;04793403888;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.2;;;;;27.06.07;;OMJ
+;04793479606;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.17;;;;;27.06.07;;OMJ
+;04792603529;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.15;;;;;27.06.07;;OMJ
+;04792291098;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.14;;;;;27.06.07;;OMJ
+;04795701088;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.11;;;;;27.06.07;;OMJ
+;04790044495;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.11;;;;;27.06.07;;OMJ
+;04793461546;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.11;;;;;27.06.07;;OMJ
+;04791575087;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.09;;;;;27.06.07;;OMJ
+;04791136101;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.08;;;;;27.06.07;;OMJ
+;04797070900;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.08;;;;;27.06.07;;OMJ
+;04793451783;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.06;;;;;27.06.07;;OMJ
+;04793480031;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.06;;;;;27.06.07;;OMJ
+;04792602376;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.06;;;;;27.06.07;;OMJ
+;04793480734;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.06;;;;;27.06.07;;OMJ
+;04748155299;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.05;;;;;27.06.07;;OMJ
+;04793479631;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.05;;;;;27.06.07;;OMJ
+;04793480684;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.05;;;;;27.06.07;;OMJ
+;04793428864;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04793403912;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04795874323;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04793403401;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04793403029;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04790119205;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04793403668;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04792893714;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04793480305;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04793480983;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04790881830;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.03;;;;;27.06.07;;OMJ
+;04792052899;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ
+;04799168538;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ
+;04793480635;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ
+;04793403466;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ
+;04799024502;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ
+;04793480219;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ
+;04795075498;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ
+;04790107630;KORFAK;Justering for feil pris GPRS innenlands;GPRS innenlands;0.02;;;;;27.06.07;;OMJ

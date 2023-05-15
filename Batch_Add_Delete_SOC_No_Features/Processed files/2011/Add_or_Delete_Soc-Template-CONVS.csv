@@ -1,0 +1,1427 @@
+GSM04795024000;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04792230948;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748034307;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04792492258;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04797638540;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748016049;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748401864;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748405690;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748402640;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748401632;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748403361;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04792247851;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748016082;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748402001;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration;
+GSM04748402005;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792888228;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748996991;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400726;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793640347;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401865;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401853;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405679;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04740040041;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405691;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748406001;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792666999;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405431;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799691245;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401885;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797104944;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04740886438;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401851;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799123443;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401852;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405697;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405535;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016023;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400086;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400100;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799627000;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797040708;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791598336;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408839;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748201308;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748407770;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748407771;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748407772;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748407775;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748407778;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792250005;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795159762;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797740120;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403357;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402948;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04796889379;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792483803;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404240;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405555;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748407776;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747297387;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400888;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404787;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747285015;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404243;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791759772;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403198;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405695;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404878;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741661014;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04745035714;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408888;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408892;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408893;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408968;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790514007;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408725;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400011;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400035;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400038;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400041;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790550402;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790624827;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791537052;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791880822;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792687413;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793426750;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795021008;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795103133;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795145770;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795919624;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798439935;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400044;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400047;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400080;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04745008201;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748406610;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748406616;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798821474;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790688608;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792222169;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403373;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790182352;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402667;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400107;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400112;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400276;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400304;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400312;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791554196;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791842776;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798666983;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799505449;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408511;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791369548;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404463;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790177805;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792449035;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792489973;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793261836;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741641495;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741660211;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016004;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016031;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016044;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016094;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016102;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016141;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408273;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408275;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408279;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408280;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408283;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408284;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408293;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408294;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016167;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016195;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748150856;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790763326;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790955137;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405483;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405484;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797582318;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798033922;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798229654;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798860191;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401690;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401691;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400708;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400709;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400711;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400713;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400742;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400847;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400849;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402089;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790628185;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798228575;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403123;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403177;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403179;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403182;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793042697;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403192;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403199;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403202;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403205;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403223;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403229;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403263;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792668991;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741686462;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401308;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401312;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402677;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405213;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403298;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404299;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404429;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404435;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405376;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405393;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405398;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405487;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405488;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405489;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405490;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405491;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791566786;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797501966;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799433263;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790115538;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790765528;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795831783;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795135453;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792499076;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404107;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790696642;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790732252;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791757529;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792014956;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792841114;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798098607;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799157014;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799233633;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799474031;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797574740;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04745395291;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747634345;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408570;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405385;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04740234180;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792433320;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795268796;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793213006;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400744;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790963075;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793480899;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790691113;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408589;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741473949;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790721898;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401863;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401862;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791535669;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016993;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016994;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795209123;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790121068;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797976241;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401675;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401849;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747463560;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790162768;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792042193;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792423833;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793493930;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795118493;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797588874;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799099391;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799153981;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791331911;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791528719;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791528724;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791538556;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791730766;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791870990;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792016147;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792292291;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792433017;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795028099;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795059006;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799128030;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408571;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748406572;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401831;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401832;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401833;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401834;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401835;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401836;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401837;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401839;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401841;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401842;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401843;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401844;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401845;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401846;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401847;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401848;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401856;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401857;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401858;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401861;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401866;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401867;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401868;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401869;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401870;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401871;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401872;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401873;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401874;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401875;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401878;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401883;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401884;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401886;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401887;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401892;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401893;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402069;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790770006;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795852184;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747807080;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790608654;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790964967;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405530;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405539;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405541;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405545;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405549;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741215304;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799527296;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790078794;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795112925;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799561721;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793299454;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799369906;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741530000;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741530009;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741530010;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741530023;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790157132;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792697736;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04796813277;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402954;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04740476331;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016992;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402668;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792044418;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792050266;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797122085;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403390;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748406176;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403246;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404462;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790198131;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799411223;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793822915;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793486436;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748406570;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04746828798;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401674;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403359;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790764911;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793004966;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741292712;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04794296580;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795877241;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748076350;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04794152570;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798206162;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798025977;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747270769;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793874705;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799216809;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747257220;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403370;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04740553879;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799026802;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04746946684;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798637517;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748048912;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748408903;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790188130;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790597408;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790971467;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401698;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791538875;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741221767;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792644435;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791683236;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791145078;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403149;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791316750;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04794100010;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748045829;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790061068;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791577299;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402695;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790828530;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400031;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795165200;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791522716;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797017576;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793407784;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790168337;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400415;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795103804;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792010684;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400037;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791659667;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400089;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747255262;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790201722;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790915183;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792663694;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791812177;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797742121;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04741234820;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400000;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016032;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016035;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790200900;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016125;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016177;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790180479;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791142628;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748023915;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791379394;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792497600;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403102;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403105;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403109;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400470;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403124;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403140;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403141;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403155;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403156;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403180;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403185;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403186;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403203;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403224;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403226;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403232;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799529190;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403265;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403270;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403271;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403272;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792222542;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792238736;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401919;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795722370;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793289777;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790544557;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790544577;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792833334;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04740418458;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401045;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790193384;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400814;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402000;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790816120;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795255898;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748990350;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790649981;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790664662;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790164247;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792066505;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790022260;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791786857;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04797651877;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04747686477;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790125018;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799092866;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795021952;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791608332;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04798283670;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401249;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016991;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748402674;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748401240;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403122;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403130;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403245;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04740048012;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404245;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04795701967;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792261511;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016041;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748016136;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04799546464;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04790554964;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404726;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748400024;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748405599;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403108;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748404872;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04791790898;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793005546;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04792041169;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04793295555;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403117;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+GSM04748403235;CONVS;DELETE;;;ORA 14.06.2011;Removing illegal socs - TrigCom Migration
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;

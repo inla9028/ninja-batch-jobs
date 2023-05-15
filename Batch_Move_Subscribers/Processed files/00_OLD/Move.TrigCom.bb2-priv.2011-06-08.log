@@ -1,0 +1,63 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Wed Jun 8 15:39:30 2011
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   move_subs.ctl
+Data File:      Move.TrigCom.bb2-priv.2011-06-08.txt
+  Bad File:     Move.TrigCom.bb2-priv.2011-06-08.bad
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table "NINJADATA"."BATCH_MOVE_SUBSCRIBERS", loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER
+NEW_BAN                              NEXT     *   ;  O(") CHARACTER
+NEW_PRICEPLAN                        NEXT     *   ;  O(") CHARACTER
+NEW_CAMPAIGN_CODE                    NEXT     *   ;  O(") CHARACTER
+HANDLE_COMMITMENT                    NEXT     *   ;  O(") CHARACTER
+DEALER                               NEXT     *   ;  O(") CHARACTER
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER
+KEEP_USER_NAME                       NEXT     *   ;  O(") CHARACTER
+WAIVE_FEES                           NEXT     *   ;  O(") CHARACTER
+IS_MOVE_FROM_SP                      NEXT     *   ;  O(") CHARACTER
+IS_MOVE_TO_SP                        NEXT     *   ;  O(") CHARACTER
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER
+SKIP_NINJA_VALIDATION                NEXT     *   ;  O(") CHARACTER
+
+
+Table "NINJADATA"."BATCH_MOVE_SUBSCRIBERS":
+  1487 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 255936 bytes(62 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          1487
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Jun 08 15:39:30 2011
+Run ended on Wed Jun 08 15:39:31 2011
+
+Elapsed time was:     00:00:00.77
+CPU time was:         00:00:00.03

@@ -1,0 +1,15 @@
+702276411;04746941455;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04790080648;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04790611568;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04790824848;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04790863125;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04790905042;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04791191500;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04791244096;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04794876910;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+702276411;04797101212;SALGUT;Utkjøp av binding, godkjent av Ailin Norman;;3750;;;;;2019.11.12.03;1;TRKA0776;
+828594416;04741915097;SALGUT;Utkjøp av binding, godkjent av Alexander Miller;;3750;;;;;2019.11.12.03;1;TRKA0776;
+828594416;04741578547;SALGUT;Utkjøp av binding, godkjent av Alexander Miller;;3750;;;;;2019.11.12.03;1;TRKA0776;
+634607410;04740606068;SALGUT;Utkjøp av binding, godkjent av Camilla Srensen;;3750;;;;;2019.11.12.03;1;TRKA0776;
+456476415;04798215037;SALGUT;Utkjøp av binding, godkjent av Joachim Lie;;3750;;;;;2019.11.12.03;1;TRKA0776;
+596026419;04791556457;SALGUT;Utkjøp av binding, godkjent av Stian Jurs-Martinsen;;3750;;;;;2019.11.12.03;1;TRKA0776;

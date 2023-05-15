@@ -1,0 +1,12 @@
+999870314;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19516306 med skadedato 27-03-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+272152604;;FORSCR;O;1500;*Egenandel forsikring;Egenandelen gjelder skadesak 19517964 med skadedato 08-04-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+663371219;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19520225 med skadedato 15-04-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+737986315;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19513778 med skadedato 23-02-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+202503314;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19518772 med skadedato 28-08-2017;;WAITING;;;;2018.07.03.02;1;SAMA1700
+723956314;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19516061 med skadedato 20-03-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+896428117;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19516702 med skadedato 31-03-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+778247403;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19518236 med skadedato 06-04-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+532012218;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19519576 med skadedato 14-04-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+723956314;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19519821 med skadedato 17-04-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+174355313;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19520132 med skadedato 15-04-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700
+528935216;;FORSCR;O;500;*Egenandel forsikring;Egenandelen gjelder skadesak 19520892 med skadedato 22-04-2018;;WAITING;;;;2018.07.03.02;1;SAMA1700

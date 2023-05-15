@@ -1,0 +1,216 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Fri Mar 26 11:45:07 2010
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   load.txt
+Data File:      Adj.korfak.nis.2010-03-26.txt
+  Bad File:     bad.txt
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_ADJUSTMENT_ADDITION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+BAN_NO                              FIRST     *   ;  O(") CHARACTER
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER
+ADJUSTMENT_CODE                      NEXT     *   ;  O(") CHARACTER
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER
+USER_BILL_TEXT                       NEXT     *   ;  O(") CHARACTER
+AMOUNT                               NEXT     *   ;  O(") CHARACTER
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") CHARACTER
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER
+STREAM                               NEXT     *   ;  O(") CHARACTER
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER
+EFFECTIVE_DATE                       NEXT     *   ;  O(") CHARACTER
+
+Record 906: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 907: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 908: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 909: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 910: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 911: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 912: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 913: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 914: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 915: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 916: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 917: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 918: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 919: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 920: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 921: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 922: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 923: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 924: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 925: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 926: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 927: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 928: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 929: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 930: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 931: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 932: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 933: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 934: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 935: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 936: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 937: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 938: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 939: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 940: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 941: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 942: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 943: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 944: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 945: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 946: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 947: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 948: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 949: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 950: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 951: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 952: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 953: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 954: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 955: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+Record 956: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column AMOUNT.
+ORA-01722: invalid number
+
+
+MAXIMUM ERROR COUNT EXCEEDED - Above statistics reflect partial run.
+
+Table BATCH_ADJUSTMENT_ADDITION:
+  905 Rows successfully loaded.
+  51 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 231168 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           960
+Total logical records rejected:        51
+Total logical records discarded:        0
+
+Run began on Fri Mar 26 11:45:07 2010
+Run ended on Fri Mar 26 11:45:18 2010
+
+Elapsed time was:     00:00:10.90
+CPU time was:         00:00:00.09

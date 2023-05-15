@@ -1,0 +1,5 @@
+GSM04790864083;344047212;PSJP;000000000;N;NET;A;CR;Inn som underavtale på Rejlers. Ref. N193;Y;Y;N;N;meda01 07.01.2016 test;meda01;Y
+GSM04791361495;344047212;PSJP;000000000;N;NET;A;CR;Inn som underavtale på Rejlers. Ref. N193;Y;Y;N;N;meda01 07.01.2016 test;meda01;Y
+GSM04790518810;344047212;PSJP;000000000;N;NET;A;CR;Inn som underavtale på Rejlers. Ref. N193;Y;Y;N;N;meda01 07.01.2016 test;meda01;Y
+GSM04798249047;344047212;PSJP;000000000;N;NET;A;CR;Inn som underavtale på Rejlers. Ref. N193;Y;Y;N;N;meda01 07.01.2016 test;meda01;Y
+GSM04790571027;344047212;PSJP;000000000;N;NET;A;CR;Inn som underavtale på Rejlers. Ref. N193;Y;Y;N;N;meda01 07.01.2016 test;meda01;Y

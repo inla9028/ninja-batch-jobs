@@ -1,0 +1,11 @@
+737916411;04799098905;KORFAK;ref case: 2046886;Justering for manglende rabatt;454,26;;;;;2019.10.08.01;1;YAU2718;
+737916411;04799098901;KORFAK;ref case: 2046886;Justering for manglende rabatt;248,46;;;;;2019.10.08.01;1;YAU2718;
+737916411;04799098904;KORFAK;ref case: 2046886;Justering for manglende rabatt;248,46;;;;;2019.10.08.01;1;YAU2718;
+737916411;04797584038;KORFAK;ref case: 2046886;Justering for manglende rabatt;612,32;;;;;2019.10.08.01;1;YAU2718;
+737916411;04799098909;KORFAK;ref case: 2046886;Justering for manglende rabatt;248,46;;;;;2019.10.08.01;1;YAU2718;
+737916411;04790506536;KORFAK;ref case: 2046886;Justering for manglende rabatt;478,30;;;;;2019.10.08.01;1;YAU2718;
+737916411;04799098922;KORFAK;ref case: 2046886;Justering for manglende rabatt;248,46;;;;;2019.10.08.01;1;YAU2718;
+737916411;04748080917;KORFAK;ref case: 2046886;Justering for manglende rabatt;248,46;;;;;2019.10.08.01;1;YAU2718;
+737916411;04740902140;KORFAK;ref case: 2046886;Justering for manglende rabatt;478,30;;;;;2019.10.08.01;1;YAU2718;
+737916411;04745228603;KORFAK;ref case: 2046886;Justering for manglende rabatt;38,78;;;;;2019.10.08.01;1;YAU2718;
+737916411;04794532840;KORFAK;ref case: 2046886;Justering for manglende rabatt;478,30;;;;;2019.10.08.01;1;YAU2718;

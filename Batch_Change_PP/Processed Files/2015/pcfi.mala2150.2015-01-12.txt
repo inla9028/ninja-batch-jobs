@@ -1,0 +1,400 @@
+CDA04751217400;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217401;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217402;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217403;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217404;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217405;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217406;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217407;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217408;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217409;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217410;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217411;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217412;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217413;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217414;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217415;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217416;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217417;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217418;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217419;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217420;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217421;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217422;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217423;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217424;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217425;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217426;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217427;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217428;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217429;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217430;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217431;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217432;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217433;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217434;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217435;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217436;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217437;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217438;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217439;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217440;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217441;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217442;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217443;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217444;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217445;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217446;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217447;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217448;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217449;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217450;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217451;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217452;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217453;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217454;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217455;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217456;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217457;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217458;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217459;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217460;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217461;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217462;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217463;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217464;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217465;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217466;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217467;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217468;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217469;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217470;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217471;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217472;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217473;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217474;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217475;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217476;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217477;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217478;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217479;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217480;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217481;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217482;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217483;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217484;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217485;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217486;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217487;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217488;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217489;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217490;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217491;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217492;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217493;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217494;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217495;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217496;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217497;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217498;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751217499;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert inn til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043500;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043501;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043502;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043503;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043504;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043505;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043506;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043507;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043508;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043509;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043510;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043511;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043512;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043513;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043514;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043515;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043516;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043517;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043518;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043519;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043520;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043521;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043522;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043523;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043524;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043525;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043526;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043527;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043528;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043529;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043530;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043531;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043532;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043533;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043534;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043535;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043536;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043537;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043538;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043539;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043540;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043541;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043542;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043543;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043544;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043545;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043546;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043547;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043548;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043549;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043550;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043551;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043552;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043553;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043554;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043555;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043556;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043557;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043558;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043559;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043560;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043561;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043562;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043563;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043564;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043565;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043566;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043567;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043568;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043569;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043570;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043571;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043572;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043573;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043574;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043575;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043576;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043577;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043578;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043579;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043580;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043581;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043582;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043583;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043584;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043585;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043586;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043587;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043588;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043589;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043590;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043591;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043592;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043593;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043594;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043595;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043596;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043597;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043598;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04721043599;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer er portert til kvantel, endrer prisplan;Y;mala2150 12.01.2015;N
+CDA04751676700;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676701;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676702;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676703;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676704;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676705;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676706;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676707;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676708;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676709;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676710;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676711;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676712;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676713;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676714;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676715;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676716;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676717;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676718;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676719;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676720;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676721;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676722;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676723;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676724;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676725;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676726;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676727;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676728;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676729;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676730;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676731;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676732;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676733;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676734;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676735;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676736;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676737;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676738;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676739;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676740;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676741;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676742;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676743;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676744;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676745;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676746;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676747;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676748;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676749;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676750;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676751;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676752;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676753;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676754;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676755;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676756;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676757;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676758;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676759;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676760;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676761;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676762;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676763;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676764;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676765;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676766;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676767;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676768;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676769;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676770;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676771;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676772;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676773;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676774;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676775;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676776;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676777;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676778;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676779;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676780;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676781;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676782;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676783;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676784;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676785;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676786;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676787;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676788;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676789;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676790;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676791;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676792;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676793;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676794;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676795;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676796;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676797;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676798;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676799;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676800;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676801;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676802;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676803;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676804;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676805;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676806;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676807;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676808;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676809;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676810;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676811;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676812;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676813;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676814;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676815;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676816;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676817;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676818;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676819;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676820;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676821;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676822;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676823;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676824;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676825;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676826;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676827;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676828;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676829;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676830;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676831;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676832;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676833;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676834;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676835;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676836;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676837;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676838;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676839;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676840;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676841;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676842;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676843;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676844;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676845;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676846;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676847;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676848;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676849;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676850;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676851;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676852;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676853;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676854;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676855;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676856;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676857;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676858;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676859;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676860;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676861;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676862;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676863;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676864;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676865;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676866;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676867;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676868;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676869;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676870;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676871;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676872;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676873;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676874;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676875;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676876;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676877;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676878;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676879;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676880;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676881;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676882;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676883;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676884;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676885;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676886;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676887;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676888;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676889;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676890;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676891;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676892;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676893;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676894;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676895;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676896;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676897;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676898;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N
+CDA04751676899;PCFI;000000000;PCFIREG1;;;NET;A;KON2;nummer portert til kvantel, endr prisplan;Y;mala2150 12.01.2015;N

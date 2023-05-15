@@ -1,0 +1,12 @@
+;04746620416;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1252.16;;;;;CASK1566 23.04.10;1;CASK1556
+;04746620431;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1599.78;;;;;CASK1566 23.04.10;1;CASK1556
+;04790934337;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1200.13;;;;;CASK1566 23.04.10;1;CASK1556
+;04793444612;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1109.42;;;;;CASK1566 23.04.10;1;CASK1556
+;04793444759;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1143.54;;;;;CASK1566 23.04.10;1;CASK1556
+;04793444846;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1142.40;;;;;CASK1566 23.04.10;1;CASK1556
+;04795204280;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1283.79;;;;;CASK1566 23.04.10;1;CASK1556
+;04798210164;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1109.32;;;;;CASK1566 23.04.10;1;CASK1556
+;04798210458;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1078.58;;;;;CASK1566 23.04.10;1;CASK1556
+;04798210800;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;3307.69;;;;;CASK1566 23.04.10;1;CASK1556
+;04798210951;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;3266.30;;;;;CASK1566 23.04.10;1;CASK1556
+;04798210984;KORFAK;CSK justert samtaler internt i Norden etter avtale;Norden samtaler;1920.94;;;;;CASK1566 23.04.10;1;CASK1556

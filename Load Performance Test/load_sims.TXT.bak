@@ -1,0 +1,12 @@
+Load DATA
+INFILE *
+BADFILE bad.txt
+Append
+INTO TABLE performance_test
+FIELDS TERMINATED BY ";" OPTIONALLY ENCLOSED BY '"'
+trailing nullcols
+(
+SUBSCRIBER_NO,
+SIM_NO,
+PRICEPLAN
+)

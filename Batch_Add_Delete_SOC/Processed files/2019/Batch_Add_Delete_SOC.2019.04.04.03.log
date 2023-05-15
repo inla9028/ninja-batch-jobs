@@ -1,0 +1,67 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on To Apr 4 14:44:16 2019
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   mw_tmp_trans.ctl
+Data File:      Batch_Add_Delete_SOC.2019.04.04.03.txt
+  Bad File:     Batch_Add_Delete_SOC.2019.04.04.03.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MW_TMP_TRANS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+SOC                                  NEXT     *   ;  O(") CHARACTER            
+ACTION                               NEXT     *   ;  O(") CHARACTER            
+FEATURE                              NEXT     *   ;  O(") CHARACTER            
+PARAMETER                            NEXT     *   ;  O(") CHARACTER            
+PARM_VALUE                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+FEATURE2                             NEXT     *   ;  O(") CHARACTER            
+PARAMETER2                           NEXT     *   ;  O(") CHARACTER            
+PARM_VALUE2                          NEXT     *   ;  O(") CHARACTER            
+FEATURE3                             NEXT     *   ;  O(") CHARACTER            
+PARAMETER3                           NEXT     *   ;  O(") CHARACTER            
+PARM_VALUE3                          NEXT     *   ;  O(") CHARACTER            
+FEATURE4                             NEXT     *   ;  O(") CHARACTER            
+PARAMETER4                           NEXT     *   ;  O(") CHARACTER            
+PARM_VALUE4                          NEXT     *   ;  O(") CHARACTER            
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+
+value used for ROWS parameter changed from 64 to 52
+
+Table MW_TMP_TRANS:
+  3 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 254904 bytes(52 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:             3
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on To Apr 04 14:44:16 2019
+Run ended on To Apr 04 14:44:20 2019
+
+Elapsed time was:     00:00:03.83
+CPU time was:         00:00:00.07

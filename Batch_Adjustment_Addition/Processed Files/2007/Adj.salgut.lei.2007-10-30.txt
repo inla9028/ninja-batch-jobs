@@ -1,0 +1,86 @@
+198700601;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;5625;;;;;30.10.2007;1;LEI
+888700606;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;1875;;;;;30.10.2007;1;LEI
+988700605;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;5625;;;;;30.10.2007;1;LEI
+839229507;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;1875;;;;;30.10.2007;1;LEI
+562838508;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;15600;;;;;30.10.2007;1;LEI
+903233500;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+465470607;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;9375;;;;;30.10.2007;1;LEI
+383528502;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;1875;;;;;30.10.2007;1;LEI
+289670606;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;1800;;;;;30.10.2007;1;LEI
+683690606;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;3200;;;;;30.10.2007;1;LEI
+950302505;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;15000;;;;;30.10.2007;1;LEI
+611443508;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;1100;;;;;30.10.2007;1;LEI
+110731601;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;2100;;;;;30.10.2007;1;LEI
+422640607;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger ref. Tore Kvernmo;Utkjøp av bindingstid;15600;;;;;30.10.2007;1;LEI
+141101600;;SALGUT;LED Utkjøp av bindingstid, godkjent av  Yngve Grindheim ;Utkjøp av bindingstid;9375;;;;;30.10.2007;1;LEI
+976962605;;SALGUT;LED Utkjøp av bindingstid, godkjent av  Yngve Grindheim ;Utkjøp av bindingstid;8400;;;;;30.10.2007;1;LEI
+282590603;;SALGUT;LED Utkjøp av bindingstid, godkjent av  Yngve Grindheim ;Utkjøp av bindingstid;6000;;;;;30.10.2007;1;LEI
+489369504;;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+289369506;;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;Utkjøp av bindingstid;2400;;;;;30.10.2007;1;LEI
+118059500;;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+277299509;;SALGUT;LED Utkjøp av bindingstid, godkjent av Per A Aadne ;Utkjøp av bindingstid;1875;;;;;30.10.2007;1;LEI
+788602605;;SALGUT;LED Utkjøp av bindingstid, godkjent av Per A Aadne ;Utkjøp av bindingstid;2400;;;;;30.10.2007;1;LEI
+677052607;;SALGUT;LED Utkjøp av bindingstid, godkjent av Per A Aadne ;Utkjøp av bindingstid;1900;;;;;30.10.2007;1;LEI
+330142605;;SALGUT;LED Utkjøp av bindingstid, godkjent av Per A Aadne ;Utkjøp av bindingstid;2400;;;;;30.10.2007;1;LEI
+400752606;;SALGUT;LED Utkjøp av bindingstid, godkjent av Per A Aadne ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+788602605;;SALGUT;LED Utkjøp av bindingstid, godkjent av Per A Aadne ;Utkjøp av bindingstid;27000;;;;;30.10.2007;1;LEI
+927082602;;SALGUT;LED Utkjøp av bindingstid, godkjent av Lasse Grøndal ;Utkjøp av bindingstid;8400;;;;;30.10.2007;1;LEI
+836396309;;SALGUT;LED Utkjøp av bindingstid, godkjent av Lasse Grøndal ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+915170609;;SALGUT;LED Utkjøp av bindingstid, godkjent av Stian B Olsen ;Utkjøp av bindingstid;3750;;;;;30.10.2007;1;LEI
+388112609;;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen ;Utkjøp av bindingstid;15000;;;;;30.10.2007;1;LEI
+109531608;;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+668150600;;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+218822609;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;2700;;;;;30.10.2007;1;LEI
+476761606;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;3500;;;;;30.10.2007;1;LEI
+578450603;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+178450607;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+218249506;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+326950607;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;545;;;;;30.10.2007;1;LEI
+129201604;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;3600;;;;;30.10.2007;1;LEI
+745521609;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;6000;;;;;30.10.2007;1;LEI
+392719506;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;7200;;;;;30.10.2007;1;LEI
+356888503;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;18750;;;;;30.10.2007;1;LEI
+252638507;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;16800;;;;;30.10.2007;1;LEI
+271648503;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Jens Fagernes ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+624652608;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;6000;;;;;30.10.2007;1;LEI
+153472600;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+553472606;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+943472605;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+163472608;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+953472602;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+653472605;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+353472608;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+753472604;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+843472606;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+263472607;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø ;Utkjøp av bindingstid;500;;;;;30.10.2007;1;LEI
+683469506;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Faste Berg  ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+813469509;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Faste Berg  ;Utkjøp av bindingstid;2400;;;;;30.10.2007;1;LEI
+883469504;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Faste Berg  ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+983469503;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Faste Berg  ;Utkjøp av bindingstid;2400;;;;;30.10.2007;1;LEI
+436469506;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Faste Berg  ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+913469508;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Faste Berg  ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+290960608;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Erland Pettersen ;Utkjøp av bindingstid;2400;;;;;30.10.2007;1;LEI
+455119305;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Svenn Olav Storløs ;Utkjøp av bindingstid;1500;;;;;30.10.2007;1;LEI
+101501609;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;Utkjøp av bindingstid;6000;;;;;30.10.2007;1;LEI
+843698507;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;Utkjøp av bindingstid;1100;;;;;30.10.2007;1;LEI
+113449508;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+690370606;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;Utkjøp av bindingstid;1500;;;;;30.10.2007;1;LEI
+669304503;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;Utkjøp av bindingstid;20625;;;;;30.10.2007;1;LEI
+745051607;;SALGUT;LED Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen ;Utkjøp av bindingstid;2000;;;;;30.10.2007;1;LEI
+578789505;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;18625;;;;;30.10.2007;1;LEI
+107047508;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;4800;;;;;30.10.2007;1;LEI
+207047507;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+234307502;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;2400;;;;;30.10.2007;1;LEI
+334307501;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+488907502;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+588907501;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;4800;;;;;30.10.2007;1;LEI
+645317504;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;7200;;;;;30.10.2007;1;LEI
+688907500;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;10800;;;;;30.10.2007;1;LEI
+788907509;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;10800;;;;;30.10.2007;1;LEI
+896047503;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;1200;;;;;30.10.2007;1;LEI
+996047502;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;6000;;;;;30.10.2007;1;LEI
+739933604;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;1750;;;;;30.10.2007;1;LEI
+667270607;;SALGUT;LED Utkjøp av bindingstid, godkjent av Ole Martin Nilsen ;Utkjøp av bindingstid;1875;;;;;30.10.2007;1;LEI
+691231609;;SALGUT;LED Utkjøp av bindingstid, godkjent av Egil Thengs ;Utkjøp av bindingstid;3750;;;;;30.10.2007;1;LEI
+623041605;;SALGUT;LED Utkjøp av bindingstid, godkjent av Egil Thengs ;Utkjøp av bindingstid;985;;;;;30.10.2007;1;LEI
+597050608;;SALGUT;LED Utkjøp av bindingstid, godkjent av Egil Thengs ;Utkjøp av bindingstid;21000;;;;;30.10.2007;1;LEI

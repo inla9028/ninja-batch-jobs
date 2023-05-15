@@ -1,0 +1,143 @@
+;04790534117;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04790874378;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04791332453;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04791388871;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04791553567;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04791781463;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04793425463;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04794879077;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04794879120;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04794879155;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04790648924;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04791884833;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04795859874;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04795790650;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04790888348;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04797540307;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04797565216;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04746841164;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04747059672;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04748134456;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04790738433;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04790816311;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04790977493;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04792086800;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04792811300;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04793081242;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04793435701;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04797047724;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04797744074;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-05-26;1;LED
+;04798209798;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04798209797;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04798209795;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04795704846;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04795157620;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04794819045;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04794819005;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04793098085;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04793008510;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04791109719;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04790764065;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04741627826;SALGUT;Utkjøp av bindingstid, godkjent av selger Inge Nordgård;;1200;;;;;2008-05-26;1;LED
+;04746939660;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04798227606;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04798227602;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04798227609;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04798227604;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04798227607;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04798227603;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04798227608;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy E Jonassen;;3000;;;;;2008-05-26;1;LED
+;04747370050;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370035;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370030;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370017;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370018;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370000;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370013;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370010;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04747370017;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1500;;;;;2008-05-26;1;LED
+;04791678412;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678413;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678418;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678421;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678433;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678434;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678449;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678459;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678462;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678463;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678474;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678475;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678476;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678477;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678478;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678479;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678482;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678483;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678484;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678485;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678486;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678487;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678488;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678489;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678490;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04791678497;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1200;;;;;2008-05-26;1;LED
+;04797579311;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04795203155;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790651215;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790527138;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790527130;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04795782845;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04793496280;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04792205994;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790591651;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790547616;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04795295427;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791795215;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;800;;;;;2008-05-26;1;LED
+;04790073730;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04795295427;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791708187;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1100;;;;;2008-05-26;1;LED
+;04791138170;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1200;;;;;2008-05-26;1;LED
+;04791549787;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1000;;;;;2008-05-26;1;LED
+;04791134286;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1200;;;;;2008-05-26;1;LED
+;04791620619;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1200;;;;;2008-05-26;1;LED
+;04795827902;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1200;;;;;2008-05-26;1;LED
+;04795122200;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1200;;;;;2008-05-26;1;LED
+;04790130096;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1400;;;;;2008-05-26;1;LED
+;04790714403;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1100;;;;;2008-05-26;1;LED
+;04790060722;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1100;;;;;2008-05-26;1;LED
+;04790268433;SALGUT;Utkjøp av bindingstid, godkjent av selger Faste Berg;;1100;;;;;2008-05-26;1;LED
+;04799563201;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;600;;;;;2008-05-26;1;LED
+;04793446723;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1000;;;;;2008-05-26;1;LED
+;04797736391;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1500;;;;;2008-05-26;1;LED
+;04748228338;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1500;;;;;2008-05-26;1;LED
+;04791117400;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1500;;;;;2008-05-26;1;LED
+;04791554870;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1500;;;;;2008-05-26;1;LED
+;04792250484;SALGUT;Utkjøp av bindingstid, godkjent av selger Svein Engen;;1500;;;;;2008-05-26;1;LED
+;04797681115;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04797608822;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04797606588;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04797588505;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04797527485;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04797140590;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04797044670;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04797022881;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04795163861;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04795069635;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04795064811;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04794871305;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04794838727;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04794793151;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04792446268;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791863965;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791818645;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791813800;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791668525;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791167052;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04791101686;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790737092;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790736164;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790265230;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04790191779;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04748100294;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED
+;04747647955;SALGUT;Utkjøp av bindingstid, godkjent av selger Erland Pettersen;;1200;;;;;2008-05-26;1;LED

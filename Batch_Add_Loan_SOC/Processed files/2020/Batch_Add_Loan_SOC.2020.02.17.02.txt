@@ -1,0 +1,1 @@
+GSM04799556414;LOPFLX01;ADD;;;2020.02.17.02;Etterregistrerer svitsj da den ikke ble lagt på via Copa-orden.;13656;24;F-SWC;CONTRACT-ID;N00465997;F-SWC;FM;9074755;F-SWC;IMEI;353834109519616;F-SWC;MODEL;Apple iPhone 11 Pro 64 GB Stellargrå;;;

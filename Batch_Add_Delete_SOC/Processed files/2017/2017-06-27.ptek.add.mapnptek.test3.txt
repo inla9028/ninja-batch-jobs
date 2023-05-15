@@ -1,0 +1,1 @@
+GSM04740722671;MAPNPTEK;ADD;S-AP01;IP;10.10.32.45;STLI15 2017-06-26;Kunden må ha APN og fast IP ref Terje Lilleåsen.;S-AP01;NAME;repeater.m2m

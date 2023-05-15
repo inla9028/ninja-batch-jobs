@@ -1,0 +1,116 @@
+;04792047456;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1100;;;;;2008-03-10;1;LED
+;04741421999;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-03-10;1;LED
+;04791627027;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-03-10;1;LED
+;04799248931;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1200;;;;;2008-03-10;1;LED
+;04748229947;SALGUT;Utkjøp av bindingstid, godkjent av selger Bjørn Johannessen;;1100;;;;;2008-03-10;1;LED
+;04790532929;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-03-10;1;LED
+;04740600070;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-03-10;1;LED
+;04790168009;SALGUT;Utkjøp av bindingstid, godkjent av selger Tore Kvernmo;;1200;;;;;2008-03-10;1;LED
+;04797084778;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank Hoset;;1400;;;;;2008-03-10;1;LED
+;04740473263;SALGUT;Utkjøp av bindingstid, godkjent av selger Frank Hoset;;1300;;;;;2008-03-10;1;LED
+672944600;;SALGUT;Utkjøp av bindingstid - operatørlås, godkjent av selger Frank Hoset;;1080;;;;;2008-03-10;1;LED
+;04791894915;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04795077653;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04792469490;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04790580717;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04791329949;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04791350701;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04792617070;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04794835000;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;600;;;;;2008-03-10;1;LED
+;04747911300;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04799593007;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04795114821;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04795114822;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04795114823;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04795114824;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;1200;;;;;2008-03-10;1;LED
+;04793281118;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;2400;;;;;2008-03-10;1;LED
+;04793281532;SALGUT;Utkjøp av bindingstid, godkjent av selger Roy Jonassen;;2400;;;;;2008-03-10;1;LED
+;04741265080;SALGUT;Utkjøp av bindingstid, godkjent av selger Jon Are Loktu;;1200;;;;;2008-03-10;1;LED
+;04748042540;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04790011774;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04791582898;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04791642395;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04791663784;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04791799396;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04799496083;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04790757269;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04741041592;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+432864601;;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04799007406;SALGUT;Utkjøp av bindingstid, godkjent av selger Stian B Olsen;;1200;;;;;2008-03-10;1;LED
+;04799591183;SALGUT;Utkjøp av bindingstid, godkjent av selger Stian B Olsen;;1200;;;;;2008-03-10;1;LED
+;04790937951;SALGUT;Utkjøp av bindingstid, godkjent av selger Stian B Olsen;;1200;;;;;2008-03-10;1;LED
+;04791318018;SALGUT;Utkjøp av bindingstid, godkjent av selger Stian B Olsen;;1200;;;;;2008-03-10;1;LED
+;04790773139;SALGUT;Utkjøp av bindingstid, godkjent av selger Stian B Olsen;;1200;;;;;2008-03-10;1;LED
+;04797730824;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1875;;;;;2008-03-10;1;LED
+;04798216310;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1875;;;;;2008-03-10;1;LED
+;04798216312;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1875;;;;;2008-03-10;1;LED
+;04798222757;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1875;;;;;2008-03-10;1;LED
+;04798222768;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1875;;;;;2008-03-10;1;LED
+;04746448686;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04746818663;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04746945646;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04792831277;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04795735516;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04797551319;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04741781115;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04791651925;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04794783304;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04795484343;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04795484343;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;187.5;;;;;2008-03-10;1;LED
+;04799500407;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04748106502;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04790055867;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04790778920;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04791707940;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04792084417;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04795239440;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04798241886;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;1200;;;;;2008-03-10;1;LED
+;04790279596;SALGUT;Utkjøp av bindingstid, godkjent av selger Yngve Grindheim;;800;;;;;2008-03-10;1;LED
+;04790135706;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04792667592;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04795731726;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04795809059;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04748266290;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1875;;;;;2008-03-10;1;LED
+;04790195901;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1875;;;;;2008-03-10;1;LED
+;04792455925;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1875;;;;;2008-03-10;1;LED
+;04741646046;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04790269380;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04791192174;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04793454054;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04797009192;SALGUT;Utkjøp av bindingstid, godkjent av selger Terje G Amundsen;;1200;;;;;2008-03-10;1;LED
+;04797954594;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04795250600;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04795102164;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04793030289;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04792698788;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04792601796;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04791823673;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04791393438;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04791377933;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04790947950;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;240;;;;;2008-03-10;1;LED
+;04791396697;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;600;;;;;2008-03-10;1;LED
+;04799386647;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1100;;;;;2008-03-10;1;LED
+;04795077709;SALGUT;Utkjøp av bindingstid, godkjent av selger Morten Hess Pedersen;;1200;;;;;2008-03-10;1;LED
+;04798817959;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1000;;;;;2008-03-10;1;LED
+;04792287649;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1000;;;;;2008-03-10;1;LED
+;04793207817;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;600;;;;;2008-03-10;1;LED
+;04795153173;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;500;;;;;2008-03-10;1;LED
+; 04790699375;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;500;;;;;2008-03-10;1;LED
+;04795865806;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1000;;;;;2008-03-10;1;LED
+;04791566336;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1200;;;;;2008-03-10;1;LED
+;04748119232;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;700;;;;;2008-03-10;1;LED
+;04790989059;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;500;;;;;2008-03-10;1;LED
+;04791723419;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1200;;;;;2008-03-10;1;LED
+;04797514239;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1200;;;;;2008-03-10;1;LED
+;04791842700;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1200;;;;;2008-03-10;1;LED
+;04790582745;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1200;;;;;2008-03-10;1;LED
+;04747018850;SALGUT;Utkjøp av bindingstid, godkjent av selger Per Olav Borgsø;;1200;;;;;2008-03-10;1;LED
+;04747289787;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;1200;;;;;2008-03-10;1;LED
+;04790562065;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;1200;;;;;2008-03-10;1;LED
+;04790997852;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;1200;;;;;2008-03-10;1;LED
+;04746840575;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;600;;;;;2008-03-10;1;LED
+;04795474174;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;1200;;;;;2008-03-10;1;LED
+;04795902709;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;740;;;;;2008-03-10;1;LED
+;04790863355;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;1200;;;;;2008-03-10;1;LED
+;04741413320;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;1200;;;;;2008-03-10;1;LED
+;04790606666;SALGUT;Utkjøp av bindingstid, godkjent av selger Jens Fagernes;;6000;;;;;2008-03-10;1;LED

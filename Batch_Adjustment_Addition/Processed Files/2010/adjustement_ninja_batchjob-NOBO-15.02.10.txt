@@ -1,0 +1,128 @@
+368379400;04790690673;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+874937709;04790921718;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04793066370;KORFAK;Justering av Tb basis fra 1.mars.ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04799774635;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04790186634;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04790528159;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04791752594;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04797614919;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04740485700;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04792633783;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04740853757;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+368379400;04799643432;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justeres etter avtale.;1305.83;;;;;NOBO 15.02.10;;nobo2552
+978588606;04740638684;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+578588600;04792228747;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+288588601;04791735901;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+336009600;04745507703;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+488588609;04792253730;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+188588602;04740638685;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+278588603;04792824865;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+878588607;04791133136;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+178588604;04792084771;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+678588609;04797541406;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+378588602;04792034970;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+478588601;04793063049;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+388588600;04792255112;KORFAK;justering pga feilbelastet beløpr ref ISA (godkjent Anne Solveig Olstad);Justeres etter avtale.;1044.98;;;;;NOBO 15.02.10;;nobo2552
+222881500;04790102336;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04740614801;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04745395696;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542549;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542582;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542717;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542855;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542860;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542937;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542945;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746542974;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543161;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543185;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543191;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543218;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543219;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543225;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543229;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543266;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543293;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543309;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04746543310;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04790114226;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04792414861;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04793259500;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04793259550;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04799779356;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+257930404;04799786373;KORFAK;justering for 3 mnd fri avgift ref Inge Nordgård;Justeres etter avtale.;357;;;;;NOBO 15.02.10;;nobo2552
+148814502;04792049666;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+261610406;04741547577;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+341610400;04797651999;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+346988504;04740101470;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+346988504;04740646310;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+346988504;04792058029;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+346988504;04797680814;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+529200404;04792040889;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+678338500;04798090254;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+746988500;04790987389;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+773156401;04791312909;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+778338509;04790269484;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04740222426;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04740450429;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04740646221;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04792449767;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04792847407;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04792878844;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04797510343;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04798269216;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04799580852;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+833857501;04790670334;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04740646112;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04740646127;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04740646134;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04740646135;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04740646187;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04740646330;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04740646341;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04791705044;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04791813918;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04792018882;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04792217024;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04792219708;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04797680813;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04799580811;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+956988505;04792060860;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+956988505;04795158785;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+971343702;04793625365;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+313735508;04791771906;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+327181509;04748246680;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+656470507;04746482803;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04793226780;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+956988505;04792055506;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+185601705;04793204600;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+338628704;04793410521;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+442850608;04794360411;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+512653502;04790168676;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+658633508;04797140831;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+728337700;04740006015;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+746988500;04745232105;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+746988500;04792622326;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+746988500;04794360410;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+746988500;04797680874;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+752734608;04745294642;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04740450431;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04746639244;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04792479850;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+831309406;04798269215;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04745222113;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04791666540;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04792878845;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04793404067;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+942704602;04793058488;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04793404067;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+942704602;04793058488;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+908668304;04791312905;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04792825610;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04792825930;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04792842206;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04792842704;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04798266318;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04798266319;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04798266320;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552
+887875607;04798266321;KORFAK;Ringetid ref Roger Mortensen (Godkjent i ISA);Justeres etter avtale.;425;;;;;NOBO 15.02.10;;nobo2552

@@ -1,0 +1,67 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Wed Jan 27 09:48:08 2010
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   tb_processing_trans.ctl
+Data File:      Nycomed-TB_prisplanendring-TPR-18.01.2010.txt
+  Bad File:     Nycomed-TB_prisplanendring-TPR-18.01.2010.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table TB_PROCESSING_TRANS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+PRICEPLAN                            NEXT     *   ;  O(") CHARACTER            
+CAMPAIGN                             NEXT     *   ;  O(") CHARACTER            
+HANDLE_COMMITMENT                    NEXT     *   ;  O(") CHARACTER            
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+WAIVE_FEES                           NEXT     *   ;  O(") CHARACTER            
+SUB_TB_SOC                           NEXT     *   ;  O(") CHARACTER            
+SUB_VPN_CODE                         NEXT     *   ;  O(") CHARACTER            
+SUB_CUG_CODE                         NEXT     *   ;  O(") CHARACTER            
+ENTER_TIME                           NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESSED_TYPE                       NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+REQUESTOR_ID                         NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") CHARACTER            
+PROCESS_DESCRIPTION                  NEXT     *   ;  O(") CHARACTER            
+
+
+Table TB_PROCESSING_TRANS:
+  153 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 252840 bytes(49 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           153
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Jan 27 09:48:08 2010
+Run ended on Wed Jan 27 09:48:09 2010
+
+Elapsed time was:     00:00:01.39
+CPU time was:         00:00:00.05

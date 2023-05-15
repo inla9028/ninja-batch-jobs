@@ -1,0 +1,134 @@
+;04740223025;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;57.04;;;;;LED 21.04.09;1;LED
+;04740469885;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;20.62;;;;;LED 21.04.09;1;LED
+;04740469886;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;72.95;;;;;LED 21.04.09;1;LED
+;04740495911;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;44.45;;;;;LED 21.04.09;1;LED
+;04740641411;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;28.74;;;;;LED 21.04.09;1;LED
+;04740645554;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;37.68;;;;;LED 21.04.09;1;LED
+;04741212904;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;48.21;;;;;LED 21.04.09;1;LED
+;04741241774;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;35.9;;;;;LED 21.04.09;1;LED
+;04741419553;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;18.13;;;;;LED 21.04.09;1;LED
+;04741451623;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;57;;;;;LED 21.04.09;1;LED
+;04745208997;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;60.36;;;;;LED 21.04.09;1;LED
+;04745211544;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;18.09;;;;;LED 21.04.09;1;LED
+;04745211860;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;36.02;;;;;LED 21.04.09;1;LED
+;04745262699;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;61;;;;;LED 21.04.09;1;LED
+;04745453453;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;90.96;;;;;LED 21.04.09;1;LED
+;04745868746;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;74.42;;;;;LED 21.04.09;1;LED
+;04746470009;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;6.14;;;;;LED 21.04.09;1;LED
+;04748063780;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;54.47;;;;;LED 21.04.09;1;LED
+;04748184933;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;44.41;;;;;LED 21.04.09;1;LED
+;04790078456;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;37.13;;;;;LED 21.04.09;1;LED
+;04790119152;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;52.8;;;;;LED 21.04.09;1;LED
+;04790175910;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;34.83;;;;;LED 21.04.09;1;LED
+;04790192070;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;18.84;;;;;LED 21.04.09;1;LED
+;04790547374;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;94.72;;;;;LED 21.04.09;1;LED
+;04790553823;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;46.59;;;;;LED 21.04.09;1;LED
+;04790569822;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;92.23;;;;;LED 21.04.09;1;LED
+;04790658618;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;39.94;;;;;LED 21.04.09;1;LED
+;04790731616;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;69.39;;;;;LED 21.04.09;1;LED
+;04790855424;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;48.21;;;;;LED 21.04.09;1;LED
+;04790870703;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;38.24;;;;;LED 21.04.09;1;LED
+;04790919932;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;63.49;;;;;LED 21.04.09;1;LED
+;04790947457;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;57.16;;;;;LED 21.04.09;1;LED
+;04790972308;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;42.91;;;;;LED 21.04.09;1;LED
+;04791129860;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23;;;;;LED 21.04.09;1;LED
+;04791191250;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;86.77;;;;;LED 21.04.09;1;LED
+;04791334730;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;51.93;;;;;LED 21.04.09;1;LED
+;04791336154;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;44.33;;;;;LED 21.04.09;1;LED
+;04791356100;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;68.08;;;;;LED 21.04.09;1;LED
+;04791367748;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;41.68;;;;;LED 21.04.09;1;LED
+;04791536319;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;84;;;;;LED 21.04.09;1;LED
+;04791548525;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;50.07;;;;;LED 21.04.09;1;LED
+;04791560949;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;69.79;;;;;LED 21.04.09;1;LED
+;04791829428;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;28.34;;;;;LED 21.04.09;1;LED
+;04791871157;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;59.22;;;;;LED 21.04.09;1;LED
+;04792021887;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;63.06;;;;;LED 21.04.09;1;LED
+;04792046690;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;29.89;;;;;LED 21.04.09;1;LED
+;04792254040;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04792415392;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;68;;;;;LED 21.04.09;1;LED
+;04792470008;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;28.14;;;;;LED 21.04.09;1;LED
+;04792659490;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;0.75;;;;;LED 21.04.09;1;LED
+;04792666180;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;49.32;;;;;LED 21.04.09;1;LED
+;04792832036;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04792871113;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;39.07;;;;;LED 21.04.09;1;LED
+;04792880115;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;36.02;;;;;LED 21.04.09;1;LED
+;04792880116;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04792880138;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04792880158;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;41.13;;;;;LED 21.04.09;1;LED
+;04792880225;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04792880396;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;34.44;;;;;LED 21.04.09;1;LED
+;04792880579;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;24.03;;;;;LED 21.04.09;1;LED
+;04792880834;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;24.03;;;;;LED 21.04.09;1;LED
+;04792896250;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;18.09;;;;;LED 21.04.09;1;LED
+;04792896550;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;37.13;;;;;LED 21.04.09;1;LED
+;04793059933;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04793096286;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;36.02;;;;;LED 21.04.09;1;LED
+;04793096480;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;39.11;;;;;LED 21.04.09;1;LED
+;04793236620;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;60.88;;;;;LED 21.04.09;1;LED
+;04793266558;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;33.96;;;;;LED 21.04.09;1;LED
+;04793281082;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;78.41;;;;;LED 21.04.09;1;LED
+;04793281083;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;44.61;;;;;LED 21.04.09;1;LED
+;04793281088;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;52.53;;;;;LED 21.04.09;1;LED
+;04793412537;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;72.24;;;;;LED 21.04.09;1;LED
+;04793439903;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;34.32;;;;;LED 21.04.09;1;LED
+;04793439959;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;24.34;;;;;LED 21.04.09;1;LED
+;04794868688;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;24.46;;;;;LED 21.04.09;1;LED
+;04795063538;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;37.09;;;;;LED 21.04.09;1;LED
+;04795073616;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;7.24;;;;;LED 21.04.09;1;LED
+;04795073650;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;59.06;;;;;LED 21.04.09;1;LED
+;04795073679;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;79.84;;;;;LED 21.04.09;1;LED
+;04795131333;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;25.69;;;;;LED 21.04.09;1;LED
+;04797071279;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;63.97;;;;;LED 21.04.09;1;LED
+;04797122706;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;47.78;;;;;LED 21.04.09;1;LED
+;04797185230;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;45.76;;;;;LED 21.04.09;1;LED
+;04797683538;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;51.14;;;;;LED 21.04.09;1;LED
+;04797763403;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;43.11;;;;;LED 21.04.09;1;LED
+;04798035196;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;81.58;;;;;LED 21.04.09;1;LED
+;04798096268;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;27.31;;;;;LED 21.04.09;1;LED
+;04798265221;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.87;;;;;LED 21.04.09;1;LED
+;04798265222;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;67.33;;;;;LED 21.04.09;1;LED
+;04798265223;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;56.01;;;;;LED 21.04.09;1;LED
+;04798265225;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;41.8;;;;;LED 21.04.09;1;LED
+;04798265226;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;58.27;;;;;LED 21.04.09;1;LED
+;04798265227;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;57.71;;;;;LED 21.04.09;1;LED
+;04798265228;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;72.2;;;;;LED 21.04.09;1;LED
+;04798265229;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;48.65;;;;;LED 21.04.09;1;LED
+;04798265230;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04798265236;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;26.16;;;;;LED 21.04.09;1;LED
+;04798265237;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;28.38;;;;;LED 21.04.09;1;LED
+;04798265238;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.75;;;;;LED 21.04.09;1;LED
+;04798416737;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;40.45;;;;;LED 21.04.09;1;LED
+;04798416749;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;23.35;;;;;LED 21.04.09;1;LED
+;04798822386;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;25.53;;;;;LED 21.04.09;1;LED
+;04798867475;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;113.56;;;;;LED 21.04.09;1;LED
+;04798868746;KORFAK;Manglende rabatt godkjent av Erland Pettersen;Manglende rabatt;52.76;;;;;LED 21.04.09;1;LED
+;04797593120;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;77.78;;;;;LED 21.04.09;1;LED
+;04748245550;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1125;;;;;LED 21.04.09;1;LED
+;04797608074;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;875;;;;;LED 21.04.09;1;LED
+;04748286530;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;875;;;;;LED 21.04.09;1;LED
+;04747912761;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912773;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912770;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912763;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912764;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912768;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912766;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912765;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912769;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912772;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912760;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04791582821;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04747912767;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04746472942;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04792228747;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04791735901;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04792255112;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04792253730;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04793063049;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04740638685;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04797541406;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04792824865;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04792084771;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04791133136;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04740638684;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED
+;04792034970;SALGUT;Utkjøp av bruddgebyr godkjent av selger Mette Olsson;;1500;;;;;LED 21.04.09;1;LED

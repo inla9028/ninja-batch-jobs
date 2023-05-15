@@ -1,0 +1,33 @@
+Hi..
+
+This is a batch-job to replace one soc with another soc.
+
+The records are first loaded into the table ninjateam.hgu_tmp_trans....
+
++---------------+---------------+
+| NAME          | Type          |
++---------------+---------------+
+| SUBSCRIBER_NO | VARCHAR2(18)  |
+| SOC           | VARCHAR2(9)   |
+| ACTION        | VARCHAR2(15)  |
+| REQUEST_TIME  | DATE          |
+| PRIORITY      | NUMBER(1,0)   |
+| REQUEST_ID    | VARCHAR2(30)  |
+| MEMO_TEXT     | VARCHAR2(300) |
++---------------+---------------+
+
+Once in that table, they can be loaded into ninjadata.master_transactions
+using one of the following two stored procedures:
+
+* ninjateam.hgu_procs.load_master_transactions
+  - Loads records using 10 streams, based on a modulo calculation of each msisdn.
+
+* ninjateam.hgu_procs.load_master_transactions_1
+  - Loads records using 1 stream. No need for additional processes...
+
+..Regards
+..Håkan
+
+           If there are any questions,
+           don't hesitate to ask me.
+           If I still work at NetCom that is...? ;-)

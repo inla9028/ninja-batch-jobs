@@ -1,0 +1,632 @@
+U;;GSM04795142719;Østreng;Marius;;OSLO;1163;59;Tysleveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793010494;Skorge;Linda R.;;OSLO;0880;20;Korsvollbakken;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741020203;Aune;Morten;;OSLO;0953;15;Kalbakkveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797683179;Bråte;Jarle;;OSLO;0383;75;Lysehagen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795331633;Bromark;Per Arvid;;ÅMOT;3340;6;Åmotbakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790135256;Halvorsen;Geir;;VESTBY;1540;8;Frøys vei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791349667;Henriksen;Nina;;TROMSØ;9017;15;Beverveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791190260;Hennum;Tor Gunnar;;Lier;3400;1;Ekornveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791103746;Døhl;Anne Marie;;HASLUM;1344;21;Løkebergtunet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790991922;Hordnes;Tove;;Drammen;3029;76;Lihagen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790534629;Stabæk;Bodil;;ASKER;1386;71;Guddolf Blakstadsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795921801;Storheil;Mette;;SÆTRE;3475;12;Mørkveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04745032187;Børstad;Anne Heidi;;OSLO;1062;27;Skansen Terasse;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748044506;Ekdal;Sigrid Kersenboom;;Lysaker;1366;7;Arnstein Arnebergsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792041014;Elton;Eva;;SLEMMESTAD;3470;43;Ødegårdslia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793439115;Haarberg;Mone;;ASKER;1383;5;Lysthusbråten;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792266187;Hansen;Aelita;;Oslo;0382;3;Bjørnslettveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799409368;Hanssen;Odd Jomar;;Tromsø;9006;100;Strandvegen;;;NOR;J;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741600078;Lysaker;Tone Mari;;VØYENENGA;1339;75;Brenneveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799278635;Navikaite;Siri;;OSLO;0577;8;Sørligata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790065459;Salamonsen;Nelle Kristine;;OSLO;0469;31;Bentsebrugata;;;NOR;D;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797518580;Baastad;Janne-Beate;;HASLUM;1344;112;Kirkeveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791651792;Rognerud;Martin;;Stabekk;1368;33;Trudvangveien;;;NOR;D;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04747884572;Walsø;Eli;;TROMSØ;9016;44;Trollringen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790789558;Grimeland;Stig;;OSLO;1166;32;Åsdalsveien;;;NOR;D;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790718403;Ohlsson;Tom Arne;;Oslo;0789;2;Blåbærsvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792026949;Krogstad;Stine;;OSLO;0755;16;Røahellinga;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799090850;Valhammer;Einar;;Tromsø;9016;35;Trollringen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793251058;Grødtlien;Trond Magnus;;STRØMMEN;1467;14;Øvre Guldalsgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741651414;Gabrielsen;Øyvind;;Oslo;0956;40;Rasmus Engers VEI;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797098344;Radem;Monika;;Auli;1929;23;Tiurvn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795241946;Borch;Andre;;SPERREBOTN;1591;17;Texnesbk.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741664488;Frantzen;Ingar;;DRAMMEN;3015;14;Gjetergata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793045679;Lunner;Tore;;RYKKINN;1349;8;Olaf Brynesvei;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797521280;Øhren;Morten;;HALLINGBY;3525;19;Ringmoveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793230695;Teigen;Dan Eivind;;HOKKSUND;3300;22;Sundgata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797167475;Frammarsvik;Aleksander;;GEITHUS;3360;22;Lyngveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791723386;Andreassen;Tord;;TROMSØ;9010;18;Ishavsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792217550;Johansen;Bernt Inge;;KVALØYSLETTA;9100;21;Mølnenga;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04794890793;Kleveland;Jan Lennart;;KVALØYA;9104;61;Hummervegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795149011;Nese;Sunniva;;TROMSØ;9015;28;Vestavinden;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791837421;Nilsen;Kristian;;TROMSØ;9016;28;Tuftebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04746789888;Nilsson;Jørn Are;;Tromsø;9017;26;Dreggen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04745440516;Sagerup;Mats-Andre Hansen;;Trondheim;7014;24;Nygata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792251251;Widding;Eirik;;Trondheim;7018;98;Mellomila;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791138731;Abrahamsen;Roy Gunnar;;Alta;9515;40;Storengvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748055884;Bæhr;Kjetil;;KAUTOKEINO;9520;2;Njurgoluodda;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790984820;Berg;Daniel;;Alta;9512;31;Bjørnmyra;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790082893;Berg;Roy Hermann;;Alta;9517;8;Utsikten;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741048408;Farstad;Jan Are;;ALTA;9513;3;Reistadberget;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04747249329;Guttormsen;Jan Gunnar;;ALTA;9514;32;Spikergjerdet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793451080;Heggelund;Jon Isak;;ALTA;9512;7;Snømusstien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792055119;Isaksen;Tor Einar;;HAMMERFEST;9600;4;Torskefjordveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04740604247;Isaksen;Andreas;;Alta;9517;24;Sagabrinken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04746957402;Ittelin;Håkon;;Vadsø;9800;10;Hagaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792687877;Johansen;Mia Louise Opgård;;Narvik;8514;17;Sildvikgata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741403450;Jørgensen;Bjørnar;;ALTA;9514;41;Knut Kvensvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793881671;Kjelstrup;Runar;;Tromsø;9014;7;Gnistvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748190281;Lundheim;Berit Haldorsen;;ALTA;9517;6;Skomakerholtet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790997779;Olsen;Jens Vegard;;Alta;9517;11;Sagbrinken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791330124;Opdahl;Lise;;ALTA;9515;41;Baddoveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791583116;Opgård;Odd Richard;;ALTA;9517;101;Tverrelvdalsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797005485;Østerbøl;Per Ivar;;ALTA;9517;25;Sagali;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790730366;Østgård;Ole Johan;;Tromsø;9016;51;Tuftebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741618730;Rasmussen;Rune;;Alta;9515;26;Leirbakkenvegen;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797091430;Rasmussen;Andreas;;ALTA;9515;21;Storengveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795033282;Samuelsen;Finn-Eivind;;ALTA;9517;8;Utsikten;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792259442;Albrigtsen;Torfinn;;Kvaløysletta;9100;8;Muslingveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793021911;Bøifot;Ronny;;Tromsø;9010;74;Ishavsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791349662;Frantzen;Peder Lie;;Krokelvdalen;9022;1;Lysnestunet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797565322;Fredheim;Martin Berg;;TROMSØ;9015;67;Klimaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792220638;Fyhn;Gro Skaar;;KVALØYA;9105;1223;Straumsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790554569;Grønstøl;Tone;;NORDKJOSBOTN;9040;325;Seljelvnesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792238656;Haugan;Geir Ove;;TRONDHEIM;7030;10;Nidarøygate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748037651;Knutsen;Per Sigmund;;TROMSØ;9012;82;Senjavegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799530942;Wiik;Therese Horn;;TROMSØ;9016;8;Stalloveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793828861;Bakkmyr;Jan-Arne;;KROKELVDALEN;9022;94;BA Løvoldsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797698220;Jensen;Are Henning;;Tromsø;9017;4;Ilevegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799515957;Johansen;Stian;;Tromsø;9019;10;Baldersveg;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748215540;Lernes;Runar Nikolai;;TOMASJORD;9024;99;Evjenveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792890609;Olsen;Vegard Andre;;Nordkjosbotn;9040;1209;Seljelvnesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791554640;Paulsen;Erlend;;TROMSØ;9015;68;Klimaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793684972;Pedersen;Siren;;Tromsø;9007;6;Stadionvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04747605497;Skagseth;Steven;;Krokelvdalen;9022;193;Tønsvikvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793444599;Solberg;Bjørn Arild;;Kvaløysletta;9102;47;Eineveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793289319;Strøm;Frank;;Tromsø;9018;315;Utsikten;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04740306428;Van Dijck;Ole;;TROMSØ;9010;103;Dramsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791660742;Andreassen;Frode;;Finnsnes;9300;37;Strandveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795304019;Andreassen;Karstein A.;;Finnsnes;9300;;Blomli;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791703325;Andreassen;Leif Gunnar;;STORSTEINNES;9050;;Josefvatn;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790674358;Bruvoll;Karoline;;SJØVEGAN;9350;;Rognså;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795481202;Johannessen;Ingebjørn;;ROSSFJORDSTRAUMEN;9302;;Tårnelv;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797072240;Karlsson;Jan Roar;;OTEREN;9046;;Stubbeng;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790654948;Nordhaug;Vidar M.;;Trondheim;7038;12;Ratesvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799541080;Rønning;Jørn Louis;;SØRREISA;9310;;Sildvika;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790611204;Andreassen;Jan Børre Hansen;;TROMSDALEN;9020;53;Storbakkvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04794888258;Joakimsen;Frank Gunnar;;TROMSØ;9016;8;Stalloveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790835316;Mørch;Ronny;;TROMSØ;9017;23;Grevlingveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795271399;Balto;Jan Erik;;Tromsø;9012;13;Karisvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748139415;Bjørn;Stefan Birger Hansen;;KVALØYSLETTA;9100;46;Finnhvalveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791796529;Broks;Jan Inge;;TROMSØ;9017;22;Ileveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04794845450;Fredheim;Teemu;;KVALØYSLETTA;9100;254;Salarøyveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790766538;Gestsson;Odd Arne;;TROMSØ;9010;51;Stakkevollvn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797574205;Lilleng;Roland Klaus;;TOMASJORD;9024;46;Uranusveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04745516878;Ylitalo;Tom Roger;;Hatteng;9046;;.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791547406;Bjørvik;Leif Georg;;TROMSØ;9015;12;Olsgårdlia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748174392;Haumann;Magnus Kristoffer;;TROMSØ;9011;28;Prestvannveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793211331;Jensen;Tore Håkon;;Tromsdalen;9020;22;Erikjordvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795217640;Kristiansen;Thomas;;Nordkjosbotn;9040;182;Øvergårdsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799005841;Mevåg;Marcin Piotr;;TROMSØ;9013;85;Wanny Woldstadvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791188664;Strand;Ola Molnes;;KVALØYSLETTA;9100;84;Ersfjordvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795747040;Akslen;Glenn Ove;;Ålesund;6013;;Emblem;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795063636;Bernaczek;Eirik;;GISKE;6052;40;Burmavegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04745451318;Blindheim;Ivan Andre;;Skodje;6260;7;Einevegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795156233;Brandal;Håvard;;LANGEVÅG;6030;5;Søre Holsmyra;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04745257268;Haram;Geir Roar;;Ålesund;6012;21;Nedre Hatleholen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795912740;Johnsen;Lars Ole;;ÅLESUND;6010;80;Nesvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795056236;Ramnefjell;Åge Jostein;;EIDSNES;6037;39;Solavågsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795156231;Rødseth;Vidar Wåge;;ÅLESUND;6012;21;Bjørkavollen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799162500;Tomren;Øystein;;ÅLESUND;6010;1;Remviksletta;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795156234;Tryggestad;Joar;;Ålesund;6009;9;Myraledbakken;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791569609;Hansen;Frank;;Ulsteinvik;6065;;Dimna;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04747623409;Rønningen;Arnfinn;;Volda;6103;13;Furebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797543025;Skarvøy;Jan Olav;;Ulsteinvik;6065;;Vågane;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797705700;Corneliussen;Kjell Egil;;STRANDA;6200;;Skogadalen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797509090;Framhus;Petter;;STRANDA;6200;;Framhus;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741663411;Kaldhussæter;Frode;;STRANDA;6200;5;Kyrkjegata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790868000;Nordang;Jon Ståle;;STRANDA;6200;108;Ødegårdsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791531288;Nyberg;Rune;;STRANDA;6201;82;Postboks;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792657371;Ødegård;Arild;;Stranda;6200;1;Haslevegen;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795050690;Øygard;Eirik;;SYKKYLVEN;6230;33;Grebstadhagen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791194641;Berntsen;Rolf;;Harstad;9515;73;Mølnåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790822091;Bogstrand;Jonas;;Evenskjer;9439;179;Postboks;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791876800;Dalby;Harald;;Tromsø;9102;14;Timoteiveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797021100;Hemmingsen;Øyvind;;Tromsdalen;9020;132;Lauksletta;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741505479;Knudtsen;Ronald;;Tromsø;9019;304;Stakkevollveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748121401;Kristoffersen;Knut-Ivar;;Harstad;9409;8;Asurvegen;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741584029;Mikalsen;Asmund;;Harstad;9414;19;Asphågen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748130671;Nilssen;Ragnhild;;Harstad;9411;54;Klubbåsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04794813415;Robertsen;Kjell;;Evenskjer;9439;219;Postboks;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741636098;Sørensen;Arne;;Tromsdalen;9020;19;Skarveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04747897269;Aalstad;Arnt Ove;;Harstad;9406;4;Torgveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791736150;Bertheussen;Bjørn Fredrik;;Harstad;9407;43;Solstien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792051490;Bratsberg;Evelyn;;Harstad;9407;4;Høghaugen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790012943;Ditlevsen;Berit;;Harstad;9402;;Høgda;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791562806;Edvardsen;Jan Ole;;Ankenes;8520;26;Forrasvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790077324;Edvardsen;Rune;;Harstad;9415;16;Rundevn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797760311;Eriksen;Hugo;;HARSTAD;9411;20;Gjerdhågen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;BERIT ERIKSEN
+U;;GSM04791150279;Flo;Tor Anders;;HARSTAD;9406;44;Buvn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JAN OLE FLO
+U;;GSM04790626495;Fossem;Einar;;Harstad;9407;8;Harestien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;RUNE FOSSEM
+U;;GSM04795829544;Gleditsch;Ivar-Ståle;;Harstad;9408;16;Jupiterveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747315264;Grøvan;Bård;;Harstad;9415;6;Nonsåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;TOR ANDERS GRØVAN
+U;;GSM04790923533;Hagen;Rune Martin;;Harstad;9411;6;Kanebogåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741615302;Hågensen;Audun;;SORTLAND;8400;9;Myrullveien;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;IVAR STÅLE HÅGENSEN
+U;;GSM04790594747;Hansen;Ronny;;Harstad;9414;4;Otersteinveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;BÅRD HANSEN
+U;;GSM04740496692;Hansen;Jahn;;Harstad;9408;37;Steinvn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;RUNE M HANSEN
+U;;GSM04795930479;Haukland;Malene;;Harstad;9415;28;Jektholtet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793290161;Henriksen;Lisbeth;;Harstad;9408;4;Veslebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748065612;Herstad;Andre;;Harstad;9407;1;Novkollen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795946077;Husby;Trond Inge;;Melbu;8445;18;Trålergata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04746500550;Jacobsen;Alexander;;Harstad;9403;78;Samagata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;LISBETH JACOBSEN
+U;;GSM04793697305;Jensen;Rita Karin;;Harstad;9409;13;Stokkemyrveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791881069;Jensen;Rolf;;Harstad;9411;18;Gjerdhågen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791338524;Martinussen;Steinar;;Harstad;9415;16;Jektholtet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ALEXANDER MARTINUSSEN
+U;;GSM04795756922;Mathiassen;Odd Helge;;Harstad;9408;13;Langnesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790765955;Micheeff;Mats Bang;;Harstad;9407;73;Hagebyveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ROLF STEFFEN MICHEEFF
+U;;GSM047;Nilsen;Johnny;;Harstad;9405;20;Jørnsgt.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791158511;Paulsen;Turid;;Harstad;9407;7;Hellebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ODD HELGE PAULSEN
+U;;GSM04741685457;Pedersen;Odd Runar;;Harstad;9408;6;Uranusveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748052602;Pettersen;Jan Edvard Petter;;Harstad;9415;40;Jektholtet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792856562;Rasmussen;Anders;;Harstad;9411;30;Liveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790209260;Rognan;Randi;;Harstad;9415;1;Rødsand;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ODD RUNAR ROGNAN
+U;;GSM04745119452;Stenersen;Stian Sivertsen;;Harstad;9408;20;Kongsveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790744292;Stien;Stian Johan;;Harstad;9404;41;Nordmarkveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741508179;Thrane;Mats Kim;;Harstad;9415;7;Strupen;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795302597;Normann;Harald;;ANKENESSTRAND;8520;7;Korallveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790773881;Søderholm;Anne Cathrine;;Ankenesstrand;8520;66;Fagerjordveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741129833;Andersen;Geir-Frode;;Tromsdalen;9024;53;Tomasjordnes;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790578295;Antonsen;Kai Ole;;TROMSDALEN;9020;41;Storbakkvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791807494;Arnesen;Steven Jarl;;Tromsø;9014;51;Winston Churchillsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741239101;Bergseth;Oddbjørn;;TROMSØ;9013;37;Grønlandsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795258589;Berntsen;Maria Cecilie;;RAMFJORDBOTN;9027;34;Nordbotnveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790578322;Biti;Roger;;KVALØYSLETTA;9100;2;Morildveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795947441;Broks;Sigurd Oddvar;;TROMSØ;9019;3;Gimleveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799708461;Fløistad;Bjørn Allan;;KVALØYA;9104;103;Borgensvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;MARIA FLØYSTAD
+U;;GSM04745268765;Georgsen;Fritz Willy;;KROKELVDALEN;9022;231;Ullstindvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790976154;Guttormsen;Ingri Kjær;;TROMSØ;9016;164;Alveveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791622418;Hall;Lars Helge;;TROMSØ;9006;24;Bentsjordveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04794839675;Hansen;Lars Bangsund;;TROMSØ;9006;20;Lars Thørringsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741622616;Hansen;Andreas;;TROMSDALEN;9020;21;Holmeslettveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797526580;Hansen;John Arve;;Finnsnes;9300;15;Seljebergan;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797645488;Jacobsen;Ronny;;TROMSDALEN;9020;8;Anton Jakobsensvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790521325;Jakobsen;Kjell;;KVALØYSLETTA;9101;3;Blomliveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741569515;Jakobsen;Jarno;;KVALØYSLETTA;9100;50;Blåklokkeveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790526154;Josefsen;Kristian Ø.;;Tromsdalen;9020;3;Tønsnesvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790668869;Kristiansen;Ronny;;TROMSØ;9015;41;Rypeveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790833191;Länsman;Siri;;Kvaløya;9104;3;Hummervegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JARNO LANSMAN
+U;;GSM04799482320;Larsen;Arild;;TROMSØ;9010;104;Stakkevollveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795135430;Nilsen;Trude;;KROKELVDALEN;9022;100;Gneisveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790950051;Olsen;Ola Benjamin Ness;;TROMSØ;9016;203;Draugen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790643238;Østgård;Steinar;;TROMSØ;9016;51;Tuftebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790757253;Pedersen;Hilma Lisbeth;;Kvaløya;9105;14;Åslandvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799796470;Richardsen;May-Bodil;;Tromsø;9009;100;Bjørkås Terasse;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790961335;Rørnes;Rudi Hofsøy;;TROMSØ;9011;15;Forhåpningen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797104180;Salamonsen;Erik;;TROMSDALEN;9020;17;Gausdalsveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790693327;Solberg;Marius;;TROMSØ;9009;14;Anton Iversensvei;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790834033;Steffensen;Kaja Katharina;;Kvaløysletta;9100;49;Finnseterveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797182754;Fredriksen;Jostein;;Tromsø;9016;219;Draugen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790604009;Furnes;Jon-Rikard Sørensen;;Tromsø;9013;12;Sydpolvegen;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792898863;Halvorsen;Aleksander Tjervåg;;TROMSØ;9013;263;Edderdunvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790849582;Johansen;Thomas;;Tromsø;9007;256;Hjalmar Johansensgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791735501;MacDougall;Jonn Andre;;TROMSØ;9007;17;Henrik Wergelandsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790852988;Dalebø;Oddmund;;Ålesund;6007;47;Borgundvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797566696;Haram;Camilla Hoel;;Ørsta;6150;15;Øvrelida;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795229090;Haugmo;Kjetil;;STRANDA;6200;16;Øyna;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790642000;Langlo;Ellen Gro;;STRANDA;6200;49;Ringstadvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791884030;Nordang;Vegard;;STRANDA;6200;5;Sjøvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790867000;Nordang;Trond;;STRANDA;6200;5;Sjøvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790176123;Ringstad;Marianne;;STRANDA;6200;14;Bruaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790159263;Solheim;Trond;;ÅLESUND;6009;18;Samundplassen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741014632;Aas;Anne Lise;;ANDEBU;3158;8;Bergstien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04798282252;Bakke;Yngve;;VÅLE;3178;5;Soleiestien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798282253;Ditmansen;Ernst;;HORTEN;3185;32;Reirveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791172586;Hagen;Marius;;HORTEN;3188;1;Baglerveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795916205;Jensen;Linda;;MELSOMVIK;3159;177;Melsomvikveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798282255;Jørgensen;Trygve;;HORTEN;3189;18;Barlindveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793603183;Klausen;Harald;;Tønsberg;3117;20;Anders Rørholtsvri;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792215520;Kopperud;Terje;;Tolvsrød;3150;5;Krokusveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741563033;Olaussen;Thomas;;HORTEN;3189;23;Jensebråten;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795902654;Riis;Rune;;KODAL;3243;25;Engeneveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798282241;Solem;Håvard;;HORTEN;3186;23;Borreveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400213;Bakken;Tor Audun;;SOLBERGELVA;3057;11;Bergåsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400228;Bromark;Jan;;ÅMOT;3340;;Slettaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740050020;Dybendal;Jonny;;Åmot;3340;1;Kvartsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400247;Eriksen;Lars;;Geithus;3360;30;Furumobakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;TOR AUDUN ERIKSEN
+U;;GSM04740400225;Eriksson;Jan Petter;;Årjäng;67294;1;Häljebyn;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400244;Flattum;Ole Gøran;;GEITHUS;3360;3;Skredsvigsmoen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400246;Fosnæs;Håvard;;VIKERSUND;3370;70;Sønsterbyveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400205;Hansen;Merete;;ÅMOT;3340;28;Bergkrystallen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400243;Hansen;Stine Elisabeth;;ÅMOT;3340;5;Trollheggveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;OLE GØRAN HANSEN
+U;;GSM04740400233;Haug;Eirik Ovnan;;EGGEDAL;3359;;;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400245;Haugen;Tron Verner;;VIKERSUND;3370;109;Vikerkleiva;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400229;Hovde;Stein Christen;;VIKERSUND;3370;13;Øvre Rosnesvei;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400249;Isaksen;Per Terje;;VIKERSUND;3370;8;Øvre Rosnesvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799281281;Jensen;Jonas Fog;;Mjøndalen;3050;16;Hermanbakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400204;Kartnes;Jaroslaw;;SANDE I VESTFOLD;3070;10;Stasjonsgata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400248;Larsen;Lars;;ÅMOT;3340;19;Heggveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400224;Madsen;Øyvind;;Geithus;3360;13;Skogveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400232;Matysiak;Terje Jelstad;;GEITHUS;3360;2;Eikerveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JAROSLAW MATYSIAK
+U;;GSM04746894561;Olaussen;Knut;;Åmot;3340;15;Nymogata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400218;Olaussen;Morten;;GEITHUS;3360;3;Rolighetshagan;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400212;Olsen;Knut Mathias;;GEITHUS;3360;8;Ryllikveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740400222;Riis;Frank;;NORESUND;3536;;Odden;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;KNUT RIIS
+U;;GSM04740400208;Sand;Terje;;Vestfossen;3320;3;Kolbergveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791333483;Amlie;Nina Sem;;Porsgrunn;3943;40;Damfaret;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790589253;Andersen;Erik;;PORSGRUNN;3919;2;Elvebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792041345;Bakken;Endre;;SKIEN;3739;517;Voldsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792224101;Bostad;Rune;;SKIEN;3716;10;Parkveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791574654;Danielsen;Knut;;Vestskogen;3142;111;Munkerekkveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793405479;Gullhaug;Håvard;;SKIEN;3721;27;Katteberget;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792259507;Haugen;Arild;;Porsgrunn;3914;50;Bjerketvedtveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793280439;Hegna;Lars Usterud;;DRANGEDAL;3750;193;Singusdalsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798228943;Hofstein;Geir Jacob;;PORSGRUNN;3914;99;Øvre Liane;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;HÅVARD HOFSTEIN
+U;;GSM04795893033;Høgseth;Erik;;Porsgrunn;3912;207;Storgata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04746971985;Hunkilen;Knut;;HERRE;3965;2;Revestien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740468068;Jensen;Trine;;SKIEN;3718;56;Gulsetveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793236601;Løberg;Frode;;SKIEN;3737;100;Rienvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793405481;Nilsen;Kjetil Ova;;DRANGEDAL;3750;;.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792227757;Norling;Henning;;SKIEN;3733;10;Dragonveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791700545;Pettersen;Rune Harald;;Skien;3733;7;Klokkergaten;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793222309;Runningen;Odd Egil;;LUNDE;3825;28;Drangedalsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793236610;Skau;Jan Erik;;SKIEN;3720;77;Skotfossveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792094523;Skoftedalen;Petter;;SKIEN;3720;75;Skjelbekkåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792217577;Skogseide;Tore;;SKIEN;3726;48;Stigeråsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791554016;Slaatta;Knut Jørgen;;NEVLUNGHAMN;3296;;Nevlungen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793213830;Solli;Thomas;;BREVIK;3950;8;Kastanjeveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748206747;Strand;Morten;;DRANGEDAL;3750;37;Åkreveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793202217;Tørnes;Nils Petter;;DRANGEDAL;3750;105;Singusdalsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797168589;Høiseth;Stian Roger;;SILJAN;3748;24;Bakkaneriset;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04745866333;Jensen;Jonas;;SKIEN;3721;31;Hoppestadlia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790848242;Langen;Marius;;SKIEN;3721;40;Smieveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791389092;Aarum;Trond;;Sarpsborg;1706;115;St.Mariegt;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;STIAN AARUM
+U;;GSM04745809950;Askautrud;Thomas;;Moss;1513;6;Carl Schøyens vei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741922293;Aune;Erik Coldin;;BORGENHAUGEN;1739;12;Klevers vei;;;NOR;F;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798265609;Bergsland;Lars-Gunnar;;ISE;1730;52;Bergbyveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3430850
+U;;GSM04790797971;Bråthen;Geir;;Gamle Fredrikstad;1636;14;Edvard Eriksensgate;;;NOR;D;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797065224;Brekkli;Magnus;;Greåker;1718;49;Fjellhøyveien;;;NOR;S;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798265718;Brevik;Petter;;Hafslundsøy;1734;13;Nesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791387908;Dammyr;Knut Henning;;Trøgstad;1860;8;Åsgård;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790559586;Glomsrød;Elisabeth;;Halden;1782;6;Liumveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795135274;Hernes;Lene Cathrine Ouren;;Tistedal;1793;12;Revehiveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799415555;Iversen;Øyvind Magnus;;SON;1555;13;Bekkefaret;;;NOR;E;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790728446;Nielsen;Fredrik;;BORGENHAUGEN;1739;38;Brusemyrtoppen;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741304634;Rexten;Hege Charlotte;;Halden;1784;10;Granittveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04794148639;Ruud;Lars;;HAFSLUNDSØY;1734;19;Hasletoppen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ØYVIND RUUD
+U;;GSM04741665549;Simensen;Birger;;GAMLE FREDRIKSTAD;1634;19;Toresvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741355052;Aune;Rune;;Jessheim;2052;7;Lysåsstubben;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793250025;Bismo;Jon Egil;;Gjøvik;2817;24;Norbyvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797400542;Grønstad;Abdisamed;;SKARNES;2100;30;Holtvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747333723;Hagen;Mubarak S;;Ridabu;2322;1;Gartnerløkka;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04746418363;Lundsbakken;Dennis;;Løten;2340;13;Grindervegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3440900 DK ROMERIKE
+U;;GSM04745511008;Mohamed;Lars Petter;;Oslo;1055;3;Høybråtenveien;;;NOR;F;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3460900
+U;;GSM04798019288;Musse;Bror Reinskou;;Oslo;0864;40;Olav M Troviksvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790729409;Strandberg;Flemming;;Sørumsand;1920;27;Tiurgrenda;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;DENNIS STRANDBERG
+U;;GSM04799274994;Berg;Annicken;;BORGEN;1388;21;Søndre Borgen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747676046;Birkeland;Steinar;;Oslo;0273;13;Olav Kyrresgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;BROR BIRKELAND
+U;;GSM04790981642;Braathen;Erik;;VØYENENGA;1339;75;Brenneveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793226070;Ertzeid;Geir;;ASKER;1387;63;Bondibråten;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747457671;Frantzen;Kjell;;OSLO;1285;25;Nordre Dalsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790833061;Gundrosen;Terje;;Sofiemyr;1412;7;Hermodsvei;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799281450;Halstensen;Kåre Ingvar;;Kongsberg;3617;11;Mauritz Hansensgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790137599;Heggelid;Bjørn Lennart;;OSLO;0198;21;Skrenten;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790881864;Holth;Morten;;ASKER;1385;33;Øvre Drengsrudvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797960439;Martinsen;Dan Henry C.;;SOLBERGELVA;3057;91;Gamle Riksveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797711548;Martinsson;Thor Arne;;OSLO;1274;405;Åslandshellinga;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790864489;Pedersen;Ole;;KRÅKERØY;1672;8;Smertuveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790564948;Rindebäck;Anton I.;;UCKLUM;44494;402;Norra Grøssbyen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791527241;Robertsen;Petter;;VESTERØY;1684;1;Nord i Enga;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798244558;Ruud;Knut Greger;;Tranby;3409;19;Haugane;;;NOR;D;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790842962;Salvesen;Øyvind;;JAR;1358;9;Lillengveien;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797693637;Snortheim;Thomas Helge;;RÅHOLT;2070;14;Lundsgutua;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;PETTER SNORTHEIM
+U;;GSM04790566822;Solberg;Marius Strand;;LYSAKER;1366;1;Lysaker Brygge;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748246409;Solli;Janni;;Sørumsand;1920;66;Sørumsandvegen;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04746818916;Sørum;Annikken Dahl;;YTRE ENEBAKK;1914;1;Råkendalfaret;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793246824;Amundsen;Beate Krefting;;Oslo;0253;14;Hansteens Gate;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791850307;Axelson;Ann Kristin Eide;;OSLO;0494;12;Nordstjerneveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797962228;Brinch;Trond;;OSLO;0363;21;Hammerstadsgate;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740416661;Cappelen;Daniel;;Oslo;0355;26;Bogstadveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790607105;Engen;Bjørn;;DRØBAK;1440;64;Sogstiveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797666965;Hansen;Oda Caroline Wood;;FLATEBY;1911;36;Pettersrudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798673002;Hermansson;Raymond Sørli;;GJERDRUM;2022;7;Haresporet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747416043;Hofflund-Nystad;Kenneth;;HAKADAL;1487;21;Blomsterbakken;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3470999
+U;;GSM04795732710;Hofgaard;Åke Henry;;Oslo;0283;22;Ombergveien;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793013520;Jansen;Haakon Nicholai;;NITTEDAL;1482;3;Mostubben;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790118400;Johnsen;Christian;;OSLO;1164;5;Leirskallsvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3470999
+U;;GSM04798249222;Karlsson;Øystein;;Uddevalla;45197;232;Hällebäck;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793010200;Korsgaard;Øyvind;;Oslo;0484;5;Lillogata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3470999 KALKYLE
+U;;GSM04797666972;Kyhn;Christian;;Lysaker;1366;5;Bjørnekroken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748098920;Løkken;Torbjørn;;Ski;1400;598;Siggerudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797129270;Lund;Gjermund;;Oslo;0790;114;Voksenkollveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741241387;Martinussen;Jon Roald;;OSLO;0571;23;Hasleveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799548839;Mehus;Tore Odd;;BJØRNEMYR;1453;4;Bjørnemyr Terasse;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791162239;Moe;Terje;;FETSUND;1900;8;Granlia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791162209;Muggerud;Bjørn Erik;;OSLO;1166;255;Ekebergveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790154611;Nordby;Vegard;;TOFTE;3482;9;Klokkeveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795028477;Nordhagen;Kristoffer Norberg;;BÆRUMS VERK;1354;56;Sleiverudåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791333479;Olsen;Sølve;;DRAMMEN;3043;38;Austadveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791512079;Remfeldt;Johnny;;TÅRNÅSEN;1413;21;Hareveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793280890;Rydning;Audun Hultgreen;;OSLO;0778;50;Trosterudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795159408;Skeie;Peter;;JAR;1358;14;Trollveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797960432;Thorvaldsen;Cathrine;;BLYSTADLIA;2014;2;Blystadringen;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793017889;Weltzien;Ib Christian;;Haslum;1344;20;Durudveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748246410;Westerberg;Erik;;OSLO;0783;31;Dagaliveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799290236;Aassveen;Hege Jeanette;;Fornebu;1364;1;Rolfsbuktalléen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795218730;Augestad;Håkon;;Jevnaker;3520;11;Furukollen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792600797;Hære;Erling;;Lier;3404;91;Mellomenga;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795300770;Henriksen;Peter;;Oslo;1156;15;Avstikkeren;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797658582;Hoff;Njål;;OSLO;0494;23;Myrerveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791162245;Lande;Morris John;;BRANDBU;2760;15;Hennungveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04740495025;Markusson;Morten;;Oslo;0165;3;Bidenkapsgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798662212;Mejlænder-Larsen;Svein;;BEKKESTUA;1357;242;Bærumsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3480011
+U;;GSM04792263477;Michelsen;Mads Steiro;;OSLO;0982;113;Olaus Fjørtoftsvei;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799275050;Moen;Carmen;;KVITESEID;3850;1313;Dalanvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3480011
+U;;GSM04791799940;Nikolaisen;Lejf;;HØNEFOSS;3512;;Helgelandsmoen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3480010
+U;;GSM04795190207;Nylund;Øyvind;;OSLO;0478;18;Krebsgate;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798265612;Perez-Gonzalez;Raymond;;OSLO;0658;12;Totengata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3480010
+U;;GSM04748189584;Petersen;Anne;;HØNEFOSS;3513;25;Oddliveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792637107;Telum;Trond;;DRAMMEN;3031;6;Fredlihavna;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3480010
+U;;GSM04799583155;Witzell;Stein;;DRAMMEN;3039;20;Andorsrudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;3480010
+U;;GSM04792604950;Berseth;John Ivar;;Bærums Verk;1353;42;Helsetdammen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791336556;Dahl;Elin;;GJERDRUM;2022;2;Mogutua;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790981606;Lien;Cecilie;;TOLVSRØD;3152;8;Essoveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791310470;Mejlænder-Larsen;Arne;;BEKKESTUA;1357;242;Bærumsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791162233;Myhre;Siv;;OSLO;1283;10;Mortensrudveien;;;NOR;Q;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791833399;Norenberg;Emmanuel Mgamie;;Oslo;1169;7;Vestlia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799273511;Opsahl;Eli;;NYKIRKE;3180;220;Føskeveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793089130;Rånes;Ståle Andre;;OSLO;0587;26;Fagerliveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741726312;Suah;Cathrine;;OSLO;0972;15;Sverre Iversensvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792843526;Tangen;Benedicte Todnem;;Oslo;1163;24;Nordstrandveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798265660;Wiig;Inger Kirkestuen;;SARPSBORG;1707;1;Lindesnesgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793202515;Biermann;Henning;;OSLO;1285;32;Dalssvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798417698;Borgersen;Lars Petter;;Oslo;0187;24;Urtegata;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791770960;Foss;Fredrik;;OSLO;0383;104;Vækerøveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791786020;Hanevold;Monica;;VETTRE;1392;11;Strandveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799549570;Holmen;Kjartan;;OSLO;1157;139;Mellombølgen;;;NOR;E;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792203602;Kalager;Preben;;Stavanger;4008;32;Klinkenberggata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04798685222;Paulsen;Anna Viola;;VINTERBRO;1407;18;Berget;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741042662;Fleten;Casper;;Nøtterøy;3120;8;Jacob Falcks vei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797693590;Holst;Terje;;BÆRUMS VERK;1354;42;Sleiverudåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790019478;Malmhäll;Øystein;;Gjettum;1346;6;Fossilveien;;;NOR;F;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793661717;Mathiesen;Ingvild;;Oslo;0268;4;Halvdan Svartesvei;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;PEAB EIENDOMSUTVIKLING
+U;;GSM04791162247;Hjelset;Aleksander Åsvang;;RÆLINGEN;2005;32;Stormyrveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791347909;Balteskard;Tommy Andre;;Kvaløysletta;9100;24;Ringselvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04746960555;Bratterud;Nina;;Tomasjord;9024;157;Tomasjordveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793224639;Dahl;Bente Marie;;Trondheim;7038;18;Aksel Nilsens veg;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795929468;Finstad;Pål Kristian;;Tromsdalen;9020;15;Skavåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741548528;Helland;Stig Tore;;Tromsø;9009;8;Trollbakken;;;NOR;F;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795744226;Hoseth;Kjell;;Harstad;9403;17;Skoltenstien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793474840;Jensen;Roald;;TROMSØ;9017;137;Jervvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791306411;Johnsen;Inger;;KVALØYSLETTA;9100;160;Karveslettvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791304024;Lillebø;Kåre;;ULSET;5117;104;Myrdalskogen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790911108;Knutsen;Per Martin;;SANDNES;4317;27;Smeaheiv.;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790646917;Engeseth;Ole-Petter;;NYBORG;5130;201;Myrdalsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791764777;Engeseth;Magne Karstein;;NYBORG;5130;201;Myrdalsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791160365;Hofstad;Synnøve;;HOMMELVIK;7550;25;Liavn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791156622;Røkke;Wenche Iren;;Malvik;7563;1;Jonsborgveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791634411;Andersen;Kjetil;;STORÅS;7334;16;Nermoan;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791634400;Helland Ovesen;Hilde Elise;;TRONDHEIM;7026;46;Alfheimsvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793662446;Johansen;Robert;;TRONDHEIM;7043;67;Innherredsveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791634406;Krogh;Robert;;TRONDHEIM;7022;1;Stampestien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792805532;Næss;Rasmus;;RANHEIM;7054;18;Heimtrøa;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791634410;Rødsjø;Kai;;HUSBYSJØEN;7113;474;Sørfjordveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791634416;Rosø;Ketil;;Trondheim;7024;18;Per Sivles veg;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792859263;Sulander;Heidi;;Trondheim;7014;14;Bakkegata;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791634440;Tiller;Johan;;INDERØY;7670;88;Hyllaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797699108;Westeren;Bjørn Andre;;TRONDHEIM;7051;3;Olav Trondsonsvei;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791334932;Fernås;Roger;;DRØBAK;1448;12;Dueveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791743353;Hansson;Tor Leif;;ÄNGELHOLM;26294;5;Skeppsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795026220;Johansen;Therese Advocaat;;NITTEDAL;1482;12;Sagerudstubben;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791853575;Kristoffersen;Ivar Kristian;;KROKSTADELVA;3055;33;Orionfeltet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748226357;Kulseng;Jo   I. Å.;;Fyllingen;5148;35;Bråtet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;TOR LEIF KULSENG
+U;;GSM04792245021;Moltu;Cathrine;;OSLO;0779;14;Gråkamveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795886265;Roland;Anders;;DRAMMEN;3015;4;St. Halvardsgate;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797666993;Spalder;Hallvar;;ASKER;1385;2;Liastubben;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04745869141;Åsli;Jan-Ove;;Garnes;5264;6;Garnestona;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793401537;Diesen;Torbjørn;;BERGEN;5019;65;Ole Irgensvei;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799541997;Fjell;Jan Vidar;;Straume;5354;15;Storevasshaugane;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04746862228;Frotvedt;Rolf Magne;;Fyllingsdalen;5143;8;Ture Nermannsveg;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JAN-OVE FROTVEDT
+U;;GSM04793621888;Larsen;Magne;;Bergen;5817;2068 Nordnes;Postboks;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741526212;Lie;Øyvind;;Bergen;5098;189;Natlandsrinden;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04745270847;Nydal;Kristian;;Loddefjord;5172;12;Vadmyrveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797666945;Oppedal;Odd Børre;;Brekke;5961;115;Sørsidevegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791111399;Otterstad;Trond Erling;;STANGHELLE;5724;29;Åslia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799737577;Repstad;Malin;;Paradis;5232;4;Hovdenlia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790831641;Sivertsen;Per Tore;;FLORØ;6909;1049;Postboks;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790879934;Vindenes;Torjus;;Mathopen;5174;227;Håkonshellavegen;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;7931992-8123
+U;;GSM04794143532;Andersson;Trond Wiggo;;Oslo;0194;68;Sørengkaia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;MALIN ANDERSSON
+U;;GSM04790981638;Ask;Roger;;DRAMMEN;3030;87;Lensmannsstien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791732225;Berdal;Arild Stabell;;Oslo;0378;24;Nordheimbakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;7940992-8123
+U;;GSM04741625401;Berger;Kristian Hoel;;Blaker;1925;72;Harkerudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797709012;Brattrud;Torfinn;;DOKKA;2870;72;Sveumvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795003522;Bredland;Karin;;Oslo;0196;2;Vallhallveien;;;NOR;b;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795445227;Dahl;Kent Stefan;;Drammen;3026;9;Bera Terasse;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741461373;Dahl;Leif Normann;;OSLO;0580;9;Økern Torgvei;;;NOR;H;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797666942;Dalberg;Nastaran;;OSLO;0983;1;Fossumberget;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748170535;Elgh;Per Arne;;Arvika;67193;;Skallarbyn;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790535556;Eriksen;Eva;;HØLEN;1550;82;Klokkerudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799239342;Fadavi;Per Nellbjørn;;Oslo;0576;37;Hovinveien;;;NOR;k;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797679271;Flaten;Ulf;;KROKSTADELVA;3055;16;Siriusveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790851283;Granerud;Atle T.;;KLØFTA;2040;1;Trondheimsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793201160;Håholm;Stein Olav;;KRISTIANSUND N;6518;2;Løvetannveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791728234;Hansson;Kjell Erik Thomas;;Oslo;0560;43;Trondheimsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795142748;Haraldsen;Børge;;Flateby;1911;60;Skaugveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748246403;Haugen;Anita;;STRØMMEN;2010;67;Holmsensvei;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748292687;Hedberg;Odd Helge;;Malung;78291;4;Gamla Landsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;THOMAS HEDBERG
+U;;GSM04790578399;Herefoss;Sveinung;;OSLO;1158;38;Grusveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790655431;Høibraaten;Christian Andre;;Gan;1903;41;Barkenesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ANITA HØIBRAATEN
+U;;GSM04795231631;Holen;Joakim;;Kvam;2642;6;Einerråket;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790587022;Holm;Trond;;YTRE ENEBAKK;1914;13;Grevlingveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793040761;Holmstad;Einar;;Slependen;1341;6;Tanumveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799502311;Hvassing;Terje;;Oslo;0487;55;Grefsenveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;7940000
+U;;GSM04790143363;Jansen;Ravi;;SKIPTVET;1816;308;Langliveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795150376;Jonassen;Patrycja Stefania;;SANDE I VESTFOLD;3070;13;Syenittveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799280811;Kalnæs;Tom Andre;;KONGSVINGER;2211;5;Aagot Vangensvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799402301;Kamalaraja;Joakim;;Oslo;0981;107;Idas vei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790702511;Lukas;Joakim;;OSLO;0376;8;Jensmessveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741651700;Mahle;Ulf Christian;;Stavanger;4012;10;Kirkebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;7940029
+U;;GSM04797017136;Monsen;Tor Eilert;;Slattum;1480;41;Slattum Terasse;;;NOR;F;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790633203;Mortensen;Atle;;Oslo;1084;12;Kringveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791321682;Myhra;Ken Robert;;SLEMMESTAD;3470;3;Prestengjordet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741219164;Navestad;Svenn;;ASKER;1385;54;Engelrud Terasse;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799223508;Øvrehus;Monica;;Fjellhamar;1472;5;Øvre Grønliveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ATLE ØVREHUS
+U;;GSM04741600106;Pettersen;Manouchehr;;Oslo;3224;14;Sportsveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792280880;Rogne;Morten;;HAKADAL;1488;4;Porfyrveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748168543;Rønningen;Joar Beheim;;ÅRNES;2150;4;Ballblomveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795023743;Shaghaghi;Vegard;;OSLO;0576;37;Hovinveien;;;NOR;K;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;MANOUCHEHR SHAGHAGHI
+U;;GSM04799549525;Sjøli;Stig;;SKOGBYGDA;2164;31;Furusvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741435502;Sønnesyn;Hilde;;Oslo;0662;2;Lillebergsvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04746699069;Stensæter;Jose Ramon;;Harestua;2743;9;Solvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797509398;Sundh;Kåre;;KARLSKOGA;69133;13;Dobervegen;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;STIG SUNDH
+U;;GSM04792268750;Andersen;Audun;;Rygge;1580;67;Ryggeraet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741461453;Ayala;Robert;;Fetsund;1900;29;Garderbakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799206532;Brandal;Svein Erik;;FURNES;2320;10;Bakkerudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793218080;Ekern;Rein;;Hønefoss;3513;17;Wahlstrømsgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799581060;Jørgensen;John Helge;;SLEMMESTAD;3470;8;Bergerlia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791646831;Nilsen;Arnt-Åge;;TROLLÅSEN;1414;132;Mellomåsv.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795142749;Rolstad;Tom Kenneth;;OSLO;0655;18;Bøgata;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790031994;Roska;Arne Helge;;Randaberg;4070;44;Bøveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741615228;Trætli;Christer Martin;;Langhus;1405;13;Travsvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792246210;Westberg;Torsten;;GJERSTAD;4980;;Mostad;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795142743;Jensen;Mats Olov;;OSLO;1258;20;Asperudåsen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797963680;Blomkvist;Geir;;STRÄNGNÄS;64593;;Brunnsåker;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;CHRISTER BLOMKVIST
+U;;GSM04791828165;Ekelund;Joakim;;ÅSLJUNGA;28672;37;Landhøvdingevegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;TORSTEN EKELUND
+U;;GSM04741542309;Eurenius;Eirik;;FRÖSÖN;83254;6;Båtplatsvägen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;OLLE EURENIUS
+U;;GSM04748036358;Finberget;Hannes Arne;;Fåvang;2634;755;Fåvangvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;GEIR KRISTIAN FINBERGET
+U;;GSM04790409123;Flore;Lars Sive Marcus Mörtzell;;Trondheim;7050;28;Søndre Berg;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JOAKIM FLORE
+U;;GSM04795469090;Frimannslund;Johan;;Bergen;5057;4;Strandlien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790363817;Granlund;Knut Olav;;TROLLHÄTTAN;46158;29;Kvarnvägen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;HANNES GRANLUND
+U;;GSM04790224316;Grundström;Stefan;;Adak;93072;14;Slagnäsvägen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;MARCUS MÖRTSELL
+U;;GSM04747760545;Hedlund;Petter Hauge;;København;2200;12;Baggesensgade;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JOHAN HEDLUND
+U;;GSM04790975418;Hermanrud;Christian Matti;;Hønefoss;3516;5;Løkkemokroken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791120498;Jeppsson;Zsuzsanna;;BERGA;57990;25;Sjönäsgatan;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797609298;Johansen;Andreas;;Trondheim;7020;39;Fridtjof Nansensvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748133914;Lagerblad;Erlend;;Trollhättan;46159;14;Lilla Vårviksveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;CHRISTIAN LAGERBLAD
+U;;GSM04790368500;Levai;Vladislav;;NARVIK;8515;16;Terrassen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791752284;Lindman;Morten Totland;;Östersund;83138;18;Divisionsgränd;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ANDREAS LINDMAN
+U;;GSM04790730462;Løhre;Arnt;;Støren;7290;2;Ekserveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791914412;Moskovkin;Arne Reidar;;Pietå;94135;7;Abborrgatan;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;VLADISLAV MOSKOVKIN
+U;;GSM04748211121;Osen;Stian Aleksander;;Bergen;5093;48;Nattlandsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;MORTEN TOTLAND OSEN
+U;;GSM04797056802;Øverbyhagen;Nils Gustav Johannes;;Ankenes;8520;452;Ankenesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791736218;Pedersen;Ole;;Engeløya;8289;;Bø Mellom;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748138166;Pedersen;Rune;;Narvik;8517;122;Straumsnesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;STIAN PEDERSEN
+U;;GSM04791919306;Pettersson;Lars Patrik;;Alnö;86531;28;Alviksvägen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JOHANNES PETTERSSON
+U;;GSM04791859745;Rønning;Erik Olof;;ÅSEN;7630;119;Gammelvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799217392;Selven;Mats;;KATTEM;7082;16;Ekornvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791821706;Sjøgren;Ida Gudmundsen;;SÖSDALA;02801;9;Strentevegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;PATRIK SJØGREN
+U;;GSM04790412649;Sundelin;Bjarte;;UMEÅ;90336;7;Kaptensgatan;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791912839;Sundström;Nils-Ola;;Härösand;87140;64;Hagagatan;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;MATS SUNDSTRÖM
+U;;GSM04794863585;Thyholdt;Joaquin;;Trondheim;7031;145;Klæbuveien;;;NOR;F;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;IDA GUDMUNDSEN THYHOLDT
+U;;GSM04746427045;Tingstad;Geir Arne;;Vuku;7660;10;Moavegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790838009;Vikner;Asbjørn;;Sidensjö;89395;310;Drömmebäckarna;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;NILS-OLA VIKNER
+U;;GSM04748128126;Andreassen;Eirik Figenschau;;Trondheim;7037;11;Siriusvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748244565;Arntsen;Marte;;Brønnøysund;8900;8;Skrenten;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741405377;Aurheim;Olav Molland;;SKATVAL;7510;7;Solberget;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790599477;Bolstad;Øyvind;;Tiller;7075;117;Okstadveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795967010;Buan Grendstad;Kourosh;;Klæbu;7540;17;Lunheimvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;7970100
+U;;GSM04799505533;Edvardsen;Arve;;Gaupne;6868;26;Røneidsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;OLAV EDVARDSEN
+U;;GSM04740649494;Enger;Asle;;TRONDHEIM;7020;15;Dyrborgveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790269568;Ghazavi;Karen Elisabeth;;Skjetnemarka;7081;9;Skjetnemarkvegen;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;KOUROSH GHAZAVI
+U;;GSM04799248149;Grannes;Lars Peder;;OVERHALLA;7863;25;Krabbstuveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790664162;Grøtheim;Arve Lien;;Levanger;7603;19;Nordsivegen;;;NOR;E;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798486970;Hammer;Bård;;Oslo;0842;17;Amtmann Meinichsgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799413023;Haugen;Torbjørn;;Soknedal;7288;;Åsenhus;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748152221;Haugum;Terje Eklo;;Klæbu;7540;74;Prestegårdsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ARVE LIEN HAUGUM
+U;;GSM04797168550;Holthe;Sindre;;MELHUS;7224;;Asbjørn Av Medaldshus veg;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748139330;Juliussen;Hege;;MERÅKER;7530;;Åshagen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04746634084;Kristiansen;Morten;;Lundamo;7232;623;Lebergsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791107695;Lillemo;Alexander;;Rissa;7100;2;Bankbakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793817672;Lyng Grendstad;Per André;;Tanem;7549;8;Sagmyrvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791382975;Moe;Tone Alstad;;TRONDHEIM;7033;7;Hjalmar Haalkesvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799126047;Mosbakk;Oddvar;;Flekkefjord;4400;51;Grønnes;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797565577;Pettersen;Finn;;Hommelvik;7550;23;Øvre Solbakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793447020;Pettersen;Per Egil;;Lundamo;7232;508;Lundamovegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747615661;Prestvik;Tor- Erik;;Trondheim;7036;1;Adolf Øiens veg;;;NOR;D;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797696829;Sefaniassen;Joakim A.;;TRONDHEIM;7030;14;Korsgata;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795190198;Selnæs;Kari;;Trondheim;7041;64;Jørgen B Lysholmsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04746624790;Skorstad;Rune Nikolaisen;;Melhus;7224;17;Meisevegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;TOR-ERIK SKORSTAD
+U;;GSM04748269397;Skrogstad;Zdenek;;KATTEM;7082;48;Rødstilkeveien;;;NOR;E;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;JOAKIM A. SKROGSTAD
+U;;GSM04746889286;Traasdahl;Wibeke;;MELHUS;7224;5;Lenamælen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747712558;Vestskogen;Zada;;Hovin i Gauldal;7236;76;Åsaringen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793039817;Adamec;Erling;;Oslo;0551;8;Nedre Gate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791182821;Andersen;Arnulf;;NARVIK;8515;23;Utforveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790246519;Dzamalija;Hans;;Narvik;8514;19;Torgsvingen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797159163;Eriksen;Henrik Andre;;Harstad;9403;23;Krøkebærveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04746775735;Hansen;Bernt;;KVALØYA;9104;14;Langhaugtunet;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793281697;Hedman;Stig;;ANKENESSTRAND;8520;95;Bergveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04741675640;Henriksen;Ondrej;;STORSLETT;9151;9;Mælen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790611544;Jakobsen;John;;Sandtorg;9430;;Haukebø;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790943015;Johnsen;Dennis;;FINNSNES;9300;;Aspelund;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790058303;Kosvica;Tord;;Dal;2072;51;Hjeravegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ONDREJ KOSVICA
+U;;GSM04793448874;Larholt;Kenneth;;Tromsø;9006;100;Strandveien;;;NOR;J;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04745293214;Madsen;Synnøve;;Storslett;9151;31;Sentrum;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795967549;Moen;Nils;;Storsteinnes;9050;23;Hageveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795104492;Nordstrøm;Jan Petter;;STORSLETT;9151;;Fallvik;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795814919;Pettersen;Jan Erik;;Karasjok;9730;9;Rahangurra;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797059061;Askim;Geir Tore;;Ranheim;7054;238;Ranheimsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792035037;Dalåmo;Øyvind;;Meråker;7530;176;Torsbjørkveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792440274;Holten;Hanne Marie;;TRONDHEIM;7036;20;Asbjørn Øveråsvei;;;NOR;E;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;7973000
+U;;GSM04799217223;Midttømme;Jon Mikal;;Hovin i Gauldal;7236;;.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795942500;Rånes;Lars;;Trondheim;7024;12;Ola Sætromsvei;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795134523;Solberg;Grete;;Lundamo;7232;;BREDLIGJERDET;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797098091;Solberg;Lars Petter;;Lundamo;7232;;.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797059070;Stokdahl;Ragnar;;Hommelvik;7550;26;Svehøgda;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748085200;Westerlund;Johnny;;Kattem;7082;16;Ringdueveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793404512;Gundrosen;Morgan;;Kråkerøy;1676;2;Feriebakken;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795120105;Reitan;Therese;;Rasta;1469;19;Liaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741635264;Brenna;Hans Jørgen;;Oslo;0980;17;Ruths Vei;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791587453;Falck;Morten;;Tønsberg;3111;5;Danakleven;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04793030505;Johannesen;Björn;;Oslo;0881;357;Maridalsveien;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790147176;Sundby;Reidar;;Ørje;1870;124;Langnesveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04747625880;Bakke;Nina;;Elverum;2408;10;Konvallvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04794163177;Qvarfordt;Hilde;;ÖSTERSUND;83142;18;Stapelmohrs Vei;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790133319;Trondskog;Vidar;;Hokksund;3300;1;Risøraveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795336510;Choudhury;Endre Henning;;Kolsås;1352;10;Kremlegrenda;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795841277;Heieren;Daniel;;Strømmen;2010;9;Sagdalsveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748999860;Holmen;Cato Skovdal;;KLØFTA;2040;11;Myrhusvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;VIDAR HOLMEN
+U;;GSM04748999868;Pedersen;Hans Petter;;NORDBY;2009;618;Nedre Rælingsvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ENDRE
+U;;GSM04748999869;Ringen;Sigmund Henning;;Auli;1929;3;Skogveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;DANIEL RINGEN
+U;;GSM04790607861;Rude-Hansen;Ole Kristian;;FJELLHAMAR;1472;39;Christian Michelsensvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;CATO
+U;;GSM04791113397;Skjellum;Steinar;;Otta;2670;13;Klebervegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748999863;Stenby;Merethe Stangeland;;AULI;1929;99;Tandbergvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;SIGMUND
+U;;GSM04794814827;Storvoll;Torbjørn;;Lunner;2730;43;Lunnerkollen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799587520;Aasmundsen;Jan Ove;;Kongsberg;3612;55;Gamleveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793204349;Backer;Frank Robert;;Skollenborg;3619;4;Kongsgårdveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04797401232;Johansen;Behzad;;Hokksund;3300;9;Neverlia;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790866323;Kristiansen;Geir Roar;;Tønsberg;3113;3;Føniksvei;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04799587525;Sunde;Håvar;;Skollenborg;3619;30;Påterudveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790668926;Armingohar;Olaf;;Trondheim;7072;2;Sisikveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04747656080;Berg;Hanne Berit;;Inderøy;7670;11;Utgårdslia;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;GEIR ROAR BERG
+U;;GSM04741477767;By;Gaute;;Trondheim;7020;24;Viktor Baumannsveg;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04798402278;Dahl;Anne-Grethe;;Ranheim;7055;206;Væretrøa;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04795279955;Dalsplass;Kjell Ivar;;HEGRA;7520;10;Hegrumveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791322330;Grankvist;Geir Morten;;Trondheim;7020;30;Fagerliveien;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791112337;Jenssen;Egil Andre;;Sjetnemarka;7081;2;Trofetveien;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790788990;Svarthe;Kenneth Olsrud;;Steinkjer;7732;12;Krikanveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04791611482;Hamnes Fines;Liv Thorild;;RISSA;7100;65;Sundsaunveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;GEIR MORTEN HAMNES FINES
+U;;GSM04741161666;Roa;Jan Erik;;Jessheim;2053;18;Fjellvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790406272;Arvlund;Magne;;OSLO;0951;6;Kaldbakkstubben;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04793033705;Hennum;Helene;;Auli;1929;99;Tandbergveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790834949;Johansen;Bjørnar Holmlund;;Oslo;0750;44;Møllefaret;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790761250;Johansen;Roy;;Holter;2034;2;Nannestadveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04748999867;Olsrud;Øyvind;;OSLO;0958;117;Ammerudveien;;;NOR;C;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04792043589;Skinstad;Janis;;ORKANGER;7300;14;Njardargate;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792678455;Støverud;Trond;;Algarheim;2052;117;Algarheimsvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;ROY STØVERUD
+U;;GSM04791550635;Alseth;Thomas;;Tinn Austbygd;3650;16;Maurudbrekka;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04796680542;Avenins;Trond Ove;;Drammen;3044;6;Langes gate;;;NOR;D;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790216798;Engeseth;Hans Petter;;Hovdebygda;6160;135;Indrehovdevegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04741213348;Johannessen;Asbjørn;;Oslo;0556;24;Schleppegrellsgate;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04795133322;Langedok;Svein;;Notodden;3676;18;Trolldalsveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04747013678;Svalestuen;Robin;;Miland;3658;259;Rollagvn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790612071;Tvitekkja;Cato;;Rjukan;3660;127;Fossoveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791301180;Mortensen;Rolandas;;TOMASJORD;9024;4;Tyttebærveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04799237735;Andersen;Harald;;TROMSØ;9019;5;Tryms veg;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04792077407;Annfinsen;Emil;;SJURSNES;9030;652;Skarmunkvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04748366522;Cesnauskas;Knut Einar;;Tromsø;9010;53;Stakkevollvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790519069;Engenes;Kurt;;KVALØYSLETTA;9100;95;Borgensvingen;;;NOR;B;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04745212818;Evensen;Trond Olav;;RAMFJORDBOTN;9027;61;Sørbotnvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790640785;Hansen;Steinar;;TOMASJORD;9024;153;Tomasjordnesvn.;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04791809338;Jakobsen;Truls Martin;;TOMASJORD;9024;6;Vegaveien;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04790140833;Myrnes;Trond Olav;;STRAUMSBUKTA;9106;1755;Leirstrandvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;
+U;;GSM04797765401;Pettersen;Steinar;;KVALØYA;9107;83;Ersfjordvegen;;;NOR;;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0
+U;;GSM04790244326;Robertsen;Truls Martin;;KROKELVDALEN;9022;25;Kvannlivegen;;;NOR;A;;;;;;;;;;;;;2017.09.05.01;HFB.05.09.2017;;;;0

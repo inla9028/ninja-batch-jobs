@@ -1,0 +1,1188 @@
+;04740008299;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740092106;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740109204;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740466664;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740484956;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740555026;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740578500;CHRGMV;CHRGMV;4.53;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740608771;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740611832;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612583;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612647;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612678;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612699;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612714;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612998;CHRGMV;CHRGMV;23.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740613082;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740614635;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740623135;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740721502;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740760638;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740768705;CHRGMV;CHRGMV;8.95;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741419797;CHRGMV;CHRGMV;29.36;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741447299;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741483049;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741513435;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741517171;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741560425;CHRGMV;CHRGMV;30.57;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741610841;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745201818;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745226912;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745393708;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745394529;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745428339;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745611955;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745863061;CHRGMV;CHRGMV;2.86;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746053754;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401204;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401210;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401215;CHRGMV;CHRGMV;109.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401217;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401229;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401232;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401233;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401240;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401244;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401245;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401246;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401258;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401261;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401262;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401267;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401271;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401272;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401276;CHRGMV;CHRGMV;4.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401278;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401279;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401281;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401286;CHRGMV;CHRGMV;1.63;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401288;CHRGMV;CHRGMV;5.72;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401294;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401296;CHRGMV;CHRGMV;3.54;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401297;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401298;CHRGMV;CHRGMV;5.3;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401300;CHRGMV;CHRGMV;123.94;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401312;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401353;CHRGMV;CHRGMV;219.24;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401363;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401367;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401368;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401375;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401376;CHRGMV;CHRGMV;24.79;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401377;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401378;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401379;CHRGMV;CHRGMV;2.58;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401381;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401382;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401383;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401385;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401387;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401390;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401402;CHRGMV;CHRGMV;6.1;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401403;CHRGMV;CHRGMV;2.54;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401404;CHRGMV;CHRGMV;1.2;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401405;CHRGMV;CHRGMV;3.06;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401406;CHRGMV;CHRGMV;6.19;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401407;CHRGMV;CHRGMV;7.03;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401408;CHRGMV;CHRGMV;10.15;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401409;CHRGMV;CHRGMV;13.68;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401412;CHRGMV;CHRGMV;5.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401413;CHRGMV;CHRGMV;5.89;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401416;CHRGMV;CHRGMV;1.94;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401418;CHRGMV;CHRGMV;1.27;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401422;CHRGMV;CHRGMV;3.68;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401423;CHRGMV;CHRGMV;6.65;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401424;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401425;CHRGMV;CHRGMV;8.97;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401430;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401435;CHRGMV;CHRGMV;11.73;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401438;CHRGMV;CHRGMV;3.63;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401439;CHRGMV;CHRGMV;4.09;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401441;CHRGMV;CHRGMV;2.84;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401447;CHRGMV;CHRGMV;1.99;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401448;CHRGMV;CHRGMV;1.65;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401500;CHRGMV;CHRGMV;1229.05;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401506;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401507;CHRGMV;CHRGMV;3.61;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401510;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401512;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401516;CHRGMV;CHRGMV;14.7;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401521;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401522;CHRGMV;CHRGMV;4.13;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401523;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401526;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401528;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401530;CHRGMV;CHRGMV;2.46;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401576;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401577;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401587;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401588;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401594;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401597;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401600;CHRGMV;CHRGMV;860.63;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401613;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401614;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401615;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401616;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401617;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401618;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401621;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401623;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401625;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401626;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401629;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401631;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401635;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401636;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401638;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401639;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401640;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401643;CHRGMV;CHRGMV;2.6;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401644;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401645;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401647;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401649;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401650;CHRGMV;CHRGMV;2.83;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401651;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401654;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401656;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401657;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401660;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401662;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401668;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401669;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401670;CHRGMV;CHRGMV;2.15;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401675;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746402274;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746412025;CHRGMV;CHRGMV;6.16;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746415075;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746415414;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746421141;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746613668;CHRGMV;CHRGMV;79.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623789;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623793;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623805;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746833927;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746863087;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746873039;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746887809;CHRGMV;CHRGMV;15.3;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747399663;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747502138;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747514449;CHRGMV;CHRGMV;1.83;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747514946;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747613238;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747632908;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747636911;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747643246;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747651521;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747654342;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747654642;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747662436;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747680645;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747682528;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747702187;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747709525;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747711633;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747866102;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747900843;CHRGMV;CHRGMV;3.58;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748002848;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748008601;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748039802;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748055045;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748056267;CHRGMV;CHRGMV;6.19;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748057486;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748066352;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748079068;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748089698;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748100858;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748107307;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748128905;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748132982;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748137099;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748137370;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748152434;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748156294;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748159257;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748170285;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748197186;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748225920;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748229566;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748237414;CHRGMV;CHRGMV;93.6;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748238021;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748265652;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748270299;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748278164;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748295463;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748297253;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748297758;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748420408;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748456900;CHRGMV;CHRGMV;2.57;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790016189;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790046542;CHRGMV;CHRGMV;2.03;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790070371;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790071138;CHRGMV;CHRGMV;120.39;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790072653;CHRGMV;CHRGMV;4.98;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790076053;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790082137;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790082153;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790108129;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790108148;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790112471;CHRGMV;CHRGMV;2.84;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790112631;CHRGMV;CHRGMV;3.04;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790127758;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790127762;CHRGMV;CHRGMV;30.44;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132732;CHRGMV;CHRGMV;59.95;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132734;CHRGMV;CHRGMV;12.2;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132746;CHRGMV;CHRGMV;58.69;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132775;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790138923;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178087;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178109;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178112;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178114;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178117;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182152;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182153;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182155;CHRGMV;CHRGMV;32.63;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182156;CHRGMV;CHRGMV;6.85;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790188005;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790216263;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790258174;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790401481;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790416467;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790417386;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790511774;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790527518;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790530783;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790541259;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790544066;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790545846;CHRGMV;CHRGMV;3.03;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790553392;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790573461;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790586874;CHRGMV;CHRGMV;2.76;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590626;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590638;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590639;CHRGMV;CHRGMV;169.58;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790595386;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790631648;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790636273;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790649289;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790675094;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790683738;CHRGMV;CHRGMV;93.43;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790699833;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740003;CHRGMV;CHRGMV;4.38;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740005;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740011;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740017;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740029;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740043;CHRGMV;CHRGMV;3.86;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740045;CHRGMV;CHRGMV;26.45;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740049;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740064;CHRGMV;CHRGMV;32.94;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740072;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740086;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740099;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740103;CHRGMV;CHRGMV;5.03;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740105;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740106;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740107;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790821340;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790834230;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790845781;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790854675;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790857686;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790857865;CHRGMV;CHRGMV;78.1;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790858344;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790859319;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790892380;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790966585;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790999866;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791007653;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791103548;CHRGMV;CHRGMV;456.21;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791157021;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791244098;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791361701;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791541561;CHRGMV;CHRGMV;4.98;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791596861;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791621794;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791623818;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791623890;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791633956;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791646951;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791693728;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791714121;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791746275;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791746276;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791756453;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791791495;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791856542;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864087;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864103;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864162;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864201;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791887249;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792017639;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792025593;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792028682;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792035670;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792095649;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792144160;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792251186;CHRGMV;CHRGMV;37.15;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793011605;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793061300;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793069544;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793069689;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793231925;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793237964;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793492166;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793493094;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794001415;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794001631;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794001799;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794003447;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794004457;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794004998;CHRGMV;CHRGMV;10;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794005294;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794005733;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794005735;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794006169;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007124;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007714;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007718;CHRGMV;CHRGMV;4.11;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007799;CHRGMV;CHRGMV;62.35;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008091;CHRGMV;CHRGMV;2.17;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008235;CHRGMV;CHRGMV;57.44;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008244;CHRGMV;CHRGMV;2.06;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008344;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008345;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008407;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008844;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009120;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009188;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009356;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009359;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009360;CHRGMV;CHRGMV;3.54;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009402;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010592;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010593;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010594;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010595;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010699;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011590;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011623;CHRGMV;CHRGMV;14.45;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011672;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011681;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012047;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012174;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012902;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012903;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012992;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013147;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013246;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013247;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013248;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013368;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013387;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013895;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014073;CHRGMV;CHRGMV;2.34;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014138;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014693;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794015431;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794018456;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794019882;CHRGMV;CHRGMV;48.3;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794021904;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794022143;CHRGMV;CHRGMV;117.56;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794022960;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794024113;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794024133;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794024136;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794025042;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794025043;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794026591;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794026936;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794028739;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794029343;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794029553;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794134943;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794136539;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794145014;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794531680;CHRGMV;CHRGMV;5.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794822330;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794843361;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794847871;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794869022;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794876062;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794880054;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795034566;CHRGMV;CHRGMV;1.36;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795045363;CHRGMV;CHRGMV;3.74;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795065007;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795084999;CHRGMV;CHRGMV;2.62;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795146951;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795199061;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795202176;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795203931;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795246844;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795246922;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795289399;CHRGMV;CHRGMV;50.83;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795294693;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795369423;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795707675;CHRGMV;CHRGMV;13.09;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795707717;CHRGMV;CHRGMV;10.4;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795725883;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795756186;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795769205;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795813223;CHRGMV;CHRGMV;2.22;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795813242;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795813252;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795870116;CHRGMV;CHRGMV;3.12;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795941713;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097449;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097454;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097455;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097457;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097458;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097459;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097460;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097461;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097464;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097465;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097466;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097467;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097469;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097470;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097471;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097473;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097475;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097477;CHRGMV;CHRGMV;13.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097478;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097479;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097480;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097482;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097483;CHRGMV;CHRGMV;5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097484;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097485;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097486;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097487;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097488;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797036260;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797538363;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797732878;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797779907;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04798008493;CHRGMV;CHRGMV;3.75;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799124080;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799158464;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799320196;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799516844;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799516845;CHRGMV;CHRGMV;2.5;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799546490;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799546499;CHRGMV;CHRGMV;1.25;Forbruk 29.09-01.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740008299;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740092106;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740109204;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740466664;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740479405;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740484956;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740555026;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740578500;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740608771;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740610303;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740611806;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740611832;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612583;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612641;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612647;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612663;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612678;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612689;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612699;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740612714;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740613082;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740614635;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740623135;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740721502;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740760638;CHRGMV;CHRGMV;156.55;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740768530;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04740768705;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741419797;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741447299;CHRGMV;CHRGMV;150.73;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741483049;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741509089;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741513435;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741517171;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741560425;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741610841;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04741677269;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745201818;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745226912;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745390423;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745393708;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745394529;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745428339;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745471415;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745611955;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04745863061;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746053754;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401202;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401204;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401210;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401211;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401212;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401214;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401215;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401217;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401218;CHRGMV;CHRGMV;33.26;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401219;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401223;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401225;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401226;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401227;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401228;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401229;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401232;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401233;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401240;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401244;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401245;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401246;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401250;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401258;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401261;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401262;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401264;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401265;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401267;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401268;CHRGMV;CHRGMV;22.42;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401271;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401272;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401276;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401278;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401279;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401281;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401282;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401286;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401287;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401288;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401291;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401294;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401296;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401297;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401298;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401300;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401312;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401313;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401353;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401358;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401363;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401365;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401367;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401368;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401369;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401371;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401372;CHRGMV;CHRGMV;22.42;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401373;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401374;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401375;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401376;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401377;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401378;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401379;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401381;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401382;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401383;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401384;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401385;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401386;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401387;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401388;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401389;CHRGMV;CHRGMV;156.14;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401390;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401401;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401402;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401403;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401404;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401405;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401406;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401407;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401408;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401409;CHRGMV;CHRGMV;31.19;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401410;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401411;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401412;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401413;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401414;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401415;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401416;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401417;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401418;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401420;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401421;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401422;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401423;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401424;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401425;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401426;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401427;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401428;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401429;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401430;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401431;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401432;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401433;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401434;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401435;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401436;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401437;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401438;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401439;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401441;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401442;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401443;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401444;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401446;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401447;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401448;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401500;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401501;CHRGMV;CHRGMV;22.41;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401506;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401507;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401510;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401511;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401512;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401520;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401521;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401522;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401523;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401525;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401526;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401527;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401528;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401530;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401571;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401573;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401575;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401576;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401577;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401587;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401588;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401589;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401594;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401595;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401597;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401600;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401601;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401613;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401614;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401615;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401616;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401617;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401618;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401619;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401621;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401623;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401624;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401625;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401626;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401629;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401631;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401635;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401636;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401638;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401639;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401640;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401643;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401644;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401645;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401646;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401647;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401648;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401649;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401650;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401651;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401654;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401656;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401657;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401658;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401660;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401662;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401668;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401669;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401670;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401671;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401673;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401675;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401677;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746401688;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746402274;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746412025;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746415075;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746415414;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746421141;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746507998;CHRGMV;CHRGMV;22.41;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746507999;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746613668;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623789;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623791;CHRGMV;CHRGMV;33.26;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623793;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623804;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746623805;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746809052;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746833927;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746846052;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746849355;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746863087;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746873039;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746887809;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04746932353;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747399663;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747502138;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747512218;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747514449;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747514946;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747613238;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747632908;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747636911;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747643246;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747651521;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747654342;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747654642;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747662436;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747680645;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747682528;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747701369;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747702187;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747709525;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747711633;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747715986;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747866102;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04747900843;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748002848;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748003472;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748008601;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748039802;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748055045;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748056267;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748057486;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748066352;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748079068;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748089698;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748100858;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748107307;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748119076;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748127668;CHRGMV;CHRGMV;33.26;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748128905;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748129302;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748132982;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748137003;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748137088;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748137099;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748137370;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748152305;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748152434;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748156294;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748159257;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748170285;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748186738;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748197186;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748208196;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748208336;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748225920;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748229566;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748237414;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748238021;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748265652;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748270299;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748278164;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748292156;CHRGMV;CHRGMV;22.41;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748295463;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748297253;CHRGMV;CHRGMV;150.32;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748297758;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748420408;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748456900;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04748883662;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009024633;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009037616;CHRGMV;CHRGMV;348.58;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009047631;CHRGMV;CHRGMV;182.34;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009047946;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009050616;CHRGMV;CHRGMV;90.94;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009051991;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009052563;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009057304;CHRGMV;CHRGMV;348.58;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009058439;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009058891;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009062033;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009062275;CHRGMV;CHRGMV;348.58;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009063090;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009067360;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009067553;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009073125;CHRGMV;CHRGMV;348.58;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009073992;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009075243;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009076126;CHRGMV;CHRGMV;348.58;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009079269;CHRGMV;CHRGMV;90.94;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009080632;CHRGMV;CHRGMV;173.86;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009082479;CHRGMV;CHRGMV;182.34;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009083044;CHRGMV;CHRGMV;182.34;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009804515;CHRGMV;CHRGMV;17.46;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;047580009805781;CHRGMV;CHRGMV;17.46;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790016189;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790021657;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790046542;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790070371;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790071053;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790071138;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790072653;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790076053;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790081874;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790082109;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790082137;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790082153;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790082174;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790108129;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790108148;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790112471;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790112631;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790127758;CHRGMV;CHRGMV;155.30;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790127762;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132732;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132734;CHRGMV;CHRGMV;150.73;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132746;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132775;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790132788;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790138923;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790149619;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790159237;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178084;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178087;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178104;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178109;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178112;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178114;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790178117;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182152;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182153;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182155;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182156;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790182164;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790188005;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790216263;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790237164;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790246331;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790258174;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790362917;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790401481;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790410266;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790410274;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790410528;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790416467;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790417386;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790511774;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790527518;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790527519;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790530775;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790530781;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790530782;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790530783;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790541259;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790544066;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790544068;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790545846;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790553392;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790573461;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790586874;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590626;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590627;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590629;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590638;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790590639;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790595386;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790595387;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790631648;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790636273;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790649289;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790675094;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790683738;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790699833;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790725801;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740003;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740005;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740011;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740017;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740029;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740036;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740043;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740045;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740047;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740049;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740055;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740056;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740057;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740064;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740072;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740086;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740098;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740099;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740103;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740105;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740106;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790740107;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790784667;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790804712;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790821340;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790834188;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790834230;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790843956;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790845781;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790854675;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790857686;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790857865;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790858344;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790859319;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790861710;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790892380;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790966585;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04790999866;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791007653;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791103545;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791103547;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791103548;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791103549;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791124916;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791157021;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791179514;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791244098;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791361701;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791541561;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791596861;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791621794;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791623818;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791623890;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791624970;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791628228;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791633956;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791646951;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791693647;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791693728;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791714121;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791746275;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791746276;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791746277;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791756453;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791791495;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791791622;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791794376;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791851301;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791852791;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791856542;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864087;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864103;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864128;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864151;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864162;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864201;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791864207;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04791887249;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792017639;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792025593;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792028682;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792035670;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792061919;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792095649;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792144160;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792251186;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792253082;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04792280743;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793011605;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793061300;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793069544;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793069689;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793074162;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793231925;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793237964;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793492166;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04793493094;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794001415;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794001631;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794001799;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794003447;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794004457;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794004998;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794005294;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794005733;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794005735;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794006169;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007124;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007714;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007718;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794007799;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008091;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008233;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008235;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008244;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008343;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008344;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008345;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008407;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794008844;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009120;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009188;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009356;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009359;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009360;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009402;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794009900;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010592;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010593;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010594;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010595;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010596;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010699;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794010839;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011590;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011623;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011672;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794011681;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012047;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012174;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012902;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012903;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794012992;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013147;CHRGMV;CHRGMV;510.99;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013246;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013247;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013248;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013368;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013387;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794013895;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014073;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014075;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014076;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014138;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014648;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794014693;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794015191;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794015431;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794015998;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794018456;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794018859;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794019882;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794021904;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794022143;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794022960;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794024113;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794024132;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794024133;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794024136;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794025042;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794025043;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794026591;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794026936;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794028739;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794029343;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794029553;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794134943;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794136539;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794145014;CHRGMV;CHRGMV;150.32;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794158343;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794531680;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794822330;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794836585;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794843361;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794847871;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794862230;CHRGMV;CHRGMV;27.02;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794869022;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794876062;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04794880054;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795034566;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795045363;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795065007;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795075393;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795084999;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795146951;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795199061;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795202176;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795203931;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795211481;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795217158;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795224081;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795242332;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795246844;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795246903;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795246922;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795289399;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795294693;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795369423;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795425939;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795707675;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795707717;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795720797;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795725883;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795747831;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795753686;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795756186;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795769205;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795775030;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795794188;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795813223;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795813242;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795813252;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795870116;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04795941713;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097449;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097450;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097451;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097452;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097453;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097454;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097455;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097456;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097457;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097458;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097459;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097460;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097461;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097462;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097463;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097464;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097465;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097466;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097467;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097468;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097469;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097470;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097471;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097472;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097473;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097474;CHRGMV;CHRGMV;6.18;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097475;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097476;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097477;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097478;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097479;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097480;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097481;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097482;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097483;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097484;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097485;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097486;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097487;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097488;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04796097489;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797019233;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797036260;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797190001;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797191700;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797538363;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797732878;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04797779907;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04798008493;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04798413322;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04798667398;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799124080;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799158464;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799223805;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799320196;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799516844;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799516845;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799546490;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397
+;04799546499;CHRGMV;CHRGMV;145.33;Faste avgifter 29.09-12.10;Overføring av kostnader fra gammelt fakturaoppsett;;WAITING;;;;ier 261020;1;iner8397

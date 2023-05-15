@@ -1,0 +1,1 @@
+GSM04740642411;PPBD;PPUR;000000000;PPURREG1;K;NGRC13;;;NET;A;KON1;Kunden har mottatt brev i starten av mai, og blir nå migrert over til Smart 1 GB.;Y;;;;WAITING;;AFD 2016-05-18;Y

@@ -1,0 +1,145 @@
+;04741477011;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1200;;;;;10.12.07;1;LED
+;04745268100;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1200;;;;;10.12.07;1;LED
+;04790031352;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;800;;;;;10.12.07;1;LED
+;04741654666;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;800;;;;;10.12.07;1;LED
+;04790785215;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;400;;;;;10.12.07;1;LED
+;04795148486;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1400;;;;;10.12.07;1;LED
+;04791379111;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1200;;;;;10.12.07;1;LED
+;04795800014;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1200;;;;;10.12.07;1;LED
+;04795962472;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1200;;;;;10.12.07;1;LED
+;04799554493;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1200;;;;;10.12.07;1;LED
+;04797043105;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;870;;;;;10.12.07;1;LED
+;04790892254;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1200;;;;;10.12.07;1;LED
+;04791819901;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1000;;;;;10.12.07;1;LED
+;04741272653;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1000;;;;;10.12.07;1;LED
+;04792096377;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1000;;;;;10.12.07;1;LED
+;04799581261;SALGUT;LED Utkjøp av bindingstid, godkjent av Svein Engen;;1000;;;;;10.12.07;1;LED
+;04746828344;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04748249950;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04790644787;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04790735238;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04790827399;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04791729898;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04797570392;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04791553215;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1875;;;;;10.12.07;1;LED
+;04797529620;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1875;;;;;10.12.07;1;LED
+;04792062860;SALGUT;LED Utkjøp av bindingstid, godkjent av Morten Hess Pedersen;;1200;;;;;10.12.07;1;LED
+;04799244007;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;1200;;;;;10.12.07;1;LED
+;04791668832;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;1875;;;;;10.12.07;1;LED
+;04791850447;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;1875;;;;;10.12.07;1;LED
+;04795889676;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;1875;;;;;10.12.07;1;LED
+;04747291960;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;1000;;;;;10.12.07;1;LED
+;04791165252;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;900;;;;;10.12.07;1;LED
+;04792417816;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;700;;;;;10.12.07;1;LED
+;04790985139;SALGUT;LED Utkjøp av bindingstid, godkjent av Bjørn Johannessen;;1200;;;;;10.12.07;1;LED
+;04791598380;SALGUT;LED Utkjøp av bindingstid, godkjent av Roy Jonassen;;1200;;;;;10.12.07;1;LED
+;04791329905;SALGUT;LED Utkjøp av bindingstid, godkjent av Roy Jonassen;;1200;;;;;10.12.07;1;LED
+;04791381869;SALGUT;LED Utkjøp av bindingstid, godkjent av Roy Jonassen;;1200;;;;;10.12.07;1;LED
+;04791389456;SALGUT;LED Utkjøp av bindingstid, godkjent av Roy Jonassen;;1200;;;;;10.12.07;1;LED
+;04791389423;SALGUT;LED Utkjøp av bindingstid, godkjent av Roy Jonassen;;1200;;;;;10.12.07;1;LED
+;04791597130;SALGUT;LED Utkjøp av bindingstid, godkjent av Roy Jonassen;;1200;;;;;10.12.07;1;LED
+;04791685291;SALGUT;LED Utkjøp av bindingstid, godkjent av Roy Jonassen;;1200;;;;;10.12.07;1;LED
+;04790825100;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04795146917;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04798000300;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04790047216;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04791340655;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04791340695;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04791340696;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04791340697;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04791556784;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04797183648;SALGUT;LED Utkjøp av bindingstid, godkjent av Steinar B Olsen;;1200;;;;;10.12.07;1;LED
+;04799249052;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04797543950;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04795749232;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04790617201;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04790584744;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04790515119;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04791337036;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1000;;;;;10.12.07;1;LED
+;04795149756;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04795781940;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04791708921;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04790821015;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04790570019;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04791620083;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04791750067;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04797734840;SALGUT;LED Utkjøp av bindingstid, godkjent av Svenn Olav Storløs;;1200;;;;;10.12.07;1;LED
+;04790074001;SALGUT;LED Utkjøp av bindingstid, godkjent av Per A Aadne;;1200;;;;;10.12.07;1;LED
+;04790202828;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;313;;;;;10.12.07;1;LED
+;04792629318;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;313;;;;;10.12.07;1;LED
+;04795947641;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;313;;;;;10.12.07;1;LED
+;04745830214;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;313;;;;;10.12.07;1;LED
+;04790056590;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;313;;;;;10.12.07;1;LED
+;04792885350;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04790697303;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04795750027;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04799154577;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04793203510;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04797713677;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04791708765;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04791617445;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04790630044;SALGUT;LED Utkjøp av bindingstid, godkjent av Tore Kvernmo;;1200;;;;;10.12.07;1;LED
+;04790528039;SALGUT;LED Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1200;;;;;10.12.07;1;LED
+;04792684106;SALGUT;LED Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1200;;;;;10.12.07;1;LED
+;04790092597;SALGUT;LED Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1200;;;;;10.12.07;1;LED
+;04741283909;SALGUT;LED Utkjøp av bindingstid, godkjent av Per Olav Borgsø;;1200;;;;;10.12.07;1;LED
+;04748075445;SALGUT;LED Utkjøp av bindingstid, godkjent av Terje G Amundsen;;1200;;;;;10.12.07;1;LED
+;04790018895;SALGUT;LED Utkjøp av bindingstid, godkjent av Terje G Amundsen;;1200;;;;;10.12.07;1;LED
+;04795911336;SALGUT;LED Utkjøp av bindingstid, godkjent av Terje G Amundsen;;1200;;;;;10.12.07;1;LED
+;04795940751;SALGUT;LED Utkjøp av bindingstid, godkjent av Terje G Amundsen;;1200;;;;;10.12.07;1;LED
+;04790151208;SALGUT;LED Utkjøp av bindingstid, godkjent av Terje G Amundsen;;1200;;;;;10.12.07;1;LED
+;04799366362;SALGUT;LED Utkjøp av bindingstid, godkjent av Terje G Amundsen;;1200;;;;;10.12.07;1;LED
+;04791367876;SALGUT;LED Utkjøp av bindingstid, godkjent av Terje G Amundsen;;1200;;;;;10.12.07;1;LED
+;04791571323;SALGUT;LED Utkjøp av bindingstid, godkjent av Faste Berg;;800;;;;;10.12.07;1;LED
+;04793026786;SALGUT;LED Utkjøp av bindingstid, godkjent av Faste Berg;;1100;;;;;10.12.07;1;LED
+;04747828884;SALGUT;LED Utkjøp av bindingstid, godkjent av Faste Berg;;1200;;;;;10.12.07;1;LED
+;04797479604;SALGUT;LED Utkjøp av bindingstid, godkjent av Faste Berg;;1200;;;;;10.12.07;1;LED
+;04795962231;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04791711485;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04791604390;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790770496;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04747751748;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04792057423;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;500;;;;;10.12.07;1;LED
+;04790214243;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;600;;;;;10.12.07;1;LED
+;04747300555;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;600;;;;;10.12.07;1;LED
+;04791515460;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790011537;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790912250;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790251166;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;300;;;;;10.12.07;1;LED
+;04748240004;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790871170;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790871900;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790871917;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790876208;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790113299;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04790116437;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04791751626;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04797972705;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04748893192;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04793466100;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04793466108;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04793466114;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04793466141;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1875;;;;;10.12.07;1;LED
+;04793423640;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04793498449;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04792696156;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04740445001;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04799496828;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04797661959;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04791355478;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790224058;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04748043858;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04791859795;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1300;;;;;10.12.07;1;LED
+;04741456693;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;400;;;;;10.12.07;1;LED
+;04795032308;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;600;;;;;10.12.07;1;LED
+;04790170160;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790541492;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04793282527;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04795965095;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04799530909;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04794831422;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04791369415;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04791329576;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04791321208;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04790617749;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;1200;;;;;10.12.07;1;LED
+;04795864949;SALGUT;LED Utkjøp av bindingstid, godkjent av Jens Fagernes;;800;;;;;10.12.07;1;LED

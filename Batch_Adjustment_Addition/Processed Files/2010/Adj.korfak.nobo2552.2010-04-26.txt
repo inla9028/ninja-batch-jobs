@@ -1,0 +1,273 @@
+;04740470775;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04740623698;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04745049725;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04745255881;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04745484199;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04745861655;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04748002992;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04748223916;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04790144524;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04791145923;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04791326530;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04791688830;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04791688989;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04791881201;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792093508;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792260866;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792459556;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792613652;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792628615;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792628689;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792628690;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792629725;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792629785;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792669359;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792669873;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792844562;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04793022367;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04793063960;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04793086546;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04793441064;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04798861715;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792072099;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792244181;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792836144;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04795243429;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04741287368;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04798678953;KORFAK;resignering 24mnd ok loktu rerf ISA;justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04790515773;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792294043;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04795168011;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04745208202;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04790575722;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04795044671;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04797428920;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04792055201;KORFAK;resignering 24mnd ok loktu rerf ISA;Justering etter avtale;611.11;;;;;nobo2552 26.04.10;1;nobo2552
+;04790849832;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741670665;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793435521;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795975743;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04746484953;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04740203236;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04740490650;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741460633;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741504962;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741517488;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741693399;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745249320;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745249388;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745249469;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745249519;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745249586;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745251162;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745251308;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745252795;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745254412;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745255891;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745514310;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04746471886;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04746625213;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04746625215;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04746625216;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04748013144;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04748106935;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04748170256;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790036273;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790038600;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790062362;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790138940;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790148200;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790163474;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790177770;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790503620;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790529516;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790588193;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790617567;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790689436;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790761606;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790883734;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790911088;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790912414;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790974214;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790995135;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791136599;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791150390;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791519742;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791614730;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791684114;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791864995;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792026341;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792034285;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792057012;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792067939;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792091348;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792200141;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792213607;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792223779;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792246469;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792256054;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792292770;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792484111;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792493696;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792612986;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792695471;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792695721;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792815919;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792826282;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792837818;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792851172;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793054591;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793070724;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793073400;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793222950;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793423907;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793489100;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04794208691;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04794425110;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795177078;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795189659;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795204919;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795245843;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795779614;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795815313;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795818911;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795873950;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795947466;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797013622;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797062325;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797090833;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797504043;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797565361;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798076179;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289203;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289206;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289207;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289208;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289209;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289210;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289211;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289212;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289213;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289220;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289221;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289223;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289224;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289225;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289226;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289227;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289228;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289229;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289230;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289231;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289232;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289233;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289234;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289235;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289236;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289237;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289238;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289239;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289240;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289242;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289243;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289244;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289245;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289246;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289247;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289249;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289250;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289252;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289253;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289255;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289256;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289257;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289258;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289259;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289260;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289262;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289263;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289269;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289272;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289274;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289275;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289276;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289277;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289279;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798420780;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798624169;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798803838;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798852600;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799169592;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799381819;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799616488;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799754650;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741336618;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790196023;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791375813;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792483824;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795094185;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795124140;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795179664;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289215;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289216;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289254;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799507802;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04740201023;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741470699;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745275501;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745419432;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745480400;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790149072;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791826730;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792093041;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792254839;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792262889;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792286161;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792609385;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289214;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289241;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289248;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289264;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289265;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289266;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289267;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289268;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799329413;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04748023778;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790695253;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790934580;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798222030;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289204;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289205;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289261;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799038245;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799553100;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741454641;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04741646081;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745516590;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745516801;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04745807400;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04748238375;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790064755;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04790192024;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04791716690;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792260947;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04792457987;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793080839;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793480990;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04793670409;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04795977106;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797090996;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797147667;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797521192;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04797791581;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289217;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289218;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289219;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289270;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289271;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289273;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798289278;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04798639156;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799231085;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552
+;04799507797;KORFAK;Kreditering grunnet feilrabatt ok Tore Kvernmo ref ISA;Justering etter avtale;319.69;;;;;nobo2552 26.04.10;1;nobo2552

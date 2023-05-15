@@ -1,0 +1,191 @@
+;04792458903;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792460278;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792460779;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792461987;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792462366;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792464081;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;85.17;;;;;RVH 11.06.08;1;RVH;
+;04792464170;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792464651;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792465787;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792465987;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792466281;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792466303;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792466340;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792466870;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792467143;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH;
+;04792467319;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;85.17;;;;;RVH 11.06.08;1;RVH;
+;04792467965;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;85.17;;;;;RVH 11.06.08;1;RVH
+;04792468407;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;85.17;;;;;RVH 11.06.08;1;RVH
+;04792493795;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH
+;04792495825;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH
+;04792497015;KORFAK;Justering pga feilreg. Fastpris ref. ISA (godkjent Lasse Grøndal);Justering etter avtale;1039.79;;;;;RVH 11.06.08;1;RVH
+;04740456512;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04740463884;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04740468479;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;143.37;;;;;RVH 16.06.08;1;RVH
+;04740470639;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;143.37;;;;;RVH 16.06.08;1;RVH
+;04740471643;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04740482640;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04740493525;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04740611857;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04740612806;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04740625151;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04740631172;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04740631447;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04740638989;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04741217099;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04741413095;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04741418497;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;129.83;;;;;RVH 16.06.08;1;RVH
+;04741564492;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04741926470;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04745206971;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04745232990;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04745238028;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04745238672;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04745250303;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;138.59;;;;;RVH 16.06.08;1;RVH
+;04745258762;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04745421020;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746409276;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746415723;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746443531;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443539;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443549;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443561;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443620;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443624;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443632;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443633;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443647;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443652;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443656;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443664;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;217.41;;;;;RVH 16.06.08;1;RVH
+;04746443671;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;143.35;;;;;RVH 16.06.08;1;RVH
+;04746443673;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;143.35;;;;;RVH 16.06.08;1;RVH
+;04746448168;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;137;;;;;RVH 16.06.08;1;RVH
+;04746625822;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;143.37;;;;;RVH 16.06.08;1;RVH
+;04746625834;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;143.37;;;;;RVH 16.06.08;1;RVH
+;04746625843;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;143.37;;;;;RVH 16.06.08;1;RVH
+;04746626010;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;146.56;;;;;RVH 16.06.08;1;RVH
+;04746626106;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;140.98;;;;;RVH 16.06.08;1;RVH
+;04746627010;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;144.17;;;;;RVH 16.06.08;1;RVH
+;04746627050;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;142.58;;;;;RVH 16.06.08;1;RVH
+;04746628010;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;144.17;;;;;RVH 16.06.08;1;RVH
+;04746628020;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;142.58;;;;;RVH 16.06.08;1;RVH
+;04746628060;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;142.58;;;;;RVH 16.06.08;1;RVH
+;04746629010;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;144.17;;;;;RVH 16.06.08;1;RVH
+;04746629472;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;137;;;;;RVH 16.06.08;1;RVH
+;04746636010;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746636030;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746636609;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746637020;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746639010;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746639060;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746639080;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746639208;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04746639251;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04747317061;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04747368461;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04747418274;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04748077521;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04748180591;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;204.67;;;;;RVH 16.06.08;1;RVH
+;04748259070;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04790286418;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04790527750;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04790555383;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04790614431;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04790640009;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04790696293;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04790729588;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04790835421;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04790876595;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04790989703;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04791104417;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;204.67;;;;;RVH 16.06.08;1;RVH
+;04791165744;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04791176272;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04791191403;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04791307285;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04791307299;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;203.87;;;;;RVH 16.06.08;1;RVH
+;04791363072;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04791549430;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04791826255;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04791853542;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792043531;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;136.21;;;;;RVH 16.06.08;1;RVH
+;04792062551;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792079834;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;206.26;;;;;RVH 16.06.08;1;RVH
+;04792079873;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;132.2;;;;;RVH 16.06.08;1;RVH
+;04792087682;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792200056;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792241391;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792264008;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792272322;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;203.87;;;;;RVH 16.06.08;1;RVH
+;04792279187;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792297069;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;135.41;;;;;RVH 16.06.08;1;RVH
+;04792424169;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792425971;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792429867;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792433040;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792443655;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792455398;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792465868;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792472264;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792630321;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792632272;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792633601;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;142.58;;;;;RVH 16.06.08;1;RVH
+;04792659847;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792660106;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792808949;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;144.97;;;;;RVH 16.06.08;1;RVH
+;04792810470;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792810868;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;208.65;;;;;RVH 16.06.08;1;RVH
+;04792811173;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;147.36;;;;;RVH 16.06.08;1;RVH
+;04792812138;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792812683;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792814581;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792828600;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792844751;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792867547;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792867895;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792869198;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04792871333;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04792872400;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;129.83;;;;;RVH 16.06.08;1;RVH
+;04792878139;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793071437;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793071459;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793078391;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793216262;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04793217352;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793217439;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04793426098;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793438264;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04793439020;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793463500;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;136.21;;;;;RVH 16.06.08;1;RVH
+;04793470510;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04793471038;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04793479020;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04793479030;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;132.23;;;;;RVH 16.06.08;1;RVH
+;04793603605;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;133.02;;;;;RVH 16.06.08;1;RVH
+;04793863979;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04793886810;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04794806116;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04795024366;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04795100050;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04795102966;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;131.43;;;;;RVH 16.06.08;1;RVH
+;04795214550;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;204.67;;;;;RVH 16.06.08;1;RVH
+;04795214600;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;204.67;;;;;RVH 16.06.08;1;RVH
+;04795813117;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04795867574;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04795925126;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;130.63;;;;;RVH 16.06.08;1;RVH
+;04795940594;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04797012255;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04797118530;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04797180562;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04797591115;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04797705328;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04797739662;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04797771771;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04798051028;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04798207818;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04798238409;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04798297722;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;148.13;;;;;RVH 16.06.08;1;RVH
+;04799006665;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04799118080;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04799161934;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH
+;04799436656;KORFAK;Justering pga feil prisplan ref. ISA (godkjent Lasse Grøndal) ;Justering etter avtale;74.06;;;;;RVH 16.06.08;1;RVH

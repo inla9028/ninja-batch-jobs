@@ -1,0 +1,368 @@
+;04741529920;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792036646;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793054096;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792233875;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792416450;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792036671;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792037006;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793615770;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798157553;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792878102;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745402507;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793433687;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745019354;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799625299;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793248163;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793258828;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792639392;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790850745;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791122434;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792669620;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797779218;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792605115;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741268760;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792830808;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797597496;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793825368;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798050519;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798838676;UPFR12;Ringetid kampanje 600;;600;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740102730;UPFR12;Ringetid kampanje 900;;900;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740102234;UPFR12;Ringetid kampanje 900;;900;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793239667;UPFR12;Ringetid kampanje 900;;900;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740100708;UPFR12;Ringetid kampanje 900;;900;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740105894;UPFR12;Ringetid kampanje 900;;900;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792244850;UPFR12;Ringetid kampanje 1200;;1200;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745273604;UPFR12;Ringetid kampanje 1200;;1200;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745228035;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745243771;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746417711;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746541576;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746541681;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746543381;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746543624;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746543660;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746543663;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746543712;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747466399;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748003035;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748894733;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748894734;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792477256;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795210025;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795210113;SALGUT;Utkjøp av binding, godkjent av selger Azim Hadzalic;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790649907;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;2500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791359485;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792045746;SALGUT;Utkjøp av binding, godkjent av selger Erland Pettersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797471942;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791348482;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795032805;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795918466;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746815206;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790808473;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791399452;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;2500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795878980;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797433709;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;5000;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799267213;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791731963;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793221610;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791169375;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791300285;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795939761;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797748824;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791848688;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741425806;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741425805;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745402977;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741530051;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741525394;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792292682;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740003153;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745499368;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794166309;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746969408;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794166025;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792651497;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795944724;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797006898;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745282204;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794885695;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746850231;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740641044;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503395;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503376;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503357;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503330;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503316;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503301;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503347;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503372;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503392;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503393;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503379;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503378;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503323;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503365;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503362;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503363;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503338;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503352;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503336;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503332;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503331;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503305;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503322;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503304;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503340;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503389;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503397;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503396;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503391;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503311;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503385;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;2500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503315;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;2500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503310;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;2500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794503355;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;5000;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791726047;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794982770;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;2500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793232392;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798086237;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798439464;SALGUT;Utkjøp av binding, godkjent av Gaute Gundersen;;3750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797645667;SALGUT;Utkjøp av binding, godkjent av Hilmar Forodden;;1000;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792415503;SALGUT;Utkjøp av binding, godkjent av Hilmar Forodden;;2750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747924790;SALGUT;Utkjøp av binding, godkjent av Hilmar Forodden;;500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791170034;SALGUT;Utkjøp av binding, godkjent av Hilmar Forodden;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745292700;SALGUT;Utkjøp av binding, godkjent av Inge Nordgård;;1875;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790039062;SALGUT;Utkjøp av binding, godkjent av Inge Nordgård;;1875;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748271668;SALGUT;Utkjøp av binding, godkjent av Inge Nordgård;;1875;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793428050;SALGUT;Utkjøp av binding, godkjent av Inge Nordgård;;1875;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791804668;SALGUT;Utkjøp av binding, godkjent av Inge Nordgård;;1875;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747483768;SALGUT;Utkjøp av binding, godkjent av Inge Nordgård;;1875;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740102630;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790034712;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790163114;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790500773;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790526299;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790784824;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790842514;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;3000;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790970390;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791630941;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791765058;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792013912;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;3000;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792087760;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792279733;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792423130;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1750;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792628212;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792808490;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792831305;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793047717;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793079850;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793092761;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793092763;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793249070;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794828923;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795089116;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795170052;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797070701;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798218625;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798218626;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798218632;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798238804;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798238806;SALGUT;Utkjøp av binding, godkjent av Mari Nygård;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741407410;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745204059;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745482206;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745803358;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746416823;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746416825;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746416827;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746416836;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746416856;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746417510;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746417511;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04746419057;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748149061;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748298175;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790147895;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790655365;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790864141;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790911025;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790996530;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790996540;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791602158;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791746920;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791754847;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792055745;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792848666;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793200972;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793205871;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796900205;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799161687;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799589440;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799773361;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792032799;SALGUT;Utkjøp av binding, godkjent av Per Saur;;2050;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797472377;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793265915;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790660012;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790032074;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1350;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793008992;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795023946;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790270727;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799254827;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799431663;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799609222;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741426641;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745007888;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790762044;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790177177;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796901226;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796901227;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796901228;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799010901;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794840031;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793431464;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798052722;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747231219;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790967883;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741511200;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747928399;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747928420;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747933315;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169121;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169122;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169123;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169124;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169125;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169126;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169127;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748169128;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793270093;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793272177;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793279393;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796623323;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797747340;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793209470;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745670475;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795152192;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797472377;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790032074;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1350;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793008992;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795023946;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790270727;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799254827;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799431663;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799609222;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741426641;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745007888;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790762044;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790177177;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796901226;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796901227;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796901228;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799010901;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794840031;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741449737;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790221390;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790405340;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798411365;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791840202;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740203162;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791107875;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741367762;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741314358;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790121533;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747909881;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747906203;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795275966;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741308010;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795010455;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795499922;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795966575;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797978840;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792854120;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792854123;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741305687;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791824690;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04796621111;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790011050;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790022542;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790615598;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795455103;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747255304;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795793079;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790835969;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791691843;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790177367;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799547766;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748274001;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799458134;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790186842;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741443736;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04745601130;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793265915;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790660012;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798856700;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795728576;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740410402;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799008437;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799043899;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791116848;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797574100;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793499358;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792060799;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791818043;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797712940;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790551533;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793280160;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790919295;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795106350;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794848988;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740406756;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1125;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741269955;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1125;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797879894;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792885136;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791885540;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792898125;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799102869;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791160474;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793008840;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797520042;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1160;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741696106;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747255274;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791698383;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04797765408;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795945663;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747669172;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792440109;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790950033;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794862825;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795013433;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799035733;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791538839;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793841268;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793620630;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1250;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791190499;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795120060;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793646019;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04798117286;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791311353;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791349510;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04791511122;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792220602;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04740020260;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747036111;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04794178204;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799748966;SALGUT;Utkjøp av binding, godkjent av Tommy Ringnes;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04748192733;SALGUT;Utkjøp av binding, godkjent av Tommy Søstumoen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792226145;SALGUT;Utkjøp av binding, godkjent av Tommy Søstumoen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04792246666;SALGUT;Utkjøp av binding, godkjent av Tommy Søstumoen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793099600;SALGUT;Utkjøp av binding, godkjent av Tommy Søstumoen;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04741447639;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747611128;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790574840;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790931027;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04793054164;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795877104;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04795877221;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04799723719;SALGUT;Utkjøp av binding, godkjent av Torstein Møller Rohde;;1500;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04790933650;SALGUT;Utkjøp av binding, godkjent av Vebjørn Parr Sætre;;1781;;;;;LIEI1298 21.08.12;1;LIEI1298
+;04747455703;SALGUT;Utkjøp av binding, godkjent av Vegard Sjøvold;;1875;;;;;LIEI1298 21.08.12;1;LIEI1298

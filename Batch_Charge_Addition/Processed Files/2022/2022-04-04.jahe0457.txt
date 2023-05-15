@@ -1,0 +1,5 @@
+653847210;;CRDPAY;CRDPAY;69.00;;Kreditt omkostninger Dibs;;WAITING;;;;jahe0457 04.04.2022;1;jahe0457
+803166800;;CRDPAY;CRDPAY;69.00;;Kreditt omkostninger Dibs;;WAITING;;;;jahe0457 04.04.2022;1;jahe0457
+719180515;;CRDPAY;CRDPAY;69.00;;Kreditt omkostninger Dibs;;WAITING;;;;jahe0457 04.04.2022;1;jahe0457
+335208419;;CRDPAY;CRDPAY;69.00;;Kreditt omkostninger Dibs;;WAITING;;;;jahe0457 04.04.2022;1;jahe0457
+151762218;;CRDPAY;CRDPAY;69.00;;Kreditt omkostninger Dibs;;WAITING;;;;jahe0457 04.04.2022;1;jahe0457

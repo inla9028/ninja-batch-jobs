@@ -1,0 +1,9 @@
+;04741268603;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04748408002;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04792014281;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04741270696;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04741272177;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04741381993;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04741269683;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04740617688;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233
+;04741323838;CHRGMV;O;199;Gebyr for nytt nummer;Gebyr for nytt nummer;;WAITING;;;;2018.05.23.01.00;1;HAFR1233

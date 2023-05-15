@@ -1,0 +1,216 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Mon Jan 18 15:14:43 2010
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   load.txt
+Data File:      Adjustment_Upfront_180110.txt
+  Bad File:     bad.txt
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_ADJUSTMENT_ADDITION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+BAN_NO                              FIRST     *   ;  O(") CHARACTER            
+SUBSCRIBER_NO                        NEXT     *   ;  O(") CHARACTER            
+ADJUSTMENT_CODE                      NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+USER_BILL_TEXT                       NEXT     *   ;  O(") CHARACTER            
+AMOUNT                               NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+STREAM                               NEXT     *   ;  O(") CHARACTER            
+REQUEST_USER_ID                      NEXT     *   ;  O(") CHARACTER            
+EFFECTIVE_DATE                       NEXT     *   ;  O(") CHARACTER            
+
+Record 1811: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1812: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1813: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1814: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1815: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1816: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1817: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1818: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1819: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1820: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1821: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1822: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1823: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1824: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1825: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1826: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1827: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1828: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1829: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1830: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1831: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1832: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1833: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1834: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1835: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1836: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1837: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1838: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1839: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1840: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1841: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1842: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1843: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1844: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1845: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1846: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1847: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1848: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1849: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1850: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1851: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1852: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1853: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1854: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1855: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1856: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1857: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1858: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1859: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1860: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+Record 1861: Rejected - Error on table BATCH_ADJUSTMENT_ADDITION, column REQUEST_ID.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_ADJUSTMENT_ADDITION"."REQUEST_ID")
+
+
+MAXIMUM ERROR COUNT EXCEEDED - Above statistics reflect partial run.
+
+Table BATCH_ADJUSTMENT_ADDITION:
+  1810 Rows successfully loaded.
+  51 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 231168 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          1907
+Total logical records rejected:        51
+Total logical records discarded:        0
+
+Run began on Mon Jan 18 15:14:43 2010
+Run ended on Mon Jan 18 15:15:02 2010
+
+Elapsed time was:     00:00:19.42
+CPU time was:         00:00:00.09

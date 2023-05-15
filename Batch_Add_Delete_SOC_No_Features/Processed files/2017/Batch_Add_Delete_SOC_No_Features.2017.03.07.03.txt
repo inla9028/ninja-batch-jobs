@@ -1,0 +1,8 @@
+GSM04747264635;DANS40;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)
+GSM04745831562;MCMS;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)
+GSM04798230297;MCMS;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)
+GSM04745831568;MCMS;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)
+GSM04740456175;MCMS;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)
+GSM04790037285;MCMS;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)
+GSM04790037285;MCLIVES1;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)
+GSM04796714754;DANS06;ADD;;;2017.03.07.03;Added by Ninja team (SocActionsRulesV2 bug fix)

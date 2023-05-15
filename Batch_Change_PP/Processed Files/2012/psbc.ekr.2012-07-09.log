@@ -1,0 +1,60 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Wed Jul 11 12:04:18 2012
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   chg_pp_trans.ctl
+Data File:      psbc.ekr.2012-07-09.txt
+  Bad File:     psbc.ekr.2012-07-09.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table "NINJADATA"."MASTER_CHG_PP_TRANS", loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+NEW_PRICEPLAN                        NEXT     *   ;  O(") CHARACTER            
+NEW_CAMPAIGN_CODE                    NEXT     *   ;  O(") CHARACTER            
+NEW_SUBSCRIPTION_TYPE                NEXT     *   ;  O(") CHARACTER            
+HANDLE_COMMITMENT                    NEXT     *   ;  O(") CHARACTER            
+EFFECTIVE_DATE                       NEXT     *   ;  O(") CHARACTER            
+DEALER                               NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+WAIVE_FEES                           NEXT     *   ;  O(") CHARACTER            
+REQUESTOR_ID                         NEXT     *   ;  O(") CHARACTER            
+SKIP_NINJA_VALIDATION                NEXT     *   ;  O(") CHARACTER            
+
+
+Table "NINJADATA"."MASTER_CHG_PP_TRANS":
+  401 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 214656 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           401
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Jul 11 12:04:18 2012
+Run ended on Wed Jul 11 12:06:12 2012
+
+Elapsed time was:     00:01:54.10
+CPU time was:         00:00:00.06

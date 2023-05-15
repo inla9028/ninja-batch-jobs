@@ -1,0 +1,9 @@
+;139244800;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;239244809;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;241193903;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;455064113;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;645854316;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;729244806;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;829244805;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;864291018;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;
+;929244804;EE;efakturaekst@fridays.no;NET;A;Ref. N187, Chris;;;;;2017.10.04.04;

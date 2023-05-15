@@ -1,0 +1,16 @@
+SQL> 
+SQL> delete batch_telenor_load_tmp
+  2  where exists
+  3  (select 1 from BATCH_TELENOR_CHGS_PROCESSING
+  4  where
+  5  BATCH_TELENOR_CHGS_PROCESSING.charge_ref = batch_telenor_load_tmp.charge_ref
+  6  );
+
+486 rows deleted.
+
+SQL> 
+SQL> commit;
+
+Commit complete.
+
+SQL> exit;

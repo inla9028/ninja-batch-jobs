@@ -1,0 +1,35 @@
+NinjaProd1 WLS Details
+
+Common:
+SERVER_ADDRESS = 212.45.173.155
+SERVER_VERSION = 8.1 SP4 
+SERVER_LOGIN = ninja
+SERVER_PASSWORD = NinjaMaster
+SERVER_HOME = /app/ninja/bea/weblogic81
+SERVER_JAVA_HOME = /app/ninja/bea/jdk142_05
+Unix_Login = ninja
+Unix_Password = ninja2002
+
+
+When logging into Ninja, a shortcut to each environment is specifed..  bsh1 & demons These navigate to the server instance base directory..
+
+When at the server launch directory you can stop & start weblogic with the stopWLS & startWLS scripts.
+
+Server Instance Specific:
+
+SERVER1_NAME = billingSystemHandler1Server 
+SERVER1_PORT = 7001
+SERVER1_LOGFILES = /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain/NinjaOpenViewDaily.log
+Other detailed logfiles (SERVER1_LOGFILES_MORE = /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain/logs/.......  controlled via /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain/log4j.netcom.xml)
+SERVER1_LAUNCH_DIR = /app/ninja/bea/user_projects/domains/billingSystemHandler1Domain
+Usage: IPL BillingSystemHandler (NetCom.no), xIL.
+
+SERVER2_NAME = demon2Server 
+SERVER2_PORT = 8011
+SERVER2_LOGFILES = /app/ninja/bea/user_projects/domains/demonDomain/NinjaOpenViewDaily.log
+Other detailed logfiles  (SERVER2_LOGFILES_MORE = /app/ninja/bea/user_projects/domains/demonDomain/logs/.......  controlled via /app/ninja/bea/user_projects/domains/demonDomain/log4j.netcom.xml)
+SERVER2_LAUNCH_DIR = /app/ninja/bea/user_projects/domains/demonDomain
+Usage: internal deamon processes
+
+
+The crontab isn't currently restart each server at the moment due to some technical issues..

@@ -1,0 +1,73 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Thu Aug 27 10:15:43 2009
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   tb_processing_trans.ctl
+Data File:      psff.af.2009-08-27.txt
+  Bad File:     psff.af.2009-08-27.bad
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table TB_PROCESSING_TRANS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER
+PRICEPLAN                            NEXT     *   ;  O(") CHARACTER
+CAMPAIGN                             NEXT     *   ;  O(") CHARACTER
+HANDLE_COMMITMENT                    NEXT     *   ;  O(") CHARACTER
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER
+WAIVE_FEES                           NEXT     *   ;  O(") CHARACTER
+SUB_TB_SOC                           NEXT     *   ;  O(") CHARACTER
+SUB_VPN_CODE                         NEXT     *   ;  O(") CHARACTER
+SUB_CUG_CODE                         NEXT     *   ;  O(") CHARACTER
+ENTER_TIME                           NEXT     *   ;  O(") CHARACTER
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER
+PROCESSED_TYPE                       NEXT     *   ;  O(") CHARACTER
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER
+REQUESTOR_ID                         NEXT     *   ;  O(") CHARACTER
+REQUEST_TIME                         NEXT     *   ;  O(") CHARACTER
+PROCESS_DESCRIPTION                  NEXT     *   ;  O(") CHARACTER
+
+Record 62: Rejected - Error on table TB_PROCESSING_TRANS.
+ORA-00001: unique constraint (NINJADATA.TB_PROC_TRANS_PK1) violated
+
+Record 298: Rejected - Error on table TB_PROCESSING_TRANS.
+ORA-00001: unique constraint (NINJADATA.TB_PROC_TRANS_PK1) violated
+
+
+Table TB_PROCESSING_TRANS:
+  486 Rows successfully loaded.
+  2 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 252840 bytes(49 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           488
+Total logical records rejected:         2
+Total logical records discarded:        0
+
+Run began on Thu Aug 27 10:15:43 2009
+Run ended on Thu Aug 27 10:15:44 2009
+
+Elapsed time was:     00:00:01.40
+CPU time was:         00:00:00.02

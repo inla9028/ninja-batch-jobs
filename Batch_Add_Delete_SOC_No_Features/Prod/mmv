@@ -1,0 +1,10 @@
+./runloader_at.sh MasterTransactionsTEST.1.txt
+sleep 2s
+./runloader_at.sh MasterTransactionsTEST.2.txt
+sleep 2s
+./runloader_at.sh MasterTransactionsTEST.3.txt
+sleep 2s
+./runloader_at.sh MasterTransactionsTEST.4.txt
+sleep 2s
+./runloader_at.sh MasterTransactionsTEST.5.txt
+sleep 2s

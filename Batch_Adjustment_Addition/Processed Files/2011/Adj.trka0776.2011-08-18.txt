@@ -1,0 +1,172 @@
+;04790655359;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Jetteng;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04748102786;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Jetteng;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799391079;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Jetteng;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746745062;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04748093864;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793434225;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790106010;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799290055;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799644548;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793405550;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791591861;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795083296;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791645186;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795992470;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746825710;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746889973;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790269001;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791340411;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791714766;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792221640;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792429070;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792605957;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1314;;;;;trka0776 18.08.2011;1;trka0776
+;04792635297;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792686527;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793213638;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793672339;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04798821397;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795176788;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795022370;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793489773;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797694773;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792203625;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792203627;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740024000;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746812078;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793443024;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790767366;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793439737;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747484145;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747484181;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741201368;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746817672;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741445753;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797760288;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792889056;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790542592;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741610697;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741332167;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04748000800;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797617178;SALGUT;Utkjøp av binding, godkjent av selger Bjørn Niklas Sjøstrøm;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741224828;SALGUT;Utkjøp av binding, godkjent av selger Elin Berg;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790852002;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740005714;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740614007;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741343762;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741343763;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746748544;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792410258;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792821980;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792857185;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792859875;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797578217;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792409829;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792202528;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793462948;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795732361;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746680415;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747483849;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1370;;;;;trka0776 18.08.2011;1;trka0776
+;04791330408;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1370;;;;;trka0776 18.08.2011;1;trka0776
+;04795055660;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1370;;;;;trka0776 18.08.2011;1;trka0776
+;04745448374;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1370;;;;;trka0776 18.08.2011;1;trka0776
+;04793001460;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1370;;;;;trka0776 18.08.2011;1;trka0776
+;04791567799;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799168976;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747807773;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1398;;;;;trka0776 18.08.2011;1;trka0776
+;04740448966;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1398;;;;;trka0776 18.08.2011;1;trka0776
+;04790110115;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1051;;;;;trka0776 18.08.2011;1;trka0776
+;04792452476;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795042550;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1250;;;;;trka0776 18.08.2011;1;trka0776
+;04795104501;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1250;;;;;trka0776 18.08.2011;1;trka0776
+;04798082874;SALGUT;Utkjøp av binding, godkjent av selger Jon-Are Loktu;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741934602;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741934603;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741934604;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741934605;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1415;;;;;trka0776 18.08.2011;1;trka0776
+;04741934616;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797073725;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740633614;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740648869;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797673102;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741414424;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799599022;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790536557;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790170169;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790581765;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04794223075;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790103044;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792027524;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747481262;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747481261;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747481260;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740428159;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799398030;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799354076;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799338075;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797985050;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799354077;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799229928;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747882004;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799724418;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04798819097;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790612610;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793410172;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793238878;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1051;;;;;trka0776 18.08.2011;1;trka0776
+;04793210826;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792859419;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792849312;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741181846;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740013371;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740013255;SALGUT;Utkjøp av binding, godkjent av selger Karl Johan Machnik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746449048;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792084624;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795996941;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799426262;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792630337;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790673374;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795733435;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04745471616;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747377752;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04797118021;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04794872363;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790959321;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791680808;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04745289212;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791179300;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04745289212;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791179300;SALGUT;Utkjøp av binding, godkjent av selger Kenneth L. Torsvik;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740625140;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04748296003;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790070008;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790076864;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792839943;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04794805200;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04740108080;SALGUT;Utkjøp av binding, godkjent av selger Ola Granerud;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04747451353;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790513717;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791865492;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04791871181;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792622620;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799020125;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799020138;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799020140;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799020145;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04799020155;SALGUT;Utkjøp av binding, godkjent av selger Roger Mortensen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04748190158;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04790912276;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04795835676;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04745266071;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04745637933;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04746633606;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792657756;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793433371;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04793490947;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04796626601;SALGUT;Utkjøp av binding, godkjent av selger Tommy Søstumoen;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741007199;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792606372;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792858748;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792051364;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741211781;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741147380;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04741007199;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776
+;04792417380;SALGUT;Utkjøp av binding, godkjent av selger Vegard Sjøvold;;1500;;;;;trka0776 18.08.2011;1;trka0776

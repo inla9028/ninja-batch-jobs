@@ -1,0 +1,1 @@
+sqlldr ninjaatmain/ninjaatmain@ninjatest -data=%1 -control=chg_pp_trans.ctl -errors=0

@@ -1,0 +1,10 @@
+GSM047580009082798;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009049217;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009055261;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009059378;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009061819;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009046023;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009066832;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009082492;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009040613;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no
+GSM047580009092407;MAPNPTEK;ADD;S-AP01;;;2018.06.25.01;m2m apn telia.rmh.nhn.no lagt til;;;telia.rmh.nhn.no

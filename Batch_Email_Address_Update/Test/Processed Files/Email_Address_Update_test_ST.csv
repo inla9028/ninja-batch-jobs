@@ -1,0 +1,9 @@
+U;GSM04745392136;;user@netcom.no;26.05.2014;ktw8927
+L;;139554802;legal@netcom.no;26.05.2014;ktw8927
+B;;139554802;billing@netcom.no;26.05.2014;ktw8927
+U;GSM04792600672;;testuser@netcom.no;26.05.2014;ktw8927
+L;;702771908;testlegal@netcom.no;26.05.2014;ktw8927
+B;;702771908;testbilling@netcom.no;26.05.2014;ktw8927
+U;GSM04792600671;;notexistinguser@netcom.no;26.05.2014;ktw8927
+L;;702771909;notexistinglegal@netcom.no;26.05.2014;ktw8927
+B;;702771909;notexistingbilling@netcom.no;26.05.2014;ktw8927

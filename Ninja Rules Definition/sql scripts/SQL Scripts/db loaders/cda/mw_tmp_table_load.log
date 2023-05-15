@@ -1,0 +1,49 @@
+
+SQL*Loader: Release 9.2.0.1.0 - Production on Tue Mar 7 11:15:50 2006
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   mw_tmp_table_load.ctl
+Data File:      tmp_nrdb_nos_07032006.csv
+  Bad File:     tmp_nrdb_nos_07032006.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MW_TMP_NRPD_DUMP, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+FIXED_LINE_NO                       FIRST     *   ,  O(") CHARACTER            
+DATE_IMPORTED                        NEXT     *   ,  O(") CHARACTER            
+
+
+Table MW_TMP_NRPD_DUMP:
+  69641 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  33024 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:         69641
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Tue Mar 07 11:15:50 2006
+Run ended on Tue Mar 07 11:15:56 2006
+
+Elapsed time was:     00:00:05.97
+CPU time was:         00:00:00.36

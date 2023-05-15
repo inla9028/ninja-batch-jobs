@@ -1,0 +1,184 @@
+U;933789117;GSM04795918195;Golmen;Jan Helge;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm-ledelse/20100
+U;933789117;GSM04790087315;Knudsen;Geir;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm-ledelse/20100
+U;933789117;GSM04790590574;Skattum;Hanne Helen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm-HR/20110
+U;933789117;GSM04798088864;Davidsen;Anne-Mette;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04792657135;Fredagsvik;Mette;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04790985008;Galaasen;Asbjørn;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04796627829;Lien;Unni Tove;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04796627912;Lønes;Arve;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04748352504;Rusten;Erik Stormyren;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04796627871;Ruud;Stian Thomas;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04793068090;Svarthol;Kari;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04796627852;Melbye;Oluf T.;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm - Økonomi, adm, kontrakt/20111
+U;933789117;GSM04793616120;Thomassen;Mats;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm-HCPM/20112
+U;933789117;GSM04790012188;Jonsrud;Vegard;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm-HCPM/20112
+U;933789117;GSM04796627907;Koelsch;Guillaume;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Adm-HCPM/20112
+U;933789117;GSM04795070594;Smelhus;Roar;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Marked/salg/20200
+U;933789117;GSM04747324615;Wojcik;Monika Barbara;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Marked/salg/20200
+U;933789117;GSM04791705709;Sormbroen;Egil;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Marked/salg/20200
+U;933789117;GSM04798219868;Syversen;Geir;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Leder/20210
+U;933789117;GSM04796627894;Berglin;Bjørn Jakob;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04795996185;Brevig;Gunnar Løchø;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04799487654;Engan;Jan Erik;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04792058397;Haugen;Fredrik Johannes;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04791813324;Larsen;Geir Bull;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04746427568;Lundberget;Lilli-Ann Flugheim;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04745206834;Løtveit;Marte Wiig;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04790175178;Monrad-Hansen;Jens Wiel;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04793216227;Salicath;Trond;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04741629409;Schymann;Jim;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04790758775;Sjølli;Bjørn;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04798457025;Stoll;Sigurd Johannes;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04792285972;Johansen;Arne Rein;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Nybygg/20211
+U;933789117;GSM04796627278;Heggdal;Stein;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04791798147;Berg;Audun;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04798881197;Evenrud;Nils Frederick;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04796826042;Glamocanin;Bojan;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04741537422;Grinaker;Petter;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04797193798;Henriksen;Trygve;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04795232406;Hornmoen;Kari;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04796627893;Ihle;Gro;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04796627837;Olsen;Birger;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04796627824;Pedersen;Kaj;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04745957383;Rasmussen;Joan Melgaard;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04790015252;Skaarer;Jørn;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04796627832;Øfsthus;Maria Carmen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04790016634;Hagmansen;Trond;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04790758120;Røskeland;Arne;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Rehab./20212
+U;933789117;GSM04793268697;Kaufmann;Simen Egede-Nissen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Eiendom/20213
+U;933789117;GSM04748310202;Forsmo;Knut Asbjørn;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Eiendom/20213
+U;933789117;GSM04795910840;Hoås;Even;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Elektro/IKT - Eiendom/20213
+U;933789117;GSM04797704893;Wiese;Johan;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Leder/20220
+U;933789117;GSM04747178483;Bertinussen;Sara R. Hoyne;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04790960399;Bjugstad;Line;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04792417093;Borg;Marius;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04792214518;Bøe;Lisbeth Jeanette;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04793036549;Goldenheim;Andreas Søraas;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04795709919;Holand;Kristian;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04797766697;Kleven;Magnus;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04741479459;Lesund;Ann Kristin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04799567963;Sorkness;Kenneth;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04740699775;Warchol;Katarzyna;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Nybygg/20221
+U;933789117;GSM04795975822;Algrøy;Marianne;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04798410563;Brynildsen;Henrik;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04740828835;Christensen;Olav G;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04747257857;Hals;Sigurd Matre;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04791334940;Jensrud;Sigurd Johan;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04796626359;Monakhova;Natalia;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04748150192;Pedersen;Maren Underhaug;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04796627879;Sandvik;Lars Sigurd;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04798020855;Vågen;Ida Nordbotten;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Rehab./20222
+U;933789117;GSM04748844130;Sundvall;Sven Kristian;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04796627846;Dyrkolbotn;Ørjan;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04791181723;Eggen;Sune;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04741503995;Eriksen;Bjørn-Yngve;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04794397200;Gilhuus;Ola Trandum;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04796627808;Hestnes;Marit;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04796627902;Hjellnes;Eirik;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04793280512;Holsted;Rune;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04793494766;Lorentzen;Solveig Reisegg;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04791004633;Spiegel;Rachel Elisabeth Tapper;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04799454568;Sæther;Fridtjof Bernhard;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi - Totalenterprise/20223
+U;933789117;GSM04799292932;Hybbestad;Heidi;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi  - FDV/20224
+U;933789117;GSM04797656648;Kristiseter;Arild;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi  - FDV/20224
+U;933789117;GSM04741645493;Skålnes;Ingemund;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi  - FDV/20224
+U;933789117;GSM04790169321;Raa;Kai Heidenreich;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;VVS/Energi  - FDV/20224
+U;933789117;GSM04741656377;Boye;Andreas;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04747354252;Dahl;Eirik Robin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04747631576;Ekeberg;Elin Danielsen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04793201825;Gjulem;Kevin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04790064422;Halvorsen;Arild Kind;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627888;Krogsrud;Steinar;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627935;Kvarme;Terje;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04791342911;Lium;Geir;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04795108280;Lunde;Espen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04748297431;Olsen;Morten Arild;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04797734214;Reistad;Gunhild Ella;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04745452899;Rist;Anne Margrethe;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627866;Rondestvedt;Ellen Margrethe;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04792264607;Sahlstrøm;Joakim Andreas;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04791144932;Salomonsen;Toril;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04798073385;Selmer;Kristoffer;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04748850266;Steinstø;Espen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04795042532;Stensbak;Tone Åstorp;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627856;Thomas;Pål Anders;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627933;Yggeseth;Harald;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04797538732;Ødegård;Morten;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627827;Bull;Ivar;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627916;Nilsen;Bjørn;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04796627805;Skaare;Arild;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Nybygg/20231
+U;933789117;GSM04793227929;Bjerke;Lasse;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04790887886;Custic;Edin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04796627812;Gresslien;Steinar;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04795158339;Halvorsen;Espen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04796627850;Hansen;Rolf Fredrik;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04795267963;Hvattum;Knut Olsen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04793641657;Kleven;Øyvind;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04799568590;Krokstrand;Ellen G.;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04795278867;Næss;Kjetil;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04791796767;Olason;Gudmundur Baldvin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04796627884;Pedersen;Frode Ødegård;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04796627818;Prestrud;Ole Kristian;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04792442522;Stensbak;Håkon M. Åstorp;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PA/Brann - Rehab./bygn/20232
+U;933789117;GSM04747615169;Haugen;Ingvild Hovstein;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04745032356;Kind;Pål Erik;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04746797758;Kulakowski;Filip Karol;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04793010027;Michalsen;Truls;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04748847685;Rimmer;Jakob;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04798807076;Walle-Olsen;Jorun;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04748846717;Wojciechowicz;Agnieszka Hanna;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04790911231;Dahle;Bernhard;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;Bygg/PL/Brann - Eiendom/20235
+U;933789117;GSM04796627872;Hanebrekke;Kirsti;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM-Leder/20300
+U;933789117;GSM04793016228;Arild;Anders;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04792264414;Karlsen;Øystein Gjessing;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04799624709;Kristoffersen;Aleksander Styrv;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04741260152;Lindholm;Anna Charlotta;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04796627855;Rein;Kristoffer;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04792860850;Sundt;Christine Margrethe;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04798840556;Øyvang;Knut Andreas;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04741515902;Balke;Knut;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Areal og Landskap/20311
+U;933789117;GSM04796627925;Eilertsen;Roger;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04798055616;Færøy;Magnus;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04791118863;Hauso;Åshild Sognnæs;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04796627904;Klech;Erhard;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04741669333;Kringstad;Heidi;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04790930978;Lindland;Sveinung;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04797693385;Nerdal;Kristina;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04748090604;Rasten;Britt;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04790238290;Reikvam;Sverre;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04797671345;Raanaas;Jens Petter;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04748850648;Sara;Renate;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04797585846;Thorsteinsson;Bjørgvin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04796627819;Liengen;Tore Erling;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04796627873;Reiland;Eva;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04796627868;Solbjør;Olav;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - VA/20312
+U;933789117;GSM04745905430;Askeland;Eva Therese;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04791132419;Halvorsen;Bjørn Prødel;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04796627923;Hansen;Kjetil;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04748140061;Holen;Anne Kristin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04795238320;Hovde;Lars Roar;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04793829666;Hovland;Kristin;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04796627966;Sandberg;Geir;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04791512525;Saxegaard;Jørgen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04796627952;Sivertsen;Anja;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04793005426;Slåtsveen;Mari-Anne;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04795865272;Wærner;Eirik Rudi;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04791663013;Christensen;Finn B;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04792245570;Furuseth;Knut O.;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04792853435;Gundersen;Tor M.;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Miljø/20313
+U;933789117;GSM04796627874;Ekerstuen;Kjell Peder;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04797060794;Hegrenæs;Ingvild;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04797069215;Jakobsen;Evy;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04792619287;Milavski;Andre Ivanovitsj;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04792637526;Naas;Hans Olav;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04741763925;Oliver;Roar;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04796701700;Porcu;Rossana;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04747664214;Seielstad;Tiril Gjerde;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04796626315;Skomedal;Rune;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04791661500;Harstad;Arne;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04791766328;Kristiansen;Ola Volden;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04791705713;Nedrelid;Ola;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM - Veg/20314
+U;933789117;GSM04747915135;Halvorsen;Anne;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM Myndighetskontakt/20315
+U;933789117;GSM04741230991;Lie;Line Cecilie;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM Myndighetskontakt/20315
+U;933789117;GSM04791388277;Horn;Christian Wetlesen;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM Myndighetskontakt/20315
+U;933789117;GSM04740699735;Schive;Marit;;OSLO;0679;1;Plogveien;;;NOR;;;;;;;;;;;;;;ANWI8335;AWG 24.03.2015;;;;IM Myndighetskontakt/20315

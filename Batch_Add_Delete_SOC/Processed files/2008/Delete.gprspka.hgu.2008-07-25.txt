@@ -1,0 +1,4 @@
+GSM04790949981;GPRSPKA;DELETE;;;;HGU 25.07.2008;Slettet da tjenesten kun skal finnes for FreeText
+GSM04792604666;GPRSPKA;DELETE;;;;HGU 25.07.2008;Slettet da tjenesten kun skal finnes for FreeText
+GSM04790949981;GPRS02;ADD;;;;HGU 25.07.2008;La til GPRS02 etter at GPRSPKA ble slettet
+GSM04792604666;GPRS02;ADD;;;;HGU 25.07.2008;La til GPRS02 etter at GPRSPKA ble slettet

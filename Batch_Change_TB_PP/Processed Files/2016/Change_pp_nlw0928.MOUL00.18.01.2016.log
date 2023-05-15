@@ -1,0 +1,68 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Mon Jan 18 10:31:06 2016
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   tb_processing_trans_time_fields_empty.ctl
+Data File:      C:\Projects\svn\ninja-batch-jobs\Batch_Change_TB_PP\Change_pp_nlw0928.MOUL00.18.01.2016.txt
+  Bad File:     Change_pp_nlw0928.MOUL00.18.01.2016.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table NINJADATA.TB_PROCESSING_TRANS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER            
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+PRICEPLAN                            NEXT     *   ;  O(") CHARACTER            
+CAMPAIGN                             NEXT     *   ;  O(") CHARACTER            
+HANDLE_COMMITMENT                    NEXT     *   ;  O(") CHARACTER            
+REASON_CODE                          NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+WAIVE_FEES                           NEXT     *   ;  O(") CHARACTER            
+SUB_TB_SOC                           NEXT     *   ;  O(") CHARACTER            
+SUB_VPN_CODE                         NEXT     *   ;  O(") CHARACTER            
+SUB_CUG_CODE                         NEXT     *   ;  O(") CHARACTER            
+ENTER_TIME                           NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESSED_TYPE                       NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+REQUESTOR_ID                         NEXT     *   ;  O(") CHARACTER            
+PROCESS_DESCRIPTION                  NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") CHARACTER            
+
+value used for ROWS parameter changed from 64 to 49
+
+Table NINJADATA.TB_PROCESSING_TRANS:
+  236 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 252840 bytes(49 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           236
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Mon Jan 18 10:31:06 2016
+Run ended on Mon Jan 18 10:31:13 2016
+
+Elapsed time was:     00:00:06.54
+CPU time was:         00:00:00.12

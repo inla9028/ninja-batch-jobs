@@ -1,0 +1,17 @@
+GSM04748062461;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04796234641;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04748241861;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04790842712;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04790879573;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04790882514;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04791189184;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04793465910;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04793465912;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04793465913;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04793465914;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04793465915;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04793465916;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04794892795;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04795744870;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04797157005;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y
+GSM04797977275;PFUA;000000000;;R;;NET;A;KON6;Konvertering av Forhandlerabo. Ref. Inge Nordgård;Y;MDL.08.06.2016.02;Y

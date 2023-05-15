@@ -1,0 +1,57 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Fri Sep 28 10:01:00 2018
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   batch_sim_release.ctl
+Data File:      C:\Projects\svn\ninja-batch-jobs\Batch_SIM_Release\test.txt
+  Bad File:     test.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_SIM_RELEASE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SIM_NO                              FIRST     *   ;  O(") CHARACTER            
+UPDATE_DB                            NEXT     *   ;  O(") CHARACTER            
+DEALER                               NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+RECORD_CREATION_DATE                 NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+
+
+Table BATCH_SIM_RELEASE:
+  1 Row successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 165120 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:             1
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Sep 28 10:01:00 2018
+Run ended on Fri Sep 28 10:01:01 2018
+
+Elapsed time was:     00:00:00.11
+CPU time was:         00:00:00.05

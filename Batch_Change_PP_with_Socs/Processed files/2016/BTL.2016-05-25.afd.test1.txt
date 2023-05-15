@@ -1,0 +1,1 @@
+GSM04740642411;PPTZ;PPUS;000000000;PPUSREG1;K;NSHAPE06;;;NET;A;KON1;Kunden har mottatt brev i starten av mai, og blir nå migrert over til Smart Basis;Y;;;;WAITING;;AFD 2016-05-25;Y

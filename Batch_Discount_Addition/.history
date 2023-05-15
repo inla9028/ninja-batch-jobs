@@ -1,0 +1,6 @@
+touch 2020-11-18.rhb.txt
+atom 2020*.txt
+./runloader_prod.sh 2020*.txt
+mv 2020*.txt Processed\ files/2020/
+svn add Processed\ files/2020/2020-11-18*
+svn commit -m "This just in..."

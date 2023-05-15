@@ -1,0 +1,55 @@
+
+SQL*Loader: Release 8.1.6.1.0 - Production on Fri May 7 18:05:02 2004
+
+(c) Copyright 1999 Oracle Corporation.  All rights reserved.
+
+Control File:   tnor_charges.ctl
+Data File:      tnor_charges.txt
+  Bad File:     tnor_charges.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 65536 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_TELENOR_LOAD_TMP, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+CHARGE_NUMBER                       FIRST     *   ;  O(") CHARACTER            
+CHARGE_DATE                          NEXT     *   ;  O(") CHARACTER            
+CHARGE_TIME                          NEXT     *   ;  O(") CHARACTER            
+CHARGE_REF                           NEXT     *   ;  O(") CHARACTER            
+CHARGE_TEXT                          NEXT     *   ;  O(") CHARACTER            
+CHARGE_DURATION                      NEXT     *   ;  O(") CHARACTER            
+CHARGE_AMOUNT                        NEXT     *   ;  O(") CHARACTER            
+CHARGE_OPERATOR                      NEXT     *   ;  O(") CHARACTER            
+
+
+Table BATCH_TELENOR_LOAD_TMP:
+  486 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  63984 bytes(31 rows)
+Space allocated for memory besides bind array:        0 bytes
+
+Total logical records skipped:          0
+Total logical records read:           486
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri May 07 18:05:02 2004
+Run ended on Fri May 07 18:05:04 2004
+
+Elapsed time was:     00:00:01.88
+CPU time was:         00:00:00.06    

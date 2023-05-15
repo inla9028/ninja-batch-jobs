@@ -1,0 +1,1 @@
+GSM04740462072;PPTE;PPUR;000000000;PPURREG1;K;;;;NET;A;KON1;Kunden har mottatt brev i starten av mai, og blir nå migrert over til Smart Mini;Y;;;;WAITING;;AFD 2016-05-25;Y

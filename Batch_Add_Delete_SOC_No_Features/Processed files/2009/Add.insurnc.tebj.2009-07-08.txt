@@ -1,0 +1,8 @@
+GSM04793258504;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 160026
+GSM04792648845;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 159268
+GSM04798013239;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 159048
+GSM04792248665;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 158906
+GSM04791665469;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 158836
+GSM04792266392;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 158488
+GSM04792023483;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 158290
+GSM04793035666;INSURNC;ADD;;;tebj8740 08.07.2009;Retting av feilaktig sletting, ref xldb order_ID 158077

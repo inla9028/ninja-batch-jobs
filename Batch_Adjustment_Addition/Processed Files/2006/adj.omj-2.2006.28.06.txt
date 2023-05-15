@@ -1,0 +1,3 @@
+;04793480588;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1304.38;;;;;27.06.07;;OMJ
+;04793480430;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1790.15;;;;;27.06.07;;OMJ
+;04745250284;KORFAK;Justering for feil pris Mobil data i utlandet;Mobil data i utlandet;1722.12;;;;;27.06.07;;OMJ

@@ -1,0 +1,53 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Fri Oct 1 10:49:05 2010
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   load.txt
+Data File:      Add.ribed7.tjp.2010-10-01.txt
+  Bad File:     bad.txt
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_DISCOUNT_ADDITION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER
+DISCOUNT_CODE                        NEXT     *   ;  O(") CHARACTER
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER
+PROCESS_STATUS                                            CONSTANT
+    Value is 'WAITING'
+RECORD_CREATION_DATE                                      SYSDATE
+
+
+Table BATCH_DISCOUNT_ADDITION:
+  328 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  66560 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           328
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Oct 01 10:49:05 2010
+Run ended on Fri Oct 01 10:49:06 2010
+
+Elapsed time was:     00:00:01.22
+CPU time was:         00:00:00.05

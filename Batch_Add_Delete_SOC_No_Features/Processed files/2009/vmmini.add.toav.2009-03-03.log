@@ -1,0 +1,54 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Mon Mar 2 13:31:50 2009
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   hgu_tmp_trans.ctl
+Data File:      vmmini.add.toav.2009-03-03.txt
+  Bad File:     vmmini.add.toav.2009-03-03.bad
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table HGU_TMP_TRANS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER
+SOC                                  NEXT     *   ;  O(") CHARACTER
+ACTION                               NEXT     *   ;  O(") CHARACTER
+REQUEST_TIME                         NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+PRIORITY                             NEXT     *   ;  O(") CHARACTER
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER
+
+
+Table HGU_TMP_TRANS:
+  5000 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 115584 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          5000
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Mon Mar 02 13:31:50 2009
+Run ended on Mon Mar 02 13:31:52 2009
+
+Elapsed time was:     00:00:02.11
+CPU time was:         00:00:00.08

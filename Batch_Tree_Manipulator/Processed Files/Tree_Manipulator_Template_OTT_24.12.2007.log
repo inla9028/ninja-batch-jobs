@@ -1,0 +1,54 @@
+
+SQL*Loader: Release 9.2.0.1.0 - Production on Mon Dec 24 11:03:29 2007
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   load.ctl
+Data File:      Tree_Manipulator_Template_OTT_24.12.2007.csv
+  Bad File:     bad.txt
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_TREE_ACTIVITIES, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+NODE_BAN                            FIRST     *   ;  O(") CHARACTER            
+ACTION_CODE                          NEXT     *   ;  O(") CHARACTER            
+PARENT_BAN                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                                            CONSTANT
+    Value is 'IN_PROGRESS'
+RECORD_CREATION_DATE                                      SYSDATE
+
+
+Table BATCH_TREE_ACTIVITIES:
+  2418 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  66816 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          2418
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Mon Dec 24 11:03:29 2007
+Run ended on Mon Dec 24 11:04:00 2007
+
+Elapsed time was:     00:00:31.00
+CPU time was:         00:00:00.11

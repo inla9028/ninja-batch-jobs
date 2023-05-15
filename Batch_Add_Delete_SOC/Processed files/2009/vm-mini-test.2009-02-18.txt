@@ -1,0 +1,6 @@
+GSM04740000707;VMFREE;ADD;;;;TOAV 13.02.2009;Lagt på PS ved oppryddingsjobb
+GSM04740000773;VMFREE;ADD;;;;TOAV 13.02.2009;Lagt på PS ved oppryddingsjobb
+GSM04740000782;VMFREE;ADD;;;;TOAV 13.02.2009;Lagt på PS ved oppryddingsjobb
+GSM04740000012;VMMINI;ADD;;;;TOAV 13.02.2009;PS Mini lagt på via batchjobb
+GSM04740000052;VMMINI;ADD;;;;TOAV 13.02.2009;PS Mini lagt på via batchjobb
+GSM04740000053;VMMINI;ADD;;;;TOAV 13.02.2009;PS Mini lagt på via batchjobb

@@ -1,0 +1,8 @@
+
+SQL*Loader: Release 9.2.0.1.0 - Production on Man Jan 23 11:06:36 2006
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+SQL*Loader-500: Unable to open file (load.txt)
+SQL*Loader-553: file not found
+SQL*Loader-509: System error: The system cannot find the file specified.

@@ -1,0 +1,10 @@
+1;105332118;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+2;108239112;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+3;108689118;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+4;110695012;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+5;114389117;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+6;117000018;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+7;121685119;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+8;122695018;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+9;129962114;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel
+10;130462211;B;V;;;;WAITING;;3;TJP 01.10.2015;Endre til vip ban ref KAM pga mye trøbbel

@@ -1,0 +1,162 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Mon Feb 22 14:53:04 2016
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   hgu_response.ctl
+Data File:      C:\Projects\svn\ninja-batch-jobs\Batch_Print_Category\PrintCategory.nlw0928.MDL_22.02.2016.txt
+  Bad File:     PrintCategory.nlw0928.MDL_22.02.2016.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_PRINT_CATEGORY, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+TRANS_NUMBER                        FIRST     *   ;  O(") CHARACTER            
+BAN                                  NEXT     *   ;  O(") CHARACTER            
+PRINT_CATEGORY                       NEXT     *   ;  O(") CHARACTER            
+EMAIL                                NEXT     *   ;  O(") CHARACTER            
+DEALER_CODE                          NEXT     *   ;  O(") CHARACTER            
+SALES_AGENT                          NEXT     *   ;  O(") CHARACTER            
+MEMO_TEXT                            NEXT     *   ;  O(") CHARACTER            
+ENTER_TIME                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") DATE YYYY-MM-DD HH24:MI
+PROCESS_TIME                         NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                       NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+STATUS_DESC                          NEXT     *   ;  O(") CHARACTER            
+
+Record 1: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 2: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 3: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 4: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 5: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 6: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 7: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 8: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 9: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 10: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 11: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 12: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 13: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 14: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 15: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 16: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 17: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 18: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 19: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 20: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 21: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 22: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 23: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 24: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 25: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 26: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 27: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 28: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 29: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 30: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 31: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 32: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 33: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+Record 34: Rejected - Error on table BATCH_PRINT_CATEGORY, column EMAIL.
+ORA-01400: cannot insert NULL into ("NINJADATA"."BATCH_PRINT_CATEGORY"."EMAIL")
+
+
+Table BATCH_PRINT_CATEGORY:
+  0 Rows successfully loaded.
+  34 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 214656 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:            34
+Total logical records rejected:        34
+Total logical records discarded:        0
+
+Run began on Mon Feb 22 14:53:04 2016
+Run ended on Mon Feb 22 14:53:15 2016
+
+Elapsed time was:     00:00:10.96
+CPU time was:         00:00:00.19

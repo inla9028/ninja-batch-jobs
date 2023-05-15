@@ -1,0 +1,10 @@
+GSM04740479090;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04741544004;MTEM01;DELETE;2017-03-03 10:56;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04745202325;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04745202395;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04745202495;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04745202779;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;etter forespørsel fra kunden<MinBedrift>
+GSM04745206101;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04745206165;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04745206467;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>
+GSM04745207167;MTEM01;DELETE;2017-03-03 10:55;;2017.03.03.02;Etter forespørsel fra kunden<MinBedrift>

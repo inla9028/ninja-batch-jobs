@@ -1,0 +1,52 @@
+
+SQL*Loader: Release 9.2.0.4.0 - Production on Wed Oct 22 10:19:54 2008
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Control File:   pptbk_subs.ctl
+Data File:      pstb.mctbfree.tpr.2008-10-22.txt
+  Bad File:     pstb.mctbfree.tpr.2008-10-22.bad
+  Discard File:  none specified
+
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MW_TMP_PPTBK_SUBS, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SUBSCRIBER_NO                       FIRST     *   ;  O(") CHARACTER
+NEW_PRICEPLAN                        NEXT     *   ;  O(") CHARACTER
+SUB_VPN_CODE                         NEXT     *   ;  O(") CHARACTER
+SUB_CUG_CODE                         NEXT     *   ;  O(") CHARACTER
+SUB_TB_SOC                           NEXT     *   ;  O(") CHARACTER
+
+
+Table MW_TMP_PPTBK_SUBS:
+  195 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  82560 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           195
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Oct 22 10:19:54 2008
+Run ended on Wed Oct 22 10:19:55 2008
+
+Elapsed time was:     00:00:00.39
+CPU time was:         00:00:00.01

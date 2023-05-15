@@ -1,0 +1,149 @@
+;04773991501;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;198.39;;;;;2008-03-04;;LED
+;04740092397;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;79.03;;;;;2008-03-04;;LED
+;04740237266;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;218.24;;;;;2008-03-04;;LED
+;04740469051;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;60.74;;;;;2008-03-04;;LED
+;04740469063;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;17.21;;;;;2008-03-04;;LED
+;04740469137;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;83.28;;;;;2008-03-04;;LED
+;04740469173;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;332.62;;;;;2008-03-04;;LED
+;04740469179;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;0.03;;;;;2008-03-04;;LED
+;04740615185;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;28.72;;;;;2008-03-04;;LED
+;04741290980;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;537.57;;;;;2008-03-04;;LED
+;04741420385;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;430.35;;;;;2008-03-04;;LED
+;04741505838;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;455.75;;;;;2008-03-04;;LED
+;04741632861;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;185.15;;;;;2008-03-04;;LED
+;04745480152;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;262.5;;;;;2008-03-04;;LED
+;04745480155;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;485.42;;;;;2008-03-04;;LED
+;04745480479;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;41.63;;;;;2008-03-04;;LED
+;04745488896;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;186.05;;;;;2008-03-04;;LED
+;04745862445;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;25.89;;;;;2008-03-04;;LED
+;04746420017;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;27.44;;;;;2008-03-04;;LED
+;04746431448;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;40.49;;;;;2008-03-04;;LED
+;04748121799;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;199.76;;;;;2008-03-04;;LED
+;04748185799;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;149.58;;;;;2008-03-04;;LED
+;04748246383;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;461.88;;;;;2008-03-04;;LED
+;04790031276;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;466.71;;;;;2008-03-04;;LED
+;04790054006;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;113.27;;;;;2008-03-04;;LED
+;04790137372;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;592.24;;;;;2008-03-04;;LED
+;04790186403;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;857;;;;;2008-03-04;;LED
+;04790544099;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;475.8;;;;;2008-03-04;;LED
+;04790552679;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;141.51;;;;;2008-03-04;;LED
+;04790571647;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;278.31;;;;;2008-03-04;;LED
+;04790648752;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;606.13;;;;;2008-03-04;;LED
+;04790760326;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;328.58;;;;;2008-03-04;;LED
+;04790843900;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;894.3;;;;;2008-03-04;;LED
+;04790866678;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;1000.61;;;;;2008-03-04;;LED
+;04790918038;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;534.84;;;;;2008-03-04;;LED
+;04791515044;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;661.72;;;;;2008-03-04;;LED
+;04791566386;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;1628.8;;;;;2008-03-04;;LED
+;04791642975;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;171.92;;;;;2008-03-04;;LED
+;04791646276;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;574.4;;;;;2008-03-04;;LED
+;04791689619;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;594.63;;;;;2008-03-04;;LED
+;04791711086;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;249.79;;;;;2008-03-04;;LED
+;04792017334;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;562.15;;;;;2008-03-04;;LED
+;04792032703;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;231.81;;;;;2008-03-04;;LED
+;04792257201;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;231.69;;;;;2008-03-04;;LED
+;04792257437;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;184.96;;;;;2008-03-04;;LED
+;04792257814;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;796.93;;;;;2008-03-04;;LED
+;04792257943;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;159.12;;;;;2008-03-04;;LED
+;04792600417;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;322.69;;;;;2008-03-04;;LED
+;04792647865;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;297.41;;;;;2008-03-04;;LED
+;04792657074;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;52.5;;;;;2008-03-04;;LED
+;04793070833;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;27.03;;;;;2008-03-04;;LED
+;04793208412;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;838.03;;;;;2008-03-04;;LED
+;04793258722;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;668.12;;;;;2008-03-04;;LED
+;04793258723;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;405.49;;;;;2008-03-04;;LED
+;04795036448;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;605.93;;;;;2008-03-04;;LED
+;04795036518;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;577.64;;;;;2008-03-04;;LED
+;04795135365;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;322.58;;;;;2008-03-04;;LED
+;04795724424;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;656.58;;;;;2008-03-04;;LED
+;04795870029;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;134.18;;;;;2008-03-04;;LED
+;04797016544;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;475.05;;;;;2008-03-04;;LED
+;04797016546;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;433.14;;;;;2008-03-04;;LED
+;04797016547;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;238.19;;;;;2008-03-04;;LED
+;04797114424;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;367.15;;;;;2008-03-04;;LED
+;04797149400;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;382.82;;;;;2008-03-04;;LED
+;04797166915;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;992.57;;;;;2008-03-04;;LED
+;04797562203;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;291.41;;;;;2008-03-04;;LED
+;04797689190;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;160.63;;;;;2008-03-04;;LED
+;04797715801;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;251.52;;;;;2008-03-04;;LED
+;04797759900;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;50.53;;;;;2008-03-04;;LED
+;04798407887;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;846.28;;;;;2008-03-04;;LED
+;04798636749;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;215.29;;;;;2008-03-04;;LED
+;04799010177;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;370.56;;;;;2008-03-04;;LED
+;04799103706;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;376.63;;;;;2008-03-04;;LED
+;04799106320;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;94.39;;;;;2008-03-04;;LED
+;04799164449;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;302.11;;;;;2008-03-04;;LED
+;04799708014;KORFAK;LED, Manglende rabatt, hatt 18%, skulle hatt 22%. Godkjent i ISA.;Manglende rabatt;323.39;;;;;2008-03-04;;LED
+;04740241311;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04740401932;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04740469452;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04740469629;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04740600748;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04741208967;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04741284631;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04741305411;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04741514870;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04745245603;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04745297186;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04746415614;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04746415737;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04746620720;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04748055905;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790068075;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790068852;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790600251;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790676332;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790695512;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790721222;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790724570;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790756372;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790869076;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790891728;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04790964320;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791107209;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791144344;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791164880;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791167107;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791324709;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791331511;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791539335;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791574440;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791582439;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791598422;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791663960;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791713628;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791713629;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791713769;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791717180;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791729296;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791737258;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04791752065;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792030978;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792211292;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792222170;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792234695;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792234954;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792272163;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792281102;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792442442;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792615842;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792827760;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04792888667;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04793059440;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04793094243;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04793098109;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04793098671;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04793204003;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04793499788;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04794261333;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04795168135;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04795757998;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04795790948;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04795934856;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04797118995;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04797188638;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04797784699;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04797789772;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04799017786;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04799169957;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK
+;04799569433;KORFAK;CSK, Ihht avtale, ref Erland Pettersen og POC;Etter avtale;300;;;;;2008-03-04;;CSK

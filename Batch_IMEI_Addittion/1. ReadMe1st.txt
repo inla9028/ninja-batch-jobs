@@ -1,0 +1,10 @@
+Job Name: BatchImeiAddition
+Exec method: batchImeiAddition
+Server: NINJAP2Z_DEMON 
+
+This is a batch-job to add IMEI to the specified subscriber. 
+- If subscriber already has an IMEI registered then old IMEI will be replaced with the new one. 
+- If IMEI already exists in Fokus (effective in physical_device) then error will be returned with subscriber number, on which it is registered. 
+  There can be more than one such subscribers in Fokus, so first found is returned in the message.
+
+The records are loaded into batch_imei_addition table on ninjadata schema.

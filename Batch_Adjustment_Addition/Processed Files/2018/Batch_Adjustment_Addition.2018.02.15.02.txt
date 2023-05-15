@@ -1,0 +1,6 @@
+344969019;;KORFAK;ref Compensation case 01478125;TBN Hovednummer kreditering;131,73;;;;;2018.02.15.02;1;ANWI8335;
+716698113;;KORFAK;ref Compensation case 01478125;TBN Hovednummer kreditering;127,74;;;;;2018.02.15.02;1;ANWI8335;
+425930310;;KORFAK;ref Compensation case 01478125;TBN Hovednummer kreditering;383,22;;;;;2018.02.15.02;1;ANWI8335;
+850061110;;KORFAK;ref Compensation case 01478125;TBN Hovednummer kreditering;936,66;;;;;2018.02.15.02;1;ANWI8335;
+541083119;;KORFAK;ref Compensation case 01478125;TBN Hovednummer kreditering;131,73;;;;;2018.02.15.02;1;ANWI8335;
+612657213;;KORFAK;ref Compensation case 01478125;TBN Hovednummer kreditering;263,46;;;;;2018.02.15.02;1;ANWI8335;

@@ -1,0 +1,59 @@
+
+SQL*Loader: Release 12.2.0.1.0 - Production on Wed Jan 5 16:30:14 2022
+
+Copyright (c) 1982, 2017, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   runloader.ctl
+Character Set UTF8 specified for all input.
+
+Data File:      C:\Projects\svn\ninja-batch-jobs\trunk\Batch_Test_BAN_Creation\BANCreation_25R.txt
+  Bad File:     ST_runloader.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_TEST_BAN_CREATION, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ACCOUNT_TYPE                        FIRST     *   ;  O(") CHARACTER            
+ACCOUNT_SUB_TYPE                     NEXT     *   ;  O(") CHARACTER            
+FIRST_NAME                           NEXT     *   ;  O(") CHARACTER            
+LAST_NAME                            NEXT     *   ;  O(") CHARACTER            
+POSTAL_ADDRESS                       NEXT     *   ;  O(") CHARACTER            
+CITY                                 NEXT     *   ;  O(") CHARACTER            
+ZIP_CODE                             NEXT     *   ;  O(") CHARACTER            
+OPEN                                 NEXT     *   ;  O(") CHARACTER            
+REQUEST_TIME                         NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+
+
+Table BATCH_TEST_BAN_CREATION:
+  25 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 165120 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:            25
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Jan 05 16:30:14 2022
+Run ended on Wed Jan 05 16:30:17 2022
+
+Elapsed time was:     00:00:03.11
+CPU time was:         00:00:00.14

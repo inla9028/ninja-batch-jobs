@@ -1,0 +1,440 @@
+;04791849895;SALGUT;Utkjøp av binding, godkjent av Kåre Hauklien;;3125;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792051627;SALGUT;Utkjøp av binding, godkjent av Kåre Hauklien;;3125;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799278454;SALGUT;Utkjøp av binding, godkjent av Kåre Hauklien;;3125;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791197059;SALGUT;Utkjøp av binding, godkjent av Kåre Hauklien;;3125;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791100747;SALGUT;Utkjøp av binding, godkjent av Kåre Hauklien;;3125;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746403471;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795779525;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746407116;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741769906;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746441459;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791511061;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794008064;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792270770;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791537857;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740557110;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795017745;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745503841;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746433126;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747279011;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790280628;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791597040;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793002930;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790151631;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794854642;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795881436;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747298473;SALGUT;Utkjøp av binding, godkjent av Per Eliassen;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797504442;SALGUT;Utkjøp av binding, godkjent av Per Kolbjørn Almaas;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741477501;SALGUT;Utkjøp av binding, godkjent av Per Kolbjørn Almaas;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797114442;SALGUT;Utkjøp av binding, godkjent av Per Kolbjørn Almaas;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797144447;SALGUT;Utkjøp av binding, godkjent av Per Kolbjørn Almaas;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740761373;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799797638;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790936939;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799274965;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795028375;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797746527;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792643057;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748072704;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795949792;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790640672;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790258915;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799095504;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799166041;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790955773;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797787774;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748406820;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791326855;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792422677;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793455158;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792099233;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795729460;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793068640;SALGUT;Utkjøp av binding, godkjent av Ricardo Røsnes;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746845245;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790644795;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791910350;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745900144;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790660788;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790754000;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740016768;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740699116;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745900132;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741603732;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745267194;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747769551;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747769562;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798115665;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791317225;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792072360;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797516331;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790517706;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741460794;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741512572;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745256986;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748891737;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790037790;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790182491;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790240082;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790517951;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790570807;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791585408;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792201350;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793823935;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793874341;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795229605;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795331123;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795331128;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795331290;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795360798;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795361307;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795361634;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795365290;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795369482;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797003439;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797180761;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798059776;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799165922;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799167218;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799169073;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799169825;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741405225;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790232999;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790999695;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797094332;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799119093;SALGUT;Utkjøp av binding, godkjent av Roger Mortensen;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746461722;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790812595;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791249666;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791249744;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793815467;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791723141;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793012187;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798255082;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747338356;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792617113;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741314739;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790297426;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741450768;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791863293;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795147999;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792063671;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790203833;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797718931;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740466065;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745517562;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791161949;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791583866;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798129800;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790635008;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797507131;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797709810;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790511481;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790653373;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791694554;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747239223;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741218340;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790193686;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791520342;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793652266;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745953010;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793049395;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747934582;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795423100;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795869884;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740523233;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793007440;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791866375;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741372200;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741372202;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741372207;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741372208;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794158971;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746942334;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790142163;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793063531;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740767639;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740828889;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745151515;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745151982;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799594252;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745276586;SALGUT;Utkjøp av binding, godkjent av TM;;2150;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794157783;SALGUT;Utkjøp av binding, godkjent av TM;;2425;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790701314;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793434225;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790106010;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790947536;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797783312;SALGUT;Utkjøp av binding, godkjent av TM;;2918;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741224248;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790786435;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791355221;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791617049;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799451655;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790368856;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794781218;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790368856;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790257733;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747023013;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793083964;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741126465;SALGUT;Utkjøp av binding, godkjent av TM;;2013;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741294538;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791301114;SALGUT;Utkjøp av binding, godkjent av TM;;2013;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791608486;SALGUT;Utkjøp av binding, godkjent av TM;;3000;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748213962;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797533396;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799727374;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746913134;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795042883;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792029037;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792056578;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741681392;SALGUT;Utkjøp av binding, godkjent av TM;;1875;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748600668;SALGUT;Utkjøp av binding, godkjent av TM;;2313;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794979168;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747319440;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741408704;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741234229;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748225048;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04796865952;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793051018;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793633939;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793051232;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748311712;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797041494;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790143223;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791918483;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793988883;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790118129;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798110347;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748602249;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792680348;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748232014;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791746333;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792488276;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792049701;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797711032;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793054468;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797150405;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790873147;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799236215;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741216583;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741216584;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793202477;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790701314;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740637128;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745491229;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792257853;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792281331;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740084192;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745479192;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795103448;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799115015;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790722545;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791576163;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791597647;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746910143;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746632486;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746839441;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791715598;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794013571;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746431434;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799379645;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799899424;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746390849;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747230625;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747276074;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790012315;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799080003;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741508281;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741404000;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795042619;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799382991;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746904512;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747925610;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747926877;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797642495;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795080356;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747673557;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748606944;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797930469;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791782367;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748400178;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748400274;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748400289;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748400288;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795046716;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793405818;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795815256;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799236437;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793019441;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791842370;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795141920;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797709278;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799103194;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792823478;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797736969;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797578421;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741255349;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741326936;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746828603;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790091894;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797580184;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741210828;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799420890;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791758544;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740830243;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04796749282;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795276992;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741290014;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745900325;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748128167;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790181897;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741201050;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792094106;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795872819;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797957974;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791613243;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797714733;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792285912;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793024257;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740053379;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792544212;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741506597;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795040617;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791769127;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799485586;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792213969;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792016290;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790122332;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791125738;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791570541;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795932083;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790864203;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791640046;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747286651;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748004422;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792607678;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741438242;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741554620;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793215704;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792084824;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741342674;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793457235;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747686060;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791611048;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795153856;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795239767;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795335548;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790700172;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799411980;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791607749;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748296937;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795777304;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745115002;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748311417;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790560668;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792807654;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792827943;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792869218;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793216891;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797615147;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798881227;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747458601;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792087575;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790831830;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790141121;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799348881;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798434749;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791399829;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745209900;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793433160;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793878555;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795004113;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747282093;SALGUT;Utkjøp av binding, godkjent av TM;;3000;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792496879;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792294241;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790153805;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797083292;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747035888;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790702980;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790066617;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790911815;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798027032;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745917771;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746259984;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04796666629;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745275181;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791715598;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794013571;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04796621200;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791647753;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791770628;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795066764;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795158575;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745485659;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740552545;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740614462;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792492861;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798765370;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790600715;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790944502;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791104945;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746948979;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748031499;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790065403;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792018357;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797547433;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798001628;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791584832;SALGUT;Utkjøp av binding, godkjent av TM;;1719;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741573152;SALGUT;Utkjøp av binding, godkjent av TM;;3125;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791648866;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797888830;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790418944;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797160465;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791887435;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04799503245;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795781845;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790059741;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795281800;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792611115;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792857674;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798603991;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793099167;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791191991;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795930950;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790600522;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04746250234;SALGUT;Utkjøp av binding, godkjent av TM;;1500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745392749;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791688492;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04797653801;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741287040;SALGUT;Utkjøp av binding, godkjent av TM;;1475;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04792638156;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793221996;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04740461494;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741556980;SALGUT;Utkjøp av binding, godkjent av TM;;2500;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741310790;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741388900;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04791389493;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745607072;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04793982600;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747892801;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790885142;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741382875;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741389764;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798281500;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04790863561;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04741288471;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745394545;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745394546;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748323980;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04794169633;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798288951;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798288952;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798288953;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798288954;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798288955;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04798288956;SALGUT;Utkjøp av binding, godkjent av TM;;2085;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04795071490;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04748025526;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747375023;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747375024;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04747375025;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776
+;04745513867;SALGUT;Utkjøp av binding, godkjent av TM;;3750;;;;;TRKA0776 07.01.2015;1;TRKA0776

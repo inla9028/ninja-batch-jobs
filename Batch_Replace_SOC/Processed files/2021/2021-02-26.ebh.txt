@@ -1,0 +1,15 @@
+GSM04798428809;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04748274422;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04748891984;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04791806260;TWINCON02;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04791882856;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04797648873;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04799549865;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04748890031;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04748891799;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04796833920;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04791857507;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04791868353;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04795142611;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04793450602;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774
+GSM04791576030;TWINCON;TWINCONF;;;ebh 2021-02-26;Endrer til korrekt soc iht avtale, ref 02539774

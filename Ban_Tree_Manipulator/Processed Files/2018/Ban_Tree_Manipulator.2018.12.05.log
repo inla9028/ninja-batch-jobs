@@ -1,0 +1,54 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on On Dec 5 15:20:33 2018
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   load.ctl
+Data File:      Ban_Tree_Manipulator.2018.12.05.txt
+  Bad File:     bad.txt
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 0
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table BATCH_TREE_ACTIVITIES, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+NODE_BAN                            FIRST     *   ;  O(") CHARACTER            
+ACTION_CODE                          NEXT     *   ;  O(") CHARACTER            
+PARENT_BAN                           NEXT     *   ;  O(") CHARACTER            
+REQUEST_ID                           NEXT     *   ;  O(") CHARACTER            
+PROCESS_STATUS                                            CONSTANT
+    Value is 'IN_PROGRESS'
+RECORD_CREATION_DATE                                      SYSDATE
+
+
+Table BATCH_TREE_ACTIVITIES:
+  2663 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                  66816 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          2663
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on On Dec 05 15:20:33 2018
+Run ended on On Dec 05 15:20:42 2018
+
+Elapsed time was:     00:00:09.74
+CPU time was:         00:00:00.16

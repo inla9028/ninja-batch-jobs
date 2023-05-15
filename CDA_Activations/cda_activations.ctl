@@ -1,0 +1,39 @@
+load data
+into table cda_batch_activations
+append
+fields terminated by ";" optionally enclosed by '"'
+trailing nullcols
+(
+BAN,
+SUBSCRIBER_NO,
+PRICE_PLAN,
+TB_CUG_CODE,
+VPN_CODE,
+CUG_CODE,
+ADT_SOC_1,
+ADT_SOC_2,
+ADT_SOC_3,
+ADT_SOC_4,
+DEALER_CODE,
+SALES_AGENT,
+PUBLISH_LEVEL,
+USER_FIRST,
+SURNAME,
+BILL_INFO,
+ROLE_IND,
+BIRTH_DATE,
+ADR_TYPE,
+CITY,
+ZIP_CODE,
+COUNTRY,
+STREET_NAME,
+HOUSE_NO,
+HOUSE_LETTER,
+FLOOR,
+DOOR_NO,
+P_O_BOX,
+AREA_POB_NAME,
+EMAIL,
+CO_NAME,
+REQUESTOR_ID
+)
